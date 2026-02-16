@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Feb 2026 04:23:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 05:49:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Nepal's Political Crossroads: An Election Guide]]></title>
 <link>https://www.barrons.com/news/nepal-s-political-crossroads-an-election-guide-70ae89d2?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Asian Markets Sluggish As Lunar New Year Holiday Looms]]></title>
+<link>https://www.barrons.com/news/asian-markets-sluggish-as-lunar-new-year-holiday-looms-1c376e33?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Feb 2026 05:49:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Job Threats, Rogue Bots: Five Hot Issues In AI]]></title>
+<link>https://www.barrons.com/news/job-threats-rogue-bots-five-hot-issues-in-ai-88370724?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Feb 2026 05:34:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India Hosts AI Summit As Safety Concerns Grow]]></title>
 <link>https://www.barrons.com/news/india-hosts-ai-summit-as-safety-concerns-grow-7caa29ea?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Feb 2026 04:23:24 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India Plans AI 'Data City' On Staggering Scale]]></title>
-<link>https://www.barrons.com/news/india-plans-ai-data-city-on-staggering-scale-cc18d323?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Feb 2026 06:46:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Crash Course: Vietnam's Crypto Boom Goes Bust]]></title>
-<link>https://www.barrons.com/news/crash-course-vietnam-s-crypto-boom-goes-bust-b3d78cb4?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Feb 2026 04:24:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA['Pure Extortion': Foreign Workers Face Violence And Exploitation In Croatia]]></title>
 <link>https://www.barrons.com/news/pure-extortion-foreign-workers-face-violence-and-exploitation-in-croatia-49544d9d?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Feb 2026 03:53:24 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bitter Pill: Taliban Govt Shakes Up Afghan Medicine Market]]></title>
+<link>https://www.barrons.com/news/bitter-pill-taliban-govt-shakes-up-afghan-medicine-market-40871ff8?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Feb 2026 05:49:41 -0000</pubDate>
+<description><![CDATA[Afghanistan's decision to overhaul its medicine market was meant to improve quality and boost domestic production, but industry specialists say the swift changes have led to a litany of problems.]]></description>
+</item>
+<item>
+<title><![CDATA[Thailand Economic Growth Slows Year-on-year: Govt Data]]></title>
+<link>https://www.barrons.com/news/thailand-economic-growth-slows-year-on-year-govt-data-a1adf1a1?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Feb 2026 05:34:41 -0000</pubDate>
+<description><![CDATA[Thailand's economic growth slowed last year, official figures showed Monday, with the incoming government facing a struggling tourism sector and declining private and public consumption.]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal 'Addicted' To The Trade In Its Own People]]></title>
 <link>https://www.barrons.com/news/nepal-addicted-to-the-trade-in-its-own-people-53c289ec?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Feb 2026 04:23:25 -0000</pubDate>
 <description><![CDATA[Rudra Bahadur Kami returned to Nepal through a back door of Kathmandu airport in a battered coffin after working for more than a decade in Saudi Arabia to feed his family back home.]]></description>
-</item>
-<item>
-<title><![CDATA[Asian Markets Sluggish As Lunar New Year Holiday Looms]]></title>
-<link>https://www.barrons.com/news/asian-markets-sluggish-as-lunar-new-year-holiday-looms-1c376e33?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Feb 2026 04:08:25 -0000</pubDate>
-<description><![CDATA[Asian markets were subdued on Monday, as the extended Lunar New Year holiday approached and Japan reported lacklustre economic growth.]]></description>
-</item>
-<item>
-<title><![CDATA[Job Threats, Rogue Bots: Five Hot Issues In AI]]></title>
-<link>https://www.barrons.com/news/job-threats-rogue-bots-five-hot-issues-in-ai-88370724?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Feb 2026 01:53:05 -0000</pubDate>
-<description><![CDATA[As artificial intelligence evolves at a blistering pace, world leaders and thousands of other delegates will discuss how to handle the technology at the AI Impact Summit, which opens Monday in New Delhi.]]></description>
 </item>
 </channel></rss>
