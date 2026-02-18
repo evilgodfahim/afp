@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Feb 2026 08:40:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 09:43:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Isabelle Huppert Sinks Teeth Into Austrian Vampire Saga]]></title>
 <link>https://www.barrons.com/news/isabelle-huppert-sinks-teeth-into-austrian-vampire-saga-95c517c0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Uncut Gems: Indian Startups Embrace AI Despite Job Fears]]></title>
+<link>https://www.barrons.com/news/uncut-gems-indian-startups-embrace-ai-despite-job-fears-cf0b3d95?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Feb 2026 09:43:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Junk To High-tech: India Bets On E-waste For Critical Minerals]]></title>
 <link>https://www.barrons.com/news/junk-to-high-tech-india-bets-on-e-waste-for-critical-minerals-3aed40f2?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Feb 2026 08:40:30 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zuckerberg To Testify In Landmark Social Media Addiction Trial]]></title>
-<link>https://www.barrons.com/news/zuckerberg-to-testify-in-landmark-social-media-addiction-trial-8fe7a6d8?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Feb 2026 03:20:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Comedian Colbert Says Broadcaster Spiked Democrat Interview Over Trump Fears]]></title>
 <link>https://www.barrons.com/news/us-comedian-colbert-says-broadcaster-spiked-democrat-interview-over-trump-fears-08e6905b?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Feb 2026 08:25:30 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Tech Giant Nvidia Announces India Deals At AI Summit]]></title>
+<link>https://www.barrons.com/news/us-tech-giant-nvidia-announces-india-deals-at-ai-summit-e2dc634b?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Feb 2026 09:43:04 -0000</pubDate>
+<description><![CDATA[US artificial intelligence chip titan Nvidia unveiled tie-ups with Indian computing firms on Wednesday as tech companies rushed to announce deals and investments at a global AI conference in New Delhi.]]></description>
+</item>
+<item>
 <title><![CDATA[Chinese Visitors To Japan Slump As Spat Rumbles On]]></title>
 <link>https://www.barrons.com/news/chinese-visitors-to-japan-slump-as-spat-rumbles-on-5ad0f682?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Feb 2026 08:40:31 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/french-designer-threads-a-path-in-london-fashion-week-5414ccec?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Feb 2026 06:57:55 -0000</pubDate>
 <description><![CDATA[Just days before her third runway show, French designer Pauline Dujancourt was riding a wave of excitement and nerves.]]></description>
-</item>
-<item>
-<title><![CDATA[Uncut Gems: Indian Startups Embrace AI Despite Job Fears]]></title>
-<link>https://www.barrons.com/news/uncut-gems-indian-startups-embrace-ai-despite-job-fears-cf0b3d95?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Feb 2026 05:43:23 -0000</pubDate>
-<description><![CDATA[Glinting under the exhibition centre lights, the gold brooch studded with gemstones on the startup founder's lapel was handmade by Indian artisans -- but artificial intelligence dreamt up its elaborate design.]]></description>
 </item>
 </channel></rss>
