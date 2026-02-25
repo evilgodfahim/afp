@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Feb 2026 08:44:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 09:51:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Inside The Mexican Resort That Was The Final Hideout Of 'El Mencho']]></title>
 <link>https://www.barrons.com/news/inside-the-mexican-resort-that-was-the-final-hideout-of-el-mencho-b14b8f98?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka Arrests Ex-spy Chief Over 2019 Easter Bombings]]></title>
+<link>https://www.barrons.com/news/sri-lanka-arrests-ex-spy-chief-over-2019-easter-bombings-8c25ae10?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Feb 2026 06:28:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tech Firms Lead Asian Markets Rally As Seoul, Tokyo Hit Records]]></title>
 <link>https://www.barrons.com/news/tech-firms-lead-asian-markets-rally-as-seoul-tokyo-hit-records-3fade7d9?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Feb 2026 08:44:52 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Germany's Merz Arrives In China For Talks On Trade, Security]]></title>
-<link>https://www.barrons.com/news/germany-s-merz-heads-to-china-for-talks-centred-on-trade-0fcebdbe?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Feb 2026 04:03:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[England's Brook Gains Redemption After 'Hardest Winter Of My Life']]></title>
 <link>https://www.barrons.com/news/england-s-brook-gains-redemption-after-hardest-winter-of-my-life-3c1daa75?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Feb 2026 08:14:52 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rubio Meets Caribbean Leaders As US Raises Pressure On Cuba]]></title>
+<link>https://www.barrons.com/news/rubio-meets-caribbean-leaders-as-us-raises-pressure-on-cuba-32ceb446?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Feb 2026 09:51:23 -0000</pubDate>
+<description><![CDATA[US Secretary of State Marco Rubio will seek to address Caribbean leaders' concerns about Cuba at a summit on Wednesday, as Washington ramps up pressure on the communist island fresh after removing Venezuela's president.]]></description>
+</item>
+<item>
 <title><![CDATA[Newsom Publishes Memoir As He Weighs 2028 US Presidential Run]]></title>
 <link>https://www.barrons.com/news/newsom-publishes-memoir-as-he-weighs-2028-us-presidential-run-20d0fc0f?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Feb 2026 08:44:53 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/somaliland-pins-hopes-on-critical-mineral-gold-rush-f3adeeee?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Feb 2026 06:58:24 -0000</pubDate>
 <description><![CDATA[Armed with nothing but a crowbar and shovel in the hills of Somaliland, Ahmed Ibrahim hacks away at rocks where he and fellow miners have already found tonnes of lithium.]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka Arrests Ex-spy Chief Over 2019 Easter Bombings]]></title>
-<link>https://www.barrons.com/news/sri-lanka-arrests-ex-spy-chief-over-2019-easter-bombings-8c25ae10?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Feb 2026 08:29:53 -0000</pubDate>
-<description><![CDATA[Sri Lanka's criminal investigators arrested the country's former intelligence chief on Wednesday in connection with the 2019 Easter Sunday bombings that killed 279 people, including 45 foreigners.]]></description>
 </item>
 </channel></rss>
