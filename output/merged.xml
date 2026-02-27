@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 19:30:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 20:23:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,36 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Messi Knocked Down By Fan In Puerto Rico Pitch Invasion]]></title>
+<link>https://www.barrons.com/news/messi-knocked-down-by-fan-in-puerto-rico-pitch-invasion-1ba46630?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 20:23:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Two Killed, Dozens Injured As Tram Derails In Milan]]></title>
+<link>https://www.barrons.com/news/two-killed-dozens-injured-as-tram-derails-in-milan-3789b4d6?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 20:08:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[TikTok Disinformation: The Other Weapon In Mexico Violence]]></title>
+<link>https://www.barrons.com/news/tiktok-disinformation-the-other-weapon-in-mexico-violence-c1de697a?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 19:53:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Carmaker BMW To Trial Humanoid Robots At German Factory]]></title>
+<link>https://www.barrons.com/news/carmaker-bmw-to-trial-humanoid-robots-at-german-factory-458496fb?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 19:38:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[NASA Announces Overhaul Of Artemis Lunar Program Amid Technical Delays]]></title>
+<link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-b1ef03b0?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 19:23:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Red Cross Urges Afghanistan-Pakistan 'De-escalation']]></title>
 <link>https://www.barrons.com/news/red-cross-urges-afghanistan-pakistan-de-escalation-2ceb368f?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 18:37:23 -0000</pubDate>
@@ -83,36 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI Raises $110 Bn In Record Funding Round]]></title>
-<link>https://www.barrons.com/news/openai-raises-110-bn-in-record-funding-round-88c0ebd3?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:06:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA['Sacrificed Futures': German Chemical Workers Protest Looming Job Cuts]]></title>
-<link>https://www.barrons.com/news/sacrificed-futures-german-chemical-workers-protest-looming-job-cuts-560df7d8?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 15:34:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France Warns Of 'Provocation' If Russian Drone Buzzed Aircraft Carrier]]></title>
-<link>https://www.barrons.com/news/france-warns-of-provocation-if-russian-drone-buzzed-aircraft-carrier-f69be697?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 15:19:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At Milan Fashion Week, Industry's Darker Side Goes Unmentioned]]></title>
-<link>https://www.barrons.com/news/at-milan-fashion-week-industry-s-darker-side-goes-unmentioned-bab16701?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 15:04:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Scientists Discover Giant Bird-like Dinosaur In Niger Desert]]></title>
-<link>https://www.barrons.com/news/scientists-discover-giant-bird-like-dinosaur-in-niger-desert-14547feb?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 14:49:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[TikTok Disinformation: The Other Weapon In Mexico Violence]]></title>
-<link>https://www.barrons.com/news/tiktok-disinformation-the-other-weapon-in-mexico-violence-c1de697a?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 18:37:24 -0000</pubDate>
-<description><![CDATA[While gunmen for the powerful Mexican narcotrafficker Nemesio "El Mencho" Oseguera were burning vehicles and blockading roads across Mexico in response to the killing of their leader, others stoked chaos through different weapon: disinformation.]]></description>
-</item>
-<item>
-<title><![CDATA[Carmaker BMW To Trial Humanoid Robots At German Factory]]></title>
-<link>https://www.barrons.com/news/carmaker-bmw-to-trial-humanoid-robots-at-german-factory-458496fb?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:36:49 -0000</pubDate>
-<description><![CDATA[German carmaker BMW said Friday it plans to deploy two AI-powered humanoid robots in a factory in a pilot programme for the first time this year.]]></description>
+<title><![CDATA[Hackers Steal Medical Details Of 15 Million In France]]></title>
+<link>https://www.barrons.com/news/hackers-steal-medical-details-of-15-million-in-france-50792549?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 20:23:52 -0000</pubDate>
+<description><![CDATA[France's health ministry said Friday that administrative details and medical notes on more than 15 million people had been hacked.]]></description>
 </item>
 <item>
 <title><![CDATA[NASA Announces Overhaul Of Artemis Lunar Program Amid Technical Delays]]></title>
-<link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-b1ef03b0?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:21:49 -0000</pubDate>
-<description><![CDATA[NASA on Friday said it would revise its Artemis lunar program that has suffered multiple delays in recent years, in a bid to ensure Americans can return to the Moon's surface by 2028.]]></description>
+<link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-8775a9ea?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 20:08:52 -0000</pubDate>
+<description><![CDATA[NASA on Friday abruptly said it was shaking up its Artemis lunar program that has suffered multiple delays in recent years, a bid to ensure Americans can return to the Moon's surface by 2028.]]></description>
+</item>
+<item>
+<title><![CDATA[Susan Sarandon Praises Spain’s Stance On Gaza]]></title>
+<link>https://www.barrons.com/news/susan-sarandon-praises-spains-stance-on-gaza-1622df70?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 19:53:52 -0000</pubDate>
+<description><![CDATA[Veteran Hollywood star Susan Sarandon on Friday praised the Spanish government's support for Gaza, saying it was "on the right side of history".]]></description>
 </item>
 </channel></rss>
