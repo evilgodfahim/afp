@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 17:32:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 18:37:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Red Cross Urges Afghanistan-Pakistan 'De-escalation']]></title>
+<link>https://www.barrons.com/news/red-cross-urges-afghanistan-pakistan-de-escalation-2ceb368f?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 18:37:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Macron To Set Out How France's Nuclear Arms Could Protect Europe]]></title>
+<link>https://www.barrons.com/news/macron-to-set-out-how-france-s-nuclear-arms-could-protect-europe-6b03546f?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 18:22:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[New Pokemon Titles On Horizon As 30th Anniversary Approaches]]></title>
 <link>https://www.barrons.com/news/new-pokemon-titles-on-horizon-as-30th-anniversary-approaches-5436e674?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 16:36:48 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Kurdish Iranian Groups In Iraq Eye Opportunity For Change At Home]]></title>
-<link>https://www.barrons.com/news/kurdish-iranian-groups-in-iraq-eye-opportunity-for-change-at-home-52d8442c?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 14:34:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Isolated Kremlin Critics Lament Lost Future At Nemtsov Memorial]]></title>
-<link>https://www.barrons.com/news/isolated-kremlin-critics-lament-lost-future-at-nemtsov-memorial-ed65ff59?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 14:19:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[TikTok Disinformation: The Other Weapon In Mexico Violence]]></title>
+<link>https://www.barrons.com/news/tiktok-disinformation-the-other-weapon-in-mexico-violence-c1de697a?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 18:37:24 -0000</pubDate>
+<description><![CDATA[While gunmen for the powerful Mexican narcotrafficker Nemesio "El Mencho" Oseguera were burning vehicles and blockading roads across Mexico in response to the killing of their leader, others stoked chaos through different weapon: disinformation.]]></description>
+</item>
+<item>
 <title><![CDATA[Carmaker BMW To Trial Humanoid Robots At German Factory]]></title>
 <link>https://www.barrons.com/news/carmaker-bmw-to-trial-humanoid-robots-at-german-factory-458496fb?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 16:36:49 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-b1ef03b0?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 16:21:49 -0000</pubDate>
 <description><![CDATA[NASA on Friday said it would revise its Artemis lunar program that has suffered multiple delays in recent years, in a bid to ensure Americans can return to the Moon's surface by 2028.]]></description>
-</item>
-<item>
-<title><![CDATA[Macron To Set Out How France's Nuclear Arms Could Protect Europe]]></title>
-<link>https://www.barrons.com/news/macron-to-set-out-how-france-s-nuclear-arms-could-protect-europe-6b03546f?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:06:49 -0000</pubDate>
-<description><![CDATA[French President Emmanual Macron is Monday to reveal his vision for how France's nuclear arsenal could bolster defence in Europe, with the continent scrambling to re-arm against an aggressive Russia and as Washington turns away.]]></description>
 </item>
 </channel></rss>
