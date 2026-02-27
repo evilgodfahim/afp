@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Feb 2026 22:19:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 22:49:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,15 +59,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[NASA Announces Overhaul Of Artemis Lunar Program Amid Technical Delays]]></title>
+<link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-8775a9ea?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 22:49:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Susan Sarandon Praises Spain’s Stance On Gaza]]></title>
+<link>https://www.barrons.com/news/susan-sarandon-praises-spains-stance-on-gaza-1622df70?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 22:34:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Messi Knocked Down By Fan In Puerto Rico Pitch Invasion]]></title>
 <link>https://www.barrons.com/news/messi-knocked-down-by-fan-in-puerto-rico-pitch-invasion-1ba46630?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 20:23:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Two Killed, Dozens Injured As Tram Derails In Milan]]></title>
+<title><![CDATA[Two Dead, Dozens Injured As Tram Derails In Milan]]></title>
 <link>https://www.barrons.com/news/two-killed-dozens-injured-as-tram-derails-in-milan-3789b4d6?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 20:08:51 -0000</pubDate>
+<pubDate>Fri, 27 Feb 2026 22:19:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Pokemon Titles On Horizon As 30th Anniversary Approaches]]></title>
-<link>https://www.barrons.com/news/new-pokemon-titles-on-horizon-as-30th-anniversary-approaches-5436e674?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:36:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[55 Ghanaians Killed After Being Lured Into Ukraine War: Govt]]></title>
-<link>https://www.barrons.com/news/55-ghanaians-killed-after-being-lured-into-ukraine-war-govt-279e188f?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 16:21:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Tells US Govt To 'Immediately' Stop Using Anthropic AI Tech]]></title>
+<link>https://www.barrons.com/news/trump-tells-us-govt-to-immediately-stop-using-anthropic-ai-tech-ce2d33f5?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 22:49:38 -0000</pubDate>
+<description><![CDATA[President Donald Trump told the US government Friday to "immediately" stop using Anthropic's technology after the AI startup rejected the Pentagon's demand that it agree to unconditional military use of its Claude models.]]></description>
+</item>
+<item>
+<title><![CDATA[Court Orders Greenpeace To Pay $345 Mn To US Oil Pipeline Company]]></title>
+<link>https://www.barrons.com/news/court-orders-greenpeace-to-pay-345-mn-to-us-oil-pipeline-company-b473c596?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Feb 2026 22:34:38 -0000</pubDate>
+<description><![CDATA[Greenpeace must pay $345 million in damages to the operator of the US oil pipeline it protested, a North Dakota court ordered Friday.]]></description>
+</item>
+<item>
 <title><![CDATA[Hackers Steal Medical Details Of 15 Million In France]]></title>
 <link>https://www.barrons.com/news/hackers-steal-medical-details-of-15-million-in-france-50792549?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 20:23:52 -0000</pubDate>
 <description><![CDATA[France's health ministry said Friday that administrative details and medical notes on more than 15 million people had been hacked.]]></description>
-</item>
-<item>
-<title><![CDATA[NASA Announces Overhaul Of Artemis Lunar Program Amid Technical Delays]]></title>
-<link>https://www.barrons.com/news/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays-8775a9ea?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 20:08:52 -0000</pubDate>
-<description><![CDATA[NASA on Friday abruptly said it was shaking up its Artemis lunar program that has suffered multiple delays in recent years, a bid to ensure Americans can return to the Moon's surface by 2028.]]></description>
-</item>
-<item>
-<title><![CDATA[Susan Sarandon Praises Spain’s Stance On Gaza]]></title>
-<link>https://www.barrons.com/news/susan-sarandon-praises-spains-stance-on-gaza-1622df70?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 19:53:52 -0000</pubDate>
-<description><![CDATA[Veteran Hollywood star Susan Sarandon on Friday praised the Spanish government's support for Gaza, saying it was "on the right side of history".]]></description>
 </item>
 </channel></rss>
