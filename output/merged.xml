@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 08:24:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 08:51:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan Says Pakistan Fighter Jet Down As Cross-border Strikes Flare]]></title>
+<link>https://www.barrons.com/news/us-backs-pakistan-s-right-to-defend-itself-after-strikes-on-afghanistan-82676469?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Feb 2026 08:51:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Costa Rica's Grynspan Pledges Reform In Bid For UN Chief Job]]></title>
 <link>https://www.barrons.com/news/costa-rica-s-grynspan-pledges-reform-in-bid-for-un-chief-job-1b0f770c?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 07:46:03 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Susan Sarandon Praises Spain’s Stance On Gaza]]></title>
-<link>https://www.barrons.com/news/susan-sarandon-praises-spains-stance-on-gaza-1622df70?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Feb 2026 22:34:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US And Israel Launch Strikes Against Iran]]></title>
+<link>https://www.barrons.com/news/us-and-israel-launch-strikes-against-iran-fb08bce1?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Feb 2026 08:51:01 -0000</pubDate>
+<description><![CDATA[The United States and Israel launched a wave of strikes against targets in Iranian cities on Saturday triggering explosions and columns of smoke in the capital Tehran.]]></description>
+</item>
+<item>
 <title><![CDATA[Messi's Inter Miami To Visit White House: US Media]]></title>
 <link>https://www.barrons.com/news/messi-s-inter-miami-to-visit-white-house-us-media-1ee19a8b?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 07:46:04 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/new-wuthering-heights-film-unleashes-fresh-wave-of-bronte-mania-88af26f5?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 06:33:19 -0000</pubDate>
 <description><![CDATA[Perched on the edge of the rugged Yorkshire moors that inspired Emily Bronte to write her masterpiece "Wuthering Heights", the quaint village of Haworth has long been a place of literary pilgrimage.]]></description>
-</item>
-<item>
-<title><![CDATA[US Backs Pakistan's 'Right To Defend Itself' After Strikes On Afghanistan]]></title>
-<link>https://www.barrons.com/news/us-backs-pakistan-s-right-to-defend-itself-after-strikes-on-afghanistan-82676469?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 06:18:19 -0000</pubDate>
-<description><![CDATA[Pakistan air strikes on Afghanistan drew diplomatic support from Washington as Islamabad said on Saturday it would not stop military operations pressuring the Afghan government, which it accuses of backing militancy.]]></description>
 </item>
 </channel></rss>
