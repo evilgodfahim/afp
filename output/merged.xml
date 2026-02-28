@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Feb 2026 19:41:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 20:21:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Republicans Back Trump, Democrats Attack 'Illegal' Iran War]]></title>
+<link>https://www.barrons.com/news/republicans-back-trump-democrats-attack-illegal-iran-war-a078fcc6?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Feb 2026 20:21:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tug Of War: How US Presidents Battle Congress For Military Powers]]></title>
 <link>https://www.barrons.com/news/tug-of-war-how-us-presidents-battle-congress-for-military-powers-5e2d155a?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 18:56:14 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranians In Istanbul Jittery But Jubilant At US, Israeli Strikes]]></title>
+<title><![CDATA[Iranians Abroad Jittery But Jubilant At US, Israeli Strikes]]></title>
 <link>https://www.barrons.com/news/iranians-in-istanbul-jittery-but-jubilant-at-us-israeli-strikes-9735afe3?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 15:51:52 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 20:06:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,15 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Israel Launch Attack On Iran, Tehran Hits Back With Strikes Across Region]]></title>
+<title><![CDATA[Netanyahu Says 'Many Signs' Khamenei Is Dead After Israel, US Attack Iran]]></title>
 <link>https://www.barrons.com/news/us-and-israel-launch-strikes-against-iran-fb08bce1?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 18:26:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says US Aims To Destroy Iran's Military, Topple Government]]></title>
-<link>https://www.barrons.com/news/trump-says-us-aims-to-destroy-iran-s-military-topple-government-39206083?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 10:19:50 -0000</pubDate>
+<pubDate>Sat, 28 Feb 2026 19:51:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Could The US-Israel War On Iran Drag On?]]></title>
+<link>https://www.barrons.com/news/could-the-us-israel-war-on-iran-drag-on-fcead13d?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Feb 2026 20:21:41 -0000</pubDate>
+<description><![CDATA[The US-Israeli strikes launched on Iran Saturday could become an extended operation, with strategic goals both multiple and complex -- aiming to decapitate the Islamic republic and eviscerate its security capabilities.]]></description>
+</item>
+<item>
 <title><![CDATA[Burgers, Then War: Trump's Bluffs Before Iran Strikes]]></title>
 <link>https://www.barrons.com/news/burgers-then-war-trump-s-bluffs-before-iran-strikes-7683ede3?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 18:56:15 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/vietnam-ai-law-takes-effect-first-in-southeast-asia-468af36d?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Feb 2026 18:41:15 -0000</pubDate>
 <description><![CDATA[A law regulating artificial intelligence went into effect in Vietnam on Sunday, making it the first country in Southeast Asia with a comprehensive framework on the booming technology.]]></description>
-</item>
-<item>
-<title><![CDATA[Republicans Back Trump, Democrats Attack 'Illegal' Iran War]]></title>
-<link>https://www.barrons.com/news/republicans-back-trump-democrats-attack-illegal-iran-war-a078fcc6?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 16:21:52 -0000</pubDate>
-<description><![CDATA[Republicans largely welcomed strikes launched Saturday by US forces and ally Israel against Iran but prominent Democrats condemned what they called an illegal aggression.]]></description>
 </item>
 </channel></rss>
