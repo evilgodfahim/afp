@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 13:36:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 14:21:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Belgium Seizes Russian 'Shadow Fleet' Tanker]]></title>
+<link>https://www.barrons.com/news/belgium-seizes-russian-shadow-fleet-tanker-ea038b1d?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 14:21:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Afghan, Pakistani Forces Battle Along The Border]]></title>
 <link>https://www.barrons.com/news/afghan-pakistani-forces-battle-along-the-border-a739c8eb?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 12:40:32 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Vows Revenge For Slain Supreme Leader Despite Trump Threat]]></title>
+<title><![CDATA[Iran Launches Fresh Strikes Across Gulf After Vowing Revenge For Slain Leader]]></title>
 <link>https://www.barrons.com/news/iran-vows-revenge-for-slain-supreme-leader-despite-trump-threat-101bb723?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 11:17:33 -0000</pubDate>
+<pubDate>Sun, 01 Mar 2026 14:06:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[OPEC+ Mulls Oil Production Increase In Shadow Of War]]></title>
-<link>https://www.barrons.com/news/opec-mulls-oil-production-increase-in-shadow-of-war-57de35d0?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 07:56:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanistan Warns Iran War Will Impact Whole Region]]></title>
+<link>https://www.barrons.com/news/afghanistan-warns-iran-war-will-impact-whole-region-8cb9269a?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 14:21:19 -0000</pubDate>
+<description><![CDATA[Afghanistan said on Sunday that the war in neighbouring Iran would negatively impact the whole region and expressed "deep regret" over the violence flaring in multiple countries.]]></description>
+</item>
+<item>
 <title><![CDATA[OPEC+ Hikes Oil Production By More Than Expected Following Outbreak Of Iran War]]></title>
 <link>https://www.barrons.com/news/opec-hikes-oil-production-by-more-than-expected-following-outbreak-of-iran-war-7e7a7ca8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 12:40:32 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/one-battle-after-another-wins-top-producer-award-before-oscars-b416d6ec?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 11:17:34 -0000</pubDate>
 <description><![CDATA[Paul Thomas Anderson's "One Battle After Another" was named best picture by Hollywood producers on Saturday, continuing its awards season streak before the Oscars.]]></description>
-</item>
-<item>
-<title><![CDATA[Belgium Seizes Russian 'Shadow Fleet' Tanker]]></title>
-<link>https://www.barrons.com/news/belgium-seizes-russian-shadow-fleet-tanker-ea038b1d?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 12:25:32 -0000</pubDate>
-<description><![CDATA[Belgium's special forces boarded and seized an oil tanker from the "shadow fleet" Russia uses to circumvent Western sanctions over the war in Ukraine, in an overnight operation announced Sunday.]]></description>
 </item>
 </channel></rss>
