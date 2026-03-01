@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 15:19:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 15:44:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[OPEC+ Hikes Oil Production By More Than Expected Following Outbreak Of Iran War]]></title>
+<link>https://www.barrons.com/news/opec-hikes-oil-production-by-more-than-expected-following-outbreak-of-iran-war-7e7a7ca8?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 15:44:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA['One Battle After Another' Wins Top Producer Award Before Oscars]]></title>
+<link>https://www.barrons.com/news/one-battle-after-another-wins-top-producer-award-before-oscars-b416d6ec?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 15:29:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Belgium Seizes Russian 'Shadow Fleet' Tanker]]></title>
 <link>https://www.barrons.com/news/belgium-seizes-russian-shadow-fleet-tanker-ea038b1d?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 14:21:18 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hollywood's Finest Gather For Guild's Actor Awards]]></title>
-<link>https://www.barrons.com/news/hollywood-s-finest-gather-for-guild-s-actor-awards-8989ca77?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 08:26:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[3D Tool Unreal Engine Makes Real Impact In Creative Industries]]></title>
-<link>https://www.barrons.com/news/3d-tool-unreal-engine-makes-real-impact-in-creative-industries-b6414d2b?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 08:11:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Tel Aviv Residents Say Ready To Withstand More Iranian Attacks]]></title>
+<link>https://www.barrons.com/news/tel-aviv-residents-say-ready-to-withstand-more-iranian-attacks-804d0a63?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 15:44:22 -0000</pubDate>
+<description><![CDATA[Shattered glass lay strewn across the streets of a residential area of Tel Aviv on Sunday, the day after an Iranian missile strike left one woman dead, but residents insisted they could withstand further attacks.]]></description>
+</item>
+<item>
+<title><![CDATA[Russia Loses Key Ally Leader As Putin Slams Khamenei 'Cynical' Killing]]></title>
+<link>https://www.barrons.com/news/russia-loses-key-ally-leader-as-putin-slams-khamenei-cynical-killing-ec81ef99?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 15:29:22 -0000</pubDate>
+<description><![CDATA[Bashar al-Assad, Nicolas Maduro and now Iran's supreme leader Ayatollah Ali Khamenei. In the last 18 months, Russian President Vladimir Putin has lost several key foreign allies -- and there is little that the Kremlin, bogged down in Ukraine, can do about it.]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan Warns Iran War Will Impact Whole Region]]></title>
 <link>https://www.barrons.com/news/afghanistan-warns-iran-war-will-impact-whole-region-8cb9269a?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 14:21:19 -0000</pubDate>
 <description><![CDATA[Afghanistan said on Sunday that the war in neighbouring Iran would negatively impact the whole region and expressed "deep regret" over the violence flaring in multiple countries.]]></description>
-</item>
-<item>
-<title><![CDATA[OPEC+ Hikes Oil Production By More Than Expected Following Outbreak Of Iran War]]></title>
-<link>https://www.barrons.com/news/opec-hikes-oil-production-by-more-than-expected-following-outbreak-of-iran-war-7e7a7ca8?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 12:40:32 -0000</pubDate>
-<description><![CDATA[Key members of the OPEC+ oil cartel announced a greater-than-expected increase to production quotas on Sunday following US and Israeli strikes on Iran that triggered retaliation by Tehran across the Middle East.]]></description>
-</item>
-<item>
-<title><![CDATA['One Battle After Another' Wins Top Producer Award Before Oscars]]></title>
-<link>https://www.barrons.com/news/one-battle-after-another-wins-top-producer-award-before-oscars-b416d6ec?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 11:17:34 -0000</pubDate>
-<description><![CDATA[Paul Thomas Anderson's "One Battle After Another" was named best picture by Hollywood producers on Saturday, continuing its awards season streak before the Oscars.]]></description>
 </item>
 </channel></rss>
