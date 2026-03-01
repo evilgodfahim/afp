@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 17:45:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 18:28:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranians Grieve, Celebrate, Worry After Khamenei's Killing]]></title>
+<link>https://www.barrons.com/news/iranians-grieve-celebrate-worry-after-khamenei-s-killing-9e35239b?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 18:28:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tel Aviv Residents Say Ready To Withstand More Iranian Attacks]]></title>
 <link>https://www.barrons.com/news/tel-aviv-residents-say-ready-to-withstand-more-iranian-attacks-804d0a63?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 16:50:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Three US Military Members Killed In Iran Operation: Pentagon]]></title>
+<link>https://www.barrons.com/news/three-us-military-members-killed-in-iran-operation-pentagon-037c66cc?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 18:13:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,21 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghan, Pakistani Forces Battle Along The Border]]></title>
-<link>https://www.barrons.com/news/afghan-pakistani-forces-battle-along-the-border-a739c8eb?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 12:40:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pro-Iran Protesters Try To Storm US Missions In Pakistan, Iraq]]></title>
-<link>https://www.barrons.com/news/pro-iran-protesters-try-to-storm-us-missions-in-pakistan-iraq-61eb6b24?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 12:25:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[First US Service Members Killed In Operation Against Iran]]></title>
-<link>https://www.barrons.com/news/iran-vows-revenge-for-slain-supreme-leader-despite-trump-threat-101bb723?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 16:05:32 -0000</pubDate>
+<title><![CDATA[World Cup Marks 100-day Countdown Amid Political Upheaval]]></title>
+<link>https://www.barrons.com/news/world-cup-marks-100-day-countdown-amid-political-upheaval-2f09a196?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 17:58:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thousands Stranded As Iran Conflict Shuts Mideast Hubs]]></title>
+<link>https://www.barrons.com/news/thousands-stranded-as-iran-conflict-shuts-mideast-hubs-9a705f73?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 18:28:48 -0000</pubDate>
+<description><![CDATA[The biggest disruption to global air transport since the Covid pandemic snarled travel for a second day on  Sunday, with thousands of flights affected and busy Gulf hubs including Dubai and Doha shuttered as Iran lashed out after US-Israeli strikes.]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Strikes Send VIP Dubai Influencers 'Back To Reality']]></title>
 <link>https://www.barrons.com/news/iran-strikes-send-vip-dubai-influencers-back-to-reality-984ddcd5?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 16:50:33 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/activists-pressure-milan-fashion-week-to-go-fully-fur-free-926cb20d?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 16:35:33 -0000</pubDate>
 <description><![CDATA[Animal activists have been turning up the heat on Milan Fashion Week to adopt a fully fur-free policy, with dozens of protesters demonstrating outside the Giorgio Armani show on Sunday.]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians Grieve, Celebrate, Worry After Khamenei's Killing]]></title>
-<link>https://www.barrons.com/news/iranians-grieve-celebrate-worry-after-khamenei-s-killing-9e35239b?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 16:20:33 -0000</pubDate>
-<description><![CDATA[Iranians were experiencing a mix of shock, grief and joy after the death of supreme leader Ayatollah Ali Khamenei as Israeli and US strikes extended into a second day Sunday.]]></description>
 </item>
 </channel></rss>
