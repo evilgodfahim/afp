@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 23:19:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 23:45:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['A Terrible Day,' Says Israel Community Shaken By Deadly Iranian Strike]]></title>
+<link>https://www.barrons.com/news/a-terrible-day-says-israel-community-shaken-by-deadly-iranian-strike-9321f5ed?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 23:45:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[17 Killed At Pro-Iran Protests Across Pakistan]]></title>
 <link>https://www.barrons.com/news/17-killed-at-pro-iran-protests-across-pakistan-404a5859?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 22:20:19 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Three US Military Members Killed In Iran Operation: Pentagon]]></title>
-<link>https://www.barrons.com/news/three-us-military-members-killed-in-iran-operation-pentagon-037c66cc?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 18:13:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Bolsonaro Son Rallies The Right As Thousands Protest Brazil Government]]></title>
+<link>https://www.barrons.com/news/bolsonaro-son-rallies-the-right-as-thousands-protest-brazil-government-eb2a2d0e?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 23:45:08 -0000</pubDate>
+<description><![CDATA[Flavio Bolsonaro, son of Brazil's jailed former leader, on Sunday sought to rally and unite conservatives ahead of October elections in which he hopes to follow in his father's footsteps.]]></description>
+</item>
+<item>
 <title><![CDATA[Bored Of Peace? Trump Keeps Choosing War]]></title>
 <link>https://www.barrons.com/news/bored-of-peace-trump-keeps-choosing-war-10caedf6?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:48:28 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/france-germany-uk-ready-to-take-defensive-action-against-iran-43537a5f?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 22:20:20 -0000</pubDate>
 <description><![CDATA[France, Germany and the UK said Sunday they were ready to defend their interests and those of its allies in the Gulf if necessary by taking "defensive action" against Iran.]]></description>
-</item>
-<item>
-<title><![CDATA['A Terrible Day,' Says Israel Community Shaken By Deadly Iranian Strike]]></title>
-<link>https://www.barrons.com/news/a-terrible-day-says-israel-community-shaken-by-deadly-iranian-strike-9321f5ed?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 19:42:14 -0000</pubDate>
-<description><![CDATA[Ilana Malka doesn't know if her three great-nephews are alive after an Iranian missile struck a shelter in her city of Beit Shemesh, in central Israel, leaving a crater in the ground and a void in the community.]]></description>
 </item>
 </channel></rss>
