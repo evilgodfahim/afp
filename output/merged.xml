@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 01 Mar 2026 04:27:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 05:36:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[AI Robot Monk Offers Spiritual Advice In Japan]]></title>
 <link>https://www.barrons.com/news/ai-robot-monk-offers-spiritual-advice-in-japan-00b7e0be?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sympathy For The Bedeviled: The Likable Conspiracy Theorist Of 'Bugonia']]></title>
+<link>https://www.barrons.com/news/sympathy-for-the-bedeviled-the-likable-conspiracy-theorist-of-bugonia-783fedc6?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 05:36:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Texas Port Humming As Trump Ramps Up Venezuela Oil]]></title>
 <link>https://www.barrons.com/news/texas-port-humming-as-trump-ramps-up-venezuela-oil-6a21ab1a?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 04:27:52 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnam AI Law Takes Effect, First In Southeast Asia]]></title>
-<link>https://www.barrons.com/news/vietnam-ai-law-takes-effect-first-in-southeast-asia-468af36d?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Feb 2026 21:27:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Feb 2026 00:32:44 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hollywood's Finest Gather For Guild's Actor Awards]]></title>
+<link>https://www.barrons.com/news/hollywood-s-finest-gather-for-guild-s-actor-awards-8989ca77?refsec=topics_afp-news</link>
+<pubDate>Sun, 01 Mar 2026 05:36:24 -0000</pubDate>
+<description><![CDATA["One Battle After Another" and "Sinners" go head-to-head in Los Angeles on Sunday at the Screen Actors Guild's prize gala, in the last major awards ceremony before the Oscars.]]></description>
+</item>
+<item>
 <title><![CDATA[3D Tool Unreal Engine Makes Real Impact In Creative Industries]]></title>
 <link>https://www.barrons.com/news/3d-tool-unreal-engine-makes-real-impact-in-creative-industries-b6414d2b?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 04:27:53 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/opec-mulls-oil-production-increase-in-shadow-of-war-57de35d0?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 04:12:53 -0000</pubDate>
 <description><![CDATA[As a fresh Middle East conflict risks sending oil prices sharply higher, Saudi Arabia, Russia and six other key members of the OPEC+ alliance are widely expected to announce an output increase Sunday, analysts say.]]></description>
-</item>
-<item>
-<title><![CDATA[Sympathy For The Bedeviled: The Likable Conspiracy Theorist Of 'Bugonia']]></title>
-<link>https://www.barrons.com/news/sympathy-for-the-bedeviled-the-likable-conspiracy-theorist-of-bugonia-783fedc6?refsec=topics_afp-news</link>
-<pubDate>Sun, 01 Mar 2026 01:59:34 -0000</pubDate>
-<description><![CDATA[If there's one thing the 21st century has in spades, it's conspiracy theorists -- many of them angry, unhinged people hacking at their keyboards about grievances real and imagined.]]></description>
 </item>
 </channel></rss>
