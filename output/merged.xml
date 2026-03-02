@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 08:39:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 09:43:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[El Nino May Return In 2026 And Make Planet Even Hotter]]></title>
+<link>https://www.barrons.com/news/el-nino-may-return-in-2026-and-make-planet-even-hotter-b6488a2f?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 09:43:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Somaliland's Israel Deal Could Put Berbera Port At Risk]]></title>
 <link>https://www.barrons.com/news/somaliland-s-israel-deal-could-put-berbera-port-at-risk-2677c34d?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 08:39:57 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[CBS In Turmoil As US Media Feels Pressure Under Trump]]></title>
-<link>https://www.barrons.com/news/cbs-in-turmoil-as-us-media-feels-pressure-under-trump-7c9f6403?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 04:11:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canada And India Strike Agreements On Rare Earth, Uranium]]></title>
+<link>https://www.barrons.com/news/canada-and-india-strike-agreements-on-rare-earth-uranium-e1bf6b90?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 09:43:49 -0000</pubDate>
+<description><![CDATA[India and Canada on Monday reached a string of agreements, including on critical mineral cooperation and a "landmark" uranium supply deal for nuclear power, the countries' leaders said in New Delhi.]]></description>
+</item>
+<item>
 <title><![CDATA[At Least 25 Killed At Pakistan's Pro-Iran Weekend Protests]]></title>
 <link>https://www.barrons.com/news/at-least-25-killed-at-pakistan-s-pro-iran-weekend-protests-ebf1e4fc?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 08:39:58 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/myanmar-grants-amnesty-to-over-7-000-convicted-of-terrorist-group-support-da9c851e?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 08:24:58 -0000</pubDate>
 <description><![CDATA[Myanmar's military junta granted amnesty on Monday to more than 7,000 prisoners convicted of financing or sheltering a "terrorist group", a designation it has used to outlaw pro-democracy factions opposing its rule.]]></description>
-</item>
-<item>
-<title><![CDATA[El Nino May Return In 2026 And Make Planet Even Hotter]]></title>
-<link>https://www.barrons.com/news/el-nino-may-return-in-2026-and-make-planet-even-hotter-b6488a2f?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 06:53:17 -0000</pubDate>
-<description><![CDATA[The warming El Nino weather phenomenon could form later this year, potentially pushing global temperatures to record heights.]]></description>
 </item>
 </channel></rss>
