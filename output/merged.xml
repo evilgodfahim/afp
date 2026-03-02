@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 12:53:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 13:58:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[France Arrests Activists Blocking Ship Over Alleged Russia Uranium Links]]></title>
+<link>https://www.barrons.com/news/france-arrests-activists-blocking-ship-over-alleged-russia-uranium-links-0e8304aa?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 13:58:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East Fighting Overshadows World Telecom Show]]></title>
 <link>https://www.barrons.com/news/tech-sovereignty-and-ai-networks-set-to-dominate-mobile-meet-7120baf1?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 12:53:55 -0000</pubDate>
@@ -83,6 +89,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Saudi Military Raises Readiness Levels After Attacks]]></title>
+<link>https://www.barrons.com/news/saudi-military-raises-readiness-levels-after-attacks-0b9b6a22?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 13:43:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Canada And India Strike Agreements On Rare Earth, Uranium]]></title>
 <link>https://www.barrons.com/news/canada-and-india-strike-agreements-on-rare-earth-uranium-e1bf6b90?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 10:44:46 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Myanmar Grants Amnesty To Over 7,000 Convicted Of 'Terrorist Group' Support]]></title>
 <link>https://www.barrons.com/news/myanmar-grants-amnesty-to-over-7-000-convicted-of-terrorist-group-support-da9c851e?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 10:14:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[El Nino May Return In 2026 And Make Planet Even Hotter]]></title>
-<link>https://www.barrons.com/news/el-nino-may-return-in-2026-and-make-planet-even-hotter-b6488a2f?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 09:43:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Somaliland's Israel Deal Could Put Berbera Port At Risk]]></title>
-<link>https://www.barrons.com/news/somaliland-s-israel-deal-could-put-berbera-port-at-risk-2677c34d?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 08:39:57 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran War Spreads With Strikes Across Middle East And Beyond]]></title>
+<link>https://www.barrons.com/news/iran-war-spreads-with-strikes-across-middle-east-and-beyond-0a106ca5?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 13:58:22 -0000</pubDate>
+<description><![CDATA[The war launched by the United States and Israel against Iran spread across the Middle East and beyond on Monday with Lebanon's Hezbollah entering the fray and a British air base in Cyprus targeted.]]></description>
+</item>
+<item>
 <title><![CDATA[Key Gulf Air Hubs Caught Up In Iran Conflict]]></title>
 <link>https://www.barrons.com/news/key-gulf-air-hubs-caught-up-in-iran-conflict-baa52ea6?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 12:53:56 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/showdown-looms-between-tesla-and-german-union-c6202251?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 11:29:46 -0000</pubDate>
 <description><![CDATA[An industrial relations showdown looms this week as Germany's powerful IG Metall union is seeking to gain control of the works council at US billionaire Elon Musk's Tesla plant outside Berlin.]]></description>
-</item>
-<item>
-<title><![CDATA[France Arrests Activists Blocking Ship Over Alleged Russia Uranium Links]]></title>
-<link>https://www.barrons.com/news/france-arrests-activists-blocking-ship-over-alleged-russia-uranium-links-0e8304aa?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 11:14:46 -0000</pubDate>
-<description><![CDATA[Police arrested four Greenpeace activists on Monday for blocking a cargo ship in France that they alleged was transporting uranium from Russia for the country's nuclear power plants.]]></description>
 </item>
 </channel></rss>
