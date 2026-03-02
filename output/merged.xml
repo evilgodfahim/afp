@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 04:11:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 05:33:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK Toughens Asylum Rules To Discourage Migration]]></title>
+<link>https://www.barrons.com/news/uk-toughens-asylum-rules-to-discourage-migration-95cecae7?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 05:33:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[CBS In Turmoil As US Media Feels Pressure Under Trump]]></title>
 <link>https://www.barrons.com/news/cbs-in-turmoil-as-us-media-feels-pressure-under-trump-7c9f6403?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 04:11:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bolsonaro Son Rallies The Right As Thousands Protest Brazil Government]]></title>
-<link>https://www.barrons.com/news/bolsonaro-son-rallies-the-right-as-thousands-protest-brazil-government-eb2a2d0e?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 02:11:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina's Milei Says Wants US 'Strategic Alliance' To Be State Policy]]></title>
+<link>https://www.barrons.com/news/argentina-s-milei-says-wants-us-strategic-alliance-to-be-state-policy-d48b5d44?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 05:33:37 -0000</pubDate>
+<description><![CDATA[Argentina President Javier Milei said Sunday that he wants to make the "strategic alliance" with the United States led by ally President Donald Trump a "state policy."]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Hunkers Down After Iran Strikes]]></title>
 <link>https://www.barrons.com/news/trump-hunkers-down-after-iran-strikes-dd8ce08a?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 04:11:08 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/china-s-leaders-gather-for-key-strategy-session-as-challenges-grow-3f2e486c?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 03:56:08 -0000</pubDate>
 <description><![CDATA[China's leaders are set to unveil strategies to confront challenges that include sluggish consumption, a shrinking population and shifting geopolitical landscapes when they gather in Beijing this week for the annual Two Sessions political meeting.]]></description>
-</item>
-<item>
-<title><![CDATA[UK Toughens Asylum Rules To Discourage Migration]]></title>
-<link>https://www.barrons.com/news/uk-toughens-asylum-rules-to-discourage-migration-95cecae7?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 03:41:08 -0000</pubDate>
-<description><![CDATA[The United Kingdom's overhaul of its asylum program takes effect on Monday, the Home Office announced, with the new rules drastically cutting protections for refugees and their children.]]></description>
 </item>
 </channel></rss>
