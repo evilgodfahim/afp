@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 22:34:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 23:21:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ecuador Launches Joint Anti-drug Operations With US]]></title>
+<link>https://www.barrons.com/news/ecuador-launches-joint-anti-drug-operations-with-us-2f5e65e5?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 23:21:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US Slaps Sanctions On Rwanda Military Over DR Congo 'Violation']]></title>
+<link>https://www.barrons.com/news/us-slaps-sanctions-on-rwanda-military-over-dr-congo-violation-a34fa4ba?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 23:06:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War Puts Shipping Firms In Tight Insurance Spot]]></title>
 <link>https://www.barrons.com/news/middle-east-war-puts-shipping-firms-in-tight-insurance-spot-2aac808b?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 21:58:38 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran War Spells Danger For Global Airlines]]></title>
-<link>https://www.barrons.com/news/iran-war-spells-danger-for-global-airlines-a23f2271?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 17:41:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany's Merz To Visit Trump As Mideast War Rages]]></title>
-<link>https://www.barrons.com/news/germany-s-merz-to-visit-trump-as-mideast-war-rages-545d0562?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 17:26:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Appears With Red Rash On Neck]]></title>
+<link>https://www.barrons.com/news/trump-appears-with-red-rash-on-neck-b70014b2?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 23:21:46 -0000</pubDate>
+<description><![CDATA[US President Donald Trump appeared at a White House event on Monday with a prominent red rash on his neck, which his doctor attributed to a "preventative" treatment.]]></description>
+</item>
+<item>
 <title><![CDATA[Rubio Says Israel's Strike Plan Triggered US Attack On Iran]]></title>
 <link>https://www.barrons.com/news/rubio-says-israel-s-strike-plan-triggered-us-attack-on-iran-8217bde5?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 21:58:38 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/bombing-iran-trump-has-epic-fury-but-endgame-undefined-bb6a6a10?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 21:43:38 -0000</pubDate>
 <description><![CDATA[US President Donald Trump says he attacked Iran to eliminate a threat. How he sees the war ending is much less clear.]]></description>
-</item>
-<item>
-<title><![CDATA[US Slaps Sanctions On Rwanda Military Over DR Congo 'Violation']]></title>
-<link>https://www.barrons.com/news/us-slaps-sanctions-on-rwanda-military-over-dr-congo-violation-a34fa4ba?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 21:28:38 -0000</pubDate>
-<description><![CDATA[The United States said Monday it was imposing sanctions on Rwanda's military, taking action against a longtime partner which it accused of violating a peace agreement in the Democratic Republic of Congo.]]></description>
 </item>
 </channel></rss>
