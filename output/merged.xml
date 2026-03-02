@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Mar 2026 11:55:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 12:53:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East Fighting Overshadows World Telecom Show]]></title>
+<link>https://www.barrons.com/news/tech-sovereignty-and-ai-networks-set-to-dominate-mobile-meet-7120baf1?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 12:53:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indian Police Clash With Pro-Khamenei Protesters In Kashmir]]></title>
 <link>https://www.barrons.com/news/indian-police-clash-with-pro-khamenei-protesters-in-kashmir-1b2cd803?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 11:29:46 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[At Least 25 Killed At Pakistan's Pro-Iran Weekend Protests]]></title>
+<title><![CDATA[At Least 25 Killed At Pakistan's Weekend Pro-Iran Protests]]></title>
 <link>https://www.barrons.com/news/at-least-25-killed-at-pakistan-s-pro-iran-weekend-protests-ebf1e4fc?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 10:29:46 -0000</pubDate>
+<pubDate>Mon, 02 Mar 2026 12:38:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Texas Primaries Launch Midterm Battle With Trump Agenda At Stake]]></title>
-<link>https://www.barrons.com/news/texas-primaries-launch-midterm-battle-with-trump-agenda-at-stake-c09936e5?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 08:24:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Key Gulf Air Hubs Caught Up In Iran Conflict]]></title>
+<link>https://www.barrons.com/news/key-gulf-air-hubs-caught-up-in-iran-conflict-baa52ea6?refsec=topics_afp-news</link>
+<pubDate>Mon, 02 Mar 2026 12:53:56 -0000</pubDate>
+<description><![CDATA[Thriving thanks to their strategic geographical position, strong state backing and leading carriers, huge air hubs in the Gulf oil kingdoms have been shaken by the conflict over Iran.]]></description>
+</item>
+<item>
 <title><![CDATA[Showdown Looms Between Tesla And German Union]]></title>
 <link>https://www.barrons.com/news/showdown-looms-between-tesla-and-german-union-c6202251?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 11:29:46 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/france-arrests-activists-blocking-ship-over-alleged-russia-uranium-links-0e8304aa?refsec=topics_afp-news</link>
 <pubDate>Mon, 02 Mar 2026 11:14:46 -0000</pubDate>
 <description><![CDATA[Police arrested four Greenpeace activists on Monday for blocking a cargo ship in France that they alleged was transporting uranium from Russia for the country's nuclear power plants.]]></description>
-</item>
-<item>
-<title><![CDATA[Tech Sovereignty And AI Networks Set To Dominate Mobile Meet]]></title>
-<link>https://www.barrons.com/news/tech-sovereignty-and-ai-networks-set-to-dominate-mobile-meet-7120baf1?refsec=topics_afp-news</link>
-<pubDate>Mon, 02 Mar 2026 10:59:46 -0000</pubDate>
-<description><![CDATA[Tens of thousands flocked to the Mobile World Congress (MWC) in Barcelona Monday, with this year's edition of the telecoms trade fair marked by efforts to integrate AI into networks.]]></description>
 </item>
 </channel></rss>
