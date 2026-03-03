@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 21:30:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 22:25:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Says Israel Killed Iran's Leader]]></title>
+<link>https://www.barrons.com/news/us-says-israel-killed-iran-s-leader-51d3ec6b?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 22:25:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Polish Doctors Jailed For Denying Woman Abortion]]></title>
+<link>https://www.barrons.com/news/polish-doctors-jailed-for-denying-woman-abortion-e10068fd?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 22:10:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Threatens Spain Ties Over Iran War Refusal]]></title>
 <link>https://www.barrons.com/news/trump-denounces-uk-spain-over-iran-stance-4d81df64?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 20:32:06 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil's Economy Slows As High Interest Rates Curb Growth]]></title>
-<link>https://www.barrons.com/news/brazil-s-economy-slows-as-high-interest-rates-curb-growth-d1e8d76d?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 17:59:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tehran Resembles Ghost Town As Bombs Rain Down]]></title>
-<link>https://www.barrons.com/news/tehran-resembles-ghost-town-as-bombs-rain-down-7e3ae2b2?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 17:44:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[France Deploys Aircraft Carrier To Mediterranean Over Iran War]]></title>
+<link>https://www.barrons.com/news/france-deploys-aircraft-carrier-to-mediterranean-over-iran-war-90bc996f?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 22:25:33 -0000</pubDate>
+<description><![CDATA[France is sending its flagship aircraft carrier to the Mediterranean in response to the widening conflict in the Middle East, President Emmanuel Macron announced Tuesday.]]></description>
+</item>
+<item>
+<title><![CDATA[Judge Rules Trump Cannot Halt New York Traffic Congestion Pricing]]></title>
+<link>https://www.barrons.com/news/judge-rules-trump-cannot-halt-new-york-traffic-congestion-pricing-41372381?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 22:10:33 -0000</pubDate>
+<description><![CDATA[A federal judge ruled on Tuesday that US President Donald Trump cannot block New York City from charging motorists to drive in congested parts of Manhattan.]]></description>
+</item>
+<item>
 <title><![CDATA[Iran War Threatens Trump Fight With Inflation]]></title>
 <link>https://www.barrons.com/news/iran-war-threatens-trump-fight-with-inflation-fba834ad?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 19:14:09 -0000</pubDate>
 <description><![CDATA[US-Israeli strikes in Iran, and Tehran's retaliation, are set to trigger a surge in US gas prices with a potential knock-on inflationary hit that could pile pressure on President Donald Trump domestically as midterm elections approach.]]></description>
-</item>
-<item>
-<title><![CDATA[US Says Israel Killed Iran's Leader]]></title>
-<link>https://www.barrons.com/news/us-says-israel-killed-iran-s-leader-51d3ec6b?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 18:59:09 -0000</pubDate>
-<description><![CDATA[The Pentagon's policy chief on Tuesday distanced the United States from the death of Iran's Supreme Leader Ayatollah Ali Khamenei, saying he was killed by an Israeli strike.]]></description>
-</item>
-<item>
-<title><![CDATA[Polish Doctors Jailed For Denying Woman Abortion]]></title>
-<link>https://www.barrons.com/news/polish-doctors-jailed-for-denying-woman-abortion-e10068fd?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 18:44:09 -0000</pubDate>
-<description><![CDATA[A Polish court on Tuesday sentenced three doctors to prison sentences over the 2021 death of a pregnant woman, which sparked nationwide protests and renewed scrutiny of the country's restrictive abortion laws.]]></description>
 </item>
 </channel></rss>
