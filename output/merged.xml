@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 23:23:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 23:49:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran War Threatens Trump Fight With Inflation]]></title>
+<link>https://www.barrons.com/news/iran-war-threatens-trump-fight-with-inflation-fba834ad?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 23:49:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Says Israel Killed Iran's Leader]]></title>
 <link>https://www.barrons.com/news/us-says-israel-killed-iran-s-leader-51d3ec6b?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 22:25:32 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Says 'Everything's Been Knocked Out' In Iran]]></title>
+<title><![CDATA[Trump Says US Navy Could Escort Tankers, Iran Aimed To Strike First]]></title>
 <link>https://www.barrons.com/news/trump-says-everything-s-been-knocked-out-in-iran-7e9d3a3c?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 18:59:08 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 23:34:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,21 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Texas Primaries Open Midterm Fight Over Trump's Agenda]]></title>
+<title><![CDATA[Texas Tests Party Fault Lines As US Midterms Begin]]></title>
 <link>https://www.barrons.com/news/texas-primaries-open-midterm-fight-over-trump-s-agenda-b2a66c5d?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 18:14:08 -0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 23:19:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Flights To Evacuate Stranded Travellers In Middle East]]></title>
 <link>https://www.barrons.com/news/flights-to-evacuate-stranded-travellers-in-middle-east-2ff4eb50?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 17:11:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Mideast War Threatens To Spark World Energy Crisis]]></title>
-<link>https://www.barrons.com/news/mideast-war-threatens-to-spark-world-energy-crisis-eecb98b7?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 16:56:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Will US Oil Companies Be The Big Winners From The Iran War?]]></title>
+<link>https://www.barrons.com/news/will-us-oil-companies-be-the-big-winners-from-the-iran-war-2470c881?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 23:49:40 -0000</pubDate>
+<description><![CDATA[Energy prices have surged dramatically since the United States and Israel launched their attack on Iran Saturday, and that will almost certainly translate into bigger profits.]]></description>
+</item>
+<item>
 <title><![CDATA[France Deploys Aircraft Carrier To Mediterranean Over Iran War]]></title>
 <link>https://www.barrons.com/news/france-deploys-aircraft-carrier-to-mediterranean-over-iran-war-90bc996f?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 22:25:33 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/judge-rules-trump-cannot-halt-new-york-traffic-congestion-pricing-41372381?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 22:10:33 -0000</pubDate>
 <description><![CDATA[A federal judge ruled on Tuesday that US President Donald Trump cannot block New York City from charging motorists to drive in congested parts of Manhattan.]]></description>
-</item>
-<item>
-<title><![CDATA[Iran War Threatens Trump Fight With Inflation]]></title>
-<link>https://www.barrons.com/news/iran-war-threatens-trump-fight-with-inflation-fba834ad?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 19:14:09 -0000</pubDate>
-<description><![CDATA[US-Israeli strikes in Iran, and Tehran's retaliation, are set to trigger a surge in US gas prices with a potential knock-on inflationary hit that could pile pressure on President Donald Trump domestically as midterm elections approach.]]></description>
 </item>
 </channel></rss>
