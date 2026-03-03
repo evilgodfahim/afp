@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 12:57:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 14:00:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Bulgaria's 'Hidden Gem' Ski Station Draws In World's Digital Nomads]]></title>
+<link>https://www.barrons.com/news/bulgaria-s-hidden-gem-ski-station-draws-in-world-s-digital-nomads-8ef008ee?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Feb 2026 14:59:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -53,9 +59,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Snoop Dogg Greets Sold-out Swansea Stadium After Buying Share Of Welsh Football Club]]></title>
-<link>https://www.barrons.com/news/snoop-dogg-greets-sold-out-swansea-stadium-after-buying-share-of-welsh-football-club-73a41b12?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Feb 2026 16:49:29 -0000</pubDate>
+<title><![CDATA[Mideast War Exposes Fragile Oil, Gas Dependency]]></title>
+<link>https://www.barrons.com/news/mideast-war-exposes-fragile-oil-gas-dependency-92c76d3d?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 14:00:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Geopolitical Storm Leaves Isolated Greenlanders Hanging By A Telecoms Thread]]></title>
-<link>https://www.barrons.com/news/geopolitical-storm-leaves-isolated-greenlanders-hanging-by-a-telecoms-thread-c51d798c?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 06:45:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New Israel, Iran Attacks Across Region: Latest Developments In Middle East War]]></title>
+<link>https://www.barrons.com/news/latest-developments-after-us-israeli-strikes-kill-iran-s-khamenei-d7144d00?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 13:45:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,10 +131,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria's 'Hidden Gem' Ski Station Draws In World's Digital Nomads]]></title>
-<link>https://www.barrons.com/news/bulgaria-s-hidden-gem-ski-station-draws-in-world-s-digital-nomads-8ef008ee?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Feb 2026 14:27:09 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Afghans Escape From Iranian Cities To Get Home]]></title>
+<link>https://www.barrons.com/news/afghans-escape-from-iranian-cities-to-get-home-a38d1336?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 14:00:37 -0000</pubDate>
+<description><![CDATA[His hopes of reaching Turkey dashed by the Middle East war, Rashid Nazari fled back to Afghanistan where he described the search in neighbouring Iran for food, fuel and safety.]]></description>
 </item>
 <item>
 <title><![CDATA[Thousands Of Afghans Displaced By Pakistan Conflict]]></title>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/drones-hit-us-embassy-as-vengeful-iran-targets-mideast-cities-bc5d95d2?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 12:57:03 -0000</pubDate>
 <description><![CDATA[Drones hit the US embassy in Riyadh and more explosions rang out in Gulf cities Tuesday as Iran hit back at industrial and diplomatic targets across the Middle East and governments sought to evacuate their nationals from the region.]]></description>
-</item>
-<item>
-<title><![CDATA[Mideast War Exposes Fragile Oil, Gas Dependency]]></title>
-<link>https://www.barrons.com/news/mideast-war-exposes-fragile-oil-gas-dependency-92c76d3d?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 09:23:08 -0000</pubDate>
-<description><![CDATA[As in 2022 when Russia invaded Ukraine, the new war in the Middle East is exposing once again how far Europe and others lag in replacing imported fossil fuels with domestic solar and wind power, specialists say.]]></description>
 </item>
 </channel></rss>
