@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 10:35:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 11:29:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Warming El Nino May Return Later This Year: UN]]></title>
+<link>https://www.barrons.com/news/warming-el-nino-may-return-later-this-year-un-1a08b8a4?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 11:29:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Eight Years On, Trial Begins In Argentina Submarine Implosion]]></title>
 <link>https://www.barrons.com/news/eight-years-on-trial-begins-in-argentina-submarine-implosion-79905749?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 09:38:07 -0000</pubDate>
@@ -83,6 +89,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU Asylum Applications Down But Iran Concerns Mount]]></title>
+<link>https://www.barrons.com/news/eu-asylum-applications-down-but-iran-concerns-mount-a584026d?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 11:14:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistanis At Remote Border Describe Scramble To Leave Iran]]></title>
 <link>https://www.barrons.com/news/pakistanis-at-remote-border-describe-scramble-to-leave-iran-b697ccd9?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 08:06:34 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Geopolitical Storm Leaves Isolated Greenlanders Hanging By A Telecoms Thread]]></title>
 <link>https://www.barrons.com/news/geopolitical-storm-leaves-isolated-greenlanders-hanging-by-a-telecoms-thread-c51d798c?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 06:45:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AI Disinformation Turns Nepal Polls Into 'Digital Battleground']]></title>
-<link>https://www.barrons.com/news/ai-disinformation-turns-nepal-polls-into-digital-battleground-925c5c6c?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 06:30:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China's Overstretched Healthcare Looks To AI Boom]]></title>
-<link>https://www.barrons.com/news/china-s-overstretched-healthcare-looks-to-ai-boom-52b47865?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 05:31:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Thousands Of Afghans Displaced By Pakistan Conflict]]></title>
+<link>https://www.barrons.com/news/thousands-of-afghans-displaced-by-pakistan-conflict-0bd927b2?refsec=topics_afp-news</link>
+<pubDate>Tue, 03 Mar 2026 11:29:42 -0000</pubDate>
+<description><![CDATA[More than 8,000 Afghans have been forced from their homes by fighting with Pakistani forces along the border in recent days, the Taliban government said Tuesday.]]></description>
+</item>
+<item>
 <title><![CDATA[Drones Hit US Embassy As Vengeful Iran Targets Mideast Cities]]></title>
 <link>https://www.barrons.com/news/drones-hit-us-embassy-as-vengeful-iran-targets-mideast-cities-bc5d95d2?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 09:38:08 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/mideast-war-exposes-fragile-oil-gas-dependency-92c76d3d?refsec=topics_afp-news</link>
 <pubDate>Tue, 03 Mar 2026 09:23:08 -0000</pubDate>
 <description><![CDATA[As in 2022 when Russia invaded Ukraine, the new war in the Middle East is exposing once again how far Europe and others lag in replacing imported fossil fuels with domestic solar and wind power, specialists say.]]></description>
-</item>
-<item>
-<title><![CDATA[Warming El Nino May Return Later This Year: UN]]></title>
-<link>https://www.barrons.com/news/warming-el-nino-may-return-later-this-year-un-1a08b8a4?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 09:08:08 -0000</pubDate>
-<description><![CDATA[The warming El Nino weather phenomenon could return later this year as its cooling opposite La Nina fades away, the United Nations said Tuesday.]]></description>
 </item>
 </channel></rss>
