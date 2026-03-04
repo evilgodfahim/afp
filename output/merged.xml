@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 06:05:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 07:10:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Seoul Tanks As Asian Stocks Tumble, Oil Extends Gains On Iran War]]></title>
+<link>https://www.barrons.com/news/asian-stocks-tumble-further-oil-extends-gains-as-inflation-fears-grow-de3fb137?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 07:10:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Europe Should Focus On Industrial AI, SAP Says]]></title>
+<link>https://www.barrons.com/news/europe-should-focus-on-industrial-ai-sap-says-34223894?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 06:55:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Chinese Consumers Scout Lower Prices, Secondhand Goods As Spending Sputters]]></title>
 <link>https://www.barrons.com/news/chinese-consumers-scout-lower-prices-secondhand-goods-as-spending-sputters-05ccea5c?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 04:06:25 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Judge Rules Trump Cannot Halt New York Traffic Congestion Pricing]]></title>
-<link>https://www.barrons.com/news/judge-rules-trump-cannot-halt-new-york-traffic-congestion-pricing-41372381?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 01:16:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran War Threatens Trump Fight With Inflation]]></title>
-<link>https://www.barrons.com/news/iran-war-threatens-trump-fight-with-inflation-fba834ad?refsec=topics_afp-news</link>
-<pubDate>Tue, 03 Mar 2026 23:49:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Claims 'Complete Control' Of Strait: Latest Developments In Middle East War]]></title>
+<link>https://www.barrons.com/news/iran-claims-complete-control-of-strait-latest-developments-in-middle-east-war-3bbdb28d?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 07:10:55 -0000</pubDate>
+<description><![CDATA[Iran's Revolutionary Guards said Wednesday they had "complete control" of the crucial Strait of Hormuz and Israel launched new strikes on Iranian and Lebanese targets as the war engulfing the Middle East continued into its fifth day.]]></description>
+</item>
+<item>
+<title><![CDATA[Philippine VP Sara Duterte To Face Impeachment Vote]]></title>
+<link>https://www.barrons.com/news/philippine-vp-sara-duterte-to-face-impeachment-vote-7759901f?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 06:55:55 -0000</pubDate>
+<description><![CDATA[A Philippine congressional committee agreed overwhelmingly on Wednesday to send articles of impeachment against Vice President Sara Duterte to lawmakers for a vote that could decide her political future.]]></description>
+</item>
+<item>
 <title><![CDATA[EU To Unveil 'Made In Europe' Rules Despite Pushback]]></title>
 <link>https://www.barrons.com/news/eu-to-unveil-made-in-europe-rules-despite-pushback-495c1f09?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 04:06:25 -0000</pubDate>
 <description><![CDATA[The EU will on Wednesday unveil "Buy European" rules to boost domestic production, which Brussels says will help defend European businesses against fierce global competition, especially from China.]]></description>
-</item>
-<item>
-<title><![CDATA[Seoul Tanks As Asian Stocks Tumble, Oil Extends Gains On Iran War]]></title>
-<link>https://www.barrons.com/news/asian-stocks-tumble-further-oil-extends-gains-as-inflation-fears-grow-de3fb137?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 05:28:07 -0000</pubDate>
-<description><![CDATA[Seoul shares collapsed more than 12 percent as Asian equity markets were hit by panic selling Wednesday, while oil rose amid fears the US-Israel war on Iran will fan inflation and hammer the global economy.]]></description>
-</item>
-<item>
-<title><![CDATA[Europe Should Focus On Industrial AI, SAP Says]]></title>
-<link>https://www.barrons.com/news/europe-should-focus-on-industrial-ai-sap-says-34223894?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 03:36:25 -0000</pubDate>
-<description><![CDATA[Europe should focus on competing in industrial AI, a top executive at German software giant SAP said, as the continent plays catch-up in the race for the cutting-edge technology against the United States and China.]]></description>
 </item>
 </channel></rss>
