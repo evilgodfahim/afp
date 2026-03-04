@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 22:27:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 22:58:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Florida Family Sues Google After AI Chatbot Allegedly Coached Suicide]]></title>
+<link>https://www.barrons.com/news/florida-family-sues-google-after-ai-chatbot-allegedly-coached-suicide-0e6ff8fc?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 22:58:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Rates Iran War As '15 Out Of 10']]></title>
 <link>https://www.barrons.com/news/trump-rates-iran-war-as-15-out-of-10-0c89b38a?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 21:39:45 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran War Exiles Describe Terror Of Daily Strikes]]></title>
-<link>https://www.barrons.com/news/iran-war-exiles-describe-terror-of-daily-strikes-fe4df0da?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 18:27:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil Ratifies EU-Mercosur Trade Deal]]></title>
+<link>https://www.barrons.com/news/brazil-ratifies-eu-mercosur-trade-deal-cf587dbe?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 22:58:06 -0000</pubDate>
+<description><![CDATA[Brazil's Senate on Wednesday ratified a deal between the Mercosur bloc and the European Union that creates one of the world's largest free trade areas.]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal Votes In Key Post-uprising Polls]]></title>
 <link>https://www.barrons.com/news/nepal-votes-in-key-post-uprising-polls-d5ff9100?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 21:39:46 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/us-fed-warns-economic-uncertainty-weighing-on-consumers-07c998c8?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 21:24:46 -0000</pubDate>
 <description><![CDATA[The US Federal Reserve warned Wednesday that increased economic uncertainty was impacting consumer sentiment, as President Donald Trump's administration presses on with an aggressive tariffs agenda despite recent setbacks.]]></description>
-</item>
-<item>
-<title><![CDATA[Florida Family Sues Google After AI Chatbot Allegedly Coached Suicide]]></title>
-<link>https://www.barrons.com/news/florida-family-sues-google-after-ai-chatbot-allegedly-coached-suicide-0e6ff8fc?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 21:09:46 -0000</pubDate>
-<description><![CDATA[The family of a Florida man who took his own life filed suit against Google on Wednesday, alleging the company's Gemini AI chatbot spent weeks manufacturing an elaborate delusional fantasy before aiding him in his suicide.]]></description>
 </item>
 </channel></rss>
