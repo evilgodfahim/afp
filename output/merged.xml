@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 04 Mar 2026 11:27:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 11:52:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Claims 'Complete Control' Of Key Waterway For Energy Transit]]></title>
+<link>https://www.barrons.com/news/iran-claims-complete-control-of-key-waterway-for-energy-transit-27eae66b?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 11:52:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Adidas Shares Slump On Downbeat Profit Outlook]]></title>
 <link>https://www.barrons.com/news/adidas-shares-slump-on-downbeat-profit-outlook-5a51c952?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 10:33:02 -0000</pubDate>
@@ -89,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Weedkiller Cancer Claims Drive Bayer To Bigger Loss]]></title>
+<link>https://www.barrons.com/news/weedkiller-cancer-claims-drive-bayer-to-bigger-loss-aa2b1cb2?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 11:37:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Claims 'Complete Control' Of Strait: Latest Developments In Middle East War]]></title>
 <link>https://www.barrons.com/news/iran-claims-complete-control-of-strait-latest-developments-in-middle-east-war-3bbdb28d?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 08:40:58 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Philippine VP Sara Duterte Impeachment Case Moves Forward]]></title>
 <link>https://www.barrons.com/news/philippine-vp-sara-duterte-to-face-impeachment-vote-7759901f?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 09:18:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[EU To Unveil 'Made In Europe' Rules Despite Pushback]]></title>
-<link>https://www.barrons.com/news/eu-to-unveil-made-in-europe-rules-despite-pushback-495c1f09?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 08:10:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Seoul Tanks As Asian Stocks Tumble, Oil Extends Gains On Iran War]]></title>
-<link>https://www.barrons.com/news/asian-stocks-tumble-further-oil-extends-gains-as-inflation-fears-grow-de3fb137?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 07:10:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar Drivers Scramble For Fuel As Mideast War Cuts Supply]]></title>
+<link>https://www.barrons.com/news/myanmar-drivers-scramble-for-fuel-as-mideast-war-cuts-supply-6c01abd5?refsec=topics_afp-news</link>
+<pubDate>Wed, 04 Mar 2026 11:52:50 -0000</pubDate>
+<description><![CDATA[Snaking queues of vehicles waited in Myanmar for shrivelling petrol supplies on Wednesday, with some gas stations shuttered as fuel stocks dried up due to the war in the Middle East.]]></description>
+</item>
+<item>
 <title><![CDATA[AI Not Hitting European Jobs For Now: ECB]]></title>
 <link>https://www.barrons.com/news/ai-not-hitting-european-jobs-for-now-ecb-cb3bb358?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 10:33:03 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/nepal-s-gen-z-pins-hopes-on-post-uprising-elections-461156a9?refsec=topics_afp-news</link>
 <pubDate>Wed, 04 Mar 2026 10:18:03 -0000</pubDate>
 <description><![CDATA[Six months after joining anti-corruption protests that rocked Nepal, 23-year-old Amrita Ban will vote in Thursday's election, hoping the new government will realise the movement's demands.]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Claims 'Complete Control' Of Key Waterway For Energy Transit]]></title>
-<link>https://www.barrons.com/news/iran-claims-complete-control-of-key-waterway-for-energy-transit-27eae66b?refsec=topics_afp-news</link>
-<pubDate>Wed, 04 Mar 2026 10:03:03 -0000</pubDate>
-<description><![CDATA[Iran's Revolutionary Guards said Wednesday they had total control of the Strait of Hormuz, a key waterway for global energy transit, as Israel launched a new wave of strikes on the Iranian capital.]]></description>
 </item>
 </channel></rss>
