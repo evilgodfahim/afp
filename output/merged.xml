@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 11:31:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 12:53:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East War Spirals With Fresh Strikes On Iran, Gulf]]></title>
+<link>https://www.barrons.com/news/iran-hits-kurdish-groups-in-iraq-as-conflict-widens-f865abf0?refsec=topics_afp-news</link>
+<pubDate>Thu, 05 Mar 2026 12:53:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[The Silent Struggle Of An Anti-war Woman In Russia]]></title>
 <link>https://www.barrons.com/news/the-silent-struggle-of-an-anti-war-woman-in-russia-513a5bc7?refsec=topics_afp-news</link>
 <pubDate>Thu, 05 Mar 2026 08:36:41 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Seoul Leads Rebound Across Asian Stocks, Oil Extends Gains]]></title>
+<title><![CDATA[Stocks, Oil Climb As Middle East War Stirs Volatility]]></title>
 <link>https://www.barrons.com/news/seoul-leads-rebound-across-asian-stocks-oil-extends-gains-a8bd6382?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 06:45:47 -0000</pubDate>
+<pubDate>Thu, 05 Mar 2026 12:38:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China Sets Lowest Growth Target In Decades As Consumption Lags]]></title>
-<link>https://www.barrons.com/news/china-sets-lowest-growth-target-in-decades-as-consumption-lags-f49932aa?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 06:00:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Wary European States Pledge Military Aid For Cyprus, Gulf]]></title>
+<link>https://www.barrons.com/news/wary-european-states-pledge-military-aid-for-cyprus-gulf-93359924?refsec=topics_afp-news</link>
+<pubDate>Thu, 05 Mar 2026 12:53:12 -0000</pubDate>
+<description><![CDATA[Wary of getting directly involved in the US-Israeli war with Iran, European countries are nevertheless being drawn into the conflict following attacks on Cyprus and Western allies in the Gulf.]]></description>
+</item>
+<item>
 <title><![CDATA[Second Iranian Ship Heading To Sri Lanka After Submarine Attack]]></title>
 <link>https://www.barrons.com/news/second-iranian-ship-heading-to-sri-lanka-after-submarine-attack-68f0565e?refsec=topics_afp-news</link>
 <pubDate>Thu, 05 Mar 2026 11:31:24 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0e4298a8?refsec=topics_afp-news</link>
 <pubDate>Thu, 05 Mar 2026 08:21:42 -0000</pubDate>
 <description><![CDATA[Here are the latest main events related to the war in the Middle East:]]></description>
-</item>
-<item>
-<title><![CDATA[Middle East War Spirals With Fresh Strikes On Iran, Gulf]]></title>
-<link>https://www.barrons.com/news/iran-hits-kurdish-groups-in-iraq-as-conflict-widens-f865abf0?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 11:16:24 -0000</pubDate>
-<description><![CDATA[Israel on Thursday launched a fresh wave of strikes on Iran, which stepped up its attacks on Gulf nations Qatar and Bahrain, as the Middle East war spread throughout the region and beyond.]]></description>
 </item>
 </channel></rss>
