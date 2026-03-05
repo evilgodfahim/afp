@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 05 Mar 2026 12:53:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 13:59:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0e4298a8?refsec=topics_afp-news</link>
+<pubDate>Thu, 05 Mar 2026 13:59:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War Spirals With Fresh Strikes On Iran, Gulf]]></title>
 <link>https://www.barrons.com/news/iran-hits-kurdish-groups-in-iraq-as-conflict-widens-f865abf0?refsec=topics_afp-news</link>
 <pubDate>Thu, 05 Mar 2026 12:53:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Canada PM Carney Says Can't Rule Out Military Participation In Iran War]]></title>
-<link>https://www.barrons.com/news/canada-pm-carney-says-can-t-rule-out-military-participation-in-iran-war-d683f883?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 03:54:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Union Loses Fight Against Tesla At German Factory]]></title>
+<link>https://www.barrons.com/news/union-loses-fight-against-tesla-at-german-factory-b238c17d?refsec=topics_afp-news</link>
+<pubDate>Thu, 05 Mar 2026 13:59:28 -0000</pubDate>
+<description><![CDATA[Germany's largest union Thursday accused Tesla of intimidating staff at the US carmaker's factory outside Berlin after it lost a vote to gain control of a body representing workers' interests.]]></description>
+</item>
+<item>
 <title><![CDATA[Wary European States Pledge Military Aid For Cyprus, Gulf]]></title>
 <link>https://www.barrons.com/news/wary-european-states-pledge-military-aid-for-cyprus-gulf-93359924?refsec=topics_afp-news</link>
 <pubDate>Thu, 05 Mar 2026 12:53:12 -0000</pubDate>
 <description><![CDATA[Wary of getting directly involved in the US-Israeli war with Iran, European countries are nevertheless being drawn into the conflict following attacks on Cyprus and Western allies in the Gulf.]]></description>
 </item>
 <item>
-<title><![CDATA[Second Iranian Ship Heading To Sri Lanka After Submarine Attack]]></title>
+<title><![CDATA[Second Iranian Ship Nears Sri Lanka After Submarine Attack]]></title>
 <link>https://www.barrons.com/news/second-iranian-ship-heading-to-sri-lanka-after-submarine-attack-68f0565e?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 11:31:24 -0000</pubDate>
-<description><![CDATA[A second Iranian warship was heading towards Sri Lanka's territorial waters Thursday, a day after a US submarine destroyed an Iranian frigate, killing at least 84 sailors, a minister told parliament.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0e4298a8?refsec=topics_afp-news</link>
-<pubDate>Thu, 05 Mar 2026 08:21:42 -0000</pubDate>
-<description><![CDATA[Here are the latest main events related to the war in the Middle East:]]></description>
+<pubDate>Thu, 05 Mar 2026 13:44:28 -0000</pubDate>
+<description><![CDATA[A second Iranian warship neared Sri Lankan waters on Thursday, a minister told parliament, a day after a US submarine destroyed an Iranian frigate, killing at least 84 sailors.]]></description>
 </item>
 </channel></rss>
