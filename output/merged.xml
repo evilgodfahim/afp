@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Mar 2026 08:33:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 09:34:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka Denounces War Deaths, Houses Iran Sailors]]></title>
+<link>https://www.barrons.com/news/sri-lanka-denounces-war-deaths-houses-iran-sailors-17723403?refsec=topics_afp-news</link>
+<pubDate>Fri, 06 Mar 2026 09:34:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Italy Challenges EU Over Key Climate Tool]]></title>
 <link>https://www.barrons.com/news/italy-challenges-eu-over-key-climate-tool-c1f0c2a8?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 08:33:55 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Brazil's Petrobras Sees Profit Soar On Record Output]]></title>
-<link>https://www.barrons.com/news/brazil-s-petrobras-sees-profit-soar-on-record-output-8be13ee0?refsec=topics_afp-news</link>
-<pubDate>Fri, 06 Mar 2026 03:52:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Extensive Destruction In Beirut's Southern Suburbs Following Israeli Strikes]]></title>
+<link>https://www.barrons.com/news/extensive-destruction-in-beirut-s-southern-suburbs-following-israeli-strikes-2251bfa9?refsec=topics_afp-news</link>
+<pubDate>Fri, 06 Mar 2026 09:34:31 -0000</pubDate>
+<description><![CDATA[Israeli air strikes left behind massive destruction in Beirut's southern suburbs on Friday morning, with the Israeli military saying it had destroyed Hezbollah targets.]]></description>
+</item>
+<item>
 <title><![CDATA[Lufthansa Warns Of Heightened 'Uncertainty' From Mideast War]]></title>
 <link>https://www.barrons.com/news/lufthansa-warns-of-heightened-uncertainty-from-mideast-war-923e7451?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 08:33:56 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-169e286b?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 08:18:56 -0000</pubDate>
 <description><![CDATA[Here are the latest main events related to the war in the Middle East:]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka Denounces War Deaths, Houses Iran Sailors]]></title>
-<link>https://www.barrons.com/news/sri-lanka-denounces-war-deaths-houses-iran-sailors-17723403?refsec=topics_afp-news</link>
-<pubDate>Fri, 06 Mar 2026 08:03:56 -0000</pubDate>
-<description><![CDATA[Sri Lanka on Friday denounced the toll of the Mideast fighting, as the nation opened its arms to over 200 Iranian sailors who sought help after a deadly torpedo strike on another of Iran's ships.]]></description>
 </item>
 </channel></rss>
