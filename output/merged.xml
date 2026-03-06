@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Mar 2026 19:31:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 20:27:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Snake-like Robot Unveiled For Fukushima Debris Removal]]></title>
 <link>https://www.barrons.com/news/snake-like-robot-unveiled-for-fukushima-debris-removal-f8c6094f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump's Iran War Violates International Law, Experts Say]]></title>
+<link>https://www.barrons.com/news/trump-s-iran-war-violates-international-law-experts-say-0ae13e46?refsec=topics_afp-news</link>
+<pubDate>Fri, 06 Mar 2026 20:27:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UN Chief Slams 'Unlawful Attacks', Says Mideast Could Spiral Out Of Control]]></title>
+<link>https://www.barrons.com/news/un-chief-slams-unlawful-attacks-says-mideast-could-spiral-out-of-control-2ef644dd?refsec=topics_afp-news</link>
+<pubDate>Fri, 06 Mar 2026 20:12:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Three Former US Presidents Gather For Jesse Jackson Memorial]]></title>
 <link>https://www.barrons.com/news/three-former-us-presidents-gather-for-jesse-jackson-memorial-ea3d611d?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 18:38:53 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In Middle East Raises Stagflation Fears In Europe And Beyond]]></title>
-<link>https://www.barrons.com/news/war-in-middle-east-raises-stagflation-fears-in-europe-and-beyond-4cbf6131?refsec=topics_afp-news</link>
-<pubDate>Fri, 06 Mar 2026 16:21:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Soaring Gas Prices Spark Renewed Debate About European Electricity]]></title>
-<link>https://www.barrons.com/news/soaring-gas-prices-spark-renewed-debate-about-european-electricity-27f0081e?refsec=topics_afp-news</link>
-<pubDate>Fri, 06 Mar 2026 16:06:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
 <pubDate>Sun, 01 Mar 2026 20:33:27 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump To Attend Return Of Six US Troops Killed In Iran War]]></title>
+<link>https://www.barrons.com/news/trump-to-attend-return-of-six-us-troops-killed-in-iran-war-ccfec6bc?refsec=topics_afp-news</link>
+<pubDate>Fri, 06 Mar 2026 20:27:50 -0000</pubDate>
+<description><![CDATA[US President Donald Trump is to attend the dignified transfer on Saturday of six soldiers killed in an Iranian attack on Kuwait, the White House said Friday, as the escalating war with Tehran brings home its first American dead.]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War A New Shock For Financial Markets]]></title>
 <link>https://www.barrons.com/news/middle-east-war-a-new-shock-for-financial-markets-aa028c81?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 18:38:54 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/mexico-unveils-100-000-strong-security-deployment-for-world-cup-e879c103?refsec=topics_afp-news</link>
 <pubDate>Fri, 06 Mar 2026 18:23:54 -0000</pubDate>
 <description><![CDATA[Mexico said Friday it would deploy nearly 100,000 security personnel to protect fans at the football World Cup in three host cities, one of which, Guadalajara, has been plagued by cartel violence.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump's Iran War Violates International Law, Experts Say]]></title>
-<link>https://www.barrons.com/news/trump-s-iran-war-violates-international-law-experts-say-0ae13e46?refsec=topics_afp-news</link>
-<pubDate>Fri, 06 Mar 2026 18:08:54 -0000</pubDate>
-<description><![CDATA[The United States insists it attacked Iran to curb "direct threats" from the Islamic republic, but legal experts say the dangers cited by Washington do not justify war under international law.]]></description>
 </item>
 </channel></rss>
