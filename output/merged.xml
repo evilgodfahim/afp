@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 22:19:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 22:47:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka To Treat Iranian Sailors According To 'International Law']]></title>
+<link>https://www.barrons.com/news/sri-lanka-to-treat-iranian-sailors-according-to-international-law-a9f66642?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 22:47:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Protests Across Globe Mark One Week Of Iran War]]></title>
 <link>https://www.barrons.com/news/protesters-come-out-for-iran-against-war-in-spots-across-the-globe-bf02cbfe?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 21:42:40 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russia Rains Missiles And Drones On Ukraine, Killing Six]]></title>
-<link>https://www.barrons.com/news/russian-rains-missiles-and-drones-on-ukraine-killing-six-e43406ca?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 10:04:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -137,15 +137,15 @@
 <description><![CDATA[On a deserted road not too far from the border between Iran and Iraqi Kurdistan, Satar Barsirini looked up at the sky, now streaked with jets and drones.]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Attends Return Of First US Troops Killed In Iran War]]></title>
+<link>https://www.barrons.com/news/trump-attends-return-of-first-us-troops-killed-in-iran-war-274cb168?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 22:47:25 -0000</pubDate>
+<description><![CDATA[US President Donald Trump attended the return Saturday of the bodies of the first six US soldiers killed during the escalating war with Iran.]]></description>
+</item>
+<item>
 <title><![CDATA[NY Police Detain Man For Throwing Incendiary Devices Near Anti-Muslim Protest]]></title>
 <link>https://www.barrons.com/news/ny-police-detain-man-for-throwing-incendiary-devices-near-anti-muslim-protest-e23969d6?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 20:21:07 -0000</pubDate>
 <description><![CDATA[Police detained a man who threw what appeared to be two homemade incendiary devices near far-right protesters demonstrating at the residence of New York's mayor Saturday, AFP correspondents saw.]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka To Treat Iranian Sailors According To 'International Law']]></title>
-<link>https://www.barrons.com/news/sri-lanka-to-treat-iranian-sailors-according-to-international-law-a9f66642?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 20:06:07 -0000</pubDate>
-<description><![CDATA[Sri Lanka will treat Iranian sailors rescued from a torpedoed frigate according to international law, a minister said Saturday, following reports that Washington was pressuring Colombo to not repatriate them.]]></description>
 </item>
 </channel></rss>
