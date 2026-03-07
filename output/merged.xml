@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 18:28:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 18:57:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Starts Using UK Bases For 'Defensive' Iran Operations]]></title>
+<link>https://www.barrons.com/news/us-starts-using-uk-bases-for-defensive-iran-operations-ec571f7f?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 18:57:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sri Lanka To Treat Iranian Sailors According To 'International Law']]></title>
+<link>https://www.barrons.com/news/sri-lanka-to-treat-iranian-sailors-according-to-international-law-69feaa01?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 18:42:06 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-26860730?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 16:22:57 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Rising US Fuel Prices Risk Sparking Domestic Wildfire For Trump]]></title>
-<link>https://www.barrons.com/news/rising-us-fuel-prices-risk-sparking-domestic-wildfire-for-trump-b186c0ca?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 06:47:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Questions Over AI Capability As Tech Guides Iran Strikes]]></title>
-<link>https://www.barrons.com/news/questions-over-ai-capability-as-tech-guides-iran-strikes-0c92e988?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 03:57:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Protesters Come Out For Iran, Against War In Spots Across The Globe]]></title>
+<link>https://www.barrons.com/news/protesters-come-out-for-iran-against-war-in-spots-across-the-globe-bf02cbfe?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 18:57:07 -0000</pubDate>
+<description><![CDATA[Lion-emblazoned flags of pre-revolution Iran fluttered in cities across the world on Saturday as demonstrators took to the streets a week after the start of the war in the Middle East.]]></description>
+</item>
+<item>
+<title><![CDATA[Tehran Residents Keep Up Semblance Of Normality Amid Destruction]]></title>
+<link>https://www.barrons.com/news/tehran-residents-keep-up-semblance-of-normality-amid-destruction-c2830546?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 18:42:07 -0000</pubDate>
+<description><![CDATA[For a moment Tehran resembled a city at peace, with birdsong, joggers and tranquil views of the snow-capped Alborz mountains in the distance. Then the sound of another explosion ripped through the air.]]></description>
+</item>
+<item>
 <title><![CDATA[Women Rule The Roost Atop The Gdansk Shipyard Cranes]]></title>
 <link>https://www.barrons.com/news/women-rule-the-roost-atop-the-gdansk-shipyard-cranes-4fc5f995?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 16:22:59 -0000</pubDate>
 <description><![CDATA[For the past 30 years, Halina Krauze has sat atop a 15-metre (49-foot) crane surveying the Gdansk shipyard, the birthplace of the Solidarnosc trade union.]]></description>
-</item>
-<item>
-<title><![CDATA[US Starts Using UK Bases For 'Defensive' Iran Operations]]></title>
-<link>https://www.barrons.com/news/us-starts-using-uk-bases-for-defensive-iran-operations-ec571f7f?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 16:07:59 -0000</pubDate>
-<description><![CDATA[The United States has started using British bases for certain operations against Iran during the Middle East war, the UK government announced on Saturday.]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka To Treat Iranian Sailors According To 'International Law']]></title>
-<link>https://www.barrons.com/news/sri-lanka-to-treat-iranian-sailors-according-to-international-law-69feaa01?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 10:19:54 -0000</pubDate>
-<description><![CDATA[Sri Lanka will treat Iranian sailors rescued from a torpedoed frigate according to international law, a minister said Saturday, following reports Washington was pressuring Colombo to not repatriate them.]]></description>
 </item>
 </channel></rss>
