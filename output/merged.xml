@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 08:26:44 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 08:54:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Rapper-turned-politician Looks Set For Landslide Nepal Election Win]]></title>
+<link>https://www.barrons.com/news/nepal-s-rapper-turned-politician-looks-set-for-landslide-win-2135a62b?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 08:54:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Rising US Fuel Prices Risk Sparking Domestic Wildfire For Trump]]></title>
 <link>https://www.barrons.com/news/rising-us-fuel-prices-risk-sparking-domestic-wildfire-for-trump-b186c0ca?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 06:47:35 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Anthropic Vows Court Fight In Pentagon Row]]></title>
-<link>https://www.barrons.com/news/anthropic-vows-court-fight-in-pentagon-row-5f187227?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 01:13:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Four Dead, At Least 12 Injured After Tornados Hit Michigan: US Media]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 06:17:35 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Google Gives CEO New Pay Deal Worth Up To $692 Million]]></title>
+<link>https://www.barrons.com/news/google-gives-ceo-new-pay-deal-worth-up-to-692-million-2b11ce6b?refsec=topics_afp-news</link>
+<pubDate>Sat, 07 Mar 2026 08:54:48 -0000</pubDate>
+<description><![CDATA[The CEO of Google and its parent company Alphabet could earn up to $692 million over the next three years under a new compensation plan published Friday by the US Securities and Exchange Commission.]]></description>
+</item>
+<item>
 <title><![CDATA[Russia Rains Missiles And Drones On Ukraine, Killing Six]]></title>
 <link>https://www.barrons.com/news/russian-rains-missiles-and-drones-on-ukraine-killing-six-e43406ca?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 06:47:35 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/vibes-war-trump-pitches-iran-conflict-on-feeling-8ea75d08?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 03:57:38 -0000</pubDate>
 <description><![CDATA[Donald Trump has plunged the United States into its most significant conflict in decades over a "feeling." It's not his political opponents saying this, but the White House itself.]]></description>
-</item>
-<item>
-<title><![CDATA[Rapper-turned-politician Looks Set For Landslide Nepal Election Win]]></title>
-<link>https://www.barrons.com/news/nepal-s-rapper-turned-politician-looks-set-for-landslide-win-2135a62b?refsec=topics_afp-news</link>
-<pubDate>Sat, 07 Mar 2026 06:32:35 -0000</pubDate>
-<description><![CDATA[Nepal's centrist party of rapper-turned-politician Balendra Shah looked set to win by a landslide in parliamentary polls, according to Election Commission trends Saturday, but with counting still far to go.]]></description>
 </item>
 </channel></rss>
