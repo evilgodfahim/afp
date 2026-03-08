@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 15:20:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 15:45:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nepal's Rapper-led Centrist Party Heads For Poll Landslide]]></title>
+<link>https://www.barrons.com/news/nepal-s-rapper-led-centrist-party-heads-for-poll-landslide-d00b7ec4?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 15:45:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bangladesh Rations Fuel As Mideast War Deepens Energy Crunch]]></title>
+<link>https://www.barrons.com/news/bangladesh-rations-fuel-as-mideast-war-deepens-energy-crunch-7b068817?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 15:30:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Prepares To Name New Supreme Leader As Fuel Dumps Burn]]></title>
 <link>https://www.barrons.com/news/tehran-fuel-dumps-burn-as-iran-warns-it-can-fight-for-months-2384d30f?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 14:21:44 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sri Lanka Hospital Releases 22 Rescued From Torpedoed Iranian Vessel]]></title>
-<link>https://www.barrons.com/news/sri-lanka-hospital-releases-22-rescued-iranian-sailors-3548984e?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 06:51:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[White House UFC Event To Be Headlined By Topuria-Gaethje]]></title>
-<link>https://www.barrons.com/news/white-house-ufc-event-to-be-headlined-by-topuria-gaethje-84ac9011?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 06:36:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Says It Will Not Hit Iran Energy Sector]]></title>
+<link>https://www.barrons.com/news/us-says-it-will-not-hit-iran-energy-sector-0effdf7d?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 15:45:11 -0000</pubDate>
+<description><![CDATA[The United States will spare Iran's energy infrastructure as it wages war with Israel against the Islamic republic, Energy Secretary Chris Wright said Sunday.]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Prepares To Name New Leader As Tehran Fuel Dumps Burn]]></title>
+<link>https://www.barrons.com/news/iran-prepares-to-name-new-leader-as-tehran-fuel-dumps-burn-524b3cec?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 15:30:11 -0000</pubDate>
+<description><![CDATA[Iran was preparing to name a successor to its slain supreme leader on Sunday, after US-backed Israeli strikes destroyed fuel depots in Tehran, sparking blazes that covered the city in acrid smoke.]]></description>
+</item>
+<item>
 <title><![CDATA[Colombian Right Wing Eyes Comeback As Country Votes]]></title>
 <link>https://www.barrons.com/news/colombian-right-wing-eyes-comeback-as-country-votes-b919c83f?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 14:21:44 -0000</pubDate>
 <description><![CDATA[Colombians started voting Sunday in legislative elections that will shape the final months of left-wing President Gustavo Petro's term and test whether the once-powerful right wing is poised for a political comeback.]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal's Rapper-led Centrist Party Heads For Poll Landslide]]></title>
-<link>https://www.barrons.com/news/nepal-s-rapper-led-centrist-party-heads-for-poll-landslide-d00b7ec4?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 10:49:49 -0000</pubDate>
-<description><![CDATA[Nepal's centrist RSP party of rapper-turned-politician Balendra Shah had secured a majority in the direct parliamentary elections, partial official results showed Sunday, and was heading for a landslide according to official trends.]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh Rations Fuel As Mideast War Deepens Energy Crunch]]></title>
-<link>https://www.barrons.com/news/bangladesh-rations-fuel-as-mideast-war-deepens-energy-crunch-7b068817?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 10:34:49 -0000</pubDate>
-<description><![CDATA[Bangladesh launched fuel rationing on Sunday as the war in the Middle East deepened an energy crunch, creating long queues at filling stations and boiling over into anger.]]></description>
 </item>
 </channel></rss>
