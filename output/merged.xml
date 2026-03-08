@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 20:21:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 20:48:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Says New Iran Leader Won't Last Long Without His Approval]]></title>
+<link>https://www.barrons.com/news/iran-prepares-to-name-new-leader-as-tehran-fuel-dumps-burn-524b3cec?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 20:48:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US Says It Will Not Hit Iran Energy Sector]]></title>
+<link>https://www.barrons.com/news/us-says-it-will-not-hit-iran-energy-sector-0effdf7d?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 20:33:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Iran's Top Diplomat Says Iran, Not Trump, Will Elect New Leader]]></title>
 <link>https://www.barrons.com/news/iran-s-top-diplomat-says-iran-not-trump-will-elect-new-leader-847dfb4d?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 18:29:03 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-ae175219?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 10:34:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[NY Police Probe Man For Throwing 'Ignited' Devices Near Anti-Muslim Protest]]></title>
-<link>https://www.barrons.com/news/ny-police-probe-man-for-throwing-ignited-devices-near-anti-muslim-protest-24daf386?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 10:19:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Aaja Chemnitz, Greenland Politician Standing Up To Trump]]></title>
+<link>https://www.barrons.com/news/aaja-chemnitz-greenland-politician-standing-up-to-trump-099ed77a?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 20:48:20 -0000</pubDate>
+<description><![CDATA[In the streets of Nuuk, Aaja Chemnitz normally goes almost unnoticed. But in recent days, locals have been stopping the Greenland MP to congratulate her on her Nobel Peace Prize nomination -- though some fear it could rekindle Washington's interest in the Arctic island.]]></description>
+</item>
+<item>
+<title><![CDATA[NY Police Say Device Thrown Near Anti-Islam Protest Was IED]]></title>
+<link>https://www.barrons.com/news/ny-police-say-device-thrown-near-anti-islam-protest-was-ied-280bac3c?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 20:33:20 -0000</pubDate>
+<description><![CDATA[A homemade explosive thrown near anti-Islam protesters outside the New York mayor's residence was a viable device "that could have caused serious injury or death," police said Sunday.]]></description>
+</item>
+<item>
 <title><![CDATA[Pixar's 'Hoppers' Jumps To Top Of N. America Box Office]]></title>
 <link>https://www.barrons.com/news/pixar-s-hoppers-jumps-to-top-of-n-america-box-office-f2b576ef?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 18:29:04 -0000</pubDate>
 <description><![CDATA["Hoppers," the latest original animated film from Disney's Pixar, easily topped the North American box office with $46 million in ticket sales in its opening weekend, industry estimates showed Sunday.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says New Iran Leader Won't Last Long Without His Approval]]></title>
-<link>https://www.barrons.com/news/iran-prepares-to-name-new-leader-as-tehran-fuel-dumps-burn-524b3cec?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 16:51:15 -0000</pubDate>
-<description><![CDATA[US President Donald Trump warned on Sunday that Iran's next supreme leader would not last long without his approval, as Tehran prepared to reveal the successor to the slain Ayatollah Ali Khamenei.]]></description>
-</item>
-<item>
-<title><![CDATA[US Says It Will Not Hit Iran Energy Sector]]></title>
-<link>https://www.barrons.com/news/us-says-it-will-not-hit-iran-energy-sector-0effdf7d?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 15:45:11 -0000</pubDate>
-<description><![CDATA[The United States will spare Iran's energy infrastructure as it wages war with Israel against the Islamic republic, Energy Secretary Chris Wright said Sunday.]]></description>
 </item>
 </channel></rss>
