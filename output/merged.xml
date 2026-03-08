@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 16:23:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 16:51:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Colombian Right Wing Eyes Comeback As Country Votes]]></title>
+<link>https://www.barrons.com/news/colombian-right-wing-eyes-comeback-as-country-votes-b919c83f?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 16:51:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal's Rapper-led Centrist Party Heads For Poll Landslide]]></title>
 <link>https://www.barrons.com/news/nepal-s-rapper-led-centrist-party-heads-for-poll-landslide-d00b7ec4?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 15:45:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Says Can Fight For Months As Israel Strikes Beirut Hotel]]></title>
-<link>https://www.barrons.com/news/iran-says-can-fight-for-months-as-israel-strikes-beirut-hotel-cedd392c?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 07:06:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Says New Iran Leader Won't Last Long Without His Approval]]></title>
+<link>https://www.barrons.com/news/iran-prepares-to-name-new-leader-as-tehran-fuel-dumps-burn-524b3cec?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 16:51:15 -0000</pubDate>
+<description><![CDATA[US President Donald Trump warned on Sunday that Iran's next supreme leader would not last long without his approval, as Tehran prepared to reveal the successor to the slain Ayatollah Ali Khamenei.]]></description>
+</item>
+<item>
 <title><![CDATA[US Says It Will Not Hit Iran Energy Sector]]></title>
 <link>https://www.barrons.com/news/us-says-it-will-not-hit-iran-energy-sector-0effdf7d?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 15:45:11 -0000</pubDate>
 <description><![CDATA[The United States will spare Iran's energy infrastructure as it wages war with Israel against the Islamic republic, Energy Secretary Chris Wright said Sunday.]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Prepares To Name New Leader As Tehran Fuel Dumps Burn]]></title>
-<link>https://www.barrons.com/news/iran-prepares-to-name-new-leader-as-tehran-fuel-dumps-burn-524b3cec?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 15:30:11 -0000</pubDate>
-<description><![CDATA[Iran was preparing to name a successor to its slain supreme leader on Sunday, after US-backed Israeli strikes destroyed fuel depots in Tehran, sparking blazes that covered the city in acrid smoke.]]></description>
-</item>
-<item>
-<title><![CDATA[Colombian Right Wing Eyes Comeback As Country Votes]]></title>
-<link>https://www.barrons.com/news/colombian-right-wing-eyes-comeback-as-country-votes-b919c83f?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 14:21:44 -0000</pubDate>
-<description><![CDATA[Colombians started voting Sunday in legislative elections that will shape the final months of left-wing President Gustavo Petro's term and test whether the once-powerful right wing is poised for a political comeback.]]></description>
+<title><![CDATA[Iran's Top Diplomat Says Iran, Not Trump, Will Elect New Leader]]></title>
+<link>https://www.barrons.com/news/iran-s-top-diplomat-says-iran-not-trump-will-elect-new-leader-847dfb4d?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 16:36:15 -0000</pubDate>
+<description><![CDATA[Iran's foreign minister said Sunday that the Iranian people, not Donald Trump, will elect their new leader and demanded that the US president apologize for starting the war with Iran.]]></description>
 </item>
 </channel></rss>
