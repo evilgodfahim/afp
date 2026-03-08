@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Mar 2026 08:55:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 09:27:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Turkey's Jailed Mayor Says Demand For Change Cannot Be Stopped]]></title>
+<link>https://www.barrons.com/news/turkey-s-jailed-mayor-says-demand-for-change-cannot-be-stopped-d3f1223d?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 09:27:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuela Frees More Political Prisoners Under Amnesty Law]]></title>
 <link>https://www.barrons.com/news/venezuela-frees-more-political-prisoners-under-amnesty-law-7d7b77a9?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 08:27:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[German State Election A Test For Chancellor Merz]]></title>
-<link>https://www.barrons.com/news/german-state-election-a-test-for-chancellor-merz-15ae8f53?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 04:27:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[New Hunt For Flight MH370 Ends With No Clues To 12-year Mystery]]></title>
+<link>https://www.barrons.com/news/new-hunt-for-flight-mh370-ends-with-no-clues-to-12-year-mystery-5b9991fc?refsec=topics_afp-news</link>
+<pubDate>Sun, 08 Mar 2026 09:27:23 -0000</pubDate>
+<description><![CDATA[The latest search for Malaysia Airlines flight MH370, which went missing 12 years ago in one of aviation's greatest enduring mysteries, concluded in January without yielding any findings, Malaysia's transport ministry said on Sunday.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-ae175219?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 08:27:11 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/ny-police-probe-man-for-throwing-ignited-devices-near-anti-muslim-protest-24daf386?refsec=topics_afp-news</link>
 <pubDate>Sun, 08 Mar 2026 07:06:33 -0000</pubDate>
 <description><![CDATA[New York counterterror police said they were investigating on Saturday after a man threw "ignited devices" near far-right protesters demonstrating outside the mayor's home.]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey's Jailed Mayor Says Demand For Change Cannot Be Stopped]]></title>
-<link>https://www.barrons.com/news/turkey-s-jailed-mayor-says-demand-for-change-cannot-be-stopped-d3f1223d?refsec=topics_afp-news</link>
-<pubDate>Sun, 08 Mar 2026 06:51:33 -0000</pubDate>
-<description><![CDATA[Political efforts to cripple Turkey's main opposition and lock up its presidential candidate will never stifle the people's frustration with the government and their growing demand for change, Istanbul's jailed mayor told AFP in an interview.]]></description>
 </item>
 </channel></rss>
