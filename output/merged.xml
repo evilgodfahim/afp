@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 07:51:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 08:39:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Equities Plunge As Energy Prices Soar On Mideast Crisis]]></title>
+<link>https://www.barrons.com/news/asian-equities-plunge-as-oil-soars-30-on-mideast-crisis-2c0e6a90?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 08:39:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France To Host G7 Finance Meeting On Mideast]]></title>
+<link>https://www.barrons.com/news/france-to-host-g7-finance-meeting-on-mideast-1487c84f?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 08:24:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[One Year After Arrest, Turkey Opposition Champion Imamoglu Goes On Trial]]></title>
 <link>https://www.barrons.com/news/one-year-after-arrest-turkey-opposition-champion-imamoglu-goes-on-trial-617ce1f6?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 05:38:23 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Aaja Chemnitz, Greenland Politician Standing Up To Trump]]></title>
-<link>https://www.barrons.com/news/aaja-chemnitz-greenland-politician-standing-up-to-trump-099ed77a?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 01:37:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[NY Police Say Device Thrown Near Anti-Islam Protest Was Homemade Bomb]]></title>
-<link>https://www.barrons.com/news/ny-police-say-device-thrown-near-anti-islam-protest-was-ied-280bac3c?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 01:22:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Khamenei's Son Takes Charge As Iran War Sends Oil Price Soaring]]></title>
+<link>https://www.barrons.com/news/khamenei-s-son-takes-charge-as-iran-war-sends-oil-price-soaring-d56b3a29?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 08:39:48 -0000</pubDate>
+<description><![CDATA[Iran marked the appointment of Ayatollah Mojtaba Khamenei to replace his father as its new supreme leader with a barrage of missiles against Israel and the Gulf on Monday, as the war sent oil prices soaring.]]></description>
+</item>
+<item>
 <title><![CDATA[Singer Rihanna's LA Mansion Struck By Gunfire: Reports]]></title>
 <link>https://www.barrons.com/news/singer-rihanna-s-la-mansion-struck-by-gunfire-reports-605659b1?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 05:38:24 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/sharp-drop-in-chinese-military-aircraft-near-taiwan-raises-questions-9524739b?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 05:23:24 -0000</pubDate>
 <description><![CDATA[Taiwan has not detected a single Chinese military aircraft around the island for nine of the past 10 days, leaving experts puzzling over the reasons for the dramatic reduction in sorties.]]></description>
-</item>
-<item>
-<title><![CDATA[France To Host G7 Finance Meeting On Mideast]]></title>
-<link>https://www.barrons.com/news/france-to-host-g7-finance-meeting-on-mideast-1487c84f?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 04:14:27 -0000</pubDate>
-<description><![CDATA[France will host a video meeting of G7 finance ministers on the Middle East crisis on Monday, as the war fuels fears for the global economy.]]></description>
 </item>
 </channel></rss>
