@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 22:53:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 23:24:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Faces Mounting Political Risks As Iran War Escalates]]></title>
+<link>https://www.barrons.com/news/trump-faces-mounting-political-risks-as-iran-war-escalates-4bd6a602?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 23:24:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Tech Researchers Sue US Trump Administration Over Visa Bans]]></title>
 <link>https://www.barrons.com/news/tech-researchers-sue-us-trump-administration-over-visa-bans-c9b1cf6a?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 21:53:56 -0000</pubDate>
@@ -68,6 +74,12 @@
 <title><![CDATA[UK Warplanes Down Drones In Middle East, Conduct 'Defensive' Sorties For UAE]]></title>
 <link>https://www.barrons.com/news/uk-warplanes-down-drones-in-middle-east-conduct-defensive-sorties-for-uae-70fa1c68?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 21:38:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Says Iran War Will End 'Very Soon']]></title>
+<link>https://www.barrons.com/news/trump-says-iran-war-will-end-very-soon-976c5d54?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 23:09:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -95,21 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Anthropic Takes Trump Administration To Court Over Pentagon Row]]></title>
+<title><![CDATA[Anthropic Sues Trump Admin Over Pentagon Blacklisting]]></title>
 <link>https://www.barrons.com/news/anthropic-takes-trump-administration-to-court-over-pentagon-row-447f84f5?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 20:14:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ships Brandish China-links To Weave Through Strait Of Hormuz]]></title>
-<link>https://www.barrons.com/news/ships-brandish-china-links-to-weave-through-strait-of-hormuz-43364a89?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 19:59:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Economic Impact Around The World]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-economic-impact-around-the-world-5ec41176?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 18:47:34 -0000</pubDate>
+<pubDate>Mon, 09 Mar 2026 22:54:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Partial Government Shutdown Pushes US Airports To The Brink]]></title>
+<link>https://www.barrons.com/news/partial-government-shutdown-pushes-us-airports-to-the-brink-81c9dec1?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 23:24:37 -0000</pubDate>
+<description><![CDATA[Airports across the United States are feeling the strain of a partial government shutdown causing a shortage of travel safety agents, leading to extended travel delays for air passengers.]]></description>
+</item>
+<item>
 <title><![CDATA[US, Israel See Gap On Iran As Trump Under Pressure]]></title>
 <link>https://www.barrons.com/news/us-israel-see-gap-on-iran-as-trump-under-pressure-ce00d158?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 21:53:57 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/fbi-extends-2020-us-presidential-election-probe-to-arizona-6211e7dc?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 21:38:57 -0000</pubDate>
 <description><![CDATA[The FBI has extended its investigation of the 2020 US election, which President Donald Trump falsely claims to have won, to Arizona, state officials said Monday.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Faces Mounting Political Risks As Iran War Escalates]]></title>
-<link>https://www.barrons.com/news/trump-faces-mounting-political-risks-as-iran-war-escalates-4bd6a602?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 21:23:57 -0000</pubDate>
-<description><![CDATA[Lawmakers from US President Donald Trump's Republican Party are gathering Monday for a strategy session in Florida, with one urgent issue topping the agenda: how to prevent the Iran war from becoming a midterm election liability.]]></description>
 </item>
 </channel></rss>
