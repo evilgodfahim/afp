@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 09 Mar 2026 14:04:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 15:30:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Venezuela Interim Leader Asks Trump To Lift Blockade, Sanctions]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-asks-trump-to-lift-blockade-sanctions-afbfefaf?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK PM Starmer Says 'Monitoring' Economic Impact Of Iran War]]></title>
+<link>https://www.barrons.com/news/uk-pm-starmer-says-monitoring-economic-impact-of-iran-war-7b7e459b?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 15:30:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Stranded Iran Sailors Put Sri Lanka, India In Diplomatic Dilemma]]></title>
 <link>https://www.barrons.com/news/stranded-iran-sailors-put-sri-lanka-india-in-diplomatic-dilemma-5223c0e4?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 14:04:45 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sharp Drop In Chinese Military Aircraft Near Taiwan Raises Questions]]></title>
-<link>https://www.barrons.com/news/sharp-drop-in-chinese-military-aircraft-near-taiwan-raises-questions-9524739b?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 09:45:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
 <pubDate>Sat, 07 Mar 2026 14:48:17 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Live Nation Settles Antitrust Case With US Justice Dept, States Object]]></title>
+<link>https://www.barrons.com/news/live-nation-settles-antitrust-case-with-us-justice-dept-states-object-20725eca?refsec=topics_afp-news</link>
+<pubDate>Mon, 09 Mar 2026 15:30:15 -0000</pubDate>
+<description><![CDATA[Live Nation reached a tentative settlement with the US Justice Department on Monday in the federal antitrust case brought against the entertainment giant, a senior official said.]]></description>
+</item>
+<item>
 <title><![CDATA[NY Explosives Incident Investigated As IS-inspired 'Terrorism': Police]]></title>
 <link>https://www.barrons.com/news/ny-explosives-incident-investigated-as-is-inspired-terrorism-police-8080ad3a?refsec=topics_afp-news</link>
 <pubDate>Mon, 09 Mar 2026 14:04:46 -0000</pubDate>
 <description><![CDATA[A weekend incident in New York at which an improvised explosive device was thrown near an anti-Islam protest is being investigated as an Islamic State group-inspired act of "terrorism," police said Monday.]]></description>
 </item>
 <item>
-<title><![CDATA[Macron Discusses Security In Cyprus, Plans Aircraft Carrier Visit]]></title>
+<title><![CDATA[Macron Says France, Allies Preparing 'Defensive' Mission To Reopen Strait Of Hormuz]]></title>
 <link>https://www.barrons.com/news/macron-discusses-security-in-cyprus-plans-aircraft-carrier-visit-20bd8259?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 13:49:46 -0000</pubDate>
-<description><![CDATA[President Emmanuel Macron on Monday discussed regional security with the leaders of Cyprus and Greece and was later set to board France's Charles de Gaulle aircraft carrier deployed to the Mediterranean.]]></description>
-</item>
-<item>
-<title><![CDATA[UK PM Starmer Says 'Monitoring' Economic Impact Of Iran War]]></title>
-<link>https://www.barrons.com/news/uk-pm-starmer-says-monitoring-economic-impact-of-iran-war-7b7e459b?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 12:55:27 -0000</pubDate>
-<description><![CDATA[British Prime Minister Keir Starmer said Monday the government was monitoring the economic fallout of the US and Israel's war in Iran, as energy prices soared due to supply disruptions.]]></description>
+<pubDate>Mon, 09 Mar 2026 15:15:15 -0000</pubDate>
+<description><![CDATA[President Emmanuel Macron on Monday warned that an attack on Cyprus was an attack on all of Europe and said France and its allies were preparing a "defensive" mission to reopen the Strait of Hormuz as the Middle East war entered its second week.]]></description>
 </item>
 </channel></rss>
