@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 21:36:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 22:24:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shifting Sands? Trump And His Elastic Timeline For Iran War]]></title>
+<link>https://www.barrons.com/news/shifting-sands-trump-and-his-elastic-timeline-for-iran-war-7f31f556?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 22:24:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine Says Hit 'Key' Russian Military Factory In Missile Strike]]></title>
 <link>https://www.barrons.com/news/ukraine-says-hit-key-russian-military-factory-in-missile-strike-05331bd8?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 20:59:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Will Trump 'TACO' On Iran?]]></title>
+<title><![CDATA[Will Trump Blink On Iran As Pressure Mounts?]]></title>
 <link>https://www.barrons.com/news/will-trump-taco-on-iran-50bfcb62?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 20:44:38 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 22:09:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Administration Does About Face On Autism Treatment]]></title>
-<link>https://www.barrons.com/news/trump-administration-does-about-face-on-autism-treatment-c0f7214e?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 17:43:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mideast Tanker Escort: High-risk Mission For US Navy]]></title>
+<link>https://www.barrons.com/news/mideast-tanker-escort-high-risk-mission-for-us-navy-a6169b99?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 22:24:37 -0000</pubDate>
+<description><![CDATA[US Navy escorts could help increase the flow of tankers through the Strait of Hormuz, but American warships accompanying slow-moving commercial vessels would face threats including mines, missiles and drones in the narrow waterway bordering Iran.]]></description>
+</item>
+<item>
 <title><![CDATA[US Says Wouldn't Be 'Happy' If Russia Giving Iran Intel]]></title>
 <link>https://www.barrons.com/news/us-says-wouldn-t-be-happy-if-russia-giving-iran-intel-9bcb4026?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 20:59:39 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/trump-team-s-iran-war-rhetoric-fuels-backlash-92f7aea2?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 20:44:39 -0000</pubDate>
 <description><![CDATA[When the top US general spoke Tuesday of his "respect" for Iranian fighters, the remark underscored a striking divide between the restrained language of the military brass and the swaggering rhetoric used by President Donald Trump and his administration.]]></description>
-</item>
-<item>
-<title><![CDATA[Shifting Sands? Trump And His Elastic Timeline For Iran War]]></title>
-<link>https://www.barrons.com/news/shifting-sands-trump-and-his-elastic-timeline-for-iran-war-7f31f556?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 20:29:39 -0000</pubDate>
-<description><![CDATA[President Donald Trump announced he was sending US forces into war with Iran on February 28, kicking off a multidimensional regional conflict -- and a series of contradictory declarations on the American mission's scope and timeline.]]></description>
 </item>
 </channel></rss>
