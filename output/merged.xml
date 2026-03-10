@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 08:37:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 09:39:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Says Will Waive Some Oil Sanctions As Iran War Roils Markets]]></title>
+<link>https://www.barrons.com/news/trump-says-will-waive-some-oil-sanctions-as-iran-war-roils-markets-ca1e23f2?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 09:39:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French AI Startup AMI Announces $1 Bn Raised In Funding]]></title>
+<link>https://www.barrons.com/news/french-ai-startup-ami-announces-1-bn-raised-in-funding-f24d8b09?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 09:24:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Search Called Off After Indonesia Landfill Collapse Kills Seven]]></title>
 <link>https://www.barrons.com/news/search-called-off-after-indonesia-landfill-collapse-kills-seven-edc5202c?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 08:36:59 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fertilizer Prices Surge From Iran War, Squeezing Weary US Farmers]]></title>
-<link>https://www.barrons.com/news/fertilizer-prices-surge-from-iran-war-squeezing-weary-us-farmers-5ea34bf6?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 03:21:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuelan Lawmakers Advance Mining Reforms Sought By US]]></title>
-<link>https://www.barrons.com/news/venezuelan-lawmakers-advance-mining-reforms-sought-by-us-903814e6?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 03:06:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nuclear Power Summit To Open In France]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 01:15:22 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Vows To Fight On And Block All Gulf Oil]]></title>
+<link>https://www.barrons.com/news/iran-vows-to-fight-on-and-block-all-gulf-oil-93c6aab6?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 09:39:59 -0000</pubDate>
+<description><![CDATA[Iran vowed on Tuesday that not one litre of oil would be exported from the Gulf while its war with the United States and Israel continues, in a stark rebuke to President Donald Trump's boast that the conflict was all but over.]]></description>
+</item>
+<item>
 <title><![CDATA[Lego Posts Record Profit Despite Geopolitical Turmoil: CEO To AFP]]></title>
 <link>https://www.barrons.com/news/lego-posts-record-profit-despite-geopolitical-turmoil-ceo-to-afp-e697ea10?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 08:37:01 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/denmark-and-greenland-play-it-cool-to-chill-trump-5a2c0cad?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 06:42:51 -0000</pubDate>
 <description><![CDATA[After weathering Donald Trump's repeated threats to take control of Greenland, Copenhagen and Nuuk want to restore a bit of calm ahead of the Danish general election this month, observers say.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says Will Waive Some Oil Sanctions As Iran War Roils Markets]]></title>
-<link>https://www.barrons.com/news/trump-says-will-waive-some-oil-sanctions-as-iran-war-roils-markets-ca1e23f2?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 06:27:51 -0000</pubDate>
-<description><![CDATA[US President Donald Trump said Monday that he will waive some sanctions on oil to boost supply and bring down prices, due to market turmoil over war in the Middle East.]]></description>
 </item>
 </channel></rss>
