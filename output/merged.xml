@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 04:06:25 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 05:30:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar Civil War Drives Drugs Epidemic In Thai Hills]]></title>
+<link>https://www.barrons.com/news/myanmar-civil-war-drives-drugs-epidemic-in-thai-hills-463665e8?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 05:30:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[AI Offers Hope For Young Filmmakers Dreaming Of An Oscar]]></title>
 <link>https://www.barrons.com/news/ai-offers-hope-for-young-filmmakers-dreaming-of-an-oscar-dfab0cd7?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 04:06:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Faces Mounting Political Risks As Iran War Escalates]]></title>
-<link>https://www.barrons.com/news/trump-faces-mounting-political-risks-as-iran-war-escalates-4bd6a602?refsec=topics_afp-news</link>
-<pubDate>Mon, 09 Mar 2026 23:24:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nuclear Power Summit To Open In France]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 01:15:22 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Search Called Off After Indonesia Landfill Collapse Kills Seven]]></title>
+<link>https://www.barrons.com/news/search-called-off-after-indonesia-landfill-collapse-kills-seven-edc5202c?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 05:30:52 -0000</pubDate>
+<description><![CDATA[Indonesian rescuers have called off the search for victims of a landslide at the country's largest open landfill after pulling seven bodies out from under debris, an official said Tuesday.]]></description>
+</item>
+<item>
 <title><![CDATA[Crude Plunges, Stocks Rally As Trump Says War 'Pretty Much' Complete]]></title>
 <link>https://www.barrons.com/news/crude-plunges-stocks-rally-as-trump-says-war-pretty-much-complete-f4782af6?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 04:06:25 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/vance-hegseth-attend-return-of-seventh-us-troop-killed-in-iran-war-c7e5f25b?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 03:51:25 -0000</pubDate>
 <description><![CDATA[US Vice President JD Vance on Monday attended the dignified transfer ceremony for the seventh soldier killed in the Middle East war.]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar Civil War Drives Drugs Epidemic In Thai Hills]]></title>
-<link>https://www.barrons.com/news/myanmar-civil-war-drives-drugs-epidemic-in-thai-hills-463665e8?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 03:36:25 -0000</pubDate>
-<description><![CDATA[Hundreds of thousands of people in northern Thailand have become collateral damage from the civil war in neighbouring Myanmar, turning to drugs as supply through the area rockets on the back of the conflict.]]></description>
 </item>
 </channel></rss>
