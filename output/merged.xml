@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 07:38:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 08:37:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crude Plunges, Stocks Rally As Trump Says War 'Pretty Much' Complete]]></title>
+<title><![CDATA[Search Called Off After Indonesia Landfill Collapse Kills Seven]]></title>
+<link>https://www.barrons.com/news/search-called-off-after-indonesia-landfill-collapse-kills-seven-edc5202c?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 08:36:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crude Plunges, Stocks Rally As Trump Says War Over 'Very Soon']]></title>
 <link>https://www.barrons.com/news/crude-plunges-stocks-rally-as-trump-says-war-pretty-much-complete-f4782af6?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 06:42:51 -0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 08:21:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Partial Government Shutdown Pushes US Airports To The Brink]]></title>
-<link>https://www.barrons.com/news/partial-government-shutdown-pushes-us-airports-to-the-brink-81c9dec1?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 02:51:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nuclear Power Summit To Open In France]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 01:15:22 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lego Posts Record Profit Despite Geopolitical Turmoil: CEO To AFP]]></title>
+<link>https://www.barrons.com/news/lego-posts-record-profit-despite-geopolitical-turmoil-ceo-to-afp-e697ea10?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 08:37:01 -0000</pubDate>
+<description><![CDATA[Denmark's Lego, the world’s number one toy maker, on Tuesday posted record sales and profits for its 2025 financial year, marking a "fantastic" year, despite global tensions, Lego's CEO told AFP.]]></description>
+</item>
+<item>
 <title><![CDATA[Denmark And Greenland Play It Cool To Chill Trump]]></title>
 <link>https://www.barrons.com/news/denmark-and-greenland-play-it-cool-to-chill-trump-5a2c0cad?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 06:42:51 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/trump-says-will-waive-some-oil-sanctions-as-iran-war-roils-markets-ca1e23f2?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 06:27:51 -0000</pubDate>
 <description><![CDATA[US President Donald Trump said Monday that he will waive some sanctions on oil to boost supply and bring down prices, due to market turmoil over war in the Middle East.]]></description>
-</item>
-<item>
-<title><![CDATA[Search Called Off After Indonesia Landfill Collapse Kills Seven]]></title>
-<link>https://www.barrons.com/news/search-called-off-after-indonesia-landfill-collapse-kills-seven-edc5202c?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 05:30:52 -0000</pubDate>
-<description><![CDATA[Indonesian rescuers have called off the search for victims of a landslide at the country's largest open landfill after pulling seven bodies out from under debris, an official said Tuesday.]]></description>
 </item>
 </channel></rss>
