@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 10 Mar 2026 05:30:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 06:42:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Crude Plunges, Stocks Rally As Trump Says War 'Pretty Much' Complete]]></title>
+<link>https://www.barrons.com/news/crude-plunges-stocks-rally-as-trump-says-war-pretty-much-complete-f4782af6?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 06:42:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Vance, Hegseth Attend Return Of Seventh US Troop Killed In Iran War]]></title>
+<link>https://www.barrons.com/news/vance-hegseth-attend-return-of-seventh-us-troop-killed-in-iran-war-c7e5f25b?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 06:27:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Myanmar Civil War Drives Drugs Epidemic In Thai Hills]]></title>
 <link>https://www.barrons.com/news/myanmar-civil-war-drives-drugs-epidemic-in-thai-hills-463665e8?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 05:30:51 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Israel See Gap On Iran As Trump Under Pressure]]></title>
-<link>https://www.barrons.com/news/us-israel-see-gap-on-iran-as-trump-under-pressure-ce00d158?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 01:45:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[FBI Extends 2020 US Presidential Election Probe To Arizona]]></title>
-<link>https://www.barrons.com/news/fbi-extends-2020-us-presidential-election-probe-to-arizona-6211e7dc?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 01:30:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Nuclear Power Summit To Open In France]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 01:15:22 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Denmark And Greenland Play It Cool To Chill Trump]]></title>
+<link>https://www.barrons.com/news/denmark-and-greenland-play-it-cool-to-chill-trump-5a2c0cad?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 06:42:51 -0000</pubDate>
+<description><![CDATA[After weathering Donald Trump's repeated threats to take control of Greenland, Copenhagen and Nuuk want to restore a bit of calm ahead of the Danish general election this month, observers say.]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Says Will Waive Some Oil Sanctions As Iran War Roils Markets]]></title>
+<link>https://www.barrons.com/news/trump-says-will-waive-some-oil-sanctions-as-iran-war-roils-markets-ca1e23f2?refsec=topics_afp-news</link>
+<pubDate>Tue, 10 Mar 2026 06:27:51 -0000</pubDate>
+<description><![CDATA[US President Donald Trump said Monday that he will waive some sanctions on oil to boost supply and bring down prices, due to market turmoil over war in the Middle East.]]></description>
+</item>
+<item>
 <title><![CDATA[Search Called Off After Indonesia Landfill Collapse Kills Seven]]></title>
 <link>https://www.barrons.com/news/search-called-off-after-indonesia-landfill-collapse-kills-seven-edc5202c?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 05:30:52 -0000</pubDate>
 <description><![CDATA[Indonesian rescuers have called off the search for victims of a landslide at the country's largest open landfill after pulling seven bodies out from under debris, an official said Tuesday.]]></description>
-</item>
-<item>
-<title><![CDATA[Crude Plunges, Stocks Rally As Trump Says War 'Pretty Much' Complete]]></title>
-<link>https://www.barrons.com/news/crude-plunges-stocks-rally-as-trump-says-war-pretty-much-complete-f4782af6?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 04:06:25 -0000</pubDate>
-<description><![CDATA[Oil prices tanked and equities rallied Tuesday following a wild day of swings that came after Donald Trump said the US-Israel war on Iran would be ending earlier than thought.]]></description>
-</item>
-<item>
-<title><![CDATA[Vance, Hegseth Attend Return Of Seventh US Troop Killed In Iran War]]></title>
-<link>https://www.barrons.com/news/vance-hegseth-attend-return-of-seventh-us-troop-killed-in-iran-war-c7e5f25b?refsec=topics_afp-news</link>
-<pubDate>Tue, 10 Mar 2026 03:51:25 -0000</pubDate>
-<description><![CDATA[US Vice President JD Vance on Monday attended the dignified transfer ceremony for the seventh soldier killed in the Middle East war.]]></description>
 </item>
 </channel></rss>
