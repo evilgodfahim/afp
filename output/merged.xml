@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 11:30:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 12:52:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Germany, Japan To Unblock Oil Reserves As G7 Stands 'Ready' To Act]]></title>
+<link>https://www.barrons.com/news/g7-inches-closer-to-tapping-oil-reserves-to-tackle-price-rise-8f8ccdb1?refsec=topics_afp-news</link>
+<pubDate>Wed, 11 Mar 2026 12:52:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Airlines In Asia Hike Fares As Mideast War Raises Fuel Costs]]></title>
 <link>https://www.barrons.com/news/airlines-in-asia-hike-fares-as-mideast-war-raises-fuel-costs-a1324ddc?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 11:30:37 -0000</pubDate>
@@ -89,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French Aid Worker Killed In DR Congo Air Strike]]></title>
+<link>https://www.barrons.com/news/french-aid-worker-killed-in-dr-congo-air-strike-46d219a4?refsec=topics_afp-news</link>
+<pubDate>Wed, 11 Mar 2026 12:37:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Punch The Baby Monkey Isn't Being Bullied: Japan Zoo]]></title>
 <link>https://www.barrons.com/news/punch-the-baby-monkey-isn-t-being-bullied-japan-zoo-d905549c?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 10:15:37 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[German Defence Giant Rheinmetall Sees Faster Growth As Europe Rearms]]></title>
 <link>https://www.barrons.com/news/german-defence-giant-rheinmetall-sees-faster-growth-as-europe-rearms-0b8fb76a?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 09:38:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fears Of Fuel Shortage In Pakistan As Tankers Wait To Fill Up]]></title>
-<link>https://www.barrons.com/news/fears-of-fuel-shortage-in-pakistan-as-tankers-wait-to-fill-up-9c7d2199?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 09:23:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Said Iran 'Welcome To Compete' In World Cup, Says Infantino]]></title>
-<link>https://www.barrons.com/news/trump-said-iran-welcome-to-compete-in-world-cup-says-infantino-a8fe3d7b?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 09:08:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Malawi Court Dismisses 15-year Lawsuit Against Madonna Charity]]></title>
+<link>https://www.barrons.com/news/malawi-court-dismisses-15-year-lawsuit-against-madonna-charity-1d686a57?refsec=topics_afp-news</link>
+<pubDate>Wed, 11 Mar 2026 12:52:59 -0000</pubDate>
+<description><![CDATA[A Malawi High Court has dismissed a wrongful‑termination case against US pop star Madonna brought by the sister of a former president, in one of the country's longest-running NGO disputes.]]></description>
+</item>
+<item>
 <title><![CDATA[Airlines Grapple With Impact Of Mideast War]]></title>
 <link>https://www.barrons.com/news/airlines-grapple-with-impact-of-mideast-war-6dddafae?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 11:30:38 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/cathay-says-surcharge-to-rise-as-fuel-prices-jump-during-mideast-war-74d81225?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 11:15:38 -0000</pubDate>
 <description><![CDATA[Hong Kong aviation giant Cathay Pacific said on Wednesday that fuel surcharges would rise after prices soared in March with the outbreak of war in the Middle East.]]></description>
-</item>
-<item>
-<title><![CDATA[G7 Inches Closer To Tapping Oil Reserves To Tackle Price Rise]]></title>
-<link>https://www.barrons.com/news/g7-inches-closer-to-tapping-oil-reserves-to-tackle-price-rise-8f8ccdb1?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 11:00:38 -0000</pubDate>
-<description><![CDATA[The Group of Seven advanced economies inched closer Wednesday to tapping strategic oil reserves to tackle the rise in crude oil prices due to the Middle East war as energy ministers said they stood ready to take "all necessary measures".]]></description>
 </item>
 </channel></rss>
