@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 22:51:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 23:22:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Happy (And Safe) Shooting!': Study Says AI Chatbots Help Plot Attacks]]></title>
+<link>https://www.barrons.com/news/happy-and-safe-shooting-study-says-ai-chatbots-help-plot-attacks-34f5080b?refsec=topics_afp-news</link>
+<pubDate>Wed, 11 Mar 2026 23:22:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[UN Security Council Demands Iran Halt Attacks On Gulf States]]></title>
 <link>https://www.barrons.com/news/un-security-council-demands-iran-halt-attacks-on-gulf-states-d2c6203e?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 21:56:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Earth's Ice Is Melting: Where And How Fast?]]></title>
-<link>https://www.barrons.com/news/earth-s-ice-is-melting-where-and-how-fast-7b56a859?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 17:10:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Takes First Steps Towards New Global Trade Penalties]]></title>
+<link>https://www.barrons.com/news/us-takes-first-steps-towards-new-global-trade-penalties-6b8c400f?refsec=topics_afp-news</link>
+<pubDate>Wed, 11 Mar 2026 23:22:02 -0000</pubDate>
+<description><![CDATA[The United States announced new investigations Wednesday into what it considers unfair trade practices by dozens of countries, opening the door to penalties such as further tariffs as President Donald Trump seeks to replace duties struck down by the Supreme Court.]]></description>
+</item>
+<item>
 <title><![CDATA[Iranian Sea Mines: The West's Waterborne Nightmare]]></title>
 <link>https://www.barrons.com/news/iranian-sea-mines-the-west-s-waterborne-nightmare-4c484557?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 20:33:36 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/us-india-still-at-odds-with-majority-on-wto-reform-a646d544?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 20:18:36 -0000</pubDate>
 <description><![CDATA[The United States and India still have reservations about a plan to overhaul the World Trade Organization, even though "a large majority of members" support it, the talks facilitator said Wednesday.]]></description>
-</item>
-<item>
-<title><![CDATA['Happy (And Safe) Shooting!': Study Says AI Chatbots Help Plot Attacks]]></title>
-<link>https://www.barrons.com/news/happy-and-safe-shooting-study-says-ai-chatbots-help-plot-attacks-34f5080b?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 20:03:36 -0000</pubDate>
-<description><![CDATA[From school shootings to synagogue bombings, leading AI chatbots helped researchers plot violent attacks, according to a study published Wednesday that highlighted the technology's potential for real-world harm.]]></description>
 </item>
 </channel></rss>
