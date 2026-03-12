@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Mar 2026 08:38:18 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 09:39:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[BMW Profit Holds Up Despite Trump Tariffs, China Woes]]></title>
+<link>https://www.barrons.com/news/bmw-profit-holds-up-despite-trump-tariffs-china-woes-31ec7fbb?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 09:39:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Appoints Widow Of Right-wing Activist To Air Force Academy Board]]></title>
+<link>https://www.barrons.com/news/trump-appoints-widow-of-right-wing-activist-to-air-force-academy-board-e63e13f7?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 09:24:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Bangladesh Parliament Reconvenes After Uprising And Polls]]></title>
 <link>https://www.barrons.com/news/bangladesh-parliament-reconvenes-after-uprising-and-polls-e9cc22fe?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 08:38:17 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Targets Fuel Facilities, Sending Oil Soaring Again]]></title>
-<link>https://www.barrons.com/news/iran-targets-fuel-facilities-sending-oil-soaring-again-efdb1c6a?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 06:20:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia To Change Fuel Quality Standards To Boost Supply]]></title>
-<link>https://www.barrons.com/news/australia-to-change-fuel-quality-standards-to-boost-supply-a6938d1d?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 06:05:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Businessman Or Politician? Billionaire Czech PM Under Fire Again]]></title>
+<link>https://www.barrons.com/news/businessman-or-politician-billionaire-czech-pm-under-fire-again-9ba9bbbe?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 09:39:12 -0000</pubDate>
+<description><![CDATA[Since entering politics in 2011, Czech Prime Minister Andrej Babis has been grappling with a conflict of interest as a billionaire businessman and politician, and his latest stint in power is no exception.]]></description>
+</item>
+<item>
+<title><![CDATA[Mideast War Lands India Restaurants In Soup]]></title>
+<link>https://www.barrons.com/news/mideast-war-lands-india-restaurants-in-soup-859b9cb3?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 09:24:12 -0000</pubDate>
+<description><![CDATA[Indian restaurant MadCo took the tough call this week to remove some menu favourites, including bone marrow -- a beef bone cut in half and slowly roasted, in an attempt to save cooking gas as the Iran war disrupts supply chains.]]></description>
+</item>
+<item>
 <title><![CDATA[Cathay Pacific Roughly Doubles Fuel Surcharge On Most Routes]]></title>
 <link>https://www.barrons.com/news/cathay-pacific-roughly-doubles-fuel-surcharge-on-most-routes-43b9ef5e?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 08:38:18 -0000</pubDate>
 <description><![CDATA[Hong Kong aviation giant Cathay Pacific announced new fuel surcharges for most routes Thursday that are roughly double the existing ones.]]></description>
-</item>
-<item>
-<title><![CDATA[BMW Profit Holds Up Despite Trump Tariffs, China Woes]]></title>
-<link>https://www.barrons.com/news/bmw-profit-holds-up-despite-trump-tariffs-china-woes-31ec7fbb?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 08:23:18 -0000</pubDate>
-<description><![CDATA[German carmaker BMW reported a three percent fall in annual profit on Thursday, despite US tariffs and cutthroat competition in China, far smaller than the double-digit plunges seen at rivals.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Appoints Widow Of Right-wing Activist To Air Force Academy Board]]></title>
-<link>https://www.barrons.com/news/trump-appoints-widow-of-right-wing-activist-to-air-force-academy-board-e63e13f7?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 08:08:18 -0000</pubDate>
-<description><![CDATA[President Donald Trump has appointed the widow of assassinated right-wing activist Charlie Kirk to the US Air Force Academy advisory board, US media reported Wednesday.]]></description>
 </item>
 </channel></rss>
