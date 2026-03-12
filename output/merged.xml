@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 23:48:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 01:47:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,9 +59,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[North Korea Unveils Image Of Leader's Daughter Firing Pistol]]></title>
+<link>https://www.barrons.com/news/north-korea-unveils-image-of-leader-s-daughter-firing-pistol-ffb44605?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:47:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US Takes First Steps Towards New Global Trade Penalties]]></title>
+<link>https://www.barrons.com/news/us-takes-first-steps-towards-new-global-trade-penalties-6b8c400f?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:32:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranian Sea Mines: The West's Waterborne Nightmare]]></title>
+<link>https://www.barrons.com/news/iranian-sea-mines-the-west-s-waterborne-nightmare-4c484557?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:17:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US, India Still At Odds With Majority On WTO Reform]]></title>
+<link>https://www.barrons.com/news/us-india-still-at-odds-with-majority-on-wto-reform-a646d544?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:02:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Happy (And Safe) Shooting!': Study Says AI Chatbots Help Plot Attacks]]></title>
 <link>https://www.barrons.com/news/happy-and-safe-shooting-study-says-ai-chatbots-help-plot-attacks-34f5080b?refsec=topics_afp-news</link>
 <pubDate>Wed, 11 Mar 2026 23:22:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War Disrupts Fertiliser Supplies, Puts Food Security At Risk]]></title>
+<link>https://www.barrons.com/news/war-disrupts-fertiliser-supplies-puts-food-security-at-risk-ba027091?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 00:47:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,36 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New Crackdown Feared In Iran After Police Chief Brands Protesters 'Enemies']]></title>
-<link>https://www.barrons.com/news/new-crackdown-feared-in-iran-after-police-chief-brands-protesters-enemies-d159f424?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 20:03:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Albania TikTok Ban Violated Free Speech, Court Rules]]></title>
-<link>https://www.barrons.com/news/albania-tiktok-ban-violated-free-speech-court-rules-e89169da?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 19:23:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[German Central Bank Abandons Controversial Overhaul]]></title>
-<link>https://www.barrons.com/news/german-central-bank-abandons-controversial-overhaul-5f08b98a?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 19:08:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Arctic Sea Ice Among Lowest On Record: AFP Review Of US Data]]></title>
-<link>https://www.barrons.com/news/arctic-sea-ice-among-lowest-on-record-afp-review-of-us-data-a3ab161d?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 18:53:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa Summons New US Envoy Over 'Undiplomatic Remarks']]></title>
-<link>https://www.barrons.com/news/south-africa-summons-new-us-envoy-over-undiplomatic-remarks-a62d82a3?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 17:25:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Takes First Steps Towards New Global Trade Penalties]]></title>
-<link>https://www.barrons.com/news/us-takes-first-steps-towards-new-global-trade-penalties-6b8c400f?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 23:22:02 -0000</pubDate>
-<description><![CDATA[The United States announced new investigations Wednesday into what it considers unfair trade practices by dozens of countries, opening the door to penalties such as further tariffs as President Donald Trump seeks to replace duties struck down by the Supreme Court.]]></description>
+<title><![CDATA[One Surprise After Another? Oscars Night Set To Be Unpredictable]]></title>
+<link>https://www.barrons.com/news/one-surprise-after-another-oscars-night-set-to-be-unpredictable-94d91b73?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:47:51 -0000</pubDate>
+<description><![CDATA[With "Sinners" and "One Battle After Another" neck-and-neck for best picture and several acting races far too close to call, this Sunday's Oscars gala is shaping up to be the most unpredictable in years.]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian Sea Mines: The West's Waterborne Nightmare]]></title>
-<link>https://www.barrons.com/news/iranian-sea-mines-the-west-s-waterborne-nightmare-4c484557?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 20:33:36 -0000</pubDate>
-<description><![CDATA[Tehran is seeking to choke the vital Strait of Hormuz to oil traffic following US and Israeli strikes against Iran, with fears it could be using sea mines to do so.]]></description>
+<title><![CDATA[Scary Times For Haitians In US Living In Shadows Of ICE]]></title>
+<link>https://www.barrons.com/news/scary-times-for-haitians-in-us-living-in-shadows-of-ice-14d08449?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:32:51 -0000</pubDate>
+<description><![CDATA[Life has not always been easy for Maryse Balthazar since she relocated to the United States from Haiti, but she felt peace of mind before Donald Trump returned to office.]]></description>
 </item>
 <item>
-<title><![CDATA[US, India Still At Odds With Majority On WTO Reform]]></title>
-<link>https://www.barrons.com/news/us-india-still-at-odds-with-majority-on-wto-reform-a646d544?refsec=topics_afp-news</link>
-<pubDate>Wed, 11 Mar 2026 20:18:36 -0000</pubDate>
-<description><![CDATA[The United States and India still have reservations about a plan to overhaul the World Trade Organization, even though "a large majority of members" support it, the talks facilitator said Wednesday.]]></description>
+<title><![CDATA[With Middle East In Flames, Texan Bunker Maker Sees Business Boom]]></title>
+<link>https://www.barrons.com/news/with-middle-east-in-flames-texan-bunker-maker-sees-business-boom-11680dbe?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 01:17:51 -0000</pubDate>
+<description><![CDATA[Since the war in the Middle East began nearly two weeks ago, the phone at Ron Hubbard's bomb shelter company in Texas hasn't stopped ringing.]]></description>
 </item>
 </channel></rss>
