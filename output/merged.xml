@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Mar 2026 14:01:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 15:14:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[WWII Leader Churchill To Be Removed From UK Banknotes]]></title>
+<link>https://www.barrons.com/news/wwii-leader-churchill-to-be-removed-from-uk-banknotes-64d10b00?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 15:14:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Military 'Not Ready' To Escort Tankers Through Hormuz Strait: Energy Secretary]]></title>
 <link>https://www.barrons.com/news/us-military-not-ready-to-escort-tankers-through-hormuz-strait-energy-secretary-86a6b584?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 14:01:32 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BMW Profit Holds Up Despite Trump Tariffs, China Woes]]></title>
-<link>https://www.barrons.com/news/bmw-profit-holds-up-despite-trump-tariffs-china-woes-31ec7fbb?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 09:39:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lufthansa Flights Axed As Pilots Walk Out]]></title>
+<link>https://www.barrons.com/news/lufthansa-flights-axed-as-pilots-walk-out-19f2fd0b?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 15:14:18 -0000</pubDate>
+<description><![CDATA[Lufthansa said about half its flights were cancelled Thursday as pilots from the German airline kicked off a two-day strike over pensions.]]></description>
+</item>
+<item>
 <title><![CDATA['One War Too Many': Lebanese Angry With Hezbollah For Attacking Israel]]></title>
 <link>https://www.barrons.com/news/one-war-too-many-lebanese-angry-with-hezbollah-for-attacking-israel-42eb1779?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 14:01:33 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/turkey-talking-to-us-iran-in-bid-to-end-war-minister-e5a421fc?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 13:46:33 -0000</pubDate>
 <description><![CDATA[Turkey is talking to both Washington and Tehran in a bid to end the Middle East war, Foreign Minister Hakan Fidan said Thursday as the conflict raged for a 13th day.]]></description>
-</item>
-<item>
-<title><![CDATA[WWII Leader Churchill To Be Removed From UK Banknotes]]></title>
-<link>https://www.barrons.com/news/wwii-leader-churchill-to-be-removed-from-uk-banknotes-64d10b00?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 12:52:47 -0000</pubDate>
-<description><![CDATA[World War II leader Winston Churchill is to be dropped from the UK £5 banknote in favour of a nature scene, sparking outrage from some lawmakers who said he should not be replaced by an otter or badger.]]></description>
 </item>
 </channel></rss>
