@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 12 Mar 2026 22:53:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 23:24:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Italian Prosecutors Seek Trial For Amazon Over Tax Evasion]]></title>
+<link>https://www.barrons.com/news/italian-prosecutors-seek-trial-for-amazon-over-tax-evasion-1d8b9ae0?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 23:24:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Dating App Tinder Dabbles With AI Matchmaking]]></title>
 <link>https://www.barrons.com/news/dating-app-tinder-dabbles-with-ai-matchmaking-fef17f99?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 21:56:41 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Senate Passes Housing Bill As Lawmakers Seek Cost-of-living Win]]></title>
-<link>https://www.barrons.com/news/us-senate-passes-housing-bill-as-lawmakers-seek-cost-of-living-win-08695340?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 18:19:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Leader's First Foreign Trip Abruptly Canceled]]></title>
+<link>https://www.barrons.com/news/venezuela-leader-s-first-foreign-trip-abruptly-canceled-c1aa831c?refsec=topics_afp-news</link>
+<pubDate>Thu, 12 Mar 2026 23:24:34 -0000</pubDate>
+<description><![CDATA[The first foreign visit of Venezuela's US-backed interim leader since taking power was abruptly canceled on Thursday, just hours before she was due to arrive in Colombia.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Says Iran War Moving 'Very Rapidly']]></title>
 <link>https://www.barrons.com/news/trump-says-iran-war-moving-very-rapidly-1b9c38fb?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 21:56:42 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-eea5bf30?refsec=topics_afp-news</link>
 <pubDate>Thu, 12 Mar 2026 21:41:42 -0000</pubDate>
 <description><![CDATA[NASA said Thursday that the long-delayed launch of Artemis 2, the first crewed flyby mission to the Moon in more than 50 years, could come as soon as April 1.]]></description>
-</item>
-<item>
-<title><![CDATA[Italian Prosecutors Seek Trial For Amazon Over Tax Evasion]]></title>
-<link>https://www.barrons.com/news/italian-prosecutors-seek-trial-for-amazon-over-tax-evasion-1d8b9ae0?refsec=topics_afp-news</link>
-<pubDate>Thu, 12 Mar 2026 21:26:42 -0000</pubDate>
-<description><![CDATA[Milan prosecutors have requested a criminal trial for Amazon and four of its executives over alleged tax fraud worth more than one billion euros, Italian media reported Thursday.]]></description>
 </item>
 </channel></rss>
