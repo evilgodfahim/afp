@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 19:28:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 19:56:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Will US Oil Sanctions Waiver Help Russia?]]></title>
+<link>https://www.barrons.com/news/how-will-us-oil-sanctions-waiver-help-russia-4e9b7bf0?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 19:56:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Which Khamenei Family Members Were Killed At Start Of War?]]></title>
 <link>https://www.barrons.com/news/which-khamenei-family-members-were-killed-at-start-of-war-35e6bc18?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 18:36:35 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Global Shipping Industry Caught In Storm Of War]]></title>
-<link>https://www.barrons.com/news/global-shipping-industry-caught-in-storm-of-war-43685b61?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 16:01:50 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK Govt Warns Petrol Retailers Against 'Unfair Practices' During Iran War]]></title>
+<link>https://www.barrons.com/news/uk-govt-warns-petrol-retailers-against-unfair-practices-during-iran-war-b7d64dca?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 19:56:04 -0000</pubDate>
+<description><![CDATA[Britain's energy minister warned petrol retailers Friday that the government would not tolerate "unfair practices" amid a row over rising fuel prices sparked by the Middle East war.]]></description>
+</item>
+<item>
 <title><![CDATA[War Has Halted Gulf Oil Flow -- And Restarting It Won't Be Easy]]></title>
 <link>https://www.barrons.com/news/war-has-halted-gulf-oil-flow-and-restarting-it-won-t-be-easy-698a67b8?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 18:36:36 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/mideast-war-cuts-hormuz-strait-transit-to-77-ships-maritime-data-firm-250634fc?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 17:31:51 -0000</pubDate>
 <description><![CDATA[Only 77 ships have so far crossed the Strait of Hormuz in March as the Mideast war disrupts one of the world's most vital shipping routes, a maritime data firm reported Friday.]]></description>
-</item>
-<item>
-<title><![CDATA[How Will US Oil Sanctions Waiver Help Russia?]]></title>
-<link>https://www.barrons.com/news/how-will-us-oil-sanctions-waiver-help-russia-4e9b7bf0?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 17:16:51 -0000</pubDate>
-<description><![CDATA[The United States has eased some restrictions on Russia's oil sales as it tries to stabilise global energy markets, upended by Iran blocking the Strait of Hormuz amid the war in the Middle East.]]></description>
 </item>
 </channel></rss>
