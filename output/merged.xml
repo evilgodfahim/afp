@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 07:42:22 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 08:35:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[AI Agent 'Lobster Fever' Grips China Despite Risks]]></title>
+<link>https://www.barrons.com/news/ai-agent-lobster-fever-grips-china-despite-risks-d0612024?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 08:35:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China Says Vice Premier To Leave Saturday For US Economic Talks In France]]></title>
 <link>https://www.barrons.com/news/china-says-vice-premier-to-leave-saturday-for-us-economic-talks-in-france-9803ad42?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 06:47:59 -0000</pubDate>
@@ -89,27 +95,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Holds Above $100 And Stocks Fall As Khamenei Targets Hormuz]]></title>
+<title><![CDATA[Afghan Govt Says Pakistan Strikes Kabul And Border Provinces]]></title>
+<link>https://www.barrons.com/news/afghan-govt-says-pakistan-strikes-kabul-and-border-provinces-309b1331?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 08:20:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Oil Holds Above $100, Stocks Fall As Khamenei Targets Hormuz]]></title>
 <link>https://www.barrons.com/news/oil-holds-above-100-and-stocks-fall-as-khamenei-targets-hormuz-a0c66ae7?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 05:16:36 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 08:05:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Canadian, German And Norway Leaders Hold Arctic Security Talks]]></title>
 <link>https://www.barrons.com/news/canadian-german-and-norway-leaders-hold-arctic-security-talks-296853c0?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 04:09:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA['Ticket To Tehran': Iranian Jews In Israel Still Long For Iran]]></title>
-<link>https://www.barrons.com/news/ticket-to-tehran-iranian-jews-in-israel-still-long-for-iran-9a9806db?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 03:54:39 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Pushes 'SAVE America' Voting Bill Ahead Of Midterms]]></title>
-<link>https://www.barrons.com/news/trump-pushes-save-america-voting-bill-ahead-of-midterms-206d6399?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 03:39:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelensky Arrives In Paris For Talks On Pressuring Russia]]></title>
+<link>https://www.barrons.com/news/zelensky-arrives-in-paris-for-talks-on-pressuring-russia-6e03c968?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 08:35:48 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky arrived in Paris on Friday, his spokesman said, for talks with President Emmanuel Macron on ramping up pressure on Russia.]]></description>
+</item>
+<item>
 <title><![CDATA[South Africa's Livestock Farmers Reel From Foot-and-mouth Disaster]]></title>
 <link>https://www.barrons.com/news/south-africa-s-livestock-farmers-reel-from-foot-and-mouth-disaster-fa46f160?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 06:48:00 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/south-sudan-models-dominate-global-catwalks-but-visas-a-problem-526d0b76?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 06:33:00 -0000</pubDate>
 <description><![CDATA[Heels click on cracked paving stones as fantastically long-limbed men and women practice moves they hope will whisk them away from South Sudan, one of the fashion world's favourite scouting locations.]]></description>
-</item>
-<item>
-<title><![CDATA[AI Agent 'Lobster Fever' Grips China Despite Risks]]></title>
-<link>https://www.barrons.com/news/ai-agent-lobster-fever-grips-china-despite-risks-d0612024?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 06:18:00 -0000</pubDate>
-<description><![CDATA[Chinese entrepreneur Frank Gao used to spend long hours running his social media accounts but now outsources the chore to AI agent tool OpenClaw, which is taking the country by storm despite official warnings over cybersecurity.]]></description>
 </item>
 </channel></rss>
