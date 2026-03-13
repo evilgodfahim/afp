@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 08:35:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 09:35:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[South Sudan Models Dominate Global Catwalks But Visas A Problem]]></title>
+<link>https://www.barrons.com/news/south-sudan-models-dominate-global-catwalks-but-visas-a-problem-526d0b76?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 09:35:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[AI Agent 'Lobster Fever' Grips China Despite Risks]]></title>
 <link>https://www.barrons.com/news/ai-agent-lobster-fever-grips-china-despite-risks-d0612024?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 08:35:47 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghan Govt Says Pakistan Strikes Kabul And Border Provinces]]></title>
+<title><![CDATA[Afghanistan Says Six Civilians Killed In Pakistan Strikes]]></title>
 <link>https://www.barrons.com/news/afghan-govt-says-pakistan-strikes-kabul-and-border-provinces-309b1331?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 08:20:47 -0000</pubDate>
+<pubDate>Fri, 13 Mar 2026 09:20:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[Oil Holds Above $100, Stocks Fall As Khamenei Targets Hormuz]]></title>
 <link>https://www.barrons.com/news/oil-holds-above-100-and-stocks-fall-as-khamenei-targets-hormuz-a0c66ae7?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 08:05:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Canadian, German And Norway Leaders Hold Arctic Security Talks]]></title>
-<link>https://www.barrons.com/news/canadian-german-and-norway-leaders-hold-arctic-security-talks-296853c0?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 04:09:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka To Repatriate Remains Of 84 Iranians Killed In US Attack]]></title>
+<link>https://www.barrons.com/news/sri-lanka-to-repatriate-remains-of-84-iranians-killed-in-us-attack-0e17ba24?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 09:35:52 -0000</pubDate>
+<description><![CDATA[Sri Lanka is repatriating on Friday the remains of 84 Iranian sailors who perished when their frigate was sunk nine days ago by a US submarine, the Foreign Ministry said.]]></description>
+</item>
+<item>
 <title><![CDATA[Zelensky Arrives In Paris For Talks On Pressuring Russia]]></title>
 <link>https://www.barrons.com/news/zelensky-arrives-in-paris-for-talks-on-pressuring-russia-6e03c968?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 08:35:48 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/south-africa-s-livestock-farmers-reel-from-foot-and-mouth-disaster-fa46f160?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 06:48:00 -0000</pubDate>
 <description><![CDATA[Pointing at a calf lying motionless in a green field in South Africa's Eastern Cape province, farmer Igsahn Felix let out a heavy sigh. "That one is not going to make it," he said.]]></description>
-</item>
-<item>
-<title><![CDATA[South Sudan Models Dominate Global Catwalks But Visas A Problem]]></title>
-<link>https://www.barrons.com/news/south-sudan-models-dominate-global-catwalks-but-visas-a-problem-526d0b76?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 06:33:00 -0000</pubDate>
-<description><![CDATA[Heels click on cracked paving stones as fantastically long-limbed men and women practice moves they hope will whisk them away from South Sudan, one of the fashion world's favourite scouting locations.]]></description>
 </item>
 </channel></rss>
