@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Mar 2026 17:31:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 18:36:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Which Khamenei Family Members Were Killed At Start Of War?]]></title>
+<link>https://www.barrons.com/news/which-khamenei-family-members-were-killed-at-start-of-war-35e6bc18?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 18:36:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[How Iranians Are Communicating Through Internet Blackout]]></title>
 <link>https://www.barrons.com/news/how-iranians-are-communicating-through-internet-blackout-07deccf2?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 17:31:50 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mideast War Plunges Germany's Energy-hungry Industry Into Crisis]]></title>
-<link>https://www.barrons.com/news/mideast-war-plunges-germany-s-energy-hungry-industry-into-crisis-05c077fd?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 15:23:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War Has Halted Gulf Oil Flow -- And Restarting It Won't Be Easy]]></title>
+<link>https://www.barrons.com/news/war-has-halted-gulf-oil-flow-and-restarting-it-won-t-be-easy-698a67b8?refsec=topics_afp-news</link>
+<pubDate>Fri, 13 Mar 2026 18:36:36 -0000</pubDate>
+<description><![CDATA[The war in the Middle East has largely paralysed the Gulf region's crucial oil industry, which has been hit by attacks and an export blockade.]]></description>
+</item>
+<item>
 <title><![CDATA[Mideast War Cuts Hormuz Strait Transit To 77 Ships: Maritime Data Firm]]></title>
 <link>https://www.barrons.com/news/mideast-war-cuts-hormuz-strait-transit-to-77-ships-maritime-data-firm-250634fc?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 17:31:51 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/how-will-us-oil-sanctions-waiver-help-russia-4e9b7bf0?refsec=topics_afp-news</link>
 <pubDate>Fri, 13 Mar 2026 17:16:51 -0000</pubDate>
 <description><![CDATA[The United States has eased some restrictions on Russia's oil sales as it tries to stabilise global energy markets, upended by Iran blocking the Strait of Hormuz amid the war in the Middle East.]]></description>
-</item>
-<item>
-<title><![CDATA[Which Khamenei Family Members Were Killed At Start Of War?]]></title>
-<link>https://www.barrons.com/news/which-khamenei-family-members-were-killed-at-start-of-war-35e6bc18?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 17:01:51 -0000</pubDate>
-<description><![CDATA[The US-Israeli air strikes that on February 28 killed Ayatollah Ali Khamenei not only resulted in the death of Iran's longstanding supreme leader but also several key family members.]]></description>
 </item>
 </channel></rss>
