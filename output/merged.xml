@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 11:45:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 12:42:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Blast Outside Jewish School In Amsterdam, No Injuries: Mayor]]></title>
+<link>https://www.barrons.com/news/blast-outside-jewish-school-in-amsterdam-no-injuries-mayor-be3fc171?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 12:42:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East Turmoil Revives Norway Push For Arctic Drilling]]></title>
 <link>https://www.barrons.com/news/middle-east-turmoil-revives-norway-push-for-arctic-drilling-0b5115c8?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 11:22:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Spielberg Defends Ballet, Opera After Chalamet Snub]]></title>
-<link>https://www.barrons.com/news/spielberg-defends-ballet-opera-after-chalamet-snub-95d2e5fc?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 03:37:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -143,9 +143,9 @@
 <description><![CDATA[India on Saturday ended the preventive detention of prominent Ladakh activist Sonam Wangchuk, freeing him six months after he was held over protests in the Himalayan region.]]></description>
 </item>
 <item>
-<title><![CDATA[US Embassy In Iraq Hit As Mideast War Enters Third Week]]></title>
+<title><![CDATA[Israel Says Iran War Entering 'Decisive Phase']]></title>
 <link>https://www.barrons.com/news/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week-45cf6b34?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 09:57:00 -0000</pubDate>
-<description><![CDATA[Explosions rocked cities across the Middle East on Saturday as the US embassy in Baghdad was hit by a drone strike and Tehran warned Emiratis to stay away from ports as it targets the world's energy supply lines.]]></description>
+<pubDate>Sat, 14 Mar 2026 12:42:37 -0000</pubDate>
+<description><![CDATA[Israel said the war against Iran was entering its "decisive phase" on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.]]></description>
 </item>
 </channel></rss>
