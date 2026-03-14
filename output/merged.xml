@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 09:29:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 09:57:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran, US Threaten Attacks On Oil Facilities]]></title>
+<link>https://www.barrons.com/news/iran-us-threaten-attacks-on-oil-facilities-9d803d2e?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 09:56:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Facing Rockets, Arabs In Northern Israel Fume Over Lack Of Shelters]]></title>
 <link>https://www.barrons.com/news/facing-rockets-arabs-in-northern-israel-fume-over-lack-of-shelters-bc730962?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 08:30:43 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pentagon Limits Info, Clashes With Press Over Iran]]></title>
-<link>https://www.barrons.com/news/pentagon-limits-info-clashes-with-press-over-iran-59e48c7f?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 01:16:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Embassy In Iraq Hit As Mideast War Enters Third Week]]></title>
+<link>https://www.barrons.com/news/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week-45cf6b34?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 09:57:00 -0000</pubDate>
+<description><![CDATA[Explosions rocked cities across the Middle East on Saturday as the US embassy in Baghdad was hit by a drone strike and Tehran warned Emiratis to stay away from ports as it targets the world's energy supply lines.]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East Turmoil Revives Norway Push For Arctic Drilling]]></title>
 <link>https://www.barrons.com/news/middle-east-turmoil-revives-norway-push-for-arctic-drilling-0b5115c8?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 07:10:12 -0000</pubDate>
@@ -139,13 +145,7 @@
 <item>
 <title><![CDATA[S.Korea Says North Fires Around 10 Ballistic Missiles]]></title>
 <link>https://www.barrons.com/news/s-korea-says-north-fires-around-10-ballistic-missiles-cb2ef0fa?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 08:30:44 -0000</pubDate>
-<description><![CDATA[North Korea fired about 10 ballistic missiles toward the sea of Japan Saturday, Seoul's Joint Chiefs of Staff (JCS) said, days after Pyongyang warned of "terrible consequences" over South Korea-US military drills.]]></description>
-</item>
-<item>
-<title><![CDATA[Iran, US Threaten Attacks On Oil Facilities]]></title>
-<link>https://www.barrons.com/news/iran-us-threaten-attacks-on-oil-facilities-9d803d2e?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 05:29:05 -0000</pubDate>
-<description><![CDATA[Iran threatened Saturday to reduce US-linked oil facilities to "a pile of ashes" as the two-week-old Middle East war spilled over into a global oil price crisis.]]></description>
+<pubDate>Sat, 14 Mar 2026 09:42:00 -0000</pubDate>
+<description><![CDATA[North Korea fired about 10 ballistic missiles toward the sea of Japan Saturday, Seoul's Joint Chiefs of Staff (JCS) said, days after Pyongyang warned of "terrible consequences" over ongoing South Korea-US military drills.]]></description>
 </item>
 </channel></rss>
