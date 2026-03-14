@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 13:42:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 14:25:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Says Iran War Entering 'Decisive Phase']]></title>
+<link>https://www.barrons.com/news/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week-45cf6b34?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 14:25:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Blast Outside Jewish School In Amsterdam, No Injuries: Mayor]]></title>
 <link>https://www.barrons.com/news/blast-outside-jewish-school-in-amsterdam-no-injuries-mayor-be3fc171?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 12:42:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-d86e5d99?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 14:10:51 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Republican Leaders In Spotlight Over Anti-Muslim Rhetoric]]></title>
-<link>https://www.barrons.com/news/us-republican-leaders-in-spotlight-over-anti-muslim-rhetoric-d52f13b3?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 04:07:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump, Xi Prepare To Meet Amid Iran War, Uncertain Goals]]></title>
-<link>https://www.barrons.com/news/trump-xi-prepare-to-meet-amid-iran-war-uncertain-goals-0e1f096e?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 03:52:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Kharg Island: Vital Iran Oil Hub In Trump's Crosshairs]]></title>
+<link>https://www.barrons.com/news/kharg-island-vital-iran-oil-hub-in-trump-s-crosshairs-9633ad96?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 14:25:52 -0000</pubDate>
+<description><![CDATA[Kharg Island, targeted in US air strikes on Saturday, is a scrubby stretch of land in the Gulf that handles almost all of Iran's crude exports.]]></description>
+</item>
+<item>
 <title><![CDATA[Hezbollah's 'Existential' War Against Israel Could Be Its Last]]></title>
 <link>https://www.barrons.com/news/hezbollah-s-existential-war-against-israel-could-be-its-last-4a790063?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 11:22:07 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/india-frees-ladakh-activist-wangchuk-after-6-months-in-jail-d62051b3?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 11:07:07 -0000</pubDate>
 <description><![CDATA[India on Saturday ended the preventive detention of prominent Ladakh activist Sonam Wangchuk, freeing him six months after he was held over protests in the Himalayan region.]]></description>
-</item>
-<item>
-<title><![CDATA[Israel Says Iran War Entering 'Decisive Phase']]></title>
-<link>https://www.barrons.com/news/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week-45cf6b34?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 12:42:37 -0000</pubDate>
-<description><![CDATA[Israel said the war against Iran was entering its "decisive phase" on Saturday, as explosions rocked cities across the Middle East, with strikes on the US embassy in Baghdad and a major Emirati energy facility.]]></description>
 </item>
 </channel></rss>
