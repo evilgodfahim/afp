@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 22:51:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 23:24:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Envoy Says Ukraine Support To US, Gulf Is A 'Joke']]></title>
+<link>https://www.barrons.com/news/iran-envoy-says-ukraine-support-to-us-gulf-is-a-joke-683ae9c5?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 23:24:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA['Normal, But Not Really': Iraqis Try To Carry On As Missiles Fly]]></title>
+<link>https://www.barrons.com/news/normal-but-not-really-iraqis-try-to-carry-on-as-missiles-fly-b2744b45?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 23:09:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Election Campaign Deepens Congo's Generational Divide]]></title>
 <link>https://www.barrons.com/news/election-campaign-deepens-congo-s-generational-divide-640da431?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 20:51:37 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blast Outside Jewish School In Amsterdam, No Injuries: Mayor]]></title>
-<link>https://www.barrons.com/news/blast-outside-jewish-school-in-amsterdam-no-injuries-mayor-be3fc171?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 12:42:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-d86e5d99?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 14:10:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[N. Korea Conducts Test Of Nuclear-capable Multiple Rocket Launchers]]></title>
+<link>https://www.barrons.com/news/n-korea-conducts-test-of-nuclear-capable-multiple-rocket-launchers-2a4a6029?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 23:24:31 -0000</pubDate>
+<description><![CDATA[North Korea conducted a test of its "state of the art", nuclear-capable multiple rocket launcher system (MRLS), state media reported Sunday, a day after Seoul identified the launch of around 10 ballistic missiles.]]></description>
+</item>
+<item>
+<title><![CDATA[Three Iranian Football Team Members Leave Asylum In Australia]]></title>
+<link>https://www.barrons.com/news/three-iranian-football-team-members-leave-asylum-in-australia-cb04870c?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 23:09:31 -0000</pubDate>
+<description><![CDATA[Three more members of the Iranian women's football team have left their asylum in Australia and decided to return home, Canberra said Sunday.]]></description>
+</item>
+<item>
 <title><![CDATA[One-party Vietnam Holds Parliamentary Election]]></title>
 <link>https://www.barrons.com/news/one-party-vietnam-holds-parliamentary-election-fcc7a3cc?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 20:51:38 -0000</pubDate>
 <description><![CDATA[Vietnam goes to the polls on Sunday to elect members of the National Assembly, the country's top legislative body that serves mainly to ratify decisions by the ruling Communist Party.]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Envoy Says Ukraine Support To US, Gulf Is A 'Joke']]></title>
-<link>https://www.barrons.com/news/iran-envoy-says-ukraine-support-to-us-gulf-is-a-joke-683ae9c5?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 19:47:03 -0000</pubDate>
-<description><![CDATA[Iran's envoy to Ukraine, Shahriar Amouzegar, dismissed the support Kyiv has offered to the United States and its Gulf allies, after Ukraine advertised its expertise in destroying Iranian-designed drones launched by Russia.]]></description>
-</item>
-<item>
-<title><![CDATA['Normal, But Not Really': Iraqis Try To Carry On As Missiles Fly]]></title>
-<link>https://www.barrons.com/news/normal-but-not-really-iraqis-try-to-carry-on-as-missiles-fly-b2744b45?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
-<description><![CDATA[Hours before strikes hit Iraq's capital, crowds milled in central Baghdad to the sound not of missiles but clinking coffee cups, children laughing and women filming TikToks.]]></description>
 </item>
 </channel></rss>
