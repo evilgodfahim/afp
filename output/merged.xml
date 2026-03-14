@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 15:24:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 15:50:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hezbollah's 'Existential' War Against Israel Could Be Its Last]]></title>
+<link>https://www.barrons.com/news/hezbollah-s-existential-war-against-israel-could-be-its-last-4a790063?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 15:50:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India Frees Ladakh Activist Wangchuk After 6 Months In Jail]]></title>
+<link>https://www.barrons.com/news/india-frees-ladakh-activist-wangchuk-after-6-months-in-jail-d62051b3?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 15:35:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel Says Iran War Entering 'Decisive Phase']]></title>
 <link>https://www.barrons.com/news/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week-45cf6b34?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 14:25:51 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iranian Leaders Determined To Prove Islamic Republic's Staying Power]]></title>
-<link>https://www.barrons.com/news/iranian-leaders-determined-to-prove-islamic-republic-s-staying-power-b46cdf2f?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 07:10:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Few Easy Ways Out For US As War With Iran Drags On]]></title>
-<link>https://www.barrons.com/news/few-easy-ways-out-for-us-as-war-with-iran-drags-on-82852098?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 05:29:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Urges Other Nations To Send Ships To Secure Hormuz]]></title>
+<link>https://www.barrons.com/news/trump-urges-other-nations-to-send-ships-to-secure-hormuz-ec02aea4?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 15:50:11 -0000</pubDate>
+<description><![CDATA[US President Donald Trump on Saturday urged other nations to send ships to help secure the Strait of Hormuz, the critical chokepoint for global oil supplies disrupted by the Mideast war.]]></description>
+</item>
+<item>
+<title><![CDATA[Uganda Opposition Leader In Hiding Says Left Country]]></title>
+<link>https://www.barrons.com/news/uganda-opposition-leader-in-hiding-says-left-country-e1ef6aeb?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 15:35:11 -0000</pubDate>
+<description><![CDATA[Ugandan opposition leader Bobi Wine, who has been in hiding since a January presidential election he alleged was stolen, announced Saturday that he has left the country.]]></description>
+</item>
+<item>
 <title><![CDATA[Kharg Island: Vital Iran Oil Hub In Trump's Crosshairs]]></title>
 <link>https://www.barrons.com/news/kharg-island-vital-iran-oil-hub-in-trump-s-crosshairs-9633ad96?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 14:25:52 -0000</pubDate>
 <description><![CDATA[Kharg Island, targeted in US air strikes on Saturday, is a scrubby stretch of land in the Gulf that handles almost all of Iran's crude exports.]]></description>
-</item>
-<item>
-<title><![CDATA[Hezbollah's 'Existential' War Against Israel Could Be Its Last]]></title>
-<link>https://www.barrons.com/news/hezbollah-s-existential-war-against-israel-could-be-its-last-4a790063?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 11:22:07 -0000</pubDate>
-<description><![CDATA[Hezbollah suffered heavy losses in a war with Israel more than a year ago, but the Shia movement has now regrouped only to end up fighting what it has called an "existential battle" and which some warn could be its last.]]></description>
-</item>
-<item>
-<title><![CDATA[India Frees Ladakh Activist Wangchuk After 6 Months In Jail]]></title>
-<link>https://www.barrons.com/news/india-frees-ladakh-activist-wangchuk-after-6-months-in-jail-d62051b3?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 11:07:07 -0000</pubDate>
-<description><![CDATA[India on Saturday ended the preventive detention of prominent Ladakh activist Sonam Wangchuk, freeing him six months after he was held over protests in the Himalayan region.]]></description>
 </item>
 </channel></rss>
