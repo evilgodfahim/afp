@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 17:51:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 18:33:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Uganda Opposition Leader In Hiding Says Left Country]]></title>
+<link>https://www.barrons.com/news/uganda-opposition-leader-in-hiding-says-left-country-e1ef6aeb?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Kharg Island: Vital Iran Oil Hub In Trump's Crosshairs]]></title>
+<link>https://www.barrons.com/news/kharg-island-vital-iran-oil-hub-in-trump-s-crosshairs-9633ad96?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 18:17:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hezbollah's 'Existential' War Against Israel Could Be Its Last]]></title>
 <link>https://www.barrons.com/news/hezbollah-s-existential-war-against-israel-could-be-its-last-4a790063?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 15:50:11 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran, US Threaten Attacks On Oil Facilities]]></title>
-<link>https://www.barrons.com/news/iran-us-threaten-attacks-on-oil-facilities-9d803d2e?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 09:56:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Facing Rockets, Arabs In Northern Israel Fume Over Lack Of Shelters]]></title>
-<link>https://www.barrons.com/news/facing-rockets-arabs-in-northern-israel-fume-over-lack-of-shelters-bc730962?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 08:30:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Normal, But Not Really': Iraqis Try To Carry On As Missiles Fly]]></title>
+<link>https://www.barrons.com/news/normal-but-not-really-iraqis-try-to-carry-on-as-missiles-fly-b2744b45?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
+<description><![CDATA[Hours before strikes hit Iraq's capital, crowds milled in central Baghdad to the sound not of missiles but clinking coffee cups, children laughing and women filming TikToks.]]></description>
+</item>
+<item>
+<title><![CDATA[Election Campaign Deepens Congo's Generational Divide]]></title>
+<link>https://www.barrons.com/news/election-campaign-deepens-congo-s-generational-divide-640da431?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 18:17:59 -0000</pubDate>
+<description><![CDATA["Hoodlums," muttered 80-year-old village chief Joseph Batangouna as he walked past a group of young people sitting by the side of road in Mayitoukou, Congo-Brazzaville.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Urges Other Nations To Send Ships To Secure Hormuz]]></title>
 <link>https://www.barrons.com/news/trump-urges-other-nations-to-send-ships-to-secure-hormuz-ec02aea4?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 15:50:11 -0000</pubDate>
 <description><![CDATA[US President Donald Trump on Saturday urged other nations to send ships to help secure the Strait of Hormuz, the critical chokepoint for global oil supplies disrupted by the Mideast war.]]></description>
-</item>
-<item>
-<title><![CDATA[Uganda Opposition Leader In Hiding Says Left Country]]></title>
-<link>https://www.barrons.com/news/uganda-opposition-leader-in-hiding-says-left-country-e1ef6aeb?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 15:35:11 -0000</pubDate>
-<description><![CDATA[Ugandan opposition leader Bobi Wine, who has been in hiding since a January presidential election he alleged was stolen, announced Saturday that he has left the country.]]></description>
-</item>
-<item>
-<title><![CDATA[Kharg Island: Vital Iran Oil Hub In Trump's Crosshairs]]></title>
-<link>https://www.barrons.com/news/kharg-island-vital-iran-oil-hub-in-trump-s-crosshairs-9633ad96?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 14:25:52 -0000</pubDate>
-<description><![CDATA[Kharg Island, targeted in US air strikes on Saturday, is a scrubby stretch of land in the Gulf that handles almost all of Iran's crude exports.]]></description>
 </item>
 </channel></rss>
