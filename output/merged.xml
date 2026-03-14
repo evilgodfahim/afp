@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 04:07:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 05:29:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Few Easy Ways Out For US As War With Iran Drags On]]></title>
+<link>https://www.barrons.com/news/few-easy-ways-out-for-us-as-war-with-iran-drags-on-82852098?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 05:29:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Republican Leaders In Spotlight Over Anti-Muslim Rhetoric]]></title>
 <link>https://www.barrons.com/news/us-republican-leaders-in-spotlight-over-anti-muslim-rhetoric-d52f13b3?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 04:07:56 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Replaces Head Of Troubled Kennedy Center]]></title>
-<link>https://www.barrons.com/news/trump-replaces-head-of-troubled-kennedy-center-bd5f02dc?refsec=topics_afp-news</link>
-<pubDate>Fri, 13 Mar 2026 22:15:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran, US Threaten Attacks On Oil Facilities]]></title>
+<link>https://www.barrons.com/news/iran-us-threaten-attacks-on-oil-facilities-9d803d2e?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 05:29:05 -0000</pubDate>
+<description><![CDATA[Iran threatened Saturday to reduce US-linked oil facilities to "a pile of ashes" as the two-week-old Middle East war spilled over into a global oil price crisis.]]></description>
+</item>
+<item>
 <title><![CDATA[Facing Rockets, Arabs In Northern Israel Fume Over Lack Of Shelters]]></title>
 <link>https://www.barrons.com/news/facing-rockets-arabs-in-northern-israel-fume-over-lack-of-shelters-bc730962?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 04:07:57 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/iranian-leaders-determined-to-prove-islamic-republic-s-staying-power-b46cdf2f?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 03:52:57 -0000</pubDate>
 <description><![CDATA[Iran's leaders are seeking to show the staying power of their near half-century old clerical-based system and prove that it can withstand the killing of its longtime ruler and war with United States and Israel, analysts said.]]></description>
-</item>
-<item>
-<title><![CDATA[Few Easy Ways Out For US As War With Iran Drags On]]></title>
-<link>https://www.barrons.com/news/few-easy-ways-out-for-us-as-war-with-iran-drags-on-82852098?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 03:37:57 -0000</pubDate>
-<description><![CDATA[US-Israeli strikes killed Iran's leader but have not toppled the government, which now, from its perch on the Strait of Hormuz, has put the entire world economy on the war's frontlines.]]></description>
 </item>
 </channel></rss>
