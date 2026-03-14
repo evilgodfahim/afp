@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 19:24:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 19:47:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Says Other Countries 'Must Take Care' Of Hormuz]]></title>
+<link>https://www.barrons.com/news/trump-urges-other-nations-to-send-ships-to-secure-hormuz-ec02aea4?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 19:47:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Uganda Opposition Leader In Hiding Says Left Country]]></title>
 <link>https://www.barrons.com/news/uganda-opposition-leader-in-hiding-says-left-country-e1ef6aeb?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[S.Korea Says North Fires Around 10 Ballistic Missiles]]></title>
-<link>https://www.barrons.com/news/s-korea-says-north-fires-around-10-ballistic-missiles-cb2ef0fa?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 11:07:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Envoy Says Ukraine Support To US, Gulf Is A 'Joke']]></title>
+<link>https://www.barrons.com/news/iran-envoy-says-ukraine-support-to-us-gulf-is-a-joke-683ae9c5?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 19:47:03 -0000</pubDate>
+<description><![CDATA[Iran's envoy to Ukraine, Shahriar Amouzegar, dismissed the support Kyiv has offered to the United States and its Gulf allies, after Ukraine advertised its expertise in destroying Iranian-designed drones launched by Russia.]]></description>
+</item>
+<item>
 <title><![CDATA['Normal, But Not Really': Iraqis Try To Carry On As Missiles Fly]]></title>
 <link>https://www.barrons.com/news/normal-but-not-really-iraqis-try-to-carry-on-as-missiles-fly-b2744b45?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/election-campaign-deepens-congo-s-generational-divide-640da431?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 18:17:59 -0000</pubDate>
 <description><![CDATA["Hoodlums," muttered 80-year-old village chief Joseph Batangouna as he walked past a group of young people sitting by the side of road in Mayitoukou, Congo-Brazzaville.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Urges Other Nations To Send Ships To Secure Hormuz]]></title>
-<link>https://www.barrons.com/news/trump-urges-other-nations-to-send-ships-to-secure-hormuz-ec02aea4?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 15:50:11 -0000</pubDate>
-<description><![CDATA[US President Donald Trump on Saturday urged other nations to send ships to help secure the Strait of Hormuz, the critical chokepoint for global oil supplies disrupted by the Mideast war.]]></description>
 </item>
 </channel></rss>
