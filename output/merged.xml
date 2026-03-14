@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 20:23:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 20:51:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Election Campaign Deepens Congo's Generational Divide]]></title>
+<link>https://www.barrons.com/news/election-campaign-deepens-congo-s-generational-divide-640da431?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 20:51:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Says Other Countries 'Must Take Care' Of Hormuz]]></title>
 <link>https://www.barrons.com/news/trump-urges-other-nations-to-send-ships-to-secure-hormuz-ec02aea4?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 19:47:02 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East Turmoil Revives Norway Push For Arctic Drilling]]></title>
-<link>https://www.barrons.com/news/middle-east-turmoil-revives-norway-push-for-arctic-drilling-0b5115c8?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 11:22:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[One-party Vietnam Holds Parliamentary Election]]></title>
+<link>https://www.barrons.com/news/one-party-vietnam-holds-parliamentary-election-fcc7a3cc?refsec=topics_afp-news</link>
+<pubDate>Sat, 14 Mar 2026 20:51:38 -0000</pubDate>
+<description><![CDATA[Vietnam goes to the polls on Sunday to elect members of the National Assembly, the country's top legislative body that serves mainly to ratify decisions by the ruling Communist Party.]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Envoy Says Ukraine Support To US, Gulf Is A 'Joke']]></title>
 <link>https://www.barrons.com/news/iran-envoy-says-ukraine-support-to-us-gulf-is-a-joke-683ae9c5?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 19:47:03 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/normal-but-not-really-iraqis-try-to-carry-on-as-missiles-fly-b2744b45?refsec=topics_afp-news</link>
 <pubDate>Sat, 14 Mar 2026 18:32:59 -0000</pubDate>
 <description><![CDATA[Hours before strikes hit Iraq's capital, crowds milled in central Baghdad to the sound not of missiles but clinking coffee cups, children laughing and women filming TikToks.]]></description>
-</item>
-<item>
-<title><![CDATA[Election Campaign Deepens Congo's Generational Divide]]></title>
-<link>https://www.barrons.com/news/election-campaign-deepens-congo-s-generational-divide-640da431?refsec=topics_afp-news</link>
-<pubDate>Sat, 14 Mar 2026 18:17:59 -0000</pubDate>
-<description><![CDATA["Hoodlums," muttered 80-year-old village chief Joseph Batangouna as he walked past a group of young people sitting by the side of road in Mayitoukou, Congo-Brazzaville.]]></description>
 </item>
 </channel></rss>
