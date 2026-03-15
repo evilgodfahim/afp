@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 10:56:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 11:25:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[The Environment, Another Casualty Of War In The Mideast]]></title>
+<link>https://www.barrons.com/news/the-environment-another-casualty-of-war-in-the-mideast-dd3e148e?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 11:25:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[French Right-wing Ex-minister Vies For Paris City Hall]]></title>
+<link>https://www.barrons.com/news/french-right-wing-ex-minister-vies-for-paris-city-hall-be7a27c8?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 11:10:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Kazakhstan To Vote On Constitution Overhaul]]></title>
 <link>https://www.barrons.com/news/kazakhstan-to-vote-on-constitution-overhaul-25bedac3?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 04:42:50 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who Covers AI Business Blunders? Some Insurers Cautiously Step Up]]></title>
-<link>https://www.barrons.com/news/who-covers-ai-business-blunders-some-insurers-cautiously-step-up-90062c46?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 01:47:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[AI Fakes About Iran-US War Swirl On X Despite Policy Crackdown]]></title>
-<link>https://www.barrons.com/news/ai-fakes-about-iran-us-war-swirl-on-x-despite-policy-crackdown-1d2399b1?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 01:32:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelensky: EU Pressure To Open Russian Oil Pipeline Is 'Blackmail']]></title>
+<link>https://www.barrons.com/news/zelensky-eu-pressure-to-open-russian-oil-pipeline-is-blackmail-b2ef9612?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 11:25:37 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky told his European allies that pressure to re-open the Druzhba oil pipeline carrying Russian supplies was like "blackmail", he said in remarks released Sunday.]]></description>
+</item>
+<item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-fbfde849?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 11:10:37 -0000</pubDate>
+<description><![CDATA[Here are the latest events in the Middle East war:]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Says US Not Ready To Agree Deal To End Iran War]]></title>
 <link>https://www.barrons.com/news/trump-urges-other-nations-warships-to-protect-gulf-oil-route-e4e34946?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 10:25:07 -0000</pubDate>
 <description><![CDATA[Donald Trump warned that he is not ready to seek a deal to end the war with Iran, as US ally Israel launched a new wave of strikes Sunday and Tehran's Revolutionary Guards threatened to hunt down and kill the Israeli leader.]]></description>
-</item>
-<item>
-<title><![CDATA[The Environment, Another Casualty Of War In The Mideast]]></title>
-<link>https://www.barrons.com/news/the-environment-another-casualty-of-war-in-the-mideast-dd3e148e?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 04:27:51 -0000</pubDate>
-<description><![CDATA[From the jet fuel used in bombing raids to acrid smoke from burning oil depots, the conflict in the Middle East is inflicting a significant toll on nature and the climate.]]></description>
-</item>
-<item>
-<title><![CDATA[French Right-wing Ex-minister Vies For Paris City Hall]]></title>
-<link>https://www.barrons.com/news/french-right-wing-ex-minister-vies-for-paris-city-hall-be7a27c8?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 04:12:51 -0000</pubDate>
-<description><![CDATA[Leftist mayors have transformed Paris over the past 25 years to include countless cycling lanes, a cleaner Seine river, and even fresher air.]]></description>
 </item>
 </channel></rss>
