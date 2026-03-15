@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 22:53:51 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 23:26:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hundreds Join Banned UK Pro-Palestinian March]]></title>
+<link>https://www.barrons.com/news/hundreds-rally-in-london-for-banned-pro-palestinian-march-5527156f?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 23:26:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Strait Of Hormuz Forms Part Of Front Line In Mideast War]]></title>
 <link>https://www.barrons.com/news/strait-of-hormuz-forms-part-of-front-line-in-mideast-war-c539c7e4?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 22:24:21 -0000</pubDate>
@@ -83,6 +89,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Launches Fresh Strike On South Beirut]]></title>
+<link>https://www.barrons.com/news/israel-launches-fresh-strike-on-south-beirut-46a7a9ce?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 23:11:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hungary Pre-election Showdown Draws Crowds Amid Foreign Interference Claims]]></title>
 <link>https://www.barrons.com/news/hungary-pre-election-showdown-draws-crowds-amid-foreign-interference-claims-e095e5e3?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 18:34:45 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[The Environment, Another Casualty Of War In The Mideast]]></title>
 <link>https://www.barrons.com/news/the-environment-another-casualty-of-war-in-the-mideast-dd3e148e?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 11:25:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French Right-wing Ex-minister Vies For Paris City Hall]]></title>
-<link>https://www.barrons.com/news/french-right-wing-ex-minister-vies-for-paris-city-hall-be7a27c8?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 11:10:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kazakhstan Votes On Constitution Overhaul]]></title>
-<link>https://www.barrons.com/news/kazakhstan-to-vote-on-constitution-overhaul-25bedac3?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 12:44:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Stars Bring Glamour To Oscars Red Carpet]]></title>
+<link>https://www.barrons.com/news/stars-bring-glamour-to-oscars-red-carpet-2d83ef90?refsec=topics_afp-news</link>
+<pubDate>Sun, 15 Mar 2026 23:26:04 -0000</pubDate>
+<description><![CDATA[Hollywood's best and brightest stars on Sunday hit the red carpet for the 98th Academy Awards, the movie industry's biggest night.]]></description>
+</item>
+<item>
 <title><![CDATA[Oscars Night: Latest Developments]]></title>
 <link>https://www.barrons.com/news/oscars-night-latest-developments-dae66a61?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 22:24:22 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/myanmar-s-post-coup-parliament-sits-packed-with-junta-allies-43d6850f?refsec=topics_afp-news</link>
 <pubDate>Sun, 15 Mar 2026 22:09:22 -0000</pubDate>
 <description><![CDATA[Myanmar's parliament is set to convene Monday for the first time since a military coup five years ago, packed with pro-junta lawmakers elected in a poll orchestrated by the top brass.]]></description>
-</item>
-<item>
-<title><![CDATA[Hundreds Join Banned UK Pro-Palestinian March]]></title>
-<link>https://www.barrons.com/news/hundreds-rally-in-london-for-banned-pro-palestinian-march-5527156f?refsec=topics_afp-news</link>
-<pubDate>Sun, 15 Mar 2026 19:48:34 -0000</pubDate>
-<description><![CDATA[Hundreds of people turned out in London Sunday for a pro-Palestinian march banned by the government after police said it was organised by a group "supportive of the Iranian regime".]]></description>
 </item>
 </channel></rss>
