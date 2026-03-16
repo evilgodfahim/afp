@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 09:38:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 10:50:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-05130d50?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Mar 2026 10:50:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Israel Announces Lebanon Ground Assault Against Hezbollah]]></title>
 <link>https://www.barrons.com/news/israel-announces-lebanon-ground-assault-against-hezbollah-e831bf3f?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Mar 2026 09:38:34 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Michael B. Jordan Battles His Way To Oscar For 'Sinners']]></title>
-<link>https://www.barrons.com/news/michael-b-jordan-battles-his-way-to-oscar-for-sinners-2605ed97?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Mar 2026 04:48:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Italian Bank UniCredit Makes Bid For Germany's Commerzbank]]></title>
+<link>https://www.barrons.com/news/italian-bank-unicredit-makes-bid-for-germany-s-commerzbank-08a927fa?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Mar 2026 10:50:38 -0000</pubDate>
+<description><![CDATA[Italian bank UniCredit on Monday made a 35-billion-euro ($40 billion) takeover offer for Commerzbank, a move likely to provoke fierce resistance from the German lender and the government in Berlin.]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War: Global Economic Fallout]]></title>
 <link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-245d9be4?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Mar 2026 09:38:35 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/china-says-maintaining-communication-with-us-over-trump-visit-eb28a011?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Mar 2026 09:23:35 -0000</pubDate>
 <description><![CDATA[Beijing said on Monday it is in talks with Washington over an expected visit by US President Donald Trump, who has pressured NATO allies including China to help reopen the Strait of Hormuz.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-05130d50?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Mar 2026 09:08:35 -0000</pubDate>
-<description><![CDATA[Here are the latest events in the Middle East war:]]></description>
 </item>
 </channel></rss>
