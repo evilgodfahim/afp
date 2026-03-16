@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 16 Mar 2026 06:51:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 08:06:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Ryan Coogler: From Indie To Blockbuster To Oscar]]></title>
+<link>https://www.barrons.com/news/ryan-coogler-from-indie-to-blockbuster-to-oscar-f89864c3?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Mar 2026 08:06:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Oscar Winners In Main Categories]]></title>
 <link>https://www.barrons.com/news/oscar-winners-in-main-categories-4c812409?refsec=topics_afp-news</link>
 <pubDate>Mon, 16 Mar 2026 05:03:04 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oscars Night: Latest Developments]]></title>
-<link>https://www.barrons.com/news/oscars-night-latest-developments-dae66a61?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Mar 2026 01:49:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -137,15 +137,15 @@
 <description><![CDATA[South Korean fans and media basked in the success of "KPop Demon Hunters" on Monday after the film clinched two Oscars and added to the country's growing pantheon of cultural hits.]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Hovers Around $100, Stocks Mixed As Iran War Rages]]></title>
-<link>https://www.barrons.com/news/oil-hovers-around-100-stocks-mixed-as-iran-war-rages-258de05a?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Mar 2026 04:48:04 -0000</pubDate>
-<description><![CDATA[Oil prices hovered around $100 a barrel Monday and stocks fluctuated as the Iran war moved into a third week with both sides showing no sign of backing down and diplomats trying to ensure safe passage for tankers through the crucial Strait of Hormuz.]]></description>
+<title><![CDATA[Iranian Protesters Fled 'Hell' At Home, Watch War From Exile]]></title>
+<link>https://www.barrons.com/news/iranian-protesters-fled-hell-at-home-watch-war-from-exile-1845d63d?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Mar 2026 08:06:17 -0000</pubDate>
+<description><![CDATA[Iranian activist Farhad Sheikhi fights back tears as he recalls the crack of gunfire and his fellow protesters falling under a hail of bullets. Now, having fled to Iraq, he watches from afar as American and Israeli strikes pound his country.]]></description>
 </item>
 <item>
-<title><![CDATA[Ryan Coogler: From Indie To Blockbuster To Oscar]]></title>
-<link>https://www.barrons.com/news/ryan-coogler-from-indie-to-blockbuster-to-oscar-f89864c3?refsec=topics_afp-news</link>
-<pubDate>Mon, 16 Mar 2026 04:33:04 -0000</pubDate>
-<description><![CDATA[Ryan Coogler launched his career with an indie look at police brutality in America. He moved on to transform the Marvel universe culture with his blockbuster "Black Panther" films.]]></description>
+<title><![CDATA[Oil Rises Further Above $100, Stocks Mixed As Iran War Rages]]></title>
+<link>https://www.barrons.com/news/oil-hovers-around-100-stocks-mixed-as-iran-war-rages-258de05a?refsec=topics_afp-news</link>
+<pubDate>Mon, 16 Mar 2026 07:51:17 -0000</pubDate>
+<description><![CDATA[Oil prices rose further above $100 a barrel Monday and stocks fluctuated as the Iran war moved into a third week with both sides showing no sign of backing down and diplomats trying to ensure safe passage for tankers through the crucial Strait of Hormuz.]]></description>
 </item>
 </channel></rss>
