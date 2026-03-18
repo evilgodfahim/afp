@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 16:06:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 17:35:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,36 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Chilean GDP Beats 2025 Forecast Despite Mining Dip]]></title>
+<link>https://www.barrons.com/news/chilean-gdp-beats-2025-forecast-despite-mining-dip-409d6a95?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:35:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Nominee For Homeland Security Chief Grilled At Senate Hearing]]></title>
+<link>https://www.barrons.com/news/trump-nominee-for-homeland-security-chief-grilled-at-senate-hearing-cbb36b43?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:20:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Global Music Market Grows, Calls For AI Compensation: Industry Body]]></title>
+<link>https://www.barrons.com/news/global-music-market-grows-calls-for-ai-compensation-industry-body-f59a304f?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:05:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Maiduguri Bombings Follow Surge Of Jihadist Violence In Nigeria]]></title>
+<link>https://www.barrons.com/news/maiduguri-bombings-follow-surge-of-jihadist-violence-in-nigeria-2968902e?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 16:50:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Was Not Rebuilding Nuclear Enrichment, US Intelligence Finds]]></title>
+<link>https://www.barrons.com/news/iran-was-not-rebuilding-nuclear-enrichment-us-intelligence-finds-9c6dd736?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 16:35:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Troubled Waters: Thai Fishermen Marooned By Rising Fuel Costs]]></title>
 <link>https://www.barrons.com/news/troubled-waters-thai-fishermen-marooned-by-rising-fuel-costs-1860a32c?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 16:06:15 -0000</pubDate>
@@ -83,36 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU Lawmakers Back Ban On Sexualised AI Deepfakes]]></title>
-<link>https://www.barrons.com/news/eu-lawmakers-back-ban-on-sexualised-ai-deepfakes-9def5ac0?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 14:45:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Under Hezbollah Fire, People In North Israel Hope For Better Days]]></title>
-<link>https://www.barrons.com/news/under-hezbollah-fire-people-in-north-israel-hope-for-better-days-78230ed8?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 14:30:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fear In Central Beirut As Israel Strikes, With And Without Warning]]></title>
-<link>https://www.barrons.com/news/fear-in-central-beirut-as-israel-strikes-with-and-without-warning-bf743d78?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 14:15:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA['France Is Wild': Macron To Unveil Name Of Europe's Largest Warship]]></title>
-<link>https://www.barrons.com/news/france-is-wild-macron-to-unveil-name-of-europe-s-largest-warship-beb8b59d?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 13:03:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Govt Says Anthropic AI An 'Unacceptable Risk' To Military]]></title>
-<link>https://www.barrons.com/news/us-govt-says-anthropic-ai-an-unacceptable-risk-to-military-a802c77f?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 12:48:19 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Nominee For Homeland Security Chief Grilled At Senate Hearing]]></title>
-<link>https://www.barrons.com/news/trump-nominee-for-homeland-security-chief-grilled-at-senate-hearing-cbb36b43?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 16:06:16 -0000</pubDate>
-<description><![CDATA[The US Senate confirmation hearing for Markwayne Mullin, President Donald Trump's pick as Homeland Security chief, got off to a fiery start on Wednesday as he clashed with the committee chairman, a fellow Republican.]]></description>
+<title><![CDATA[US Launches New Era Of Drug War With Latin American Allies]]></title>
+<link>https://www.barrons.com/news/us-launches-new-era-of-drug-war-with-latin-american-allies-45e790cd?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:35:25 -0000</pubDate>
+<description><![CDATA[The United States and allies in Latin America and the Caribbean have ushered in a new phase of anti-drug cooperation including extraditions, shared intelligence and security plans despite criticism from international organizations.]]></description>
 </item>
 <item>
-<title><![CDATA[Global Music Market Grows, Calls For AI Compensation: Industry Body]]></title>
-<link>https://www.barrons.com/news/global-music-market-grows-calls-for-ai-compensation-industry-body-f59a304f?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 15:51:16 -0000</pubDate>
-<description><![CDATA[The global music industry generated $31.7 billion last year, driven by online streaming, industry body IFPI said Wednesday, as it called on the sector to ensure AI-generated content compensates musicians.]]></description>
+<title><![CDATA[How Many Cargo Ships Are Passing Hormuz Strait?]]></title>
+<link>https://www.barrons.com/news/how-many-cargo-ships-are-passing-hormuz-strait-dea1ef16?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:20:25 -0000</pubDate>
+<description><![CDATA[Just a trickle of cargo ships and tankers has made it through the Strait of Hormuz since Iranian forces blocked the crucial trade route in the Middle East war.]]></description>
 </item>
 <item>
-<title><![CDATA[Maiduguri Bombings Follow Surge Of Jihadist Violence In Nigeria]]></title>
-<link>https://www.barrons.com/news/maiduguri-bombings-follow-surge-of-jihadist-violence-in-nigeria-2968902e?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 15:36:16 -0000</pubDate>
-<description><![CDATA[Nigeria's defence chiefs visited Maiduguri Wednesday after one of the deadliest attacks in the Borno state capital in years, in a show of defiance.]]></description>
+<title><![CDATA[Foreign Press Group Slams Israeli Police For Breaking Journalist's Wrist]]></title>
+<link>https://www.barrons.com/news/foreign-press-group-slams-israeli-police-for-breaking-journalist-s-wrist-dff7094c?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 17:05:25 -0000</pubDate>
+<description><![CDATA[An international media association on Wednesday criticised an "unprovoked assault" by Israeli police on journalists in Jerusalem, which it said left a CNN producer with a fractured wrist.]]></description>
 </item>
 </channel></rss>
