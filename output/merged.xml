@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 18 Mar 2026 08:44:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 09:51:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Dubai: Economic Might In The Middle East]]></title>
 <link>https://www.barrons.com/news/dubai-economic-might-in-the-middle-east-baf402f8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Stun USA To Win Politically Charged World Baseball Crown]]></title>
+<link>https://www.barrons.com/news/venezuela-stun-usa-to-win-politically-charged-world-baseball-crown-a454c93d?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 09:51:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Brussels To Unveil 'EU Inc' Pan-European Company Status]]></title>
 <link>https://www.barrons.com/news/brussels-to-unveil-eu-inc-pan-european-company-status-1fef6d9e?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 08:44:08 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Missile Fire Kills Two In Central Israel: Medics]]></title>
-<link>https://www.barrons.com/news/iran-missile-fire-kills-two-in-central-israel-medics-495f0691?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 03:24:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
 <pubDate>Tue, 10 Mar 2026 10:00:07 -0000</pubDate>
@@ -131,9 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Chinese Visitors To Japan Plunge 45.2% In February]]></title>
+<title><![CDATA[Japan, S. Korea Petrochemical Industry Slows Output On Iran War]]></title>
+<link>https://www.barrons.com/news/japan-s-korea-petrochemical-industry-slows-output-on-iran-war-dfbeee8f?refsec=topics_afp-news</link>
+<pubDate>Wed, 18 Mar 2026 09:51:31 -0000</pubDate>
+<description><![CDATA[The Middle East war is forcing petrochemical giants in two key Asian economies to cut production as the conflict rattles supplies of a crucial oil-derived component used to make a range of plastic goods.]]></description>
+</item>
+<item>
+<title><![CDATA[Chinese Tourists Ditch Japan For Third Month Running]]></title>
 <link>https://www.barrons.com/news/chinese-visitors-to-japan-plunge-45-2-in-february-8939360f?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 08:44:09 -0000</pubDate>
+<pubDate>Wed, 18 Mar 2026 09:36:31 -0000</pubDate>
 <description><![CDATA[Chinese visitors to Japan tumbled 45.2 percent in February from a year earlier, official data showed Wednesday, as the fallout from the countries' diplomatic spat bit for the third month running.]]></description>
 </item>
 <item>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/bts-light-stick-prices-surge-ahead-of-comeback-concert-1639ab19?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 08:29:09 -0000</pubDate>
 <description><![CDATA[Second-hand BTS light sticks were selling for up to six times the original price ahead of the K-pop megagroup's huge comeback concert this weekend, an online reseller showed Wednesday.]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Stun USA To Win Politically Charged World Baseball Crown]]></title>
-<link>https://www.barrons.com/news/venezuela-stun-usa-to-win-politically-charged-world-baseball-crown-a454c93d?refsec=topics_afp-news</link>
-<pubDate>Wed, 18 Mar 2026 08:14:09 -0000</pubDate>
-<description><![CDATA[Venezuela stunned the United States 3-2 to win the World Baseball Classic on Tuesday for the first time, sparking an outpouring of national pride after a tense final dripping with political symbolism.]]></description>
 </item>
 </channel></rss>
