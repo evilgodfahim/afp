@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Mar 2026 15:14:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 16:28:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Intelligence Chiefs Face Fresh Scrutiny Over Iran War]]></title>
+<title><![CDATA[What We Know About The UK's Deadly Meningitis Outbreak]]></title>
+<link>https://www.barrons.com/news/what-we-know-about-the-uk-s-deadly-meningitis-outbreak-2b19a092?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 16:28:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What Cargo Ships Are Passing Hormuz Strait?]]></title>
+<link>https://www.barrons.com/news/what-cargo-ships-are-passing-hormuz-strait-c52822e7?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 16:13:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran: US Intel Chief Sidesteps Trump 'Imminent Threat' Claim]]></title>
 <link>https://www.barrons.com/news/us-intelligence-chiefs-face-fresh-scrutiny-over-iran-war-0f63cf00?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 14:08:16 -0000</pubDate>
+<pubDate>Thu, 19 Mar 2026 15:58:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Energy Prices Soar, Iran And US Trade Threats After Qatar Gas Hit]]></title>
-<link>https://www.barrons.com/news/trump-threatens-to-destroy-iran-s-largest-gas-field-cb3796fd?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 12:42:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Strait Of Hormuz Blockage Drives Up Gulf Food Bills]]></title>
-<link>https://www.barrons.com/news/strait-of-hormuz-blockage-drives-up-gulf-food-bills-d72754e7?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 08:37:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Call To Add Nazi Camps To UNESCO List]]></title>
+<link>https://www.barrons.com/news/call-to-add-nazi-camps-to-unesco-list-0306a312?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 16:28:18 -0000</pubDate>
+<description><![CDATA[Former Nazi concentration camps should be added to the UNESCO World Heritage list, a group preserving the memorials urged Thursday, warning that "democracy can no longer be taken for granted".]]></description>
+</item>
+<item>
+<title><![CDATA[Nigeria 'Challenged By Terrorism', President Says On UK State Visit]]></title>
+<link>https://www.barrons.com/news/nigeria-challenged-by-terrorism-president-says-on-uk-state-visit-2a508ff5?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 16:13:18 -0000</pubDate>
+<description><![CDATA[Nigerian President Bola Tinubu talked of how his country is "challenged by terrorism" as he met Prime Minister Keir Starmer on Thursday as part of his state visit to the UK.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Pick For US Homeland Security Chief Clears Senate Panel Vote]]></title>
 <link>https://www.barrons.com/news/trump-ally-faces-knife-edge-vote-to-lead-us-homeland-security-b730183f?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 15:14:26 -0000</pubDate>
 <description><![CDATA[US senators advanced President Donald Trump's pick to lead the Department of Homeland Security in a knife-edge committee vote Thursday, after a combative hearing exposed concerns about his temperament and policy agenda.]]></description>
-</item>
-<item>
-<title><![CDATA[What We Know About The UK's Deadly Meningitis Outbreak]]></title>
-<link>https://www.barrons.com/news/what-we-know-about-the-uk-s-deadly-meningitis-outbreak-2b19a092?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 13:53:16 -0000</pubDate>
-<description><![CDATA[UK health authorities are probing 27 cases linked to a deadly meningitis outbreak believed to have spread at a nightclub in southeast England.]]></description>
-</item>
-<item>
-<title><![CDATA[What Cargo Ships Are Passing Hormuz Strait?]]></title>
-<link>https://www.barrons.com/news/what-cargo-ships-are-passing-hormuz-strait-c52822e7?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 13:38:16 -0000</pubDate>
-<description><![CDATA[Just a trickle of cargo ships and tankers -- most of them Iranian -- have made it through the Strait of Hormuz since Iranian forces blocked the crucial trade route in the Middle East war.]]></description>
 </item>
 </channel></rss>
