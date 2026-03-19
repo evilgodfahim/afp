@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Mar 2026 07:44:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 08:37:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Strait Of Hormuz Blockage Drives Up Gulf Food Bills]]></title>
+<link>https://www.barrons.com/news/strait-of-hormuz-blockage-drives-up-gulf-food-bills-d72754e7?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 08:37:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Ahead Of Election, Danish City Mirrors Country's Challenges]]></title>
 <link>https://www.barrons.com/news/ahead-of-election-danish-city-mirrors-country-s-challenges-8310dae7?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 06:54:12 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crude Prices Surge, Stocks Sink As Iran Warns Of Regional Energy Strikes]]></title>
+<title><![CDATA[Energy Prices Surge, Stocks Sink Amid Rising Energy Shock Fears]]></title>
 <link>https://www.barrons.com/news/crude-prices-surge-stocks-sink-as-iran-warns-of-regional-energy-strikes-d76ac728?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 04:56:36 -0000</pubDate>
+<pubDate>Thu, 19 Mar 2026 08:22:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Japan PM Meets Trump Under Pressure On Hormuz]]></title>
-<link>https://www.barrons.com/news/japan-pm-meets-trump-under-pressure-on-hormuz-af013096?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 03:54:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-76cfa426?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 08:37:49 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
+</item>
+<item>
 <title><![CDATA[Thailand's Anutin: Millionaire PM With A Populist Approach]]></title>
 <link>https://www.barrons.com/news/thailand-s-anutin-millionaire-pm-with-a-populist-approach-e273332b?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 06:54:13 -0000</pubDate>
 <description><![CDATA[Thai Prime Minister Anutin Charnvirakul is the scion of a construction dynasty and a hobbyist jet pilot, but championed Thailand's decriminalisation of cannabis and styles himself as a man of the people.]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Threatens To Destroy Iran's Largest Gas Field]]></title>
+<title><![CDATA[Iran Causes 'Extensive' Damage To Qatar Gas Hub, Sparks Trump Warning]]></title>
 <link>https://www.barrons.com/news/trump-threatens-to-destroy-iran-s-largest-gas-field-cb3796fd?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 05:41:37 -0000</pubDate>
-<description><![CDATA[US President Donald Trump threatened to "massively blow up" a vast Iranian gas field unless Tehran stops striking Qatari energy facilities, which sustained extensive damage Thursday.]]></description>
-</item>
-<item>
-<title><![CDATA[Strait Of Hormuz Blockage Drives Up Gulf Food Bills]]></title>
-<link>https://www.barrons.com/news/strait-of-hormuz-blockage-drives-up-gulf-food-bills-d72754e7?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 05:26:37 -0000</pubDate>
-<description><![CDATA[In a supermarket in Bahrain, Mahmoud Ali fills his cart as usual. The shelves remain stocked despite the war in the Middle East, but the blockade of the main shipping routes into the Gulf is now being felt at checkout.]]></description>
+<pubDate>Thu, 19 Mar 2026 08:22:49 -0000</pubDate>
+<description><![CDATA[Qatar reported "extensive" damage on Thursday to the site of the world's largest liquefied natural gas (LNG) facility following Iranian strikes, sparking fears for global energy supplies and fresh threats from Donald Trump against Iran.]]></description>
 </item>
 </channel></rss>
