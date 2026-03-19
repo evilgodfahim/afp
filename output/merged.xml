@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 19 Mar 2026 19:43:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 20:33:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump To Japan PM: 'Why Didn't You Tell Me About Pearl Harbor?']]></title>
+<link>https://www.barrons.com/news/trump-to-japan-pm-why-didn-t-you-tell-me-about-pearl-harbor-a0b55abb?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 20:33:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Mideast War Exposing Europe's Reliance On Gulf Flights, Airlines Warn]]></title>
 <link>https://www.barrons.com/news/mideast-war-exposing-europe-s-reliance-on-gulf-flights-airlines-warn-c56b6b6b?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 18:53:39 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What We Know About The UK's Deadly Meningitis Outbreak]]></title>
-<link>https://www.barrons.com/news/what-we-know-about-the-uk-s-deadly-meningitis-outbreak-2b19a092?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 16:28:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Salvadoran Anti-corruption Lawyer Jailed To 'Silence Her', Husband Says]]></title>
+<link>https://www.barrons.com/news/salvadoran-anti-corruption-lawyer-jailed-to-silence-her-husband-says-f04f8e3f?refsec=topics_afp-news</link>
+<pubDate>Thu, 19 Mar 2026 20:33:13 -0000</pubDate>
+<description><![CDATA[Jailed Salvadoran lawyer Ruth Lopez symbolizes the "decency" and "credible voice" that President Nayib Bukele's government only managed to silence with imprisonment, her husband Louis Benavides told AFP in an interview.]]></description>
+</item>
+<item>
 <title><![CDATA[Ghalibaf: Iran's New Strongman Running War Effort]]></title>
 <link>https://www.barrons.com/news/ghalibaf-iran-s-new-strongman-running-war-effort-d50b6aec?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 17:32:46 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/venezuelan-student-freed-after-months-in-us-immigration-custody-5b6d33fc?refsec=topics_afp-news</link>
 <pubDate>Thu, 19 Mar 2026 17:17:46 -0000</pubDate>
 <description><![CDATA[Democrats and activists celebrated Thursday the release of a US high school student from Venezuela who spent 10 months in custody after his arrest by immigration officials enforcing President Donald Trump's mass deportation plans.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump To Japan PM: 'Why Didn't You Tell Me About Pearl Harbor?']]></title>
-<link>https://www.barrons.com/news/trump-to-japan-pm-why-didn-t-you-tell-me-about-pearl-harbor-a0b55abb?refsec=topics_afp-news</link>
-<pubDate>Thu, 19 Mar 2026 17:02:46 -0000</pubDate>
-<description><![CDATA[US President Donald Trump on Thursday startled Japan's prime minister by mentioning the 1941 attack on Pearl Harbor, a seemingly light-hearted remark sure to elicit unease in a country now a firm US ally.]]></description>
 </item>
 </channel></rss>
