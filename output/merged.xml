@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 04:11:38 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 05:33:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Turkey In Cultural Diplomacy Push To Bring History Home]]></title>
+<link>https://www.barrons.com/news/turkey-in-cultural-diplomacy-push-to-bring-history-home-722420bc?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 05:33:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['The Bachelorette' Canned After Star's Violent Video Emerges]]></title>
 <link>https://www.barrons.com/news/the-bachelorette-canned-after-star-s-violent-video-emerges-a9080e60?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 04:11:37 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[New BTS Album To Drop Ahead Of Comeback Mega-gig]]></title>
+<title><![CDATA[New BTS Album Drops Ahead Of Comeback Mega-gig]]></title>
 <link>https://www.barrons.com/news/bts-to-drop-new-album-ahead-of-comeback-mega-gig-af70ab6e?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 02:41:37 -0000</pubDate>
+<pubDate>Fri, 20 Mar 2026 05:18:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[US, Israel Tactics Diverge On Iran As Trump's Goals Still 'Fuzzy']]></title>
 <link>https://www.barrons.com/news/us-israel-tactics-diverge-on-iran-as-trump-s-goals-still-fuzzy-44ecc360?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 01:35:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil Presidential Hopeful Flavio Bolsonaro Praises Bukele]]></title>
-<link>https://www.barrons.com/news/brazil-presidential-hopeful-flavio-bolsonaro-praises-bukele-49c063dd?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 01:20:58 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump's Mideast Muddle Could Play Into Xi's Hands At Planned Summit]]></title>
+<link>https://www.barrons.com/news/trump-s-mideast-muddle-could-play-into-xi-s-hands-at-planned-summit-6daaf8ab?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 05:33:19 -0000</pubDate>
+<description><![CDATA[China will be in a stronger position to extract concessions from Donald Trump when the US president finally visits Beijing after becoming entangled in his Middle East war, analysts say.]]></description>
+</item>
+<item>
 <title><![CDATA[Japan Ski Paradise Faces Strains Of Global Acclaim]]></title>
 <link>https://www.barrons.com/news/japan-ski-paradise-faces-strains-of-global-acclaim-d1f4c0b9?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 04:11:38 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/weakened-wto-set-for-high-level-meet-under-cloud-of-mideast-war-3f057365?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 03:56:38 -0000</pubDate>
 <description><![CDATA[A weakened World Trade Organization will gather ministers in Yaounde next week as it seeks a road to reform, amid surging global trade tensions, US tariffs and disruptions caused by the Middle East war.]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey In Cultural Diplomacy Push To Bring History Home]]></title>
-<link>https://www.barrons.com/news/turkey-in-cultural-diplomacy-push-to-bring-history-home-722420bc?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 03:41:38 -0000</pubDate>
-<description><![CDATA[When an ancient bronze statue of Roman Emperor Marcus Aurelius landed back on Turkish soil after decades abroad, it was more than a symbolic homecoming.]]></description>
 </item>
 </channel></rss>
