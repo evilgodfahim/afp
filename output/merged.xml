@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 05:33:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 06:50:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Weakened WTO Set For High-level Meet Under Cloud Of Mideast War]]></title>
+<link>https://www.barrons.com/news/weakened-wto-set-for-high-level-meet-under-cloud-of-mideast-war-3f057365?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 06:50:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Turkey In Cultural Diplomacy Push To Bring History Home]]></title>
 <link>https://www.barrons.com/news/turkey-in-cultural-diplomacy-push-to-bring-history-home-722420bc?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 05:33:18 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Israel Tactics Diverge On Iran As Trump's Goals Still 'Fuzzy']]></title>
-<link>https://www.barrons.com/news/us-israel-tactics-diverge-on-iran-as-trump-s-goals-still-fuzzy-44ecc360?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 01:35:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Strikes 'Decimated' Iran As War Roils Markets]]></title>
+<link>https://www.barrons.com/news/israel-strikes-decimated-iran-as-war-roils-markets-27f76f8d?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 06:50:37 -0000</pubDate>
+<description><![CDATA[Israel launched a new wave of strikes on Tehran on Friday after Prime Minister Benjamin Netanyahu said Iran was being "decimated", and as Gulf nations faced a fresh set of attacks.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump's Mideast Muddle Could Play Into Xi's Hands At Planned Summit]]></title>
 <link>https://www.barrons.com/news/trump-s-mideast-muddle-could-play-into-xi-s-hands-at-planned-summit-6daaf8ab?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 05:33:19 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/japan-ski-paradise-faces-strains-of-global-acclaim-d1f4c0b9?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 04:11:38 -0000</pubDate>
 <description><![CDATA[Beneath the powder snow at internationally popular Japanese ski resort Niseko, anxiety is mounting among residents over soaring prices and a massive influx of overseas workers.]]></description>
-</item>
-<item>
-<title><![CDATA[Weakened WTO Set For High-level Meet Under Cloud Of Mideast War]]></title>
-<link>https://www.barrons.com/news/weakened-wto-set-for-high-level-meet-under-cloud-of-mideast-war-3f057365?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 03:56:38 -0000</pubDate>
-<description><![CDATA[A weakened World Trade Organization will gather ministers in Yaounde next week as it seeks a road to reform, amid surging global trade tensions, US tariffs and disruptions caused by the Middle East war.]]></description>
 </item>
 </channel></rss>
