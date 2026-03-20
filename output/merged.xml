@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 20 Mar 2026 17:33:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 18:42:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Chuck Norris, Roundhouse-kicking Action Star, Dead At 86: Family]]></title>
+<link>https://www.barrons.com/news/chuck-norris-action-man-who-inspired-endless-memes-dead-at-86-family-265981ce?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 18:42:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Stocks Drop, As Oil Rises As Mideast War Persists]]></title>
+<link>https://www.barrons.com/news/stocks-dip-oil-calmer-as-mideast-war-persists-214967b8?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 18:27:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Action Movie Star Chuck Norris Has Died: Family Statement]]></title>
 <link>https://www.barrons.com/news/action-movie-star-chuck-norris-has-died-family-statement-4733feac?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 15:39:06 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mistral Chief Calls For European AI Levy To Pay Creatives]]></title>
-<link>https://www.barrons.com/news/mistral-chief-calls-for-european-ai-levy-to-pay-creatives-b5b69f0c?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 13:44:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ship Crews Ration Food In Iran Blockade: Seafarers]]></title>
-<link>https://www.barrons.com/news/ship-crews-ration-food-in-iran-blockade-seafarers-34db3af4?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 13:29:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Attacked Russian Tanker Drifting Toward Libya: Italian Authorities]]></title>
+<link>https://www.barrons.com/news/attacked-russian-tanker-drifting-toward-libya-italian-authorities-1c3b6459?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 18:42:42 -0000</pubDate>
+<description><![CDATA[A Russian tanker that was badly damaged in an attack in the Mediterranean last week is drifting without crew towards the Libyan coast, Italy's civil protection service said on Friday.]]></description>
+</item>
+<item>
+<title><![CDATA[Souped-up VPNs Play 'Cat And Mouse' Game With Iran Censors]]></title>
+<link>https://www.barrons.com/news/souped-up-vpns-play-cat-and-mouse-game-with-iran-censors-bff2d05e?refsec=topics_afp-news</link>
+<pubDate>Fri, 20 Mar 2026 18:27:42 -0000</pubDate>
+<description><![CDATA[Iranians are managing to get online during the current war with the US and Israel despite drastic censorship and frequent blackouts, throwing the spotlight on to providers of tools such as VPNs (virtual private networks).]]></description>
+</item>
+<item>
 <title><![CDATA[Record-breaking Heat Wave Grips Western US]]></title>
 <link>https://www.barrons.com/news/record-breaking-heat-wave-grips-western-us-c6034fd1?refsec=topics_afp-news</link>
 <pubDate>Fri, 20 Mar 2026 15:39:06 -0000</pubDate>
 <description><![CDATA[A record early heat wave striking the west of the United States on Friday is a one-in-500-years type event and all but certainly the result of human-caused climate change, experts say.]]></description>
-</item>
-<item>
-<title><![CDATA[Chuck Norris, Roundhouse-kicking Action Star, Dead At 86: Family]]></title>
-<link>https://www.barrons.com/news/chuck-norris-action-man-who-inspired-endless-memes-dead-at-86-family-265981ce?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 17:33:24 -0000</pubDate>
-<description><![CDATA[Chuck Norris, the US martial artist and Hollywood tough guy most famous for his role in the "Walker, Texas Ranger" television series, has died, his family said Friday. He was 86.]]></description>
-</item>
-<item>
-<title><![CDATA[Stocks Drop, As Oil Rises As Mideast War Persists]]></title>
-<link>https://www.barrons.com/news/stocks-dip-oil-calmer-as-mideast-war-persists-214967b8?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 17:18:24 -0000</pubDate>
-<description><![CDATA[Stocks fell while oil prices pushed higher Friday at the end of a turbulent week in which attacks on Gulf energy infrastructure rattled global markets and sparked fears of an energy shock.]]></description>
 </item>
 </channel></rss>
