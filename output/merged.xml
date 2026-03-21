@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 19:21:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 19:44:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Troops In Nigeria Using 'Reaper' Drones For Recon]]></title>
+<link>https://www.barrons.com/news/us-troops-in-nigeria-using-reaper-drones-for-recon-nigerian-military-3d441d17?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 19:44:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French Prosecutors Suspect Musk Encouraged Deepfakes Row To Inflate X Value]]></title>
 <link>https://www.barrons.com/news/french-prosecutors-suspect-musk-encouraged-deepfakes-row-to-inflate-x-value-b668dbbe?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 18:31:09 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela Reshapes Military In Shift Toward Washington]]></title>
-<link>https://www.barrons.com/news/venezuela-reshapes-military-in-shift-toward-washington-f73f4a45?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 07:07:17 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Robert Mueller, Ex-FBI Chief Who Led Trump-Russia Inquiry, Dead At 81]]></title>
+<link>https://www.barrons.com/news/robert-mueller-ex-fbi-chief-who-led-trump-russia-inquiry-dead-at-81-1b99eaab?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 19:44:35 -0000</pubDate>
+<description><![CDATA[Robert Mueller, the former FBI director who led a politically explosive investigation into Donald Trump, has died aged 81, triggering a gloating response Saturday from the US president.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Threatens To Use ICE Agents For Airport Security Control]]></title>
 <link>https://www.barrons.com/news/trump-threatens-to-use-ice-agents-for-airport-security-control-e32f47ef?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 18:31:10 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/musk-offers-to-pay-salaries-of-us-airport-security-workers-8c60e03b?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 15:47:47 -0000</pubDate>
 <description><![CDATA[Tech tycoon Elon Musk offered Saturday to pay security personnel at US airports during a political standoff over funding for the Department of Homeland Security (DHS).]]></description>
-</item>
-<item>
-<title><![CDATA[US Troops In Nigeria Using 'Reaper' Drones For Recon: Nigerian Military]]></title>
-<link>https://www.barrons.com/news/us-troops-in-nigeria-using-reaper-drones-for-recon-nigerian-military-3d441d17?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 15:32:47 -0000</pubDate>
-<description><![CDATA[US military trainers deployed to Nigeria are using high-powered drones for surveillance and intelligence gathering, the Nigerian military told AFP Saturday.]]></description>
 </item>
 </channel></rss>
