@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 06:00:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 07:07:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Reshapes Military In Shift Toward Washington]]></title>
+<link>https://www.barrons.com/news/venezuela-reshapes-military-in-shift-toward-washington-f73f4a45?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 07:07:17 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[NBA Champion Thunder Say 'Timing' Prevents White House Visit: Report]]></title>
 <link>https://www.barrons.com/news/nba-champion-thunder-say-timing-prevents-white-house-visit-report-926b3ff6?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 04:02:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[BTS Takes Over Central Seoul For Comeback Concert]]></title>
+<title><![CDATA[BTS Fans Take Over Central Seoul For K-pop Kings' Comeback]]></title>
 <link>https://www.barrons.com/news/bts-takes-over-central-seoul-for-comeback-concert-ff723fa8?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 03:47:26 -0000</pubDate>
+<pubDate>Sat, 21 Mar 2026 06:52:17 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Souped-up VPNs Play 'Cat And Mouse' Game With Iran Censors]]></title>
-<link>https://www.barrons.com/news/souped-up-vpns-play-cat-and-mouse-game-with-iran-censors-bff2d05e?refsec=topics_afp-news</link>
-<pubDate>Fri, 20 Mar 2026 21:35:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Strikes Tehran, Beirut As Trump Mulls 'Winding Down' War]]></title>
+<link>https://www.barrons.com/news/israel-strikes-tehran-beirut-as-trump-mulls-winding-down-war-1c356943?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 07:07:18 -0000</pubDate>
+<description><![CDATA[Israel launched fresh strikes on Tehran and Beirut on Saturday after US President Donald Trump said he was considering "winding down" military operations against Iran following three weeks of war.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump's Iran War Rattles US Swing Voters Ahead Of Midterms]]></title>
 <link>https://www.barrons.com/news/trump-s-iran-war-rattles-us-swing-voters-ahead-of-midterms-a21e311d?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 04:02:27 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/after-cuba-beckons-miami-entrepreneurs-are-mostly-reluctant-to-invest-in-the-island-7a2589a9?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 03:47:27 -0000</pubDate>
 <description><![CDATA[Havana announced this week that it would allow Cuban emigrants to invest to address the communist island's severe economic and energy crises. But in Miami, the epicenter of the diaspora, entrepreneurs are generally reluctant.]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Reshapes Military In Shift Toward Washington]]></title>
-<link>https://www.barrons.com/news/venezuela-reshapes-military-in-shift-toward-washington-f73f4a45?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 03:32:27 -0000</pubDate>
-<description><![CDATA[A sweeping overhaul of Venezuela's top brass is designed to remake the armed forces and draw them closer to Washington, multiple military and political sources told AFP.]]></description>
 </item>
 </channel></rss>
