@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 21 Mar 2026 10:22:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 10:51:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[After Cuba Beckons, Miami Entrepreneurs Are Mostly Reluctant To Invest In The Island]]></title>
+<link>https://www.barrons.com/news/after-cuba-beckons-miami-entrepreneurs-are-mostly-reluctant-to-invest-in-the-island-7a2589a9?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 10:51:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuela Reshapes Military In Shift Toward Washington]]></title>
 <link>https://www.barrons.com/news/venezuela-reshapes-military-in-shift-toward-washington-f73f4a45?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 07:07:17 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Attacked Russian Tanker Drifting Toward Libya: Italian Authorities]]></title>
-<link>https://www.barrons.com/news/attacked-russian-tanker-drifting-toward-libya-italian-authorities-1c3b6459?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 01:00:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iranians Mark Eid As Trump Mulls Winding Down War]]></title>
+<link>https://www.barrons.com/news/iranians-mark-eid-as-trump-mulls-winding-down-war-f632dd66?refsec=topics_afp-news</link>
+<pubDate>Sat, 21 Mar 2026 10:51:42 -0000</pubDate>
+<description><![CDATA[Thousands of Iranians held Eid al-Fitr prayers on Saturday to mark the end of the Ramadan fast, against the backdrop of war with the United States and Israel, which reportedly carried out a strike on Iran's Natanz nuclear site.]]></description>
+</item>
+<item>
 <title><![CDATA[Israel Strikes Tehran, Beirut As Trump Mulls 'Winding Down' War]]></title>
 <link>https://www.barrons.com/news/israel-strikes-tehran-beirut-as-trump-mulls-winding-down-war-1c356943?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 07:07:18 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/trump-s-iran-war-rattles-us-swing-voters-ahead-of-midterms-a21e311d?refsec=topics_afp-news</link>
 <pubDate>Sat, 21 Mar 2026 04:02:27 -0000</pubDate>
 <description><![CDATA[Donald Trump's war with Iran is weighing on independent US voters, a crucial bloc likely to determine if the president's Republican Party maintains control of Congress in the November midterm elections.]]></description>
-</item>
-<item>
-<title><![CDATA[After Cuba Beckons, Miami Entrepreneurs Are Mostly Reluctant To Invest In The Island]]></title>
-<link>https://www.barrons.com/news/after-cuba-beckons-miami-entrepreneurs-are-mostly-reluctant-to-invest-in-the-island-7a2589a9?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 03:47:27 -0000</pubDate>
-<description><![CDATA[Havana announced this week that it would allow Cuban emigrants to invest to address the communist island's severe economic and energy crises. But in Miami, the epicenter of the diaspora, entrepreneurs are generally reluctant.]]></description>
 </item>
 </channel></rss>
