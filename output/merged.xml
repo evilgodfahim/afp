@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 17:50:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 18:31:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cuba Scrambles To Restore Power After New Blackout]]></title>
+<link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-cc87162d?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 18:31:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Orders Immigration Agents To Airports Amid Crippling Budget Standoff]]></title>
 <link>https://www.barrons.com/news/trump-orders-immigration-agents-to-airports-amid-crippling-budget-standoff-7e45f33b?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 16:54:41 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Launches Strikes As Lebanon Warns Of Invasion]]></title>
+<link>https://www.barrons.com/news/israel-launches-strikes-as-lebanon-warns-of-invasion-fd37c553?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 18:16:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e165bf3c?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 12:27:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French Elect Mayors In Key Cities Including Paris]]></title>
-<link>https://www.barrons.com/news/french-elect-mayors-in-key-cities-including-paris-c0010798?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 11:20:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[China's Premier Vows To Expand Global 'Trade Pie': State Media]]></title>
-<link>https://www.barrons.com/news/china-s-premier-vows-to-expand-global-trade-pie-state-media-03012075?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 08:30:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Project Hail Mary' Rockets To Top Of N. America Box Office]]></title>
+<link>https://www.barrons.com/news/project-hail-mary-rockets-to-top-of-n-america-box-office-35799faa?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 18:31:59 -0000</pubDate>
+<description><![CDATA[Amazon MGM's sci-fi adventure flick "Project Hail Mary" debuted at the top of the North American box office this week with an astronomical $80.5 million, industry estimates showed Sunday.]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War: Global Economic Fallout]]></title>
 <link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-1665b624?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 16:54:42 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/us-may-escalate-to-de-escalate-against-iran-treasury-chief-2a0e2ded?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 16:39:42 -0000</pubDate>
 <description><![CDATA[The United States may need to "escalate" its attacks against Iran to be able to wind down the war, Treasury Secretary Scott Bessent said Sunday, after President Donald Trump gave seemingly contradictory trajectories for the US military campaign.]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba Scrambles To Restore Power After New Blackout]]></title>
-<link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-cc87162d?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 15:47:47 -0000</pubDate>
-<description><![CDATA[Cuban authorities scrambled Sunday to restore power to the island after the second nationwide blackout in less than a week, as the grid struggles due to an aging infrastructure and a US oil blockade.]]></description>
 </item>
 </channel></rss>
