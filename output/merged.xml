@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 11:45:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 12:42:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['They Beat Us With Whips': Sudan RSF Detainees Tell Of Horrors In El-Fasher]]></title>
+<link>https://www.barrons.com/news/they-beat-us-with-whips-sudan-rsf-detainees-tell-of-horrors-in-el-fasher-888b9e28?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 12:42:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e165bf3c?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 12:27:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[French Elect Mayors In Key Cities Including Paris]]></title>
 <link>https://www.barrons.com/news/french-elect-mayors-in-key-cities-including-paris-c0010798?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 11:20:38 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba Hit By Second Nationwide Blackout In A Week]]></title>
-<link>https://www.barrons.com/news/cuba-hit-by-second-nationwide-blackout-in-a-week-75a7f7e0?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 04:20:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Records Shattered As US Heatwave Moves Eastward]]></title>
-<link>https://www.barrons.com/news/records-shattered-as-us-heatwave-moves-eastward-ba4c4936?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 04:05:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-27618116?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 12:42:38 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in the Middle East war on Sunday:]]></description>
+</item>
+<item>
+<title><![CDATA[Cuba Scrambles To Restore Power After New Blackout]]></title>
+<link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-9326b13b?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 12:27:38 -0000</pubDate>
+<description><![CDATA[Cuban authorities scrambled Sunday to restore power to the island after the second nationwide blackout in less than a week, as the grid struggles due to an aging infrastructure and a US oil blockade.]]></description>
+</item>
+<item>
 <title><![CDATA[Vietnam, Russia To Sign Energy Deal: Hanoi]]></title>
 <link>https://www.barrons.com/news/vietnam-russia-to-sign-energy-deal-hanoi-3d0a04e8?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 11:20:39 -0000</pubDate>
 <description><![CDATA[Vietnam's prime minister left Sunday for an official visit to Russia during which the two nations will sign several agreements, including on oil and gas cooperation, Hanoi said.]]></description>
-</item>
-<item>
-<title><![CDATA['They Beat Us With Whips': Sudan RSF Detainees Tell Of Horrors In El-Fasher]]></title>
-<link>https://www.barrons.com/news/they-beat-us-with-whips-sudan-rsf-detainees-tell-of-horrors-in-el-fasher-888b9e28?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 08:30:17 -0000</pubDate>
-<description><![CDATA[In the suffocating darkness of a sealed shipping container, every thud signalled to Ibrahim Noureldin that one more detainee had died in the crush as Sudanese paramilitary fighters kept forcing more men inside.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e165bf3c?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 08:15:17 -0000</pubDate>
-<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
 </item>
 </channel></rss>
