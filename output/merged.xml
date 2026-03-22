@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 13:41:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 14:24:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vietnam, Russia To Sign Energy Deal: Hanoi]]></title>
+<link>https://www.barrons.com/news/vietnam-russia-to-sign-energy-deal-hanoi-3d0a04e8?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 14:24:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['They Beat Us With Whips': Sudan RSF Detainees Tell Of Horrors In El-Fasher]]></title>
 <link>https://www.barrons.com/news/they-beat-us-with-whips-sudan-rsf-detainees-tell-of-horrors-in-el-fasher-888b9e28?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 12:42:37 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Threatens Middle East Infrastructure After Trump Ultimatum]]></title>
+<title><![CDATA[US, Iran Trade Threats To Target Infrastructure In Middle East]]></title>
 <link>https://www.barrons.com/news/iran-threatens-middle-east-infrastructure-after-trump-ultimatum-c86a5662?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 11:05:38 -0000</pubDate>
+<pubDate>Sun, 22 Mar 2026 14:09:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US-China 'Board Of Trade' May Help Ties But Experts Flag Market Worries]]></title>
-<link>https://www.barrons.com/news/us-china-board-of-trade-may-help-ties-but-experts-flag-market-worries-22990d34?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 05:36:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nepali Youth Demand Release Of Govt Report Into Deadly September Uprising]]></title>
+<link>https://www.barrons.com/news/nepali-youth-demand-release-of-govt-report-into-deadly-september-uprising-d010841a?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 14:24:44 -0000</pubDate>
+<description><![CDATA[Nepali youth staged a demonstration in Kathmandu Sunday, demanding the release of findings into the deadly 2025 uprising, which forced the previous government to collapse.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-27618116?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 12:42:38 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-9326b13b?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 12:27:38 -0000</pubDate>
 <description><![CDATA[Cuban authorities scrambled Sunday to restore power to the island after the second nationwide blackout in less than a week, as the grid struggles due to an aging infrastructure and a US oil blockade.]]></description>
-</item>
-<item>
-<title><![CDATA[Vietnam, Russia To Sign Energy Deal: Hanoi]]></title>
-<link>https://www.barrons.com/news/vietnam-russia-to-sign-energy-deal-hanoi-3d0a04e8?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 11:20:39 -0000</pubDate>
-<description><![CDATA[Vietnam's prime minister left Sunday for an official visit to Russia during which the two nations will sign several agreements, including on oil and gas cooperation, Hanoi said.]]></description>
 </item>
 </channel></rss>
