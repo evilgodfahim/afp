@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 10:52:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 11:20:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French Elect Mayors In Key Cities Including Paris]]></title>
+<link>https://www.barrons.com/news/french-elect-mayors-in-key-cities-including-paris-c0010798?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 11:20:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[China's Premier Vows To Expand Global 'Trade Pie': State Media]]></title>
 <link>https://www.barrons.com/news/china-s-premier-vows-to-expand-global-trade-pie-state-media-03012075?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 08:30:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Threatens Middle East Infrastructure After Trump Ultimatum]]></title>
+<link>https://www.barrons.com/news/iran-threatens-middle-east-infrastructure-after-trump-ultimatum-c86a5662?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 11:05:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Robert Mueller, Ex-FBI Chief Who Led Trump-Russia Probe, Dead At 81]]></title>
-<link>https://www.barrons.com/news/robert-mueller-ex-fbi-chief-who-led-trump-russia-inquiry-dead-at-81-1b99eaab?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 03:50:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Missile Strikes Wound Over 100 In Two South Israel Towns]]></title>
-<link>https://www.barrons.com/news/iran-missile-strikes-wound-over-100-in-two-south-israel-towns-5cf5e797?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 01:56:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vietnam, Russia To Sign Energy Deal: Hanoi]]></title>
+<link>https://www.barrons.com/news/vietnam-russia-to-sign-energy-deal-hanoi-3d0a04e8?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 11:20:39 -0000</pubDate>
+<description><![CDATA[Vietnam's prime minister left Sunday for an official visit to Russia during which the two nations will sign several agreements, including on oil and gas cooperation, Hanoi said.]]></description>
+</item>
+<item>
 <title><![CDATA['They Beat Us With Whips': Sudan RSF Detainees Tell Of Horrors In El-Fasher]]></title>
 <link>https://www.barrons.com/news/they-beat-us-with-whips-sudan-rsf-detainees-tell-of-horrors-in-el-fasher-888b9e28?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 08:30:17 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e165bf3c?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 08:15:17 -0000</pubDate>
 <description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[French Elect Mayors In Key Cities Including Paris]]></title>
-<link>https://www.barrons.com/news/french-elect-mayors-in-key-cities-including-paris-c0010798?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 08:00:17 -0000</pubDate>
-<description><![CDATA[Voters began casting their ballots for mayors in top French cities on Sunday, with the left battling to keep Paris while the far right eyes gains ahead of next year's presidential election.]]></description>
 </item>
 </channel></rss>
