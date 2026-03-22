@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 05:36:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 06:46:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Damaged Russian Tanker To Be Towed To Libya: State-owned Company]]></title>
+<link>https://www.barrons.com/news/damaged-russian-tanker-to-be-towed-to-libya-state-owned-company-982fa6ed?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 06:46:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US-China 'Board Of Trade' May Help Ties But Experts Flag Market Worries]]></title>
 <link>https://www.barrons.com/news/us-china-board-of-trade-may-help-ties-but-experts-flag-market-worries-22990d34?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 05:36:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French Prosecutors Suspect Musk Encouraged Deepfakes Row To Inflate X Value]]></title>
-<link>https://www.barrons.com/news/french-prosecutors-suspect-musk-encouraged-deepfakes-row-to-inflate-x-value-b668dbbe?refsec=topics_afp-news</link>
-<pubDate>Sat, 21 Mar 2026 18:31:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China's Premier Vows To Expand Global 'Trade Pie': State Media]]></title>
+<link>https://www.barrons.com/news/china-s-premier-vows-to-expand-global-trade-pie-state-media-03012075?refsec=topics_afp-news</link>
+<pubDate>Sun, 22 Mar 2026 06:46:09 -0000</pubDate>
+<description><![CDATA[China's number two leader Li Qiang said Sunday that his country was willing to help expand the global "trade pie" by further opening up, state media reported, while he slammed unilateralism from certain countries.]]></description>
+</item>
+<item>
 <title><![CDATA[Sri Lanka Raises Fuel Prices By 25 Percent As War Bites]]></title>
 <link>https://www.barrons.com/news/sri-lanka-raises-fuel-prices-by-25-percent-as-war-bites-fea607d5?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 05:36:08 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/iranian-missiles-sow-panic-destruction-in-israeli-towns-25d241b9?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 04:20:59 -0000</pubDate>
 <description><![CDATA[Sheltering from an Iranian missile attack on his town in southern Israel on Saturday, 17-year-old Ido Franky heard "terrifying" blasts like nothing he had experienced before.]]></description>
-</item>
-<item>
-<title><![CDATA[Damaged Russian Tanker To Be Towed To Libya: State-owned Company]]></title>
-<link>https://www.barrons.com/news/damaged-russian-tanker-to-be-towed-to-libya-state-owned-company-982fa6ed?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 04:05:59 -0000</pubDate>
-<description><![CDATA[A damaged Russian gas tanker that was abandoned in the Mediterranean will be towed to a Libyan port, according to a state-owned oil company in the north African country.]]></description>
 </item>
 </channel></rss>
