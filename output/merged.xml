@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Mar 2026 07:43:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 08:50:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU Chief In Australia With Eyes On Trade Deal]]></title>
+<link>https://www.barrons.com/news/eu-chief-in-australia-with-eyes-on-trade-deal-fda3179b?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 08:50:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Planet Trapped Record Heat In 2025: UN]]></title>
 <link>https://www.barrons.com/news/planet-trapped-record-heat-in-2025-un-106e1237?refsec=topics_afp-news</link>
 <pubDate>Mon, 23 Mar 2026 07:43:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Asian Stocks Tumble, Oil Jumps On Trump's Iran Ultimatum]]></title>
+<title><![CDATA[Stocks Tumble, Oil Jumps On Trump's Iran Ultimatum]]></title>
 <link>https://www.barrons.com/news/asian-stocks-tumble-as-trump-gives-iran-48-hour-ultimatum-0d835edf?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 07:28:30 -0000</pubDate>
+<pubDate>Mon, 23 Mar 2026 08:35:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba Restores Power Grid After Latest Blackout]]></title>
-<link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-cc87162d?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 04:15:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Plane, Fire Truck Collide On Runway At New York's LaGuardia Airport]]></title>
+<title><![CDATA[Mideast War Threatens Energy Crisis Worse Than 1970s Oil Shocks]]></title>
+<link>https://www.barrons.com/news/mideast-war-threatens-energy-crisis-worse-than-1970s-oil-shocks-71721fba?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 08:50:56 -0000</pubDate>
+<description><![CDATA[The world faces an energy crisis worse than both 1970s oil shocks combined if the Middle East war drags on, the head of the International Energy Agency warned Monday, as Israel launched fresh strikes on Tehran and threatened weeks more fighting.]]></description>
+</item>
+<item>
+<title><![CDATA[Pilot, Co-pilot Killed In Runway Collision At New York Airport]]></title>
 <link>https://www.barrons.com/news/plane-fire-truck-collide-on-runway-at-new-york-s-laguardia-airport-07421b54?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 07:43:31 -0000</pubDate>
-<description><![CDATA[A plane carrying dozens of people collided with a fire truck late Sunday on a runway at New York's LaGuardia airport, forcing a halt to flights at the transport hub, authorities said.]]></description>
+<pubDate>Mon, 23 Mar 2026 08:35:56 -0000</pubDate>
+<description><![CDATA[A plane carrying dozens of people collided with a fire truck late Sunday on a runway at New York's LaGuardia airport, killing the pilot and co-pilot and forcing a halt to flights, authorities and US media reported.]]></description>
 </item>
 <item>
 <title><![CDATA[Russia's Max: The Unencrypted Super-app Being Forced On Citizens]]></title>
 <link>https://www.barrons.com/news/russia-s-max-the-unencrypted-super-app-being-forced-on-citizens-4dfde798?refsec=topics_afp-news</link>
 <pubDate>Mon, 23 Mar 2026 07:28:31 -0000</pubDate>
 <description><![CDATA[Russia is pushing its Max messenger -- a social media platform without encryption -- onto its citizens with a massive promotion campaign and the simultaneous blocking of Whatsapp and Telegram, the country's two most popular messenger apps.]]></description>
-</item>
-<item>
-<title><![CDATA[EU Chief In Australia With Eyes On Trade Deal]]></title>
-<link>https://www.barrons.com/news/eu-chief-in-australia-with-eyes-on-trade-deal-fda3179b?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 07:13:31 -0000</pubDate>
-<description><![CDATA[EU chief Ursula von der Leyen arrived in Australia on Monday, with hopes a free trade deal can be struck after years of negotiations.]]></description>
 </item>
 </channel></rss>
