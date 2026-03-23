@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Mar 2026 23:50:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 01:57:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
+<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-1665b624?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 01:57:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US May 'Escalate To De-escalate' Against Iran: Treasury Chief]]></title>
+<link>https://www.barrons.com/news/us-may-escalate-to-de-escalate-against-iran-treasury-chief-2a0e2ded?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 01:42:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba Starts To Restore Power After New Blackout]]></title>
 <link>https://www.barrons.com/news/cuba-scrambles-to-restore-power-after-new-blackout-cc87162d?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 22:21:35 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel To Advance Ground Operations In Lebanon After Striking Key Bridge]]></title>
-<link>https://www.barrons.com/news/israel-launches-strikes-as-lebanon-warns-of-invasion-fd37c553?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 19:45:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e165bf3c?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 12:27:37 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East War To Dominate Houston's 'Davos Of Energy']]></title>
+<link>https://www.barrons.com/news/middle-east-war-to-dominate-houston-s-davos-of-energy-eccaf4f1?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 01:57:36 -0000</pubDate>
+<description><![CDATA[Energy industry leaders will converge on Texas this week for an annual conference dominated by oil and gas supply disruptions from the war launched by the United States and Israel against Iran.]]></description>
+</item>
+<item>
 <title><![CDATA['Project Hail Mary' Rockets To Top Of N. America Box Office]]></title>
 <link>https://www.barrons.com/news/project-hail-mary-rockets-to-top-of-n-america-box-office-35799faa?refsec=topics_afp-news</link>
 <pubDate>Sun, 22 Mar 2026 18:31:59 -0000</pubDate>
 <description><![CDATA[Amazon MGM's sci-fi adventure flick "Project Hail Mary" debuted at the top of the North American box office this week with an astronomical $80.5 million, industry estimates showed Sunday.]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
-<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-1665b624?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 16:54:42 -0000</pubDate>
-<description><![CDATA[Here are the latest economic events in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[US May 'Escalate To De-escalate' Against Iran: Treasury Chief]]></title>
-<link>https://www.barrons.com/news/us-may-escalate-to-de-escalate-against-iran-treasury-chief-2a0e2ded?refsec=topics_afp-news</link>
-<pubDate>Sun, 22 Mar 2026 16:39:42 -0000</pubDate>
-<description><![CDATA[The United States may need to "escalate" its attacks against Iran to be able to wind down the war, Treasury Secretary Scott Bessent said Sunday, after President Donald Trump gave seemingly contradictory trajectories for the US military campaign.]]></description>
+<title><![CDATA[Torrential Rains In Kenya Kill 81 In March: Officials]]></title>
+<link>https://www.barrons.com/news/torrential-rains-in-kenya-kill-81-in-march-officials-1a972907?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 01:42:36 -0000</pubDate>
+<description><![CDATA[Torrential storms that have triggered flash floods in Kenya have killed at least 81 people this month, authorities said Sunday, as rain continued to pound much of the country.]]></description>
 </item>
 </channel></rss>
