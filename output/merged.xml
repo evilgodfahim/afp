@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 23 Mar 2026 11:47:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 12:59:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Lifts Iran Threat After 'Very Good' Talks On Ending War]]></title>
+<link>https://www.barrons.com/news/mideast-war-threatens-energy-crisis-worse-than-1970s-oil-shocks-71721fba?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 12:59:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Runway Collision Kills Two Pilots, Shutters New York Airport]]></title>
+<link>https://www.barrons.com/news/plane-fire-truck-collide-on-runway-at-new-york-s-laguardia-airport-07421b54?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 12:44:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russia's Max: The Unencrypted Super-app Being Forced On Citizens]]></title>
 <link>https://www.barrons.com/news/russia-s-max-the-unencrypted-super-app-being-forced-on-citizens-4dfde798?refsec=topics_afp-news</link>
 <pubDate>Mon, 23 Mar 2026 11:47:00 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Torrential Rains In Kenya Kill 81 In March: Officials]]></title>
-<link>https://www.barrons.com/news/torrential-rains-in-kenya-kill-81-in-march-officials-1a972907?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 04:30:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
-<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-1665b624?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 01:57:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Greece Train Tragedy Trial Adjourned Amid Courtroom Chaos]]></title>
+<link>https://www.barrons.com/news/greece-train-tragedy-trial-adjourned-amid-courtroom-chaos-24e67dcd?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 12:59:24 -0000</pubDate>
+<description><![CDATA[A long-awaited trial into Greece's worst train tragedy was adjourned to April 1 after starting on Monday amid chaotic scenes in a courtroom too small to handle the huge interest in the case, officials said.]]></description>
+</item>
+<item>
+<title><![CDATA[German Court Rejects Landmark Climate Case Against BMW, Mercedes]]></title>
+<link>https://www.barrons.com/news/german-court-rejects-landmark-climate-case-against-bmw-mercedes-223cf27b?refsec=topics_afp-news</link>
+<pubDate>Mon, 23 Mar 2026 12:44:24 -0000</pubDate>
+<description><![CDATA[A German top court on Monday rejected a landmark climate case brought by environmentalists that had aimed to force auto giants BMW and Mercedes-Benz to stop selling combustion-engine cars from 2030.]]></description>
+</item>
+<item>
 <title><![CDATA[France Ex-PM Lionel Jospin Dies Aged 88]]></title>
 <link>https://www.barrons.com/news/france-ex-pm-lionel-jospin-dies-aged-88-81309da9?refsec=topics_afp-news</link>
 <pubDate>Mon, 23 Mar 2026 11:47:00 -0000</pubDate>
 <description><![CDATA[Former French prime minister Lionel Jospin, a Socialist who introduced the 35-hour work week and civil partnerships for gay couples, has died aged 88, his family said on Monday.]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Defies Trump Hormuz Ultimatum With Naval Mine Threat]]></title>
-<link>https://www.barrons.com/news/mideast-war-threatens-energy-crisis-worse-than-1970s-oil-shocks-71721fba?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 11:32:00 -0000</pubDate>
-<description><![CDATA[Iran threatened Monday to deploy naval mines in the Gulf and target power plants across the region as it defied US President Donald Trump's ultimatum for the Islamic republic to reopen the Strait of Hormuz.]]></description>
-</item>
-<item>
-<title><![CDATA[Runway Collision Kills Two Pilots, Shutters New York Airport]]></title>
-<link>https://www.barrons.com/news/plane-fire-truck-collide-on-runway-at-new-york-s-laguardia-airport-07421b54?refsec=topics_afp-news</link>
-<pubDate>Mon, 23 Mar 2026 11:17:00 -0000</pubDate>
-<description><![CDATA[A plane carrying dozens of people collided with a fire truck on a runway at New York's LaGuardia airport, killing the pilot and co-pilot and causing "serious injuries" to others, authorities said Monday.]]></description>
 </item>
 </channel></rss>
