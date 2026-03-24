@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 09:00:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 10:13:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pentagon Tightens Press Restrictions After Court Ruling]]></title>
+<link>https://www.barrons.com/news/pentagon-tightens-press-restrictions-after-court-ruling-5da26246?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 10:13:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Back To Black: Facing Energy Shock, Asia Turns To Coal]]></title>
+<link>https://www.barrons.com/news/back-to-black-facing-energy-shock-asia-turns-to-coal-f330916d?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 09:58:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Manila's Jeepney Drivers Struggle As Mideast War Sends Diesel Cost Soaring]]></title>
 <link>https://www.barrons.com/news/manila-s-jeepney-drivers-struggle-as-mideast-war-sends-diesel-cost-soaring-d41f87b3?refsec=topics_afp-news</link>
 <pubDate>Tue, 24 Mar 2026 07:00:01 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Ousted Venezuela President To Return To New York Court]]></title>
-<link>https://www.barrons.com/news/ousted-venezuela-president-to-return-to-new-york-court-a9df36a7?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 03:30:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Senate Confirms New Homeland Security Chief, A Trump Ally]]></title>
-<link>https://www.barrons.com/news/us-senate-confirms-new-homeland-security-chief-a-trump-ally-8a985407?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 03:15:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Gas Shortages Push India's Poor Back To Wood And Coal]]></title>
+<link>https://www.barrons.com/news/gas-shortages-push-india-s-poor-back-to-wood-and-coal-028de250?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 10:13:00 -0000</pubDate>
+<description><![CDATA[Soaring black-market prices of cooking gas in India's capital are pushing poorer families back to wood and coal, raising health risks and worsening air quality in the highly polluted megacity.]]></description>
+</item>
+<item>
+<title><![CDATA['Plundered': Senegal Fishers Feel Sting Of Illegal, Industrial Vessels]]></title>
+<link>https://www.barrons.com/news/plundered-senegal-fishers-feel-sting-of-illegal-industrial-vessels-b5d5381f?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 09:58:00 -0000</pubDate>
+<description><![CDATA[Ibrahima Mar first lost his livelihood then lost his son when the fish off Senegal's coast began to disappear, rupturing a way of life that had sustained his family for generations.]]></description>
+</item>
+<item>
 <title><![CDATA[Trans Community Alarmed As India Moves To Curb LGBTQ Rights]]></title>
 <link>https://www.barrons.com/news/trans-community-alarmed-as-india-moves-to-curb-lgbtq-rights-66cfa150?refsec=topics_afp-news</link>
 <pubDate>Tue, 24 Mar 2026 07:00:03 -0000</pubDate>
 <description><![CDATA[A proposed amendment to India's transgender law has sparked fear and anger among LGBTQ groups, who warn it could undo hard-won legal gains and take away the right to self-identify.]]></description>
-</item>
-<item>
-<title><![CDATA[Pentagon Tightens Press Restrictions After Court Ruling]]></title>
-<link>https://www.barrons.com/news/pentagon-tightens-press-restrictions-after-court-ruling-5da26246?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 06:45:03 -0000</pubDate>
-<description><![CDATA[The Pentagon beefed up restrictions on journalists covering the US military on Monday, days after a court ruled that its earlier overhaul to press access was unconstitutional.]]></description>
-</item>
-<item>
-<title><![CDATA[Back To Black: Facing Energy Shock, Asia Turns To Coal]]></title>
-<link>https://www.barrons.com/news/back-to-black-facing-energy-shock-asia-turns-to-coal-f330916d?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 05:41:48 -0000</pubDate>
-<description><![CDATA[Asian countries are ramping up use of polluting coal to tackle energy shortages and price spikes linked to the Iran war, but the crisis could have an environmental silver lining.]]></description>
 </item>
 </channel></rss>
