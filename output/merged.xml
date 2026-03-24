@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 24 Mar 2026 04:15:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 05:41:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Denmark Votes In Close Election, Outgoing PM Tipped To Win]]></title>
+<link>https://www.barrons.com/news/denmark-votes-in-close-election-outgoing-pm-tipped-to-win-6c383634?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 05:41:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA['Perfect Japan' Posts Spark Gen Z Social Media Backlash]]></title>
+<link>https://www.barrons.com/news/perfect-japan-posts-spark-gen-z-social-media-backlash-d2e97c82?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 05:26:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Asian Stocks Rise On Trump U-turn But Unease Sees Oil Bounce]]></title>
 <link>https://www.barrons.com/news/asian-stocks-rise-on-trump-u-turn-but-unease-sees-oil-bounce-72d2d109?refsec=topics_afp-news</link>
 <pubDate>Tue, 24 Mar 2026 04:15:52 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Social Media Addiction Trial Jury Struggles For Consensus]]></title>
-<link>https://www.barrons.com/news/jury-at-us-social-media-addiction-trial-reports-difficulty-in-finding-consensus-2310eb87?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 01:34:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Protesters Demand End To 'Hunger' Level Wages]]></title>
-<link>https://www.barrons.com/news/venezuela-protesters-demand-end-to-hunger-level-wages-17b4cc48?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 01:19:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Back To Black: Facing Energy Shock, Asia Turns To Coal]]></title>
+<link>https://www.barrons.com/news/back-to-black-facing-energy-shock-asia-turns-to-coal-f330916d?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 05:41:48 -0000</pubDate>
+<description><![CDATA[Asian countries are ramping up use of polluting coal to tackle energy shortages and price spikes linked to the Iran war, but the crisis could have an environmental silver lining.]]></description>
+</item>
+<item>
+<title><![CDATA[Manila's Jeepney Drivers Struggle As Mideast War Sends Diesel Cost Soaring]]></title>
+<link>https://www.barrons.com/news/manila-s-jeepney-drivers-struggle-as-mideast-war-sends-diesel-cost-soaring-d41f87b3?refsec=topics_afp-news</link>
+<pubDate>Tue, 24 Mar 2026 05:26:48 -0000</pubDate>
+<description><![CDATA[The sun was not quite up as Eric Helera unlocked the doors of his jeepney, wiped down its two long passenger benches, and checked his brake fluid before another day ferrying Manila commuters.]]></description>
+</item>
+<item>
 <title><![CDATA[The Contenders Vying To Be Next Danish Leader]]></title>
 <link>https://www.barrons.com/news/the-contenders-vying-to-be-next-danish-leader-85d0e9ac?refsec=topics_afp-news</link>
 <pubDate>Tue, 24 Mar 2026 04:15:52 -0000</pubDate>
 <description><![CDATA[Denmark's Social Democrat Prime Minister Mette Frederiksen is tipped to hold onto power after Tuesday's general election. But the leaders of the two other parties in her coalition government are hoping to stop her from a third term.]]></description>
-</item>
-<item>
-<title><![CDATA[Denmark Votes In Close Election, Outgoing PM Tipped To Win]]></title>
-<link>https://www.barrons.com/news/denmark-votes-in-close-election-outgoing-pm-tipped-to-win-6c383634?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 04:00:52 -0000</pubDate>
-<description><![CDATA[Danes vote Tuesday in general elections that opinion polls suggest will be close, with Prime Minister Mette Frederiksen seen as the favourite after standing up to US President Donald Trump over Greenland.]]></description>
-</item>
-<item>
-<title><![CDATA['Perfect Japan' Posts Spark Gen Z Social Media Backlash]]></title>
-<link>https://www.barrons.com/news/perfect-japan-posts-spark-gen-z-social-media-backlash-d2e97c82?refsec=topics_afp-news</link>
-<pubDate>Tue, 24 Mar 2026 03:45:52 -0000</pubDate>
-<description><![CDATA[Take an everyday video on any suburban transport network, add anime-style music and a rosy filter, and it's suddenly a scene from the Japanese holiday of your dreams.]]></description>
 </item>
 </channel></rss>
