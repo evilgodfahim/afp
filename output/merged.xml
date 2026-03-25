@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 14:39:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 16:07:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US, Ecuador Carry Out Joint Anti-drug Strikes]]></title>
 <link>https://www.barrons.com/news/us-ecuador-carry-out-joint-anti-drug-strikes-4346a04a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Names Tech Titans To Science Advisory Council]]></title>
+<link>https://www.barrons.com/news/trump-names-tech-titans-to-science-advisory-council-ea16a762?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 16:06:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Aviation, Tourism, Agriculture... The Economic Sectors Hit By The War]]></title>
 <link>https://www.barrons.com/news/aviation-tourism-agriculture-the-economic-sectors-hit-by-the-war-e0fa4236?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 14:39:23 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[IEA Chief Says 'Ready' To Release More Oil Reserves If Needed]]></title>
-<link>https://www.barrons.com/news/japan-pm-asks-iea-chief-to-prepare-additional-coordinated-release-of-oil-3d8eb569?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 12:01:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
 <pubDate>Wed, 18 Mar 2026 17:55:03 -0000</pubDate>
@@ -143,9 +143,9 @@
 <description><![CDATA[US television host Savannah Guthrie on Wednesday described her family's "agony" in her first television interview since her mother was apparently kidnapped nearly two months ago in a case that has gripped the nation.]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Names Tech Titans To Science Advisory Council]]></title>
-<link>https://www.barrons.com/news/trump-names-tech-titans-to-science-advisory-council-ea16a762?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 14:09:24 -0000</pubDate>
-<description><![CDATA[President Donald Trump on Wednesday named some of the biggest names in US technology to his Council of Advisors on Science and Technology, assembling a roster that includes Meta founder Mark Zuckerberg and Google co-founder Sergey Brin.]]></description>
+<title><![CDATA[Ex-Google Chief Matt Brittin Made New BBC Director-general]]></title>
+<link>https://www.barrons.com/news/ex-google-chief-matt-brittin-made-new-bbc-director-general-a486f237?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 16:07:00 -0000</pubDate>
+<description><![CDATA[The BBC named a former Google executive with no television or journalism experience as its next director-general Wednesday.]]></description>
 </item>
 </channel></rss>
