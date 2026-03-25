@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 20:34:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 21:35:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Grieving Families Hail Court Victory Against Instagram, YouTube]]></title>
+<link>https://www.barrons.com/news/grieving-families-hail-court-victory-against-instagram-youtube-4eafab92?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 21:35:18 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Gaza Civil Defence Says Israeli Strike Kills One, Tents On Fire]]></title>
 <link>https://www.barrons.com/news/gaza-civil-defence-says-israeli-strike-kills-one-tents-on-fire-b3f26929?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 20:34:51 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mideast War Sparks Long Queues At Kinshasa Petrol Stations]]></title>
-<link>https://www.barrons.com/news/mideast-war-sparks-long-queues-at-kinshasa-petrol-stations-448874a8?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 17:33:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 16:48:32 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Day Of Reckoning Arrives For Social Media After US Court Loss]]></title>
+<link>https://www.barrons.com/news/day-of-reckoning-arrives-for-social-media-after-us-court-loss-5bbff2fa?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 21:35:19 -0000</pubDate>
+<description><![CDATA[A Los Angeles jury's ruling that Meta and YouTube contributed to a teenage girl's depression marks a potential turning point in the years-long legal battle against social media giants -- one that could carry an enormous price tag.]]></description>
+</item>
+<item>
 <title><![CDATA[Alleged Rihanna Mansion Shooter Pleads Not Guilty]]></title>
 <link>https://www.barrons.com/news/alleged-rihanna-mansion-shooter-pleads-not-guilty-76383f57?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 20:34:52 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/un-designates-african-slave-trade-as-gravest-crime-against-humanity-118e731a?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 18:52:02 -0000</pubDate>
 <description><![CDATA[The UN General Assembly on Wednesday designated the transatlantic African slave trade as "the gravest crime against humanity," despite opposition by the United States and some European countries.]]></description>
-</item>
-<item>
-<title><![CDATA[Grieving Families Hail Court Victory Against Instagram, YouTube]]></title>
-<link>https://www.barrons.com/news/grieving-families-hail-court-victory-against-instagram-youtube-4eafab92?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 18:37:02 -0000</pubDate>
-<description><![CDATA[Hearing the news that Instagram and YouTube had been found liable Wednesday for contributing to a young American woman's depression, Lori Schott jumped for joy and wept, as if it were her own daughter who had just won her case.]]></description>
 </item>
 </channel></rss>
