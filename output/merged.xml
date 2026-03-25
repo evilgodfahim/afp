@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 25 Mar 2026 22:32:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 23:31:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UN Designates African Slave Trade As 'Gravest Crime Against Humanity']]></title>
+<link>https://www.barrons.com/news/un-designates-african-slave-trade-as-gravest-crime-against-humanity-118e731a?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 23:31:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Grieving Families Hail Court Victory Against Instagram, YouTube]]></title>
 <link>https://www.barrons.com/news/grieving-families-hail-court-victory-against-instagram-youtube-4eafab92?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 21:35:18 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Study Links Major Polluters To Big Climate Damages Bill]]></title>
-<link>https://www.barrons.com/news/study-links-major-polluters-to-big-climate-damages-bill-4699b4c5?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 17:22:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 16:48:32 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Belarus' Lukashenko Greeted By North Korean Leader In Pyongyang]]></title>
+<link>https://www.barrons.com/news/belarus-lukashenko-greeted-by-north-korean-leader-in-pyongyang-c0fe4562?refsec=topics_afp-news</link>
+<pubDate>Wed, 25 Mar 2026 23:31:08 -0000</pubDate>
+<description><![CDATA[Belarusian President Alexander Lukashenko was greeted by North Korean leader Kim Jong Un as he arrived on his first visit to the reclusive nation, the Korean Central News Agency reported Thursday.]]></description>
+</item>
+<item>
 <title><![CDATA[Day Of Reckoning Arrives For Social Media After US Court Loss]]></title>
 <link>https://www.barrons.com/news/day-of-reckoning-arrives-for-social-media-after-us-court-loss-5bbff2fa?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 21:35:19 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/alleged-rihanna-mansion-shooter-pleads-not-guilty-76383f57?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 20:34:52 -0000</pubDate>
 <description><![CDATA[The woman alleged to have shot up Rihanna's luxury Los Angeles home pleaded not guilty to attempted murder when she appeared in court on Wednesday, as details emerged of a near miss for the global megastar.]]></description>
-</item>
-<item>
-<title><![CDATA[UN Designates African Slave Trade As 'Gravest Crime Against Humanity']]></title>
-<link>https://www.barrons.com/news/un-designates-african-slave-trade-as-gravest-crime-against-humanity-118e731a?refsec=topics_afp-news</link>
-<pubDate>Wed, 25 Mar 2026 18:52:02 -0000</pubDate>
-<description><![CDATA[The UN General Assembly on Wednesday designated the transatlantic African slave trade as "the gravest crime against humanity," despite opposition by the United States and some European countries.]]></description>
 </item>
 </channel></rss>
