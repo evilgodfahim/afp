@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 26 Mar 2026 16:09:19 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 17:34:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b2644b2d?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Mar 2026 17:34:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Insists Iran Operations 'Extremely' Ahead Of Schedule]]></title>
+<link>https://www.barrons.com/news/trump-insists-iran-operations-extremely-ahead-of-schedule-1d5c03bf?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Mar 2026 17:19:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Africa Sets Out Stall For Cotton At The WTO]]></title>
 <link>https://www.barrons.com/news/africa-sets-out-stall-for-cotton-at-the-wto-2bbfd1af?refsec=topics_afp-news</link>
 <pubDate>Thu, 26 Mar 2026 16:09:18 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[EU Moves Closer To Ban Sexualised AI Deepfakes]]></title>
-<link>https://www.barrons.com/news/eu-moves-closer-to-ban-sexualised-ai-deepfakes-6b667987?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Mar 2026 13:47:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France Bids Farewell To Ex-PM Jospin Who 'Modernised' Nation]]></title>
-<link>https://www.barrons.com/news/france-bids-farewell-to-ex-pm-jospin-who-modernised-nation-9d4ada16?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Mar 2026 13:32:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
 <pubDate>Wed, 25 Mar 2026 16:48:32 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[ChatGPT's Taste For Literary Nonsense Sparks Alarm]]></title>
+<link>https://www.barrons.com/news/chatgpt-s-taste-for-literary-nonsense-sparks-alarm-6af7b8b4?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Mar 2026 17:34:05 -0000</pubDate>
+<description><![CDATA[OpenAI's GPT models can often be fooled into declaring that "pseudo-literary" nonsense is great, a German researcher has found.]]></description>
+</item>
+<item>
+<title><![CDATA['True Miracle': Napoleon's Long-lost Hat To Go On Display]]></title>
+<link>https://www.barrons.com/news/true-miracle-napoleon-s-long-lost-hat-to-go-on-display-fdb10169?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Mar 2026 17:19:05 -0000</pubDate>
+<description><![CDATA[A newly discovered hat believed to have been worn by Napoleon Bonaparte during his exile on the island of Saint Helena is set to go on display outside Paris later this year, historians said on Thursday.]]></description>
+</item>
+<item>
 <title><![CDATA[Bab Al-Mandeb Strait: Another Key Shipping Route Under Threat]]></title>
 <link>https://www.barrons.com/news/bab-al-mandeb-strait-another-key-shipping-route-under-threat-bb004ce0?refsec=topics_afp-news</link>
 <pubDate>Thu, 26 Mar 2026 16:09:19 -0000</pubDate>
 <description><![CDATA[Here are facts and figures about the Bab al-Mandeb strait, a crucial passage into the Red Sea that Iran has threatened to target if US forces launch a ground assault on its territory.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b2644b2d?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Mar 2026 15:54:19 -0000</pubDate>
-<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Insists Iran Operations 'Extremely' Ahead Of Schedule]]></title>
-<link>https://www.barrons.com/news/trump-insists-iran-operations-extremely-ahead-of-schedule-1d5c03bf?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Mar 2026 15:39:19 -0000</pubDate>
-<description><![CDATA[US President Donald Trump said Thursday that the Iran war was "extremely" ahead of schedule, as he pushed Tehran to make a deal at his first cabinet meeting since the conflict began nearly a month ago.]]></description>
 </item>
 </channel></rss>
