@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 26 Mar 2026 22:25:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 22:56:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eight Dead As Tornados Surge Across Central US]]></title>
 <link>https://www.barrons.com/news/four-dead-at-least-12-injured-after-tornados-hit-michigan-us-media-69596780?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[OpenAI Shelves Plans For Erotic Chatbot]]></title>
+<link>https://www.barrons.com/news/openai-shelves-plans-for-erotic-chatbot-a67a5c85?refsec=topics_afp-news</link>
+<pubDate>Thu, 26 Mar 2026 22:56:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Man Suspected Of Planting IED At US Base Has Fled To China: FBI]]></title>
 <link>https://www.barrons.com/news/man-suspected-of-planting-ied-at-us-base-has-fled-to-china-fbi-5d4cdef0?refsec=topics_afp-news</link>
 <pubDate>Thu, 26 Mar 2026 21:34:30 -0000</pubDate>
@@ -104,12 +110,6 @@
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b2644b2d?refsec=topics_afp-news</link>
 <pubDate>Thu, 26 Mar 2026 17:34:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Denies Being 'Desperate' For Iran Deal]]></title>
-<link>https://www.barrons.com/news/trump-insists-iran-operations-extremely-ahead-of-schedule-1d5c03bf?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Mar 2026 18:15:46 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
