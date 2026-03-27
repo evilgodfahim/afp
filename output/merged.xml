@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 11:38:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 12:58:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Mexico Searches For Missing Boats Ferrying Aid To Cuba]]></title>
+<link>https://www.barrons.com/news/mexico-searches-for-missing-boats-ferrying-aid-to-cuba-85a8ffcf?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 12:58:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[G7 Allies Press Rubio On US Iran Plans]]></title>
 <link>https://www.barrons.com/news/g7-allies-press-rubio-on-us-iran-plans-ea20d88c?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 11:38:57 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b201c207?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 09:51:31 -0000</pubDate>
+<title><![CDATA[Tehran Accuses US Of 'Calculated' Assault On School]]></title>
+<link>https://www.barrons.com/news/tehran-accuses-us-of-calculated-assault-on-school-0cbd7999?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 12:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungarians' Growing Anger At Living In EU's 'Most Corrupt State']]></title>
-<link>https://www.barrons.com/news/hungarians-growing-anger-at-living-in-eu-s-most-corrupt-state-5302032e?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 09:36:31 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany Eyes Australian 'Ghost Bat' For Drone Combat Era]]></title>
-<link>https://www.barrons.com/news/germany-eyes-australian-ghost-bat-for-drone-combat-era-cb911abd?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 08:45:44 -0000</pubDate>
+<title><![CDATA[Police Probe Firebomb Attack On Russian Centre In Prague]]></title>
+<link>https://www.barrons.com/news/police-probe-firebomb-attack-on-russian-centre-in-prague-7f57b345?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 12:28:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Putin Hopes Iran War Will Shift Focus From 'Crimes' In Ukraine: German FM]]></title>
+<link>https://www.barrons.com/news/putin-hopes-iran-war-will-shift-focus-from-crimes-in-ukraine-german-fm-17effe54?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 12:58:19 -0000</pubDate>
+<description><![CDATA[Russian President Vladimir Putin is hoping the war in the Middle East will shift the focus from his "crimes" in Ukraine, the German foreign minister said on Friday.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-35d91d59?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 11:38:58 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/i-ll-never-be-the-same-iranians-recount-one-month-of-war-d7fa0660?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 11:23:58 -0000</pubDate>
 <description><![CDATA[After a month of war with Israel and the United States with no clear end in sight, Iranians tell AFP about how life has changed, about watching missiles fall, and how security forces have tightened their grip.]]></description>
-</item>
-<item>
-<title><![CDATA[Mexico Searches For Missing Boats Ferrying Aid To Cuba]]></title>
-<link>https://www.barrons.com/news/mexico-searches-for-missing-boats-ferrying-aid-to-cuba-85a8ffcf?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 11:08:58 -0000</pubDate>
-<description><![CDATA[The Mexican Navy was searching on Friday for two boats that went missing while transporting humanitarian aid to crisis-hit Cuba, authorities and the convoy organizers said.]]></description>
 </item>
 </channel></rss>
