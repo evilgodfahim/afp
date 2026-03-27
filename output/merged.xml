@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 27 Mar 2026 08:45:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 09:51:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Europe Turning Away From Nuclear Energy Was 'Strategic Mistake': EU Chief]]></title>
 <link>https://www.barrons.com/news/nuclear-power-summit-to-open-in-france-f3cc2b14?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b201c207?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 09:51:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hungarians' Growing Anger At Living In EU's 'Most Corrupt State']]></title>
+<link>https://www.barrons.com/news/hungarians-growing-anger-at-living-in-eu-s-most-corrupt-state-5302032e?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 09:36:31 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Germany Eyes Australian 'Ghost Bat' For Drone Combat Era]]></title>
 <link>https://www.barrons.com/news/germany-eyes-australian-ghost-bat-for-drone-combat-era-cb911abd?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 08:45:44 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Life After Trump: Republicans Eye Vance, Rubio For Leadership]]></title>
-<link>https://www.barrons.com/news/life-after-trump-republicans-eye-vance-rubio-for-leadership-68ef89fb?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 04:43:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cyclone Triggers Outages At Major Australian LNG Plants]]></title>
-<link>https://www.barrons.com/news/cyclone-triggers-outages-at-major-australian-lng-plants-08b93afa?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 04:28:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Bars Firms With Pro-diversity Policies From Govt Contracts]]></title>
 <link>https://www.barrons.com/news/trump-bars-firms-with-pro-diversity-policies-from-govt-contracts-f116f5ae?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 04:13:44 -0000</pubDate>
@@ -131,21 +131,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Global Mohair Supply Flourishes In South Africa's Desert]]></title>
+<link>https://www.barrons.com/news/global-mohair-supply-flourishes-in-south-africa-s-desert-c53b9240?refsec=topics_afp-news</link>
+<pubDate>Fri, 27 Mar 2026 09:51:32 -0000</pubDate>
+<description><![CDATA[On a farm in South Africa's semi-arid south, herds of angora goats foraged across open land stretching to the horizon, their pale fleeces glinting in the harsh sun.]]></description>
+</item>
+<item>
 <title><![CDATA[US Senate Moves To End Airport Chaos]]></title>
 <link>https://www.barrons.com/news/us-senate-moves-to-end-airport-chaos-5f81ce12?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 08:45:45 -0000</pubDate>
 <description><![CDATA[The US Senate moved Friday to end a budget standoff that has forced thousands of airport security staff to work without pay and caused long delays at airports.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b201c207?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 07:39:54 -0000</pubDate>
-<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Hungarians' Growing Anger At Living In EU's 'Most Corrupt State']]></title>
-<link>https://www.barrons.com/news/hungarians-growing-anger-at-living-in-eu-s-most-corrupt-state-5302032e?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 07:24:54 -0000</pubDate>
-<description><![CDATA[Hungarian leader Viktor Orban's officially declared wealth is fairly modest: some savings and a jointly owned villa in Budapest.]]></description>
 </item>
 </channel></rss>
