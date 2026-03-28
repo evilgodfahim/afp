@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 12:47:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 13:48:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,15 +59,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sweet Heist? Nestle Says 12 Tonnes Of KitKat Stolen]]></title>
+<link>https://www.barrons.com/news/sweet-heist-nestle-says-12-tonnes-of-kitkat-stolen-62713d8c?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 13:48:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[USS Gerald Ford Arrives In Croatia For Maintenance]]></title>
 <link>https://www.barrons.com/news/uss-gerald-ford-arrives-in-croatia-for-maintenance-c27e033b?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 11:34:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelensky Visits UAE, Qatar For Air Security Talks With Gulf]]></title>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-85ab3c4e?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 13:33:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Zelensky Agrees Air Defence Cooperation With UAE, Qatar On Gulf Tour]]></title>
 <link>https://www.barrons.com/news/zelensky-visits-uae-qatar-for-air-security-talks-with-gulf-31753b19?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 12:47:02 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 13:18:34 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA['We Are Ready': Astronauts Arrive At Launch Site For Moon Mission]]></title>
-<link>https://www.barrons.com/news/we-are-ready-astronauts-arrive-at-launch-site-for-moon-mission-f074235f?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 22:28:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Fishy Trades Before Major News Spark Insider Trading Allegations]]></title>
-<link>https://www.barrons.com/news/fishy-trades-before-major-news-spark-insider-trading-allegations-0b7883dd?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 22:13:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[22 Migrants Die Off Greece After Six Days At Sea: Survivors]]></title>
+<link>https://www.barrons.com/news/22-migrants-die-off-greece-after-six-days-at-sea-survivors-de2e314b?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 13:48:35 -0000</pubDate>
+<description><![CDATA[Twenty-two migrants hoping to reach Europe from North Africa have died off the coast of Greece after six days at sea in a rubber boat, survivors told the Greek coastguard Saturday.]]></description>
+</item>
+<item>
 <title><![CDATA[Questions Over Israel's Interceptor Stockpiles As Mideast War Drags On]]></title>
 <link>https://www.barrons.com/news/questions-over-israel-s-interceptor-stockpiles-as-mideast-war-drags-on-bec7be2d?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 11:34:10 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/yemen-s-houthi-enter-war-with-missile-targeting-israel-cb56487c?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 12:47:03 -0000</pubDate>
 <description><![CDATA[Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.]]></description>
-</item>
-<item>
-<title><![CDATA[Sweet Heist? Nestle Says 12 Tonnes Of KitKat Stolen]]></title>
-<link>https://www.barrons.com/news/sweet-heist-nestle-says-12-tonnes-of-kitkat-stolen-62713d8c?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 11:19:10 -0000</pubDate>
-<description><![CDATA[A huge shipment of Nestle's crunchy KitKat chocolate bars was stolen in Europe, the brand said, warning that the heist risked causing shortages in stores right before Easter.]]></description>
 </item>
 </channel></rss>
