@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 05:39:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 06:54:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Uncertainty Over War-induced Oil Crisis Dominates Key Energy Summit]]></title>
+<link>https://www.barrons.com/news/uncertainty-over-war-induced-oil-crisis-dominates-key-energy-summit-a832385d?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 06:54:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Hopes For Iran Meetings 'This Week': Envoy Witkoff]]></title>
 <link>https://www.barrons.com/news/us-hopes-for-iran-meetings-this-week-envoy-witkoff-78b97caa?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 04:18:04 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Unease For Iranian-Canadians After Shooting At Ayatollah Critic's Gym]]></title>
-<link>https://www.barrons.com/news/unease-for-iranian-canadians-after-shooting-at-ayatollah-critic-s-gym-4bc24bda?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 04:03:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Millions Angry With Trump Expected To Fill American Streets]]></title>
+<link>https://www.barrons.com/news/millions-angry-with-trump-expected-to-fill-american-streets-aa356a43?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 06:54:42 -0000</pubDate>
+<description><![CDATA[Massive nationwide protests against US President Donald Trump are expected Saturday as millions of people vent fury over what they see as his authoritarian bent and other forms of cruel, law-trampling governance.]]></description>
+</item>
+<item>
 <title><![CDATA[Sequins, Slogans, Conspiracies: Inside The Right-wing Culture At CPAC]]></title>
 <link>https://www.barrons.com/news/sequins-slogans-conspiracies-inside-the-right-wing-culture-at-cpac-fdc66177?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 04:18:05 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/strait-of-trump-us-president-says-iran-must-open-key-waterway-9932252b?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 22:28:08 -0000</pubDate>
 <description><![CDATA[US President Donald Trump on Friday insisted Iran must open up the Strait of Hormuz to oil traffic to make a peace deal -- and dubbed the crucial waterway the "Strait of Trump."]]></description>
-</item>
-<item>
-<title><![CDATA[Uncertainty Over War-induced Oil Crisis Dominates Key Energy Summit]]></title>
-<link>https://www.barrons.com/news/uncertainty-over-war-induced-oil-crisis-dominates-key-energy-summit-a832385d?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 22:13:08 -0000</pubDate>
-<description><![CDATA[The world's largest energy conference wrapped up in Houston on Friday with the crisis caused by the US-Israel war on Iran dominating discussions -- but with little to show for it beyond a prevailing sense of uncertainty.]]></description>
 </item>
 </channel></rss>
