@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 18:35:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 19:27:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-9f656cdc?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 19:27:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Protesters Rally In London Against UK Far-right Rise]]></title>
+<link>https://www.barrons.com/news/protesters-rally-in-london-against-uk-far-right-rise-b4c40e48?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 19:12:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France Foils Paris Bomb Attack Outside US Bank]]></title>
 <link>https://www.barrons.com/news/france-foils-paris-bomb-attack-outside-us-bank-97483825?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 16:29:33 -0000</pubDate>
@@ -77,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen's Houthis Enter War As Attacks Take Economic Toll]]></title>
+<title><![CDATA[Israel Hits Iran Naval Research Site, Fresh Blasts Rattle Tehran]]></title>
 <link>https://www.barrons.com/news/yemen-s-houthi-enter-war-with-missile-targeting-israel-cb56487c?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 15:44:33 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 18:57:01 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Zelensky Agrees Air Defence Cooperation With UAE, Qatar On Gulf Tour]]></title>
-<link>https://www.barrons.com/news/zelensky-visits-uae-qatar-for-air-security-talks-with-gulf-31753b19?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 13:18:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Anti-Trump Protests Launch On 'No Kings' Day In US]]></title>
-<link>https://www.barrons.com/news/millions-angry-with-trump-expected-to-fill-american-streets-aa356a43?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 15:29:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Risky Moment': Ukraine Treads Tightrope With Gulf Arms Deals]]></title>
+<link>https://www.barrons.com/news/risky-moment-ukraine-treads-tightrope-with-gulf-arms-deals-4c98c86f?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 19:27:02 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky said Saturday that his country had "undoubtedly changed the geopolitical situation" in the Middle East with a series of decade-long defence agreements with Gulf states being hit with Iranian drones and missiles.]]></description>
+</item>
+<item>
+<title><![CDATA[Son Of Iran's Ousted Shah Wins Ovation From US Conservatives]]></title>
+<link>https://www.barrons.com/news/son-of-iran-s-ousted-shah-wins-ovation-from-us-conservatives-40039ff8?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 19:12:02 -0000</pubDate>
+<description><![CDATA[The exiled son of Iran's last shah, Reza Pahlavi, earned thunderous applause from a packed conference hall of US conservatives on Saturday as he urged Washington to press its military campaign against Tehran.]]></description>
+</item>
+<item>
 <title><![CDATA[French Police Foil Paris Bomb Attack Outside US Bank]]></title>
 <link>https://www.barrons.com/news/french-police-foil-paris-bomb-attack-outside-us-bank-b93b4a6b?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 17:53:47 -0000</pubDate>
 <description><![CDATA[French police stopped an apparent bomb attack outside a US bank in Paris early Saturday when they arrested a person about to set off a homemade explosive device, officials and sources close to the case told AFP.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-9f656cdc?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 16:14:33 -0000</pubDate>
-<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Protesters Rally In London Against UK Far-right Rise]]></title>
-<link>https://www.barrons.com/news/protesters-rally-in-london-against-uk-far-right-rise-b4c40e48?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 15:59:33 -0000</pubDate>
-<description><![CDATA[Tens of thousands of people marched through central London Saturday to protest the far-right, six months after Britain saw one of its largest-ever far-right demonstrations and weeks ahead of key local elections.]]></description>
 </item>
 </channel></rss>
