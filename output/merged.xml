@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 11:34:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 12:47:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Zelensky Visits UAE, Qatar For Air Security Talks With Gulf]]></title>
+<link>https://www.barrons.com/news/zelensky-visits-uae-qatar-for-air-security-talks-with-gulf-31753b19?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 12:47:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Millions Angry With Trump Expected To Fill American Streets]]></title>
 <link>https://www.barrons.com/news/millions-angry-with-trump-expected-to-fill-american-streets-aa356a43?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 11:19:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Renaissance Master Raphael Honored At New York's Met Museum]]></title>
-<link>https://www.barrons.com/news/renaissance-master-raphael-honored-at-new-york-s-met-museum-1111797b?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 21:58:08 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -137,9 +137,9 @@
 <description><![CDATA[The ability of Israel's highly sophisticated air defences to keep intercepting Iranian attacks is coming under scrutiny as the Middle East war drags on into a second month.]]></description>
 </item>
 <item>
-<title><![CDATA[Yemen's Houthi Enter War With Missile Targeting Israel]]></title>
+<title><![CDATA[Yemen's Houthi Enter War As Iran Strikes Disrupt Shipping]]></title>
 <link>https://www.barrons.com/news/yemen-s-houthi-enter-war-with-missile-targeting-israel-cb56487c?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 10:28:05 -0000</pubDate>
+<pubDate>Sat, 28 Mar 2026 12:47:03 -0000</pubDate>
 <description><![CDATA[Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.]]></description>
 </item>
 <item>
