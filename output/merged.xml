@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 01:53:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 04:18:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Hopes For Iran Meetings 'This Week': Envoy Witkoff]]></title>
+<link>https://www.barrons.com/news/us-hopes-for-iran-meetings-this-week-envoy-witkoff-78b97caa?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 04:18:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['We Are Ready': Astronauts Arrive At Launch Site For Moon Mission]]></title>
 <link>https://www.barrons.com/news/we-are-ready-astronauts-arrive-at-launch-site-for-moon-mission-f074235f?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 22:28:08 -0000</pubDate>
@@ -101,15 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mideast War Leaves 6,000 Tonnes Of Tea Stuck At Kenya Port]]></title>
-<link>https://www.barrons.com/news/mideast-war-leaves-6-000-tonnes-of-tea-stuck-at-kenya-port-9b7e09d8?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 19:41:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Foils Firebombing Plot Against Pro-Palestinian Activist]]></title>
-<link>https://www.barrons.com/news/pro-palestinian-activist-says-fbi-foiled-assassination-plot-against-her-c87c1f2e?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 19:26:54 -0000</pubDate>
+<title><![CDATA[Unease For Iranian-Canadians After Shooting At Ayatollah Critic's Gym]]></title>
+<link>https://www.barrons.com/news/unease-for-iranian-canadians-after-shooting-at-ayatollah-critic-s-gym-4bc24bda?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 04:03:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sequins, Slogans, Conspiracies: Inside The Right-wing Culture At CPAC]]></title>
+<link>https://www.barrons.com/news/sequins-slogans-conspiracies-inside-the-right-wing-culture-at-cpac-fdc66177?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 04:18:05 -0000</pubDate>
+<description><![CDATA[The US Conservative Political Action Conference has become as much a cultural marketplace as a political gathering, with activists, vendors and influencers turning grievance and identity into a booming ecosystem.]]></description>
+</item>
+<item>
 <title><![CDATA['Strait Of Trump': US President Says Iran Must Open Key Waterway]]></title>
 <link>https://www.barrons.com/news/strait-of-trump-us-president-says-iran-must-open-key-waterway-9932252b?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 22:28:08 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/uncertainty-over-war-induced-oil-crisis-dominates-key-energy-summit-a832385d?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 22:13:08 -0000</pubDate>
 <description><![CDATA[The world's largest energy conference wrapped up in Houston on Friday with the crisis caused by the US-Israel war on Iran dominating discussions -- but with little to show for it beyond a prevailing sense of uncertainty.]]></description>
-</item>
-<item>
-<title><![CDATA[US Hopes For Iran Meetings 'This Week': Envoy Witkoff]]></title>
-<link>https://www.barrons.com/news/us-hopes-for-iran-meetings-this-week-envoy-witkoff-78b97caa?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 21:58:08 -0000</pubDate>
-<description><![CDATA[US special envoy Steve Witkoff said Friday he believes Iran will hold talks with Washington "this week," as President Donald Trump reiterated his claims that Tehran wants to make a deal.]]></description>
 </item>
 </channel></rss>
