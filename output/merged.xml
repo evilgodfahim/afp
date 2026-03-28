@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 28 Mar 2026 14:28:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 14:59:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Yemen's Houthi Enter War As Iran Strikes Disrupt Shipping]]></title>
+<link>https://www.barrons.com/news/yemen-s-houthi-enter-war-with-missile-targeting-israel-cb56487c?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 14:59:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Sweet Heist? Nestle Says 12 Tonnes Of KitKat Stolen]]></title>
 <link>https://www.barrons.com/news/sweet-heist-nestle-says-12-tonnes-of-kitkat-stolen-62713d8c?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 13:48:34 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Hopes For Iran Meetings 'This Week': Envoy Witkoff]]></title>
-<link>https://www.barrons.com/news/us-hopes-for-iran-meetings-this-week-envoy-witkoff-78b97caa?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 04:18:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[France Foils Paris Bomb Attack Outside US Bank]]></title>
+<link>https://www.barrons.com/news/france-foils-paris-bomb-attack-outside-us-bank-97483825?refsec=topics_afp-news</link>
+<pubDate>Sat, 28 Mar 2026 14:59:02 -0000</pubDate>
+<description><![CDATA[French police stopped an apparent bomb attack outside a US bank in Paris early Saturday when they arrested a man about to set off a homemade explosive device, officials and sources close to the case told AFP.]]></description>
+</item>
+<item>
 <title><![CDATA[22 Migrants Die Off Greece After Six Days At Sea: Survivors]]></title>
 <link>https://www.barrons.com/news/22-migrants-die-off-greece-after-six-days-at-sea-survivors-de2e314b?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 13:48:35 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/questions-over-israel-s-interceptor-stockpiles-as-mideast-war-drags-on-bec7be2d?refsec=topics_afp-news</link>
 <pubDate>Sat, 28 Mar 2026 11:34:10 -0000</pubDate>
 <description><![CDATA[The ability of Israel's highly sophisticated air defences to keep intercepting Iranian attacks is coming under scrutiny as the Middle East war drags on into a second month.]]></description>
-</item>
-<item>
-<title><![CDATA[Yemen's Houthi Enter War As Iran Strikes Disrupt Shipping]]></title>
-<link>https://www.barrons.com/news/yemen-s-houthi-enter-war-with-missile-targeting-israel-cb56487c?refsec=topics_afp-news</link>
-<pubDate>Sat, 28 Mar 2026 12:47:03 -0000</pubDate>
-<description><![CDATA[Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.]]></description>
 </item>
 </channel></rss>
