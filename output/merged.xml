@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 17:26:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 17:56:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan Says Growing Support For Its Mideast War Talks Plan]]></title>
+<link>https://www.barrons.com/news/pakistan-hosts-saudi-turkey-egypt-for-talks-on-mideast-war-0ab1ccbc?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 17:56:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Two More Arrests Over Attempted Attack On US Bank HQ In Paris]]></title>
+<link>https://www.barrons.com/news/two-more-arrests-over-attempted-attack-on-us-bank-hq-in-paris-6409a4ce?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 17:41:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[High Hopes At China's Gateway To North Korea As Trains Resume]]></title>
 <link>https://www.barrons.com/news/high-hopes-at-china-s-gateway-to-north-korea-as-trains-resume-755396ee?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 15:28:00 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Indian Tile Makers Feel Heat Of Mideast War Energy Crunch]]></title>
-<link>https://www.barrons.com/news/indian-tile-makers-feel-heat-of-mideast-war-energy-crunch-c8252871?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 04:52:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[At 50, Apple Confronts Its Next Big Challenge: AI]]></title>
-<link>https://www.barrons.com/news/at-50-apple-confronts-its-next-big-challenge-ai-229f3fa1?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 04:37:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Project Hail Mary' Tops N. America Box Office For Second Week]]></title>
+<link>https://www.barrons.com/news/project-hail-mary-tops-n-america-box-office-for-second-week-4db56288?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 17:56:58 -0000</pubDate>
+<description><![CDATA[Space adventure flick "Project Hail Mary" topped the North American box office for a second straight week with $54.5 million in ticket sales, industry estimates showed Sunday.]]></description>
+</item>
+<item>
+<title><![CDATA[Russian Tanker Nears Cuba, Defying US Oil Blockade]]></title>
+<link>https://www.barrons.com/news/russian-tanker-nears-cuba-defying-us-oil-blockade-7677ad9b?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 17:41:58 -0000</pubDate>
+<description><![CDATA[A Russian oil tanker under US sanctions is scheduled to arrive in Cuba on Monday, challenging a de facto American fuel blockade of the energy-starved island, shipping data shows.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0a885482?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 15:28:00 -0000</pubDate>
 <description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan Hosts Saudi, Turkey, Egypt For Talks On Mideast War]]></title>
-<link>https://www.barrons.com/news/pakistan-hosts-saudi-turkey-egypt-for-talks-on-mideast-war-0ab1ccbc?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 15:13:00 -0000</pubDate>
-<description><![CDATA[Pakistan, Saudi Arabia, Egypt and Turkey on Sunday held talks about trying to end the war in the Middle East, as Islamabad acts as a go-between between the United States and Iran.]]></description>
-</item>
-<item>
-<title><![CDATA[Two More Arrests Over Attempted Attack On US Bank HQ In Paris]]></title>
-<link>https://www.barrons.com/news/two-more-arrests-over-attempted-attack-on-us-bank-hq-in-paris-6409a4ce?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 12:47:39 -0000</pubDate>
-<description><![CDATA[Police have arrested two more people over an apparent bid to explode a homemade device outside the Paris branch of the Bank of America, the French domestic security service said on Sunday.]]></description>
 </item>
 </channel></rss>
