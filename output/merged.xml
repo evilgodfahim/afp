@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 06:40:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 07:51:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['No Kings' Flagship Protest Brings Spotlight Back To Minneapolis]]></title>
+<link>https://www.barrons.com/news/no-kings-flagship-protest-brings-spotlight-back-to-minneapolis-8f85b481?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 07:50:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Five Apple Anecdotes As IPhone Maker Marks 50 Years]]></title>
 <link>https://www.barrons.com/news/five-apple-anecdotes-as-iphone-maker-marks-50-years-822c5e53?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 06:40:04 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Son Of Iran's Ousted Shah Wins Ovation From US Conservatives]]></title>
-<link>https://www.barrons.com/news/son-of-iran-s-ousted-shah-wins-ovation-from-us-conservatives-40039ff8?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 02:01:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[High Hopes At China's Gateway To North Korea As Trains Resume]]></title>
+<link>https://www.barrons.com/news/high-hopes-at-china-s-gateway-to-north-korea-as-trains-resume-755396ee?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 07:50:59 -0000</pubDate>
+<description><![CDATA[Now retired, Wang Meili wants to see the world -- including North Korea, the reclusive nation that lies across the river from her lifelong home in northeastern China.]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Claims Aluminium Plant Attacks In Gulf As Houthis Join War]]></title>
 <link>https://www.barrons.com/news/iran-claims-aluminium-plant-attacks-in-gulf-as-houthis-join-war-81b06f10?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 06:40:04 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/north-korea-s-kim-oversees-test-of-high-thrust-engine-state-media-3e070f6a?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 06:25:04 -0000</pubDate>
 <description><![CDATA[North Korean leader Kim Jong Un oversaw the ground test of an upgraded rocket engine, state media reported on Sunday, marking another key step in its weapons programme.]]></description>
-</item>
-<item>
-<title><![CDATA['No Kings' Flagship Protest Brings Spotlight Back To Minneapolis]]></title>
-<link>https://www.barrons.com/news/no-kings-flagship-protest-brings-spotlight-back-to-minneapolis-8f85b481?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 05:07:43 -0000</pubDate>
-<description><![CDATA[Tens of thousands of protesters rallied in the northern US city of Minneapolis on Saturday as part of the national "No Kings" movement, months after it was wracked with protests due to federal immigration raids.]]></description>
 </item>
 </channel></rss>
