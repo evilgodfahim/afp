@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 29 Mar 2026 19:56:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 20:31:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0a885482?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 20:31:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan Says Growing Support For Its Mideast War Talks Plan]]></title>
 <link>https://www.barrons.com/news/pakistan-hosts-saudi-turkey-egypt-for-talks-on-mideast-war-0ab1ccbc?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 17:56:57 -0000</pubDate>
@@ -74,6 +80,12 @@
 <title><![CDATA[High Hopes At China's Gateway To North Korea As Trains Resume]]></title>
 <link>https://www.barrons.com/news/high-hopes-at-china-s-gateway-to-north-korea-as-trains-resume-755396ee?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 15:28:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hungary's Anxious Rural Voters Will Decide Orban's Fate]]></title>
+<link>https://www.barrons.com/news/hungary-s-anxious-rural-voters-will-decide-orban-s-fate-9e0d1032?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 20:16:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -98,18 +110,6 @@
 <title><![CDATA[Five Apple Anecdotes As IPhone Maker Marks 50 Years]]></title>
 <link>https://www.barrons.com/news/five-apple-anecdotes-as-iphone-maker-marks-50-years-822c5e53?refsec=topics_afp-news</link>
 <pubDate>Sun, 29 Mar 2026 06:40:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ship Insurers Juggle War Risks For Perilous Gulf Route]]></title>
-<link>https://www.barrons.com/news/ship-insurers-juggle-war-risks-for-perilous-gulf-route-cf4c9309?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 06:25:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Helplines Buzz With Alerts From Seafarers Trapped In War]]></title>
-<link>https://www.barrons.com/news/helplines-buzz-with-alerts-from-seafarers-trapped-in-war-02e90db8?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 05:07:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -143,9 +143,9 @@
 <description><![CDATA[A Russian oil tanker under US sanctions is scheduled to arrive in Cuba on Monday, challenging a de facto American fuel blockade of the energy-starved island, shipping data shows.]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-0a885482?refsec=topics_afp-news</link>
-<pubDate>Sun, 29 Mar 2026 15:28:00 -0000</pubDate>
-<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
+<title><![CDATA[Rheinmetall Addresses Row Over CEO's Ukraine 'Housewives' Comment]]></title>
+<link>https://www.barrons.com/news/rheinmetall-addresses-row-over-ceo-s-ukraine-housewives-comment-bc465550?refsec=topics_afp-news</link>
+<pubDate>Sun, 29 Mar 2026 20:31:31 -0000</pubDate>
+<description><![CDATA[German defence giant Rheinmetall on Sunday sought to smooth over a row caused by comments from its boss comparing Ukrainian factories producing drones to "housewives" making weapons in their kitchens.]]></description>
 </item>
 </channel></rss>
