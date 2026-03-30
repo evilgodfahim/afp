@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 08:53:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 10:14:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[One Man, His Dog, And ChatGPT: Australia's AI Vaccine Saga]]></title>
+<link>https://www.barrons.com/news/one-man-his-dog-and-chatgpt-australia-s-ai-vaccine-saga-396cf9d7?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 10:14:00 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Long Live The Shah': Iranian Diaspora Back War At Washington Rally]]></title>
 <link>https://www.barrons.com/news/long-live-the-shah-iranian-diaspora-back-war-at-washington-rally-59b93d38?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 08:53:57 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Life With AI Causing Human Brain 'Fry']]></title>
-<link>https://www.barrons.com/news/life-with-ai-causing-human-brain-fry-3e6e46e6?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 03:54:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Japan's Cherry Blossom Season Dazzles Locals And Tourists]]></title>
+<link>https://www.barrons.com/news/japan-s-cherry-blossom-season-dazzles-locals-and-tourists-09760cdb?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 10:14:01 -0000</pubDate>
+<description><![CDATA[Japanese locals and tourists packed the country's most stunning cherry blossom spots on Monday to enjoy the dazzling flowers at full bloom.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e8b0f8ca?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 08:53:58 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/sheep-culls-put-pressure-on-greek-feta-cheese-production-02f04a88?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 07:06:47 -0000</pubDate>
 <description><![CDATA[Three months after state vets seized and killed hundreds of his sheep to stamp out an ongoing pox pandemic, Kostas Theofilou fights back tears as he gazes at his empty stable.]]></description>
-</item>
-<item>
-<title><![CDATA[One Man, His Dog, And ChatGPT: Australia's AI Vaccine Saga]]></title>
-<link>https://www.barrons.com/news/one-man-his-dog-and-chatgpt-australia-s-ai-vaccine-saga-396cf9d7?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 06:51:47 -0000</pubDate>
-<description><![CDATA[Desperate to help his sick dog, one Australian man went down the ultimate ChatGPT research hole, using artificial intelligence to design a personalised experimental treatment and finding top scientists to administer it.]]></description>
 </item>
 </channel></rss>
