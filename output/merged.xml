@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 19:33:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 20:41:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cubans Ready For Russian Oil But Some Say Not Enough]]></title>
+<link>https://www.barrons.com/news/cubans-ready-for-russian-oil-but-some-say-not-enough-45897a40?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 20:41:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Stock Market Winners And Losers One Month Into US-Israel War On Iran]]></title>
 <link>https://www.barrons.com/news/stock-market-winners-and-losers-one-month-into-us-israel-war-on-iran-fec5658c?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 19:33:00 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Renault Says Developing Ground-based Military Drone]]></title>
-<link>https://www.barrons.com/news/renault-says-developing-ground-based-military-drone-22be2cd9?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 14:33:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[After Pope's Remark, White House Defends Praying For US Troops]]></title>
+<link>https://www.barrons.com/news/after-pope-s-remark-white-house-defends-praying-for-us-troops-bcfceba0?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 20:41:30 -0000</pubDate>
+<description><![CDATA[The White House on Monday defended praying for US troops engaged in the Iran war after Pope Leo XIV warned that God rejects the prayers "of those who wage war."]]></description>
+</item>
+<item>
 <title><![CDATA[Powell Probe Leaves US Fed Leadership Change In Limbo]]></title>
 <link>https://www.barrons.com/news/powell-probe-leaves-us-fed-leadership-change-in-limbo-c3a5ddff?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 19:33:01 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/is-it-kafka-us-judge-baffled-by-new-pentagon-press-policy-c6892f60?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 19:18:01 -0000</pubDate>
 <description><![CDATA[The New York Times and Trump administration clashed in a federal court on Monday over restrictions imposed by the Pentagon on journalists covering the Defense Department.]]></description>
-</item>
-<item>
-<title><![CDATA[Cubans Ready For Russian Oil But Some Say Not Enough]]></title>
-<link>https://www.barrons.com/news/cubans-ready-for-russian-oil-but-some-say-not-enough-45897a40?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 19:03:01 -0000</pubDate>
-<description><![CDATA[Cubans on Monday cautiously welcomed the imminent arrival of a Russian oil shipment, with some warning it would do little to ease an energy crisis after US President Donald Trump granted a reprieve from his oil blockade.]]></description>
 </item>
 </channel></rss>
