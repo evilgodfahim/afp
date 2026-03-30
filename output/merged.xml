@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 10:14:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 11:31:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russia Expels UK Diplomat On Spying Allegations]]></title>
+<link>https://www.barrons.com/news/russia-expels-uk-diplomat-on-spying-allegations-ae741c6d?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 11:31:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Hangs Two 'Political Prisoners' From Banned Opposition: Activists]]></title>
+<link>https://www.barrons.com/news/iran-hangs-two-political-prisoners-from-banned-opposition-activists-c2404b81?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 11:16:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sheep Culls Put Pressure On Greek Feta Cheese Production]]></title>
+<link>https://www.barrons.com/news/sheep-culls-put-pressure-on-greek-feta-cheese-production-02f04a88?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 11:01:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[One Man, His Dog, And ChatGPT: Australia's AI Vaccine Saga]]></title>
 <link>https://www.barrons.com/news/one-man-his-dog-and-chatgpt-australia-s-ai-vaccine-saga-396cf9d7?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 10:14:00 -0000</pubDate>
@@ -89,27 +107,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Crude Rises, Stocks Drop As Houthi Attacks Escalate Iran War]]></title>
+<title><![CDATA[Oil Prices Rise, Stocks Diverge Tracking Mideast War Developments]]></title>
 <link>https://www.barrons.com/news/crude-surges-stocks-dive-as-houthi-attacks-escalate-iran-war-e9ab4fca?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 08:38:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Air China Resumes Flights To North Korea After 6-year Pause]]></title>
-<link>https://www.barrons.com/news/air-china-resumes-flights-to-north-korea-after-6-year-pause-0c6e553b?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 04:39:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia To Halve Fuel Tax In Response To Middle East War]]></title>
-<link>https://www.barrons.com/news/australia-to-halve-fuel-tax-in-response-to-middle-east-war-9609ca5d?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 04:24:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Philippines Oil Refinery Secures 2.5 Mn Barrels Of Russian Crude]]></title>
-<link>https://www.barrons.com/news/philippines-oil-refinery-secures-2-5-mn-barrels-of-russian-crude-08c4a54a?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 04:09:53 -0000</pubDate>
+<pubDate>Mon, 30 Mar 2026 10:46:47 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Renault Says Developing Ground-based Military Drone]]></title>
+<link>https://www.barrons.com/news/renault-says-developing-ground-based-military-drone-22be2cd9?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 11:31:48 -0000</pubDate>
+<description><![CDATA[French carmaker Renault said on Monday it was developing a ground-based drone for military and civilian use as Europe scrambles to boost weapons production in the face of Russian aggression.]]></description>
+</item>
+<item>
 <title><![CDATA[Japan's Cherry Blossom Season Dazzles Locals And Tourists]]></title>
 <link>https://www.barrons.com/news/japan-s-cherry-blossom-season-dazzles-locals-and-tourists-09760cdb?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 10:14:01 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-e8b0f8ca?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 08:53:58 -0000</pubDate>
 <description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Sheep Culls Put Pressure On Greek Feta Cheese Production]]></title>
-<link>https://www.barrons.com/news/sheep-culls-put-pressure-on-greek-feta-cheese-production-02f04a88?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 07:06:47 -0000</pubDate>
-<description><![CDATA[Three months after state vets seized and killed hundreds of his sheep to stamp out an ongoing pox pandemic, Kostas Theofilou fights back tears as he gazes at his empty stable.]]></description>
 </item>
 </channel></rss>
