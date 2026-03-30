@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 21:38:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 22:31:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Powell Probe Leaves US Fed Leadership Change In Limbo]]></title>
+<link>https://www.barrons.com/news/powell-probe-leaves-us-fed-leadership-change-in-limbo-c3a5ddff?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 22:31:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA['Is It Kafka?' US Judge Baffled By New Pentagon Press Policy]]></title>
+<link>https://www.barrons.com/news/is-it-kafka-us-judge-baffled-by-new-pentagon-press-policy-c6892f60?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 22:16:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Cubans Ready For Russian Oil But Some Say Not Enough]]></title>
 <link>https://www.barrons.com/news/cubans-ready-for-russian-oil-but-some-say-not-enough-45897a40?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 20:41:29 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[AI Agent Future Is Coming, OpenClaw Creator Tells AFP]]></title>
-<link>https://www.barrons.com/news/ai-agent-future-is-coming-openclaw-creator-tells-afp-1eb836c8?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 15:50:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[G7 Ministers Pledge 'Necessary Measures' To Ensure Stable Energy Market]]></title>
-<link>https://www.barrons.com/news/g7-ministers-tackle-economic-fallout-of-mideast-war-3ab3f371?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 15:35:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Australian Regulator Probes Facebook, YouTube Over Teen Social Media Ban]]></title>
+<link>https://www.barrons.com/news/australian-regulator-probes-facebook-youtube-over-teen-social-media-ban-8592204d?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 22:31:35 -0000</pubDate>
+<description><![CDATA[A host of tech giants including Facebook and YouTube are under investigation for potentially breaching Australia's world-leading social media ban for under-16s, the nation's online watchdog said Tuesday.]]></description>
+</item>
+<item>
 <title><![CDATA[After Pope's Remark, White House Defends Praying For US Troops]]></title>
 <link>https://www.barrons.com/news/after-pope-s-remark-white-house-defends-praying-for-us-troops-bcfceba0?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 20:41:30 -0000</pubDate>
 <description><![CDATA[The White House on Monday defended praying for US troops engaged in the Iran war after Pope Leo XIV warned that God rejects the prayers "of those who wage war."]]></description>
 </item>
 <item>
-<title><![CDATA[Powell Probe Leaves US Fed Leadership Change In Limbo]]></title>
-<link>https://www.barrons.com/news/powell-probe-leaves-us-fed-leadership-change-in-limbo-c3a5ddff?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 19:33:01 -0000</pubDate>
-<description><![CDATA[US President Donald Trump has repeatedly insulted and criticized Federal Reserve Chairman Jerome Powell, famously calling him a "numbskull" and demanding the independent central bank lower interest rates despite stubbornly high inflation.]]></description>
-</item>
-<item>
-<title><![CDATA['Is It Kafka?' US Judge Baffled By New Pentagon Press Policy]]></title>
-<link>https://www.barrons.com/news/is-it-kafka-us-judge-baffled-by-new-pentagon-press-policy-c6892f60?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 19:18:01 -0000</pubDate>
-<description><![CDATA[The New York Times and Trump administration clashed in a federal court on Monday over restrictions imposed by the Pentagon on journalists covering the Defense Department.]]></description>
+<title><![CDATA[FBI Says Michigan Synagogue Attack Was 'Hezbollah-inspired']]></title>
+<link>https://www.barrons.com/news/fbi-says-michigan-synagogue-attack-was-hezbollah-inspired-8a80b32a?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 22:16:35 -0000</pubDate>
+<description><![CDATA[The FBI said on Monday that a vehicle-ramming attack at a Michigan synagogue earlier this month was an act of terrorism "inspired" by Lebanese militant group Hezbollah.]]></description>
 </item>
 </channel></rss>
