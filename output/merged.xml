@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 30 Mar 2026 16:05:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 17:26:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India Declares Victory Over Maoist Insurgency]]></title>
+<link>https://www.barrons.com/news/india-declares-victory-over-maoist-insurgency-3a573c6f?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 17:26:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Police Arrest Two More Over Attempted Attack On US Bank HQ In Paris]]></title>
+<link>https://www.barrons.com/news/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris-d90dc702?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 17:11:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Air Canada CEO To Retire After Row Over English-only Condolence Message]]></title>
 <link>https://www.barrons.com/news/air-canada-ceo-to-retire-after-row-over-english-only-condolence-message-2de2bb7e?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 16:05:55 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Hangs Two 'Political Prisoners' From Banned Opposition: Activists]]></title>
-<link>https://www.barrons.com/news/iran-hangs-two-political-prisoners-from-banned-opposition-activists-c2404b81?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 11:16:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sheep Culls Put Pressure On Greek Feta Cheese Production]]></title>
-<link>https://www.barrons.com/news/sheep-culls-put-pressure-on-greek-feta-cheese-production-02f04a88?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 11:01:47 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Stock Market Winners And Losers One Month Into US-Israel War On Iran]]></title>
+<link>https://www.barrons.com/news/stock-market-winners-and-losers-one-month-into-us-israel-war-on-iran-fec5658c?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 17:26:54 -0000</pubDate>
+<description><![CDATA[The US-Israel strikes against Iran have triggered a series of retaliations and military escalation in the Middle East that have sent shockwaves through global financial markets.]]></description>
+</item>
+<item>
+<title><![CDATA[Paychecks And Passengers At US Airports Start Moving]]></title>
+<link>https://www.barrons.com/news/paychecks-and-passengers-at-us-airports-start-moving-23dcdb8a?refsec=topics_afp-news</link>
+<pubDate>Mon, 30 Mar 2026 17:11:54 -0000</pubDate>
+<description><![CDATA[Congestion at US airports is expected to ease this week after President Donald Trump ordered security officers be paid despite a partial government shutdown.]]></description>
+</item>
+<item>
 <title><![CDATA[What Could Trump Achieve By Threatening Iran's Kharg Island?]]></title>
 <link>https://www.barrons.com/news/what-could-trump-achieve-by-threatening-iran-s-kharg-island-7b0042ed?refsec=topics_afp-news</link>
 <pubDate>Mon, 30 Mar 2026 16:05:55 -0000</pubDate>
 <description><![CDATA[A scrubby island in the Gulf that is roughly one third the size of Manhattan, Kharg Island is the nerve centre of the Iranian oil industry -- and at the heart of US President Donald Trump's latest efforts to pressure Tehran.]]></description>
-</item>
-<item>
-<title><![CDATA[India Declares Victory Over Maoist Insurgency]]></title>
-<link>https://www.barrons.com/news/india-declares-victory-over-maoist-insurgency-3a573c6f?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 15:50:55 -0000</pubDate>
-<description><![CDATA[India on Monday declared the country free of the Maoist insurgency, fulfilling a long-standing deadline to defeat the decades-long rebellion.]]></description>
-</item>
-<item>
-<title><![CDATA[Police Arrest Two More Over Attempted Attack On US Bank HQ In Paris]]></title>
-<link>https://www.barrons.com/news/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris-d90dc702?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 14:48:11 -0000</pubDate>
-<description><![CDATA[French police on Monday arrested two more people over an apparent bid to set off a homemade explosive device outside a Bank of America branch in Paris, bringing the total in custody to five, prosecutors said.]]></description>
 </item>
 </channel></rss>
