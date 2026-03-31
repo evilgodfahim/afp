@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 31 Mar 2026 04:57:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 06:16:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil Slips, Stocks Rise As Report Says Trump Willing To End War]]></title>
+<link>https://www.barrons.com/news/oil-slips-stocks-rise-as-report-says-trump-willing-to-end-war-5378abb4?refsec=topics_afp-news</link>
+<pubDate>Tue, 31 Mar 2026 06:16:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia Trims Meals Programme: What Next?]]></title>
 <link>https://www.barrons.com/news/indonesia-trims-meals-programme-what-next-ed1759fc?refsec=topics_afp-news</link>
 <pubDate>Tue, 31 Mar 2026 04:57:47 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Powell Probe Leaves US Fed Leadership Change In Limbo]]></title>
-<link>https://www.barrons.com/news/powell-probe-leaves-us-fed-leadership-change-in-limbo-c3a5ddff?refsec=topics_afp-news</link>
-<pubDate>Mon, 30 Mar 2026 22:31:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Russian Tanker Set To Deliver Oil To Crisis-hit Cuba]]></title>
+<link>https://www.barrons.com/news/russian-tanker-set-to-deliver-oil-to-crisis-hit-cuba-44beaa22?refsec=topics_afp-news</link>
+<pubDate>Tue, 31 Mar 2026 06:16:52 -0000</pubDate>
+<description><![CDATA[A Russian oil tanker was set to deliver the first crude shipment to Cuba since January on Tuesday after Washington gave the crisis-hit island a reprieve from an effective fuel blockade.]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Fires Missiles Across Middle East As Trump Threatens Oil Hub]]></title>
 <link>https://www.barrons.com/news/iran-fires-missiles-across-middle-east-as-trump-threatens-oil-hub-2c87e53f?refsec=topics_afp-news</link>
 <pubDate>Tue, 31 Mar 2026 04:57:48 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/indonesia-summons-google-meta-for-not-complying-with-teen-social-media-ban-minister-1b6705f4?refsec=topics_afp-news</link>
 <pubDate>Tue, 31 Mar 2026 04:42:48 -0000</pubDate>
 <description><![CDATA[Indonesia issued summons letters to Google and Meta over their failure to comply with a social media ban for under-16s that entered into force over the weekend, the communications minister said.]]></description>
-</item>
-<item>
-<title><![CDATA[Oil Slips, Stocks Rise As Report Says Trump Willing To End War]]></title>
-<link>https://www.barrons.com/news/oil-slips-stocks-rise-as-report-says-trump-willing-to-end-war-5378abb4?refsec=topics_afp-news</link>
-<pubDate>Tue, 31 Mar 2026 04:27:48 -0000</pubDate>
-<description><![CDATA[Oil prices sank and most stocks rose Tuesday, following a report that indicated Donald Trump was willing to end the Iran war even if the key Strait of Hormuz remained closed.]]></description>
 </item>
 </channel></rss>
