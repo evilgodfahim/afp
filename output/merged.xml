@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Apr 2026 13:13:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 14:48:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,24 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Armed Teenagers On Patrol Strike Fear Into Tehran Residents]]></title>
+<link>https://www.barrons.com/news/armed-teenagers-on-patrol-strike-fear-into-tehran-residents-b0b07ebc?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:48:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Macron Lauds Europe's 'Predictability' In Seeming Contrast To Trump]]></title>
+<link>https://www.barrons.com/news/macron-lauds-europe-s-predictability-in-seeming-contrast-to-trump-5865c213?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:33:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan Says Holding Talks With Afghan Government In China]]></title>
+<link>https://www.barrons.com/news/pakistan-says-holding-talks-with-afghan-government-in-china-4889e93b?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:18:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[France's Dassault Says 'Weeks' Left To Save Europe Warplane Project]]></title>
 <link>https://www.barrons.com/news/france-s-dassault-says-weeks-left-to-save-europe-warplane-project-f1a0ca16?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 13:13:52 -0000</pubDate>
@@ -77,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cambodia Extradites Accused Cyberscam Boss To China]]></title>
+<link>https://www.barrons.com/news/cambodia-extradites-accused-cyberscam-boss-to-china-46bffbc9?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:03:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Australia PM Warns Months Ahead 'May Not Be Easy' Due To Mideast War]]></title>
 <link>https://www.barrons.com/news/australia-pm-warns-months-ahead-may-not-be-easy-due-to-mideast-war-c6e37d0e?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 10:51:21 -0000</pubDate>
@@ -86,30 +110,6 @@
 <title><![CDATA[Anthropic Releases Part Of AI Tool Source Code In 'Error']]></title>
 <link>https://www.barrons.com/news/anthropic-releases-part-of-ai-tool-source-code-in-error-a1fa715a?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 09:44:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Florida Tourists Gather To 'Witness History' Ahead Of Moon Launch]]></title>
-<link>https://www.barrons.com/news/florida-tourists-gather-to-witness-history-ahead-of-moon-launch-f6b3f7e4?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 09:29:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says War Could End In Two, Three Weeks As Israel Strikes Tehran]]></title>
-<link>https://www.barrons.com/news/israel-strikes-iran-s-capital-as-trump-set-to-address-us-on-war-23b0d8e4?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 09:14:04 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian Women Decry Plans To Therapise Them Into Having Children]]></title>
-<link>https://www.barrons.com/news/russian-women-decry-plans-to-therapise-them-into-having-children-5c9747d6?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 06:57:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Leo Celebrates First Easter Amid Middle East War]]></title>
-<link>https://www.barrons.com/news/pope-leo-celebrates-first-easter-amid-middle-east-war-68b35b82?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 06:42:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Armed Teenagers On Patrol Strike Fear Into Tehran Residents]]></title>
-<link>https://www.barrons.com/news/armed-teenagers-on-patrol-strike-fear-into-tehran-residents-b0b07ebc?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 13:13:53 -0000</pubDate>
-<description><![CDATA[In the security crackdown ordered by Iranian authorities since the start of the war, an unsettling new sight on the streets of Tehran has put residents on edge: teenagers armed with machine guns.]]></description>
+<title><![CDATA[Trump To Address Nation As Iran War Batters Approval]]></title>
+<link>https://www.barrons.com/news/trump-to-address-nation-as-iran-war-batters-approval-f5d92cb4?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:48:06 -0000</pubDate>
+<description><![CDATA[US President Donald Trump will address the nation on the Iran war on Wednesday, his first prime-time speech since the conflict began, as plunging approval ratings and rising economic anxiety deepen political pressure at home.]]></description>
 </item>
 <item>
-<title><![CDATA[Macron Lauds Europe's 'Predictability' In Seeming Contrast To Trump]]></title>
-<link>https://www.barrons.com/news/macron-lauds-europe-s-predictability-in-seeming-contrast-to-trump-5865c213?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 12:58:53 -0000</pubDate>
-<description><![CDATA[French President Emmanuel Macron praised Europe's "predictability" during a visit to Japan on Wednesday, contrasting it with countries that "could hurt you without even informing you" in an apparent swipe at Donald Trump.]]></description>
+<title><![CDATA[IndiGo Lands IATA Chief Willie Walsh As New CEO]]></title>
+<link>https://www.barrons.com/news/indigo-lands-iata-chief-willie-walsh-as-new-ceo-baea0616?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:33:06 -0000</pubDate>
+<description><![CDATA[IndiGo said Wednesday it was appointing Willie Walsh as its new chief executive as India's leading airline sought to recover from an embarrassing spate of cancellations that threw the country's airports into turmoil]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan Says Holding Talks With Afghan Government In China]]></title>
-<link>https://www.barrons.com/news/pakistan-says-holding-talks-with-afghan-government-in-china-4889e93b?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 12:43:53 -0000</pubDate>
-<description><![CDATA[Pakistan and Afghanistan are holding talks in China to try to find a way to end months of conflict sparked by cross-border attacks, two officials from Islamabad told AFP on Wednesday.]]></description>
+<title><![CDATA[Could NATO Be Collateral Damage From Trump's Iran War?]]></title>
+<link>https://www.barrons.com/news/could-nato-be-collateral-damage-from-trump-s-iran-war-887a042b?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 14:18:06 -0000</pubDate>
+<description><![CDATA["Paper tiger". "Cowards". As US President Donald Trump grapples with the fallout of his war on Iran, much of his anger has been redirected onto another target: the NATO military alliance.]]></description>
 </item>
 </channel></rss>
