@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Apr 2026 14:48:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 16:04:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Could NATO Be Collateral Damage From Trump's Iran War?]]></title>
+<link>https://www.barrons.com/news/could-nato-be-collateral-damage-from-trump-s-iran-war-887a042b?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 16:04:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Armed Teenagers On Patrol Strike Fear Into Tehran Residents]]></title>
 <link>https://www.barrons.com/news/armed-teenagers-on-patrol-strike-fear-into-tehran-residents-b0b07ebc?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 14:48:05 -0000</pubDate>
@@ -89,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Starmer Says UK To Host Multi-nation Meeting On Hormuz Shipping]]></title>
+<link>https://www.barrons.com/news/starmer-says-uk-to-host-multi-nation-meeting-on-hormuz-shipping-7ecc8ada?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 15:49:32 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Greenpeace Accuses Oil Companies Of Reaping Mideast 'War Profits']]></title>
 <link>https://www.barrons.com/news/greenpeace-accuses-oil-companies-of-reaping-mideast-war-profits-c49b37c9?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 12:43:52 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Cambodia Extradites Accused Cyberscam Boss To China]]></title>
 <link>https://www.barrons.com/news/cambodia-extradites-accused-cyberscam-boss-to-china-46bffbc9?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 14:03:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Australia PM Warns Months Ahead 'May Not Be Easy' Due To Mideast War]]></title>
-<link>https://www.barrons.com/news/australia-pm-warns-months-ahead-may-not-be-easy-due-to-mideast-war-c6e37d0e?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 10:51:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Anthropic Releases Part Of AI Tool Source Code In 'Error']]></title>
-<link>https://www.barrons.com/news/anthropic-releases-part-of-ai-tool-source-code-in-error-a1fa715a?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 09:44:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Swiss Government Eyes Dropping Purchase Of US Patriot Air Defence System]]></title>
+<link>https://www.barrons.com/news/swiss-government-eyes-dropping-purchase-of-us-patriot-air-defence-system-957eb4bf?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Apr 2026 16:04:33 -0000</pubDate>
+<description><![CDATA[The Swiss government is considering dropping the agreed purchase of the Patriot air-defence system from the United States amid severe delivery delays, Defence Minister Martin Pfister said Wednesday.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump To Address Nation As Iran War Batters Approval]]></title>
 <link>https://www.barrons.com/news/trump-to-address-nation-as-iran-war-batters-approval-f5d92cb4?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 14:48:06 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/indigo-lands-iata-chief-willie-walsh-as-new-ceo-baea0616?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Apr 2026 14:33:06 -0000</pubDate>
 <description><![CDATA[IndiGo said Wednesday it was appointing Willie Walsh as its new chief executive as India's leading airline sought to recover from an embarrassing spate of cancellations that threw the country's airports into turmoil]]></description>
-</item>
-<item>
-<title><![CDATA[Could NATO Be Collateral Damage From Trump's Iran War?]]></title>
-<link>https://www.barrons.com/news/could-nato-be-collateral-damage-from-trump-s-iran-war-887a042b?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Apr 2026 14:18:06 -0000</pubDate>
-<description><![CDATA["Paper tiger". "Cowards". As US President Donald Trump grapples with the fallout of his war on Iran, much of his anger has been redirected onto another target: the NATO military alliance.]]></description>
 </item>
 </channel></rss>
