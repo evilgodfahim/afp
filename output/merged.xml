@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 15:57:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 16:58:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Which Countries' Ships Are Hit By Hormuz Crisis?]]></title>
+<link>https://www.barrons.com/news/which-countries-ships-are-hit-by-hormuz-crisis-a0de87bb?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 16:58:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Trade Deficit Widens Less Than Forecast As Tariff Turmoil Persists]]></title>
 <link>https://www.barrons.com/news/us-trade-deficit-widens-less-than-forecast-as-tariff-turmoil-persists-274c1095?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 15:57:41 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
-<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-cc544ae0?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 14:07:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Grain, Steel, Fertiliser Blocked By Hormuz Closure: Data]]></title>
+<link>https://www.barrons.com/news/grain-steel-fertiliser-blocked-by-hormuz-closure-data-e802ffd4?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 16:58:47 -0000</pubDate>
+<description><![CDATA[Besides oil and gas, Iran's blockade of the Strait of Hormuz has choked off shipments of crucial goods and raw materials to world markets.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Urges Bruce Springsteen Boycott In Social Media Rant]]></title>
 <link>https://www.barrons.com/news/trump-urges-bruce-springsteen-boycott-in-social-media-rant-215e031e?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 15:57:42 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/us-trade-deficit-widens-less-than-forecast-as-tariff-turmoil-persists-0854c4d7?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 15:42:42 -0000</pubDate>
 <description><![CDATA[The US trade deficit widened in February but less than analysts expected, government data showed Thursday, a year since President Donald Trump unleashed sweeping tariffs on virtually all trading partners.]]></description>
-</item>
-<item>
-<title><![CDATA[Which Countries' Ships Are Hit By Hormuz Crisis?]]></title>
-<link>https://www.barrons.com/news/which-countries-ships-are-hit-by-hormuz-crisis-a0de87bb?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 14:37:55 -0000</pubDate>
-<description><![CDATA[Shipping companies from Greece, the UAE and China are most affected by the closure of the Strait of Hormuz, according to data from Bloomberg and marine traffic organisations.]]></description>
 </item>
 </channel></rss>
