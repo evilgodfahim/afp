@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 20:32:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 21:33:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Music And Barbecues In Tehran Despite Trump Threats]]></title>
+<link>https://www.barrons.com/news/music-and-barbecues-in-tehran-despite-trump-threats-6c8103f9?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 21:33:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Vance To Meet Orban In Hungary Ahead Of Elections]]></title>
 <link>https://www.barrons.com/news/vance-to-meet-orban-in-hungary-ahead-of-elections-d3761947?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 20:32:03 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA['Extraordinary News': Dutch Recover Stolen Gold Romanian Helmet]]></title>
-<link>https://www.barrons.com/news/extraordinary-news-dutch-recover-stolen-gold-romanian-helmet-a39032e6?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 15:42:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Oil Surges, Stocks Mixed As Trump Dashes Hopes Of Quick End Of War]]></title>
+<link>https://www.barrons.com/news/oil-surges-stocks-mixed-as-trump-dashes-hopes-of-quick-end-of-war-6475b42c?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 21:33:53 -0000</pubDate>
+<description><![CDATA[Oil prices surged Thursday after US President Donald Trump threatened more heavy strikes on Iran, while global equity markets reacted indecisively to the latest developments in the conflict.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Ballroom Approved By Panel, Remains Stalled By Judge]]></title>
 <link>https://www.barrons.com/news/trump-ballroom-approved-by-panel-remains-stalled-by-judge-13fd8686?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 20:32:04 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/trump-orders-new-pharma-tariff-reshapes-metal-duties-21f1cea8?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 20:17:04 -0000</pubDate>
 <description><![CDATA[US President Donald Trump on Thursday ordered new tariffs on certain medicines, alongside an overhaul of metal duties, doubling down on his trade agenda a year after unleashing trade wars on virtually all partners.]]></description>
-</item>
-<item>
-<title><![CDATA[Music And Barbecues In Tehran Despite Trump Threats]]></title>
-<link>https://www.barrons.com/news/music-and-barbecues-in-tehran-despite-trump-threats-6c8103f9?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 20:02:04 -0000</pubDate>
-<description><![CDATA[In a leafy Tehran park on Thursday, Iranians gathered for picnics on the final day of the Persian new year holidays, shrugging off US President Donald Trump's threats to bomb Iran "back to the Stone Ages".]]></description>
 </item>
 </channel></rss>
