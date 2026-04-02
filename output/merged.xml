@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 10:56:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 11:43:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India's Says Defence Exports Hit 'All-time High' Of $4 Bn]]></title>
+<link>https://www.barrons.com/news/india-s-says-defence-exports-hit-all-time-high-of-4-bn-36fe82ec?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 11:43:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Too Bright: Seoul To Dim Digital Billboards After Complaints]]></title>
 <link>https://www.barrons.com/news/too-bright-seoul-to-dim-digital-billboards-after-complaints-0589fe1e?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 09:58:15 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Rallies, Stocks Tumble As Trump Says US To Hammer Iran Further]]></title>
-<link>https://www.barrons.com/news/oil-rallies-stocks-tumble-as-trump-says-us-to-hammer-iran-further-f4d2de54?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 04:34:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nexperia's China Unit Nears Fully Local Production Of Chips: Company Sources]]></title>
+<link>https://www.barrons.com/news/nexperia-s-china-unit-nears-fully-local-production-of-chips-company-sources-f928ff32?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 11:43:42 -0000</pubDate>
+<description><![CDATA[The domestic unit of the Chinese-owned, Dutch-headquartered chipmaker Nexperia will soon be able to produce semiconductors locally within China, according to two company sources.]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia Issues Fresh Summons For Google, Meta Over Teen Social Media Ban]]></title>
 <link>https://www.barrons.com/news/indonesia-issues-fresh-summons-for-google-meta-over-teen-social-media-ban-b03c2983?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 09:58:16 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-a67e1623?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 08:52:08 -0000</pubDate>
 <description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[India's Says Defence Exports Hit 'All-time High' Of $4 Bn]]></title>
-<link>https://www.barrons.com/news/india-s-says-defence-exports-hit-all-time-high-of-4-bn-36fe82ec?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 08:37:08 -0000</pubDate>
-<description><![CDATA[India's defence exports "skyrocketed" to an all-time high of more than $4 billion in the last fiscal year, as it looks to boost its arms manufacturing sector, the government said Thursday.]]></description>
 </item>
 </channel></rss>
