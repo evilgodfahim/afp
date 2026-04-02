@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 02 Apr 2026 22:27:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 22:59:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Orders New Pharma Tariff, Reshapes Metal Duties]]></title>
+<link>https://www.barrons.com/news/trump-orders-new-pharma-tariff-reshapes-metal-duties-21f1cea8?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 22:59:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Music And Barbecues In Tehran Despite Trump Threats]]></title>
 <link>https://www.barrons.com/news/music-and-barbecues-in-tehran-despite-trump-threats-6c8103f9?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 21:33:53 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Trade Deficit Widens Less Than Forecast As Tariff Turmoil Persists]]></title>
-<link>https://www.barrons.com/news/us-trade-deficit-widens-less-than-forecast-as-tariff-turmoil-persists-274c1095?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 15:57:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -137,15 +137,15 @@
 <description><![CDATA[Oil prices surged Thursday after US President Donald Trump threatened more heavy strikes on Iran, while global equity markets reacted indecisively to the latest developments in the conflict.]]></description>
 </item>
 <item>
+<title><![CDATA[Hegseth Asked US Army Chief Of Staff To Step Down]]></title>
+<link>https://www.barrons.com/news/hegseth-asked-us-army-chief-of-staff-to-step-down-a29fa599?refsec=topics_afp-news</link>
+<pubDate>Thu, 02 Apr 2026 22:59:53 -0000</pubDate>
+<description><![CDATA[Secretary of Defense Pete Hegseth has asked General Randy George to step down as chief of staff of the US Army, an official said Thursday.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Ballroom Approved By Panel, Remains Stalled By Judge]]></title>
 <link>https://www.barrons.com/news/trump-ballroom-approved-by-panel-remains-stalled-by-judge-13fd8686?refsec=topics_afp-news</link>
 <pubDate>Thu, 02 Apr 2026 20:32:04 -0000</pubDate>
 <description><![CDATA[US President Donald Trump's White House ballroom received final planning approval on Thursday, but construction remains in limbo following a judicial order handed down earlier this week.]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Orders New Pharma Tariff, Reshapes Metal Duties]]></title>
-<link>https://www.barrons.com/news/trump-orders-new-pharma-tariff-reshapes-metal-duties-21f1cea8?refsec=topics_afp-news</link>
-<pubDate>Thu, 02 Apr 2026 20:17:04 -0000</pubDate>
-<description><![CDATA[US President Donald Trump on Thursday ordered new tariffs on certain medicines, alongside an overhaul of metal duties, doubling down on his trade agenda a year after unleashing trade wars on virtually all partners.]]></description>
 </item>
 </channel></rss>
