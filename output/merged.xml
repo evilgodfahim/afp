@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 12:56:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 14:01:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Greece Names New Ministers After EU Farm Scandal Resignations]]></title>
+<link>https://www.barrons.com/news/greece-names-new-ministers-after-eu-farm-scandal-resignations-a5eec621?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 14:01:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Human Remains Found On Thai Ship Attacked In Hormuz Strait: Firm]]></title>
+<link>https://www.barrons.com/news/human-remains-found-on-thai-ship-attacked-in-hormuz-strait-firm-4d148329?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 13:46:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Container Ship Declaring French Ownership Passes Through Hormuz Strait]]></title>
 <link>https://www.barrons.com/news/container-ship-declaring-french-ownership-passes-through-hormuz-strait-493b611c?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel Under Fire As Trump Warns Of Destroying Iranian Infrastructure]]></title>
-<link>https://www.barrons.com/news/israel-under-fire-from-iran-missiles-as-trump-issues-new-warning-07e15225?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 09:34:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Microsoft To Invest $10 Bn For Japan AI Data Centres]]></title>
-<link>https://www.barrons.com/news/microsoft-to-invest-10-bn-for-japan-ai-data-centres-d5cbe0cf?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 06:57:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[White House Requests Giant $1.5 Trillion Defense Budget Amid Iran War]]></title>
+<link>https://www.barrons.com/news/white-house-requests-giant-1-5-trillion-defense-budget-amid-iran-war-1c39a947?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 14:01:28 -0000</pubDate>
+<description><![CDATA[The White House sent a spending proposal to lawmakers Friday calling for a massive $1.5 trillion US defense budget next year as it faces increased costs due to the war in Iran.]]></description>
+</item>
+<item>
+<title><![CDATA[New Paris Mayor Vows End To Sexual Violence In Schools]]></title>
+<link>https://www.barrons.com/news/new-paris-mayor-vows-end-to-sexual-violence-in-schools-f88faf91?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 13:46:28 -0000</pubDate>
+<description><![CDATA[The new mayor of the French capital pledged Friday to stop sexual violence in schools and pre-schools, saying Paris had suspended more than 30 school monitors suspected of sexual abuse since January.]]></description>
+</item>
+<item>
 <title><![CDATA[EU Under Pressure As Fertiliser Costs Soar On Middle East War]]></title>
 <link>https://www.barrons.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war-4a77217e?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
 <description><![CDATA[With the war in the Middle East sending global fertiliser prices soaring, the EU is coming under pressure from farmers and some member states to take action.]]></description>
-</item>
-<item>
-<title><![CDATA[Greece Names New Ministers After EU Farm Scandal Resignations]]></title>
-<link>https://www.barrons.com/news/greece-names-new-ministers-after-eu-farm-scandal-resignations-a5eec621?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 11:35:21 -0000</pubDate>
-<description><![CDATA[Greece on Friday reshuffled its government after three cabinet members resigned as a burgeoning EU farm subsidy scandal pisled pressure on the country's conservative government.]]></description>
-</item>
-<item>
-<title><![CDATA[Human Remains Found On Thai Ship Attacked In Hormuz Strait: Firm]]></title>
-<link>https://www.barrons.com/news/human-remains-found-on-thai-ship-attacked-in-hormuz-strait-firm-4d148329?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 09:49:57 -0000</pubDate>
-<description><![CDATA[Human remains have been found aboard a cargo ship struck by Iran while transiting the Strait of Hormuz last month, the vessel's owner said Friday, after three crew members were reported missing following the attack.]]></description>
 </item>
 </channel></rss>
