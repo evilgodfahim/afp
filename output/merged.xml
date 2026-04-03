@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 17:30:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 18:40:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[For Some Around Trump, War On Iran Is A Christian Calling]]></title>
+<link>https://www.barrons.com/news/for-some-around-trump-war-on-iran-is-a-christian-calling-60ff84c5?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 18:40:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-9fac0c95?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 16:52:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Container Ship Declaring French Ownership Passes Through Hormuz Strait]]></title>
-<link>https://www.barrons.com/news/container-ship-declaring-french-ownership-passes-through-hormuz-strait-493b611c?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Wary Of News Media, Silicon Valley Builds Its Own]]></title>
+<link>https://www.barrons.com/news/wary-of-news-media-silicon-valley-builds-its-own-f1070ecb?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 18:40:49 -0000</pubDate>
+<description><![CDATA[When OpenAI acquired the tech podcast TBPN this week, it wasn't just buying a show -- it was buying a message.]]></description>
+</item>
+<item>
 <title><![CDATA[French Court Rules To Extradite Russian Who Owned Portsmouth Football Club]]></title>
 <link>https://www.barrons.com/news/french-court-rules-to-extradite-russian-who-owned-portsmouth-football-club-48ec9248?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 16:52:25 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/senegal-morocco-friendship-put-to-test-by-africa-cup-of-nations-title-turmoil-ef05fe0c?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 16:37:25 -0000</pubDate>
 <description><![CDATA[Dakar and Rabat have longstanding ties but relations have been strained since the Africa Cup of Nations final, which Senegal won in mid-January before being stripped of the title, which was transferred to Morocco.]]></description>
-</item>
-<item>
-<title><![CDATA[For Some Around Trump, War On Iran Is A Christian Calling]]></title>
-<link>https://www.barrons.com/news/for-some-around-trump-war-on-iran-is-a-christian-calling-60ff84c5?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 16:22:25 -0000</pubDate>
-<description><![CDATA[As he wages war on Iran, President Donald Trump was joined in the Oval Office by Christian pastors. Solemnly, some placed their hands on his shoulder or forearm. They offered their blessings.]]></description>
 </item>
 </channel></rss>
