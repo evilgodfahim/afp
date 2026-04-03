@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 19:35:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 20:31:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French Court Rules To Extradite Russian Who Owned Portsmouth Football Club]]></title>
+<link>https://www.barrons.com/news/french-court-rules-to-extradite-russian-who-owned-portsmouth-football-club-48ec9248?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 20:31:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Senegal-Morocco Friendship Put To Test By Africa Cup Of Nations Title Turmoil]]></title>
+<link>https://www.barrons.com/news/senegal-morocco-friendship-put-to-test-by-africa-cup-of-nations-title-turmoil-ef05fe0c?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 20:16:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[For Some Around Trump, War On Iran Is A Christian Calling]]></title>
 <link>https://www.barrons.com/news/for-some-around-trump-war-on-iran-is-a-christian-calling-60ff84c5?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 18:40:49 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Greece Names New Ministers After EU Farm Scandal Resignations]]></title>
-<link>https://www.barrons.com/news/greece-names-new-ministers-after-eu-farm-scandal-resignations-a5eec621?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 14:01:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Human Remains Found On Thai Ship Attacked In Hormuz Strait: Firm]]></title>
-<link>https://www.barrons.com/news/human-remains-found-on-thai-ship-attacked-in-hormuz-strait-firm-4d148329?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 13:46:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Seeks $152 Mn To Revive Alcatraz As Federal Prison]]></title>
+<link>https://www.barrons.com/news/trump-seeks-152-mn-to-revive-alcatraz-as-federal-prison-0f63ea9b?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 20:31:55 -0000</pubDate>
+<description><![CDATA[US President Donald Trump asked Congress on Friday for $152 million to begin rebuilding the notorious Alcatraz prison, pressing ahead with his vision to return the former island lockup to active use.]]></description>
+</item>
+<item>
 <title><![CDATA[Wary Of News Media, Silicon Valley Builds Its Own]]></title>
 <link>https://www.barrons.com/news/wary-of-news-media-silicon-valley-builds-its-own-f1070ecb?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 18:40:49 -0000</pubDate>
 <description><![CDATA[When OpenAI acquired the tech podcast TBPN this week, it wasn't just buying a show -- it was buying a message.]]></description>
 </item>
 <item>
-<title><![CDATA[French Court Rules To Extradite Russian Who Owned Portsmouth Football Club]]></title>
-<link>https://www.barrons.com/news/french-court-rules-to-extradite-russian-who-owned-portsmouth-football-club-48ec9248?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 16:52:25 -0000</pubDate>
-<description><![CDATA[A French court has ruled to extradite Russian banker Vladimir Antonov, a former owner of English football club Portsmouth, to Lithuania, his lawyer said on Friday.]]></description>
-</item>
-<item>
-<title><![CDATA[Senegal-Morocco Friendship Put To Test By Africa Cup Of Nations Title Turmoil]]></title>
-<link>https://www.barrons.com/news/senegal-morocco-friendship-put-to-test-by-africa-cup-of-nations-title-turmoil-ef05fe0c?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 16:37:25 -0000</pubDate>
-<description><![CDATA[Dakar and Rabat have longstanding ties but relations have been strained since the Africa Cup of Nations final, which Senegal won in mid-January before being stripped of the title, which was transferred to Morocco.]]></description>
+<title><![CDATA[French, Japanese Ships Cross Strait Of Hormuz In First Since War]]></title>
+<link>https://www.barrons.com/news/french-japanese-ships-cross-strait-of-hormuz-in-first-since-war-bf478d4a?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 20:16:55 -0000</pubDate>
+<description><![CDATA[One French- and another Japanese-owned vessel are among a handful of vessels to have crossed the war-torn Strait of Hormuz, maritime tracking data showed Friday.]]></description>
 </item>
 </channel></rss>
