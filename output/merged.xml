@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 11:35:21 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 12:56:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Container Ship Declaring French Ownership Passes Through Hormuz Strait]]></title>
+<link>https://www.barrons.com/news/container-ship-declaring-french-ownership-passes-through-hormuz-strait-493b611c?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b7cbb773?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 11:35:20 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Cambodian Lawmakers Approve Anti-cybercrime Law]]></title>
-<link>https://www.barrons.com/news/cambodian-lawmakers-approve-anti-cybercrime-law-0bbafa88?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 09:19:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU Under Pressure As Fertiliser Costs Soar On Middle East War]]></title>
+<link>https://www.barrons.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war-4a77217e?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
+<description><![CDATA[With the war in the Middle East sending global fertiliser prices soaring, the EU is coming under pressure from farmers and some member states to take action.]]></description>
+</item>
+<item>
 <title><![CDATA[Greece Names New Ministers After EU Farm Scandal Resignations]]></title>
 <link>https://www.barrons.com/news/greece-names-new-ministers-after-eu-farm-scandal-resignations-a5eec621?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 11:35:21 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/human-remains-found-on-thai-ship-attacked-in-hormuz-strait-firm-4d148329?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 09:49:57 -0000</pubDate>
 <description><![CDATA[Human remains have been found aboard a cargo ship struck by Iran while transiting the Strait of Hormuz last month, the vessel's owner said Friday, after three crew members were reported missing following the attack.]]></description>
-</item>
-<item>
-<title><![CDATA[Container Ship Declaring French Ownership Passes Through Hormuz Strait]]></title>
-<link>https://www.barrons.com/news/container-ship-declaring-french-ownership-passes-through-hormuz-strait-493b611c?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 11:20:21 -0000</pubDate>
-<description><![CDATA[A container ship declaring itself to have a French owner has passed through the Strait of Hormuz, according Marine Traffic data analysed by AFP Friday.]]></description>
 </item>
 </channel></rss>
