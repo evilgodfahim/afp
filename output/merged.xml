@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 07:42:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 08:48:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar Junta Chief Elected As President]]></title>
+<link>https://www.barrons.com/news/myanmar-junta-chief-elected-as-president-99692cc5?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 08:48:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[AI-generated 'Fruit Love Island' Takes TikTok By Storm]]></title>
 <link>https://www.barrons.com/news/ai-generated-fruit-love-island-takes-tiktok-by-storm-5f4c8aab?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 07:42:45 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Geisha Spectacle In Japan's Kyoto Celebrates Arrival Of Spring]]></title>
-<link>https://www.barrons.com/news/geisha-spectacle-in-japan-s-kyoto-celebrates-arrival-of-spring-bb281718?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 04:26:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b7cbb773?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 08:48:47 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in the Middle East war:]]></description>
+</item>
+<item>
 <title><![CDATA[Streaming Channel For Pets Launched In China]]></title>
 <link>https://www.barrons.com/news/streaming-channel-for-pets-launched-in-china-5a998870?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 07:42:46 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/blood-clots-burning-eyes-pollution-chokes-north-thailand-98c22aac?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 07:27:46 -0000</pubDate>
 <description><![CDATA[After hours spent in the thick pollution-choking parts of northern Thailand, Pon Doikam gets home and blows her burning nose to find blood clots spattered across the tissue.]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar Junta Chief Elected As President]]></title>
-<link>https://www.barrons.com/news/myanmar-junta-chief-elected-as-president-99692cc5?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 07:12:46 -0000</pubDate>
-<description><![CDATA[Myanmar's parliament elected junta chief Min Aung Hlaing as president on Friday, parliament said, with the ex-military commander set to maintain his rule in a civilian guise after snatching power by force five years ago.]]></description>
 </item>
 </channel></rss>
