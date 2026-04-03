@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 03 Apr 2026 14:01:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 15:07:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[EU Under Pressure As Fertiliser Costs Soar On Middle East War]]></title>
+<link>https://www.barrons.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war-4a77217e?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 15:07:38 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Greece Names New Ministers After EU Farm Scandal Resignations]]></title>
 <link>https://www.barrons.com/news/greece-names-new-ministers-after-eu-farm-scandal-resignations-a5eec621?refsec=topics_afp-news</link>
 <pubDate>Fri, 03 Apr 2026 14:01:27 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Hungary's Opposition Surfs Grassroots Wave Ahead Of Key Election]]></title>
-<link>https://www.barrons.com/news/hungary-s-opposition-surfs-grassroots-wave-ahead-of-key-election-03587503?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 07:27:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,10 +131,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[White House Requests Giant $1.5 Trillion Defense Budget Amid Iran War]]></title>
+<title><![CDATA[White House Seeks $1.5 Tn Defense Budget As Iran War Drives Costs]]></title>
 <link>https://www.barrons.com/news/white-house-requests-giant-1-5-trillion-defense-budget-amid-iran-war-1c39a947?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 14:01:28 -0000</pubDate>
-<description><![CDATA[The White House sent a spending proposal to lawmakers Friday calling for a massive $1.5 trillion US defense budget next year as it faces increased costs due to the war in Iran.]]></description>
+<pubDate>Fri, 03 Apr 2026 15:07:39 -0000</pubDate>
+<description><![CDATA[US President Donald Trump asked lawmakers on Friday to approve a massive $1.5 trillion defense budget for 2027, as the United States faces rising costs from its war with Iran and mounting global security commitments.]]></description>
 </item>
 <item>
 <title><![CDATA[New Paris Mayor Vows End To Sexual Violence In Schools]]></title>
@@ -143,9 +143,9 @@
 <description><![CDATA[The new mayor of the French capital pledged Friday to stop sexual violence in schools and pre-schools, saying Paris had suspended more than 30 school monitors suspected of sexual abuse since January.]]></description>
 </item>
 <item>
-<title><![CDATA[EU Under Pressure As Fertiliser Costs Soar On Middle East War]]></title>
-<link>https://www.barrons.com/news/eu-under-pressure-as-fertiliser-costs-soar-on-middle-east-war-4a77217e?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 12:56:35 -0000</pubDate>
-<description><![CDATA[With the war in the Middle East sending global fertiliser prices soaring, the EU is coming under pressure from farmers and some member states to take action.]]></description>
+<title><![CDATA[US Registers Strong Job Growth In March In Boost To Trump]]></title>
+<link>https://www.barrons.com/news/us-registers-strong-job-growth-in-march-in-boost-to-trump-50d52a81?refsec=topics_afp-news</link>
+<pubDate>Fri, 03 Apr 2026 14:52:39 -0000</pubDate>
+<description><![CDATA[The US economy posted unexpectedly strong job gains in March, government data showed Friday, in a shift that could ease labor market concerns and boost President Donald Trump's economic agenda.]]></description>
 </item>
 </channel></rss>
