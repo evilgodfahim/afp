@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 09:34:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 10:29:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka Struggles To Avert Economic Collapse Over Mideast War]]></title>
+<link>https://www.barrons.com/news/sri-lanka-struggles-to-avert-economic-collapse-over-mideast-war-f2da5dca?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 10:29:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[European Drivers Choke On Rising Diesel Prices]]></title>
+<link>https://www.barrons.com/news/european-drivers-choke-on-rising-diesel-prices-546b1400?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 10:14:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[58 Tortillas, Five Hot Sauces And One Toilet: Life Aboard Spacecraft Orion]]></title>
 <link>https://www.barrons.com/news/58-tortillas-five-hot-sauces-and-one-toilet-life-aboard-spacecraft-orion-644ec7ae?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 08:36:55 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French, Japanese Ships Cross Strait Of Hormuz In First Since War]]></title>
-<link>https://www.barrons.com/news/french-japanese-ships-cross-strait-of-hormuz-in-first-since-war-bf478d4a?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 23:00:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[French Court Rules To Extradite Russian Who Owned Portsmouth Football Club]]></title>
-<link>https://www.barrons.com/news/french-court-rules-to-extradite-russian-who-owned-portsmouth-football-club-48ec9248?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 20:31:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Canadian Astronaut Describes 'Phenomenal' Artemis Journey]]></title>
+<link>https://www.barrons.com/news/canadian-astronaut-describes-phenomenal-artemis-journey-c5f158cc?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 10:29:25 -0000</pubDate>
+<description><![CDATA[Artemis 2 astronaut Jeremy Hansen felt like he was "falling out of the sky" as his spacecraft followed its complex flight path to the Moon, the Canadian said in a Saturday video call.]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-097374fc?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 08:36:55 -0000</pubDate>
@@ -139,13 +145,7 @@
 <item>
 <title><![CDATA[Iran, US Race To Find Crew Member Of Crashed American Fighter Jet]]></title>
 <link>https://www.barrons.com/news/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet-243e6be4?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 05:54:26 -0000</pubDate>
-<description><![CDATA[Iranian and American forces raced each other Saturday to recover a crew member of the first US fighter jet to go down inside Iran since the start of the war.]]></description>
-</item>
-<item>
-<title><![CDATA[Sri Lanka Struggles To Avert Economic Collapse Over Mideast War]]></title>
-<link>https://www.barrons.com/news/sri-lanka-struggles-to-avert-economic-collapse-over-mideast-war-f2da5dca?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 04:47:25 -0000</pubDate>
-<description><![CDATA[Sri Lanka is struggling to prevent a repeat of its spectacular economic collapse four years ago, as the prolonged Middle East war compounds the fallout from a deadly]]></description>
+<pubDate>Sat, 04 Apr 2026 10:14:25 -0000</pubDate>
+<description><![CDATA[Iranian and American forces raced each other Saturday to recover a crew member from the first US fighter jet to go down inside Iran since the start of the war.]]></description>
 </item>
 </channel></rss>
