@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 14:30:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 15:28:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran, US Race To Find Crew Member Of Crashed American Fighter Jet]]></title>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-097374fc?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 15:28:07 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Gives Iran 48 Hours To Make Deal Or Face 'Hell']]></title>
 <link>https://www.barrons.com/news/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet-243e6be4?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 11:51:25 -0000</pubDate>
+<pubDate>Sat, 04 Apr 2026 15:13:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Seeks $152 Mn To Revive Alcatraz As Federal Prison]]></title>
-<link>https://www.barrons.com/news/trump-seeks-152-mn-to-revive-alcatraz-as-federal-prison-0f63ea9b?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 23:30:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Russian Strike On Ukraine Market Kills Five, Wounds 19]]></title>
+<title><![CDATA[Russian Strike On Ukraine Market Kills Five, Wounds 25]]></title>
 <link>https://www.barrons.com/news/russian-strike-on-ukraine-market-kills-five-wounds-19-33d3470e?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 11:51:26 -0000</pubDate>
-<description><![CDATA[A Russian drone hit a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and wounding 19, officials said, as Moscow pressed on with intensified daytime attacks.]]></description>
+<pubDate>Sat, 04 Apr 2026 15:28:07 -0000</pubDate>
+<description><![CDATA[A Russian drone hit a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and wounding 25, officials said, as Moscow pressed on with intensified daytime attacks.]]></description>
+</item>
+<item>
+<title><![CDATA[Zelensky In Istanbul For Security Talks With Erdogan]]></title>
+<link>https://www.barrons.com/news/zelensky-in-istanbul-for-security-talks-with-erdogan-df6626fc?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 15:13:07 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky arrived in Istanbul on Saturday for security talks with Turkish counterpart Recep Tayyip Erdogan.]]></description>
 </item>
 <item>
 <title><![CDATA[Canadian Astronaut Describes 'Phenomenal' Artemis Journey]]></title>
 <link>https://www.barrons.com/news/canadian-astronaut-describes-phenomenal-artemis-journey-c5f158cc?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 10:29:25 -0000</pubDate>
 <description><![CDATA[Artemis 2 astronaut Jeremy Hansen felt like he was "falling out of the sky" as his spacecraft followed its complex flight path to the Moon, the Canadian said in a Saturday video call.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-097374fc?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 11:36:26 -0000</pubDate>
-<description><![CDATA[The latest developments in the Middle East war:]]></description>
 </item>
 </channel></rss>
