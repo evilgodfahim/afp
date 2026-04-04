@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 04:47:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 05:54:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis Mission Shares Office Space -- And Physics -- With Apollo]]></title>
+<link>https://www.barrons.com/news/artemis-mission-shares-office-space-and-physics-with-apollo-ec70b639?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 05:54:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Hide, Find Water: Ex-airmen Detail How To Survive Being Shot Down]]></title>
 <link>https://www.barrons.com/news/hide-find-water-us-ex-pilot-details-how-to-survive-being-shot-down-99138ee3?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 04:47:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[For Some Around Trump, War On Iran Is A Christian Calling]]></title>
-<link>https://www.barrons.com/news/for-some-around-trump-war-on-iran-is-a-christian-calling-60ff84c5?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 18:40:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Iran, US Race To Find Crew Member Of Crashed American Fighter Jet]]></title>
+<link>https://www.barrons.com/news/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet-243e6be4?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 05:54:26 -0000</pubDate>
+<description><![CDATA[Iranian and American forces raced each other Saturday to recover a crew member of the first US fighter jet to go down inside Iran since the start of the war.]]></description>
+</item>
+<item>
 <title><![CDATA[Sri Lanka Struggles To Avert Economic Collapse Over Mideast War]]></title>
 <link>https://www.barrons.com/news/sri-lanka-struggles-to-avert-economic-collapse-over-mideast-war-f2da5dca?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 04:47:25 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/58-tortillas-five-hot-sauces-and-one-toilet-life-aboard-spacecraft-orion-644ec7ae?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 02:49:46 -0000</pubDate>
 <description><![CDATA[They're sipping smoothies, snapping phone pics, dealing with crashed email and fixing broken toilets: astronauts, they're just like us.]]></description>
-</item>
-<item>
-<title><![CDATA[Artemis Mission Shares Office Space -- And Physics -- With Apollo]]></title>
-<link>https://www.barrons.com/news/artemis-mission-shares-office-space-and-physics-with-apollo-ec70b639?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 02:34:46 -0000</pubDate>
-<description><![CDATA[As four astronauts whiz toward a flyby of the Moon, looking out for them are mission control experts using cutting-edge technology and lessons learned from the Apollo program 50 years ago.]]></description>
 </item>
 </channel></rss>
