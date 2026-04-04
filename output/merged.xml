@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 02:49:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 04:47:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hide, Find Water: Ex-airmen Detail How To Survive Being Shot Down]]></title>
+<link>https://www.barrons.com/news/hide-find-water-us-ex-pilot-details-how-to-survive-being-shot-down-99138ee3?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 04:47:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Extraordinary' Views Of Home As Astronauts Head Towards Moon]]></title>
 <link>https://www.barrons.com/news/extraordinary-views-of-home-as-astronauts-head-towards-moon-6fe8f58f?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 02:49:45 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-9fac0c95?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Apr 2026 16:52:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Sri Lanka Struggles To Avert Economic Collapse Over Mideast War]]></title>
+<link>https://www.barrons.com/news/sri-lanka-struggles-to-avert-economic-collapse-over-mideast-war-f2da5dca?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 04:47:25 -0000</pubDate>
+<description><![CDATA[Sri Lanka is struggling to prevent a repeat of its spectacular economic collapse four years ago, as the prolonged Middle East war compounds the fallout from a deadly]]></description>
+</item>
+<item>
 <title><![CDATA[58 Tortillas, Five Hot Sauces And One Toilet: Life Aboard Spacecraft Orion]]></title>
 <link>https://www.barrons.com/news/58-tortillas-five-hot-sauces-and-one-toilet-life-aboard-spacecraft-orion-644ec7ae?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 02:49:46 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/artemis-mission-shares-office-space-and-physics-with-apollo-ec70b639?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 02:34:46 -0000</pubDate>
 <description><![CDATA[As four astronauts whiz toward a flyby of the Moon, looking out for them are mission control experts using cutting-edge technology and lessons learned from the Apollo program 50 years ago.]]></description>
-</item>
-<item>
-<title><![CDATA[Hide, Find Water: Ex-airmen Detail How To Survive Being Shot Down]]></title>
-<link>https://www.barrons.com/news/hide-find-water-us-ex-pilot-details-how-to-survive-being-shot-down-99138ee3?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 02:19:46 -0000</pubDate>
-<description><![CDATA[As American forces race against time and Iran's military to locate an aviator reportedly shot down Friday, a former Air Force pilot and a rescuer told AFP what it takes to hide, survive and extract someone behind enemy lines.]]></description>
 </item>
 </channel></rss>
