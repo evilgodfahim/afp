@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Apr 2026 20:26:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 20:56:34 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[French Boats Set Sail To Join Gaza Aid Flotilla]]></title>
+<link>https://www.barrons.com/news/french-boats-set-sail-to-join-gaza-aid-flotilla-6c6f6f36?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 20:56:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Russian Strike On Ukraine Market Kills Five, Wounds 25]]></title>
 <link>https://www.barrons.com/news/russian-strike-on-ukraine-market-kills-five-wounds-19-33d3470e?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 17:55:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[58 Tortillas, Five Hot Sauces And One Toilet: Life Aboard Spacecraft Orion]]></title>
-<link>https://www.barrons.com/news/58-tortillas-five-hot-sauces-and-one-toilet-life-aboard-spacecraft-orion-644ec7ae?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 08:36:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis Astronauts Preparing For Historic Lunar Flyby]]></title>
+<link>https://www.barrons.com/news/artemis-astronauts-preparing-for-historic-lunar-flyby-ac00324c?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Apr 2026 20:56:34 -0000</pubDate>
+<description><![CDATA[The Artemis astronauts were gearing up Saturday for their long-anticipated lunar flyby, including reviewing the surface features they must analyze and photograph during their time circling the Moon.]]></description>
+</item>
+<item>
 <title><![CDATA[Bushehr: Iran's Only Nuclear Power Plant]]></title>
 <link>https://www.barrons.com/news/bushehr-iran-s-only-nuclear-power-plant-59d56df9?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 17:55:58 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/mideast-war-presents-serious-risk-for-africa-report-6d26d720?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Apr 2026 17:40:58 -0000</pubDate>
 <description><![CDATA[The Middle East war "presents a serious risk to Africa", the African Union and the African Development Bank (AfDB) said in a report seen by AFP Saturday.]]></description>
-</item>
-<item>
-<title><![CDATA[French Boats Set Sail To Join Gaza Aid Flotilla]]></title>
-<link>https://www.barrons.com/news/french-boats-set-sail-to-join-gaza-aid-flotilla-6c6f6f36?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Apr 2026 17:25:58 -0000</pubDate>
-<description><![CDATA[Some 20 French boats set sail from Marseille on Saturday to join up with an international flotilla making a renewed effort to break an Israeli blockade and deliver aid to Gaza, AFP reporters saw.]]></description>
 </item>
 </channel></rss>
