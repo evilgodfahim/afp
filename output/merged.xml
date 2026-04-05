@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 22:59:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 23:43:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Super Mario Galaxy' Blasts Off In N. America Box Office Debut]]></title>
+<link>https://www.barrons.com/news/super-mario-galaxy-blasts-off-in-n-america-box-office-debut-d280015c?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 23:43:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Artemis Astronauts Begin Fifth Day On Historic Moon Mission]]></title>
 <link>https://www.barrons.com/news/artemis-astronauts-begin-fifth-day-on-historic-moon-mission-e321e71c?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 20:59:17 -0000</pubDate>
@@ -89,6 +95,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Renews Lebanon Strikes, Forces Syria Border Crossing Closed]]></title>
+<link>https://www.barrons.com/news/israel-renews-lebanon-strikes-forces-syria-border-crossing-closed-3632f07a?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 23:28:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War Hits Britain's Fish And Chip Shops]]></title>
 <link>https://www.barrons.com/news/middle-east-war-hits-britain-s-fish-and-chip-shops-1d6a8e76?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 16:25:57 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Artemis Astronauts To Study The Moon's Surface Using Mainly Their Eyes]]></title>
 <link>https://www.barrons.com/news/artemis-astronauts-to-study-the-moon-s-surface-using-mainly-their-eyes-0318882d?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 16:10:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia Lays To Rest Peacekeepers Killed In Lebanon]]></title>
-<link>https://www.barrons.com/news/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon-a9ffcbed?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 13:51:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US Commandos Went Deep Into Iran To Rescue Downed Airman: Media]]></title>
-<link>https://www.barrons.com/news/second-us-airman-downed-over-iran-safe-and-sound-trump-c4bde240?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 13:36:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Paul Battles Past Burruchaga To Win ATP Houston Title]]></title>
+<link>https://www.barrons.com/news/paul-battles-past-burruchaga-to-win-atp-houston-title-1d635d15?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 23:43:03 -0000</pubDate>
+<description><![CDATA[American fourth seed Tommy Paul saved three match points before scoring a battling three-set victory over unseeded Argentine Roman Burruchaga to win the ATP Houston US Men's Clay Court Championship on Sunday.]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon's Christians Mark Easter In Solidarity With War-hit South]]></title>
 <link>https://www.barrons.com/news/lebanon-s-christians-mark-easter-in-solidarity-with-war-hit-south-8cbbbe1a?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 19:31:21 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/uk-police-arrest-protesters-near-base-used-by-us-64dc1a68?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 17:57:29 -0000</pubDate>
 <description><![CDATA[British police said they arrested seven people on Sunday at a protest near an air base in eastern England used by US forces, accusing them of supporting the banned group Palestine Action.]]></description>
-</item>
-<item>
-<title><![CDATA['Super Mario Galaxy' Blasts Off In N. America Box Office Debut]]></title>
-<link>https://www.barrons.com/news/super-mario-galaxy-blasts-off-in-n-america-box-office-debut-d280015c?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 17:42:29 -0000</pubDate>
-<description><![CDATA["The Super Mario Galaxy Movie," based on the wildly popular Nintendo video game, crushed the competition at the North American box office in its opening weekend with $130.9 million in ticket sales, industry estimates showed Sunday.]]></description>
 </item>
 </channel></rss>
