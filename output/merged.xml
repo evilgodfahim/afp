@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 12:51:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 13:52:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Media Says Commandos Probed Deep Into Iran To Rescue Downed Airman]]></title>
+<title><![CDATA[Indonesia Lays To Rest Peacekeepers Killed In Lebanon]]></title>
+<link>https://www.barrons.com/news/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon-a9ffcbed?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 13:51:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US Commandos Went Deep Into Iran To Rescue Downed Airman: Media]]></title>
 <link>https://www.barrons.com/news/second-us-airman-downed-over-iran-safe-and-sound-trump-c4bde240?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 10:29:32 -0000</pubDate>
+<pubDate>Sun, 05 Apr 2026 13:36:59 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Mideast War Presents 'Serious Risk' For Africa: Report]]></title>
-<link>https://www.barrons.com/news/mideast-war-presents-serious-risk-for-africa-report-6d26d720?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 01:21:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[What We Know About The Race To Rescue Downed US Airman In Iran]]></title>
+<link>https://www.barrons.com/news/what-we-know-about-the-race-to-rescue-downed-us-airman-in-iran-1bb267ab?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 13:52:00 -0000</pubDate>
+<description><![CDATA[US President Donald Trump announced the dramatic rescue Sunday of a downed airman whose fighter jet crashed over Iran last week, but Iran says the mission was "foiled".]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War Hits Britain's Fish And Chip Shops]]></title>
 <link>https://www.barrons.com/news/middle-east-war-hits-britain-s-fish-and-chip-shops-1d6a8e76?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 06:16:11 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/artemis-astronauts-to-study-the-moon-s-surface-using-mainly-their-eyes-0318882d?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 06:01:11 -0000</pubDate>
 <description><![CDATA[More than 50 years after humans first flew around the Moon, Artemis astronauts will repeat the feat on Monday and use the most basic instrument to study it: their eyes.]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia Lays To Rest Peacekeepers Killed In Lebanon]]></title>
-<link>https://www.barrons.com/news/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon-a9ffcbed?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 04:59:15 -0000</pubDate>
-<description><![CDATA[Three Indonesian peacekeepers killed in two separate explosions in southern Lebanon last week were laid to rest in their hometowns on Sunday.]]></description>
 </item>
 </channel></rss>
