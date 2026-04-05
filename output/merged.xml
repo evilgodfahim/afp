@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Apr 2026 18:49:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 19:31:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Lebanon's Christians Mark Easter In Solidarity With War-hit South]]></title>
+<link>https://www.barrons.com/news/lebanon-s-christians-mark-easter-in-solidarity-with-war-hit-south-8cbbbe1a?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Apr 2026 19:31:21 -0000</pubDate>
+<description><![CDATA[Lebanese Christians marked Easter Sunday by turning their prayers to the south, where villages remain trapped by fighting between Israel and Hezbollah.]]></description>
+</item>
+<item>
 <title><![CDATA[UK Police Arrest Protesters Near Base Used By US]]></title>
 <link>https://www.barrons.com/news/uk-police-arrest-protesters-near-base-used-by-us-64dc1a68?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 17:57:29 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/super-mario-galaxy-blasts-off-in-n-america-box-office-debut-d280015c?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Apr 2026 17:42:29 -0000</pubDate>
 <description><![CDATA["The Super Mario Galaxy Movie," based on the wildly popular Nintendo video game, crushed the competition at the North American box office in its opening weekend with $130.9 million in ticket sales, industry estimates showed Sunday.]]></description>
-</item>
-<item>
-<title><![CDATA[Artemis Astronauts Begin Fifth Day On Historic Moon Mission]]></title>
-<link>https://www.barrons.com/news/artemis-astronauts-begin-fifth-day-on-historic-moon-mission-e321e71c?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 17:27:29 -0000</pubDate>
-<description><![CDATA[The four astronauts on NASA's Artemis 2 mission began their fifth day journeying to the Moon on Sunday, after already taking in sights of the lunar surface never before seen by human eyes.]]></description>
 </item>
 </channel></rss>
