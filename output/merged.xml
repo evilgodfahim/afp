@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 19:50:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 20:34:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Says Iran Ceasefire Proposal 'Not Good Enough']]></title>
+<title><![CDATA[Red Cross Chief Condemns 'Deliberate Threats' Against Civilians In Mideast War]]></title>
+<link>https://www.barrons.com/news/red-cross-chief-condemns-deliberate-threats-against-civilians-in-mideast-war-3f8cc5dd?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 20:34:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Doubles Down On Iran Threat, Says Ceasefire 'Not Good Enough']]></title>
 <link>https://www.barrons.com/news/israel-hits-iran-gas-complex-after-trump-threat-2a81f28d?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 18:53:34 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 20:19:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,9 +89,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA['Historic Day': Artemis Astronauts Break Space Distance Record]]></title>
+<title><![CDATA[New Frontier: Artemis Astronauts Break Space Distance Record]]></title>
 <link>https://www.barrons.com/news/artemis-mission-headed-for-first-lunar-flyby-since-1972-6c1f7a72?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 18:38:34 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 20:04:39 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Paul Battles Past Burruchaga To Win ATP Houston Title]]></title>
-<link>https://www.barrons.com/news/paul-battles-past-burruchaga-to-win-atp-houston-title-1d635d15?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 04:24:18 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Says Iran Ceasefire Proposal 'Very Significant Step']]></title>
+<title><![CDATA[Lunar Crater Named After Artemis Commander's Deceased Wife]]></title>
+<link>https://www.barrons.com/news/lunar-crater-named-after-artemis-commander-s-deceased-wife-8794a84c?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 20:34:39 -0000</pubDate>
+<description><![CDATA[Artemis astronauts at the outer edge of human space travel had an emotional moment Monday as they named a crater in honor of the deceased wife of mission commander Reid Wiseman.]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Ramps Up Threats To Devastate Iran As He Touts Rescue Mission]]></title>
 <link>https://www.barrons.com/news/trump-says-iran-ceasefire-proposal-very-significant-step-f46eb807?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 18:53:35 -0000</pubDate>
-<description><![CDATA[US President Donald Trump said Monday that a proposal for a ceasefire in the Iran war was a "very significant step," but not enough yet to end the conflict.]]></description>
+<pubDate>Mon, 06 Apr 2026 20:19:39 -0000</pubDate>
+<description><![CDATA[US President Donald Trump said Monday he would lay waste to every bridge and power plant in Iran if it fails to bend to his demands, as he touted the high-risk operation that rescued two downed airmen.]]></description>
 </item>
 <item>
 <title><![CDATA[US Democratic Lawmakers Slam 'Economic Bombing' After Cuba Visit]]></title>
 <link>https://www.barrons.com/news/us-democratic-lawmakers-slam-economic-bombing-after-cuba-visit-b24f5ca8?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Apr 2026 15:42:11 -0000</pubDate>
 <description><![CDATA[Two US Democratic lawmakers have met Cuba's president in the first congressional visit since Washington imposed an oil blockade against the island, a measure they denounced as "economic bombing."]]></description>
-</item>
-<item>
-<title><![CDATA[Red Cross Chief Condemns 'Deliberate Threats' Against Civilians In Mideast War]]></title>
-<link>https://www.barrons.com/news/red-cross-chief-condemns-deliberate-threats-against-civilians-in-mideast-war-3f8cc5dd?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 15:27:11 -0000</pubDate>
-<description><![CDATA[The head of the International Committee of the Red Cross on Monday condemned "deliberate threats" against civilian targets that have marked the widening Middle East war.]]></description>
 </item>
 </channel></rss>
