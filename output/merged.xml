@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Apr 2026 14:42:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 15:42:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,15 +59,27 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
+<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-f05de661?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 15:42:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Saudi Oasis Town Adjusts To Life In The Firing Line]]></title>
+<link>https://www.barrons.com/news/saudi-oasis-town-adjusts-to-life-in-the-firing-line-f98ae584?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 15:27:10 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Oil Pares Gains As Shares Rise In Tokyo, Seoul]]></title>
 <link>https://www.barrons.com/news/tokyo-seoul-shares-gain-war-sends-oil-higher-cf3366db?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Apr 2026 13:50:38 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Artemis Mission Approaches Lunar Loop For First Flyby Since 1972]]></title>
+<title><![CDATA[Giant Step For Humankind: Artemis Crew To Set Space Distance Record]]></title>
 <link>https://www.barrons.com/news/artemis-mission-headed-for-first-lunar-flyby-since-1972-6c1f7a72?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 13:35:38 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 15:12:10 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[UK Police Arrest Protesters Near Base Used By US]]></title>
-<link>https://www.barrons.com/news/uk-police-arrest-protesters-near-base-used-by-us-64dc1a68?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 01:52:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA['Super Mario Galaxy' Blasts Off In N. America Box Office Debut]]></title>
-<link>https://www.barrons.com/news/super-mario-galaxy-blasts-off-in-n-america-box-office-debut-d280015c?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Apr 2026 23:43:02 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Israel Hits Iran Gas Complex After Trump Threat]]></title>
+<title><![CDATA[US Democratic Lawmakers Slam 'Economic Bombing' After Cuba Visit]]></title>
+<link>https://www.barrons.com/news/us-democratic-lawmakers-slam-economic-bombing-after-cuba-visit-b24f5ca8?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 15:42:11 -0000</pubDate>
+<description><![CDATA[Two US Democratic lawmakers have met Cuba's president in the first congressional visit since Washington imposed an oil blockade against the island, a measure they denounced as "economic bombing."]]></description>
+</item>
+<item>
+<title><![CDATA[Red Cross Chief Condemns 'Deliberate Threats' Against Civilians In Mideast War]]></title>
+<link>https://www.barrons.com/news/red-cross-chief-condemns-deliberate-threats-against-civilians-in-mideast-war-3f8cc5dd?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Apr 2026 15:27:11 -0000</pubDate>
+<description><![CDATA[The head of the International Committee of the Red Cross on Monday condemned "deliberate threats" against civilian targets that have marked the widening Middle East war.]]></description>
+</item>
+<item>
+<title><![CDATA[Israel Hits Iran Petrochemical Complex After Trump Threats]]></title>
 <link>https://www.barrons.com/news/israel-hits-iran-gas-complex-after-trump-threat-2a81f28d?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 13:50:38 -0000</pubDate>
+<pubDate>Mon, 06 Apr 2026 15:12:11 -0000</pubDate>
 <description><![CDATA[Israeli strikes hit Iran's largest petrochemical complex Monday, as the Islamic republic defied threats from US President Donald Trump to devastate civilian infrastructure if it does not reopen the Strait of Hormuz.]]></description>
-</item>
-<item>
-<title><![CDATA[Middle East War: Global Economic Fallout]]></title>
-<link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-f05de661?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 13:35:38 -0000</pubDate>
-<description><![CDATA[Here are the latest economic events in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Saudi Oasis Town Adjusts To Life In The Firing Line]]></title>
-<link>https://www.barrons.com/news/saudi-oasis-town-adjusts-to-life-in-the-firing-line-f98ae584?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Apr 2026 05:09:19 -0000</pubDate>
-<description><![CDATA[For generations, a Saudi oasis town has been a favoured spot for stressed visitors from the nearby capital Riyadh to come and decompress.]]></description>
 </item>
 </channel></rss>
