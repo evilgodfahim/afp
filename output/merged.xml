@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 15:53:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 16:53:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UK Govt Bars Kanye West, Forcing Cancellation Of Festival]]></title>
+<link>https://www.barrons.com/news/uk-government-blocks-kanye-west-from-london-music-fest-120356e7?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 16:53:50 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[NASA Releases Picture Of 'Earthset' Shot By Artemis Crew]]></title>
 <link>https://www.barrons.com/news/nasa-releases-picture-of-earthset-shot-by-artemis-crew-7b2870ad?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 15:53:22 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8906a8b8?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 10:10:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II Crew Snaps Historic Earthset Photo On Way Home]]></title>
+<link>https://www.barrons.com/news/artemis-ii-crew-snaps-historic-earthset-photo-on-way-home-1463e05b?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 16:53:51 -0000</pubDate>
+<description><![CDATA[The Artemis II astronauts snapped a stunning shot of Earthset -- the moment when the Earth dips below the Moon's horizon -- on their long journey back home Tuesday after wrapping up a historic lunar flyby.]]></description>
+</item>
+<item>
 <title><![CDATA[With Legos, Trolling And Twain, Iran Pushes War Narrative On Social Media]]></title>
 <link>https://www.barrons.com/news/with-legos-trolling-and-twain-iran-pushes-war-narrative-on-social-media-a6ee2a88?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 15:53:23 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/french-couple-leave-iran-after-more-than-three-years-in-detention-b49eedd4?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 15:38:23 -0000</pubDate>
 <description><![CDATA[Two French nationals, who spent more than three years in an Iranian prison on espionage charges, headed home from the war-stricken country on Tuesday, President Emmanuel Macron said.]]></description>
-</item>
-<item>
-<title><![CDATA[UK Government Blocks Kanye West From London Music Fest]]></title>
-<link>https://www.barrons.com/news/uk-government-blocks-kanye-west-from-london-music-fest-120356e7?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 14:06:46 -0000</pubDate>
-<description><![CDATA[The UK government Tuesday blocked US rapper Kanye West from visiting the country to headline a music festival due to his past antisemitic outbursts, forcing organisers to cancel the event.]]></description>
 </item>
 </channel></rss>
