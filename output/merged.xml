@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 08:58:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 10:10:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8906a8b8?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 10:10:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Laughter, Tears: Historic Day For Astronaut Jenni Gibbons In Houston]]></title>
+<link>https://www.barrons.com/news/laughter-tears-historic-day-for-astronaut-jenni-gibbons-in-houston-753516a0?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 09:55:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Charlie's Angels' Stars Reunite For Show's 50th Anniversary]]></title>
 <link>https://www.barrons.com/news/charlie-s-angels-stars-reunite-for-show-s-50th-anniversary-a5e189c6?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 07:55:19 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Vice President Vance Departs For Hungary In Support Of Orban]]></title>
-<link>https://www.barrons.com/news/us-vice-president-vance-departs-for-hungary-in-support-of-orban-efdde943?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 04:56:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cuba's Next-gen Castros: A 'Fiefdom' And An Influencer]]></title>
-<link>https://www.barrons.com/news/cuba-s-next-gen-castros-a-fiefdom-and-an-influencer-6fceed38?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 04:41:34 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[New Strikes In Tehran As Deadline Looms For Trump Threat To Infrastructure]]></title>
+<link>https://www.barrons.com/news/new-strikes-in-tehran-as-deadline-looms-for-trump-threat-to-infrastructure-84ba8c68?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 10:10:17 -0000</pubDate>
+<description><![CDATA[New strikes rocked Tehran on Tuesday with Iran showing no sign of backing down as a US deadline loomed for it to reopen the Strait of Hormuz or have its civilian infrastructure "decimated", according to President Donald Trump.]]></description>
+</item>
+<item>
+<title><![CDATA[France's Sarkozy Says 'Innocent' At Trial Over Libya Funding]]></title>
+<link>https://www.barrons.com/news/france-s-sarkozy-says-innocent-at-trial-over-libya-funding-89226760?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 09:55:17 -0000</pubDate>
+<description><![CDATA[France's ex-president Nicolas Sarkozy at an appeals trial Tuesday said he was "innocent", rejecting charges he had sought Libyan financing for his 2007 election in exchange for helping improve Tripoli's image after deadly bombings.]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal Vows Action Against Trekker Rescue Scam]]></title>
 <link>https://www.barrons.com/news/nepal-vows-action-against-trekker-rescue-scam-0b131f3e?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 07:55:20 -0000</pubDate>
 <description><![CDATA[Nepal's government has developed tough measures to stamp out insurance scams involving unnecessary helicopter rescues of trekkers, an official said Tuesday, a long-running racket threatening the country's vital tourism industry.]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8906a8b8?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 07:40:20 -0000</pubDate>
-<description><![CDATA[The latest developments in the Middle East war:]]></description>
-</item>
-<item>
-<title><![CDATA[Laughter, Tears: Historic Day For Astronaut Jenni Gibbons In Houston]]></title>
-<link>https://www.barrons.com/news/laughter-tears-historic-day-for-astronaut-jenni-gibbons-in-houston-753516a0?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 07:25:20 -0000</pubDate>
-<description><![CDATA[Canadian astronaut Jenni Gibbons was at the heart of NASA's control room in Houston on Monday, supporting her Artemis II crewmates remotely during their flight around the Moon.]]></description>
 </item>
 </channel></rss>
