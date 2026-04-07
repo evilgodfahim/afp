@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 17:56:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 19:01:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis II Crew Snaps Historic Earthset Photo On Way Home]]></title>
+<link>https://www.barrons.com/news/artemis-ii-crew-snaps-historic-earthset-photo-on-way-home-1463e05b?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 19:01:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Russia, China Veto UN Resolution On Reopening Strait Of Hormuz]]></title>
+<link>https://www.barrons.com/news/russia-china-veto-un-resolution-on-reopening-strait-of-hormuz-fc9c8865?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 18:46:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[With Legos, Trolling And Twain, Iran Pushes War Narrative On Social Media]]></title>
 <link>https://www.barrons.com/news/with-legos-trolling-and-twain-iran-pushes-war-narrative-on-social-media-a6ee2a88?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 17:56:10 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[France's Sarkozy Says 'Innocent' At Trial Over Libya Funding]]></title>
-<link>https://www.barrons.com/news/france-s-sarkozy-says-innocent-at-trial-over-libya-funding-89226760?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 14:06:46 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Vance Hails Orban As 'Model' For Europe In Pre-election Hungary Visit]]></title>
-<link>https://www.barrons.com/news/vance-hails-orban-as-a-model-for-europe-during-pre-election-hungary-visit-cd65371e?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 17:26:10 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US-Cuba Talks At 'Very Preliminary' Stage: Deputy FM]]></title>
+<link>https://www.barrons.com/news/us-cuba-talks-at-very-preliminary-stage-deputy-fm-4570254b?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 19:01:50 -0000</pubDate>
+<description><![CDATA[Talks between Cuba and the United States on de-escalating tensions are still at a "very preliminary" stage, Cuba's Deputy Foreign Minister Josefina Vidal told AFP on Tuesday.]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Branded 'Crazy' Over Apocalyptic Iran Threats]]></title>
 <link>https://www.barrons.com/news/trump-branded-crazy-over-apocalyptic-iran-threats-fb5c2a46?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 17:56:11 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/cyber-nuclear-invasion-what-is-trump-threatening-in-iran-17abb28f?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 17:41:11 -0000</pubDate>
 <description><![CDATA[Donald Trump's increasingly apocalyptic threats of destruction in Iran have raised concerns of just how far the US president might go militarily to bend the Islamic republic to his will.]]></description>
-</item>
-<item>
-<title><![CDATA[Artemis II Crew Snaps Historic Earthset Photo On Way Home]]></title>
-<link>https://www.barrons.com/news/artemis-ii-crew-snaps-historic-earthset-photo-on-way-home-1463e05b?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 16:53:51 -0000</pubDate>
-<description><![CDATA[The Artemis II astronauts snapped a stunning shot of Earthset -- the moment when the Earth dips below the Moon's horizon -- on their long journey back home Tuesday after wrapping up a historic lunar flyby.]]></description>
 </item>
 </channel></rss>
