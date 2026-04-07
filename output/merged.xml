@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 07 Apr 2026 19:01:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 20:04:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Cyber, Nuclear, Invasion? What Is Trump Threatening In Iran]]></title>
+<link>https://www.barrons.com/news/cyber-nuclear-invasion-what-is-trump-threatening-in-iran-17abb28f?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 20:04:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Artemis II Crew Snaps Historic Earthset Photo On Way Home]]></title>
 <link>https://www.barrons.com/news/artemis-ii-crew-snaps-historic-earthset-photo-on-way-home-1463e05b?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 19:01:49 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[French Couple Leave Iran After More Than Three Years In Detention]]></title>
+<title><![CDATA[French Couple Head Home After More Than Three Years In Iranian Jail]]></title>
 <link>https://www.barrons.com/news/french-couple-leave-iran-after-more-than-three-years-in-detention-b49eedd4?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 17:41:10 -0000</pubDate>
+<pubDate>Tue, 07 Apr 2026 19:49:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Warns 'Whole Civilization Will Die' In Iran If Ultimatum Expires]]></title>
-<link>https://www.barrons.com/news/new-strikes-in-tehran-as-deadline-looms-for-trump-threat-to-infrastructure-84ba8c68?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 15:08:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,6 +131,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-edad0cc1?refsec=topics_afp-news</link>
+<pubDate>Tue, 07 Apr 2026 20:04:49 -0000</pubDate>
+<description><![CDATA[The latest developments in the Middle East war:]]></description>
+</item>
+<item>
 <title><![CDATA[US-Cuba Talks At 'Very Preliminary' Stage: Deputy FM]]></title>
 <link>https://www.barrons.com/news/us-cuba-talks-at-very-preliminary-stage-deputy-fm-4570254b?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 19:01:50 -0000</pubDate>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/trump-branded-crazy-over-apocalyptic-iran-threats-fb5c2a46?refsec=topics_afp-news</link>
 <pubDate>Tue, 07 Apr 2026 17:56:11 -0000</pubDate>
 <description><![CDATA[Donald Trump is no stranger to provocative language. But his threat to wipe out Iranian civilization and other recent menacing comments have prompted critics to question the US president's mental health.]]></description>
-</item>
-<item>
-<title><![CDATA[Cyber, Nuclear, Invasion? What Is Trump Threatening In Iran]]></title>
-<link>https://www.barrons.com/news/cyber-nuclear-invasion-what-is-trump-threatening-in-iran-17abb28f?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 17:41:11 -0000</pubDate>
-<description><![CDATA[Donald Trump's increasingly apocalyptic threats of destruction in Iran have raised concerns of just how far the US president might go militarily to bend the Islamic republic to his will.]]></description>
 </item>
 </channel></rss>
