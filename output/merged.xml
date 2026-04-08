@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 12:08:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 14:07:46 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA['Pinprick Of Light': Artemis Crew Witnesses Meteorite Impacts On Moon]]></title>
+<link>https://www.barrons.com/news/pinprick-of-light-artemis-crew-witnesses-meteorite-impacts-on-moon-d68f0847?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 14:07:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[German Factory Orders Rise In February But Energy Shock Looms]]></title>
+<link>https://www.barrons.com/news/german-factory-orders-rise-in-february-but-energy-shock-looms-4ec7e412?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 13:52:45 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Lawmakers Divided Over Trump Ceasefire Announcement]]></title>
 <link>https://www.barrons.com/news/us-lawmakers-divided-over-trump-ceasefire-announcement-af6582e3?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 10:04:30 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Middle East War: Ceasefire Reactions]]></title>
-<link>https://www.barrons.com/news/middle-east-war-ceasefire-reactions-1baf5cf6?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 06:28:13 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump To AFP: Iran Deal 'Total And Complete Victory' For US]]></title>
-<link>https://www.barrons.com/news/trump-to-afp-iran-deal-total-and-complete-victory-for-us-c7bf3657?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 05:44:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Rodriguez Vows To 'Monitor' Amnesty Law]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-rodriguez-vows-to-monitor-amnesty-law-d48b37c1?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 09:34:30 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Suspect Remains Silent In Swiss Bar Fire Probe]]></title>
+<link>https://www.barrons.com/news/suspect-remains-silent-in-swiss-bar-fire-probe-4d497e7e?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 14:07:46 -0000</pubDate>
+<description><![CDATA[A former fire safety official in the Swiss ski resort of Crans-Montana remained silent when questioned Wednesday by prosecutors investigating a deadly New Year blaze, his lawyer said.]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Truce Spurs Hopes For World Economy, But Recovery Will Be Rocky]]></title>
+<link>https://www.barrons.com/news/iran-truce-spurs-hopes-for-world-economy-but-recovery-will-be-roccky-cfec169c?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 13:52:46 -0000</pubDate>
+<description><![CDATA[The ceasefire agreed between Iran and the United States should bring some relief to a world economy that has been roiled since the start of hostilities on February 28, even if not all sectors will rebound at the same pace.]]></description>
+</item>
+<item>
 <title><![CDATA[Nigeria Sweats In Heatwave As Iran War Drives Up Costs To Stay Cool]]></title>
 <link>https://www.barrons.com/news/nigeria-sweats-in-heatwave-as-iran-war-drives-up-costs-to-stay-cool-9b06caa0?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 10:04:31 -0000</pubDate>
 <description><![CDATA[Azeez Akanni hopped on a yellow bus heading for the central business district on Lagos Island, beads of sweat rolling down his neck and arms.]]></description>
-</item>
-<item>
-<title><![CDATA['Pinprick Of Light': Artemis Crew Witnesses Meteorite Impacts On Moon]]></title>
-<link>https://www.barrons.com/news/pinprick-of-light-artemis-crew-witnesses-meteorite-impacts-on-moon-d68f0847?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 09:49:31 -0000</pubDate>
-<description><![CDATA[During their historic lunar flyby, astronauts on NASA's Artemis II mission witnessed meteorites striking the rugged surface of the Moon, a sight that has piqued scientists' curiosity.]]></description>
-</item>
-<item>
-<title><![CDATA[German Factory Orders Rise In February But Energy Shock Looms]]></title>
-<link>https://www.barrons.com/news/german-factory-orders-rise-in-february-but-energy-shock-looms-4ec7e412?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 08:40:32 -0000</pubDate>
-<description><![CDATA[German industrial orders rebounded in February due to strong overseas demand, data showed Wednesday, but officials warned that the Middle East war energy shock would likely derail the positive momentum.]]></description>
 </item>
 </channel></rss>
