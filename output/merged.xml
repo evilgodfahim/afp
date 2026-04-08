@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 03:37:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 05:44:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Holds Rates Unchanged Over 'Uncertain' Iran War Implications]]></title>
 <link>https://www.barrons.com/news/us-fed-holds-rates-unchanged-over-uncertain-iran-war-implications-1e6135ba?refsec=topics_afp-news</link>
@@ -59,9 +59,39 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Trump To AFP: Iran Deal 'Total And Complete Victory' For US]]></title>
+<link>https://www.barrons.com/news/trump-to-afp-iran-deal-total-and-complete-victory-for-us-c7bf3657?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:44:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Crude Prices Plunge, Stocks Surge As US And Iran Agree Ceasefire]]></title>
+<link>https://www.barrons.com/news/crude-prices-plunge-stocks-surge-as-us-and-iran-agree-ceasefire-74c0587f?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:29:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[North Korea Fires Multiple Ballistic Missiles Towards East Sea]]></title>
+<link>https://www.barrons.com/news/north-korea-fires-multiple-ballistic-missiles-towards-east-sea-ab92008a?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:14:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Wave Of Nostalgia As 2000s TV Makes A Comeback]]></title>
+<link>https://www.barrons.com/news/wave-of-nostalgia-as-2000s-tv-makes-a-comeback-af7cd190?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 04:59:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Middle East War: Global Economic Fallout]]></title>
 <link>https://www.barrons.com/news/middle-east-war-global-economic-fallout-3f62be8b?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 03:37:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan To Host US-Iran Ceasefire Talks Friday]]></title>
+<link>https://www.barrons.com/news/pakistan-to-host-us-iran-ceasefire-talks-friday-3bc19815?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 04:44:53 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -83,36 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-edad0cc1?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 23:05:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US-Cuba Talks At 'Very Preliminary' Stage: Deputy FM]]></title>
-<link>https://www.barrons.com/news/us-cuba-talks-at-very-preliminary-stage-deputy-fm-4570254b?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 21:09:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Latest Anthropic AI Model Finds Cracks In Software Defenses]]></title>
-<link>https://www.barrons.com/news/latest-anthropic-ai-model-finds-cracks-in-software-defenses-103781a4?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 22:50:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Branded 'Crazy' Over Apocalyptic Iran Threats]]></title>
-<link>https://www.barrons.com/news/trump-branded-crazy-over-apocalyptic-iran-threats-fb5c2a46?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 20:54:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Cyber, Nuclear, Invasion? What Is Trump Threatening In Iran]]></title>
-<link>https://www.barrons.com/news/cyber-nuclear-invasion-what-is-trump-threatening-in-iran-17abb28f?refsec=topics_afp-news</link>
-<pubDate>Tue, 07 Apr 2026 20:04:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
 <pubDate>Fri, 27 Mar 2026 13:13:31 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump To AFP: Iran Deal 'Total And Complete Victory' For US]]></title>
-<link>https://www.barrons.com/news/trump-to-afp-iran-deal-total-and-complete-victory-for-us-c7bf3657?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 03:37:56 -0000</pubDate>
-<description><![CDATA[President Donald Trump told AFP on Tuesday that the United States had won a "total and complete victory" after agreeing a two-week ceasefire deal with Iran.]]></description>
+<title><![CDATA['Ketamine Queen' To Be Sentenced Over Matthew Perry Death]]></title>
+<link>https://www.barrons.com/news/ketamine-queen-to-be-sentenced-over-matthew-perry-death-250b837a?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:44:54 -0000</pubDate>
+<description><![CDATA[A dealer dubbed the "Ketamine Queen" who supplied the drugs that killed "Friends" actor Matthew Perry is set to be sentenced in a California court on Wednesday.]]></description>
 </item>
 <item>
-<title><![CDATA[Crude Prices Plunge, Stocks Surge As US And Iran Agree Ceasefire]]></title>
-<link>https://www.barrons.com/news/crude-prices-plunge-stocks-surge-as-us-and-iran-agree-ceasefire-74c0587f?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 03:22:56 -0000</pubDate>
-<description><![CDATA[Oil prices plunged Wednesday while stocks rallied after the United States and Iran agreed to a two-week ceasefire that will see Tehran temporarily reopen the vital Strait of Hormuz.]]></description>
+<title><![CDATA[Vietnam's To Lam Bets Big On Building Blitz]]></title>
+<link>https://www.barrons.com/news/vietnam-s-to-lam-bets-big-on-building-blitz-31ea869f?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:29:54 -0000</pubDate>
+<description><![CDATA[The world's largest stadium, Southeast Asia's biggest exhibition hall and hundreds of major road, aviation and energy projects -- Vietnam is building faster than ever in its self-proclaimed "era of national rise".]]></description>
 </item>
 <item>
-<title><![CDATA[Wave Of Nostalgia As 2000s TV Makes A Comeback]]></title>
-<link>https://www.barrons.com/news/wave-of-nostalgia-as-2000s-tv-makes-a-comeback-af7cd190?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 03:07:56 -0000</pubDate>
-<description><![CDATA[In the early 2000s, television viewers first discovered "Malcolm in the Middle," the hilarious tale of a teenager trying to survive the antics of his dysfunctional family.]]></description>
+<title><![CDATA[Middle East War: Ceasefire Reactions]]></title>
+<link>https://www.barrons.com/news/middle-east-war-ceasefire-reactions-1baf5cf6?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 05:14:54 -0000</pubDate>
+<description><![CDATA[The United States and Iran agreed to a two-week ceasefire, with both sides claiming victory.]]></description>
 </item>
 </channel></rss>
