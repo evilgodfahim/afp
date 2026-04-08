@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 08 Apr 2026 22:35:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 23:34:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Vance Says Up To Iran If It Wants Truce To 'Fall Apart' Over Lebanon]]></title>
+<link>https://www.barrons.com/news/vance-says-up-to-iran-if-it-wants-truce-to-fall-apart-over-lebanon-7e13dc22?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 23:34:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Ketamine Queen' Jailed For 15 Years Over Matthew Perry Drugs]]></title>
 <link>https://www.barrons.com/news/ketamine-queen-jailed-for-15-years-over-matthew-perry-drugs-43653889?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 21:38:01 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US, Iran Ceasefire Sees Israel's War Goals Left Hanging]]></title>
-<link>https://www.barrons.com/news/us-iran-ceasefire-sees-israel-s-war-goals-left-hanging-dbd8e5dc?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 16:57:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Rodriguez Vows To 'Monitor' Amnesty Law]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-rodriguez-vows-to-monitor-amnesty-law-d48b37c1?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 09:34:30 -0000</pubDate>
@@ -127,8 +127,14 @@
 <item>
 <title><![CDATA[Trump Bars Firms With Pro-diversity Policies From Govt Contracts]]></title>
 <link>https://www.barrons.com/news/trump-bars-firms-with-pro-diversity-policies-from-govt-contracts-f116f5ae?refsec=topics_afp-news</link>
-<pubDate>Fri, 27 Mar 2026 04:13:44 -0000</pubDate>
+<pubDate>Wed, 08 Apr 2026 23:19:48 -0000</pubDate>
 <description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Makes Up With Sahel Juntas, With Eye On US Interests]]></title>
+<link>https://www.barrons.com/news/trump-makes-up-with-sahel-juntas-with-eye-on-us-interests-48dbc79c?refsec=topics_afp-news</link>
+<pubDate>Wed, 08 Apr 2026 23:34:49 -0000</pubDate>
+<description><![CDATA[After years of sidelining the Sahel's military rulers, the United States under President Donald Trump is shifting to engagement and prioritizing the quest for security and minerals over promotion of democracy.]]></description>
 </item>
 <item>
 <title><![CDATA[Meta Releases First New AI Model Since Shaking Up Team]]></title>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/tehran-residents-relieved-but-divided-by-trump-truce-a129555e?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 21:23:01 -0000</pubDate>
 <description><![CDATA[While some Iranians in the capital Tehran fear the ceasefire with the United States will lead to nothing, others declared victory and most breathed a sigh of relief after weeks of war.]]></description>
-</item>
-<item>
-<title><![CDATA[Vance Says Up To Iran If It Wants Truce To 'Fall Apart' Over Lebanon]]></title>
-<link>https://www.barrons.com/news/vance-says-up-to-iran-if-it-wants-truce-to-fall-apart-over-lebanon-7e13dc22?refsec=topics_afp-news</link>
-<pubDate>Wed, 08 Apr 2026 21:08:01 -0000</pubDate>
-<description><![CDATA[US Vice President JD Vance on Wednesday urged Iran not to let the fragile ceasefire deal fall apart over Israel's attacks on Lebanon, days before he is due to lead talks with Tehran in Pakistan.]]></description>
 </item>
 </channel></rss>
