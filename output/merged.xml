@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Apr 2026 09:47:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 10:55:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Nepal Ex-PM Oli Released From Custody After 12 Days: Police]]></title>
+<link>https://www.barrons.com/news/nepal-ex-pm-oli-released-from-custody-after-12-days-police-1ab4c75e?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 10:55:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA['Chills': Artemis Astronauts Say Lunar Flyby Still Washing Over Them]]></title>
 <link>https://www.barrons.com/news/chills-artemis-astronauts-say-lunar-flyby-still-washing-over-them-36ee0189?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Apr 2026 09:47:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US Court Expedites Anthropic's Legal Battle With Department Of War]]></title>
-<link>https://www.barrons.com/news/us-court-expedites-anthropic-s-legal-battle-with-department-of-war-283c0bd5?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 04:33:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Rodriguez Vows To 'Monitor' Amnesty Law]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-rodriguez-vows-to-monitor-amnesty-law-d48b37c1?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 09:34:30 -0000</pubDate>
@@ -137,15 +137,15 @@
 <description><![CDATA[Buffeted by six weeks of war in the Middle East, airlines have scrambled to trim routes and costs as fuel bills explode and wary clients think twice about their travel plans, a situation that could persist even if a fragile truce holds.]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b8a17d4c?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 10:55:38 -0000</pubDate>
+<description><![CDATA[The latest developments in the Middle East war:]]></description>
+</item>
+<item>
 <title><![CDATA[Artemis Crew's Families Enthralled By Messages From Space]]></title>
 <link>https://www.barrons.com/news/artemis-crew-s-families-enthralled-by-messages-from-space-f54f1eae?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Apr 2026 08:00:14 -0000</pubDate>
 <description><![CDATA[A week after astronaut Jeremy Hansen blasted off on the historic Artemis II mission to the Moon, his wife Catherine recalled the anxiety and thrill of witnessing the journey from afar.]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal Ex-PM Oli Released From Custody After 12 Days: Police]]></title>
-<link>https://www.barrons.com/news/nepal-ex-pm-oli-released-from-custody-after-12-days-police-1ab4c75e?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 07:45:14 -0000</pubDate>
-<description><![CDATA[Nepal's ex-prime minister KP Sharma Oli and former interior minister Ramesh Lekhak have been released from custody after questioning for their alleged role in a deadly 2025 crackdown on protesters, police said Thursday.]]></description>
 </item>
 </channel></rss>
