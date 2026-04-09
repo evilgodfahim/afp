@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Apr 2026 19:05:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 20:11:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran Hormuz 'Toll Booth': Legally Risky Route For Shippers]]></title>
 <link>https://www.barrons.com/news/iran-hormuz-toll-booth-legally-risky-route-for-shippers-946fc536?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Police Tear-gas Protesters Demanding Salary Rises]]></title>
+<link>https://www.barrons.com/news/venezuela-police-tear-gas-protesters-demanding-salary-rises-f8e685d1?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 20:11:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Iranians Pay Tribute To Slain Supreme Leader Weeks After Killing]]></title>
+<link>https://www.barrons.com/news/iranians-pay-tribute-to-slain-supreme-leader-weeks-after-killing-c240ed46?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 19:56:11 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[US Democrats Fail In Bid To Curb Trump's Iran War Powers]]></title>
 <link>https://www.barrons.com/news/us-democrats-fail-in-bid-to-curb-trump-s-iran-war-powers-22b2401f?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Apr 2026 19:05:22 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Jihadists Kill Nigerian Troops Including Senior Brigadier General]]></title>
-<link>https://www.barrons.com/news/jihadists-kill-18-nigerian-troops-including-senior-brigadier-general-d3d0b5b0?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 16:01:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian Police Raid Independent Novaya Gazeta Media Outlet]]></title>
-<link>https://www.barrons.com/news/russian-police-raid-independent-novaya-gazeta-media-outlet-b3e56fd6?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 15:46:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela Interim Leader Rodriguez Vows To 'Monitor' Amnesty Law]]></title>
 <link>https://www.barrons.com/news/venezuela-interim-leader-rodriguez-vows-to-monitor-amnesty-law-d48b37c1?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Apr 2026 09:34:30 -0000</pubDate>
@@ -131,21 +131,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Shipping Toll For Hormuz Passage Sharply Divides Nations]]></title>
+<link>https://www.barrons.com/news/shipping-toll-for-hormuz-passage-sharply-divides-nations-ab4ac227?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 20:11:12 -0000</pubDate>
+<description><![CDATA[Iran's imposition of a toll for ships to pass through the Strait of Hormuz looks set to be a key point of contention at talks opening in Pakistan Friday.]]></description>
+</item>
+<item>
+<title><![CDATA[Israel Tensions Surface As Democrats Plot US Midterms]]></title>
+<link>https://www.barrons.com/news/israel-tensions-surface-as-democrats-plot-us-midterms-84d0a0a4?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Apr 2026 19:56:12 -0000</pubDate>
+<description><![CDATA[Democrats are clashing this week over the influence of pro-Israel lobbying on American politics and the US ally's military actions in the Middle East at a key strategy gathering ahead of November's midterm elections.]]></description>
+</item>
+<item>
 <title><![CDATA[American Airlines Targets April 30 Return To Venezuela]]></title>
 <link>https://www.barrons.com/news/american-airlines-targets-april-30-return-to-venezuela-510ac84c?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Apr 2026 19:05:23 -0000</pubDate>
 <description><![CDATA[American Airlines said Thursday it will restore service to Venezuela as soon as April 30, making it the first US airline to return to the country since Washington captured leader Nicolas Maduro.]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Police Tear-gas Protesters Demanding Salary Rises]]></title>
-<link>https://www.barrons.com/news/venezuela-police-tear-gas-protesters-demanding-salary-rises-f8e685d1?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 18:50:23 -0000</pubDate>
-<description><![CDATA[Venezuelan police fired tear gas on Thursday to disperse around 2,000 protesters who marched towards the presidential palace to demand salary and pension increases, AFP reporters saw.]]></description>
-</item>
-<item>
-<title><![CDATA[Iranians Pay Tribute To Slain Supreme Leader Weeks After Killing]]></title>
-<link>https://www.barrons.com/news/iranians-pay-tribute-to-slain-supreme-leader-weeks-after-killing-c240ed46?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 16:46:45 -0000</pubDate>
-<description><![CDATA[Thousands of Iranians rallied Thursday in a tribute to former supreme leader Ali Khamenei, killed on the first day of the war with the United States and Israel, expressing criticism of talks expected in Pakistan this week.]]></description>
 </item>
 </channel></rss>
