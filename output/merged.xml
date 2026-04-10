@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 10 Apr 2026 05:54:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 07:22:44 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
+<link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 07:22:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump Bars Firms With Pro-diversity Policies From Govt Contracts]]></title>
 <link>https://www.barrons.com/news/trump-bars-firms-with-pro-diversity-policies-from-govt-contracts-f116f5ae?refsec=topics_afp-news</link>
@@ -53,9 +59,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Bulgaria's 'Hidden Gem' Ski Station Draws In World's Digital Nomads]]></title>
-<link>https://www.barrons.com/news/bulgaria-s-hidden-gem-ski-station-draws-in-world-s-digital-nomads-8ef008ee?refsec=topics_afp-news</link>
-<pubDate>Thu, 26 Feb 2026 14:59:12 -0000</pubDate>
+<title><![CDATA[Myanmar Junta Chief Sworn In As President]]></title>
+<link>https://www.barrons.com/news/myanmar-junta-chief-sworn-in-as-president-fe72a532?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 07:22:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -107,15 +113,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Slams Right-wing Commentators Who Oppose Iran War]]></title>
-<link>https://www.barrons.com/news/trump-slams-right-wing-commentators-who-oppose-iran-war-3915bc13?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Apr 2026 02:18:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 05:09:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Ecuador To Hit Colombia With 100% Tariffs As Dispute Intensifies]]></title>
+<link>https://www.barrons.com/news/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies-6a81e437?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 07:07:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -125,10 +131,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
-<link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Apr 2026 13:35:22 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Artemis Astronauts To Shed Light On Space Health Risks]]></title>
+<link>https://www.barrons.com/news/artemis-astronauts-to-shed-light-on-space-health-risks-cbe16204?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 07:22:44 -0000</pubDate>
+<description><![CDATA[While the Artemis II astronauts have been protected from the icy vacuum of space on their journey, their bodies have nonetheless been left exposed to possibly high levels of radiation -- a danger of space travel that NASA is anxiously waiting to study.]]></description>
 </item>
 <item>
 <title><![CDATA[Coachella Kicks Off With Headliners Sabrina Carpenter, Bieber And Karol G]]></title>
@@ -141,11 +147,5 @@
 <link>https://www.barrons.com/news/in-pakistan-s-mediation-to-end-mideast-war-china-may-hold-the-key-c6314705?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 05:39:57 -0000</pubDate>
 <description><![CDATA[As Iranian and US envoys prepare to hold talks in Islamabad to end the Middle East war, official sources and experts say Beijing helped pave the way for the negotiations and will be a crucial component in securing a permanent truce.]]></description>
-</item>
-<item>
-<title><![CDATA[Myanmar Junta Chief Sworn In As President]]></title>
-<link>https://www.barrons.com/news/myanmar-junta-chief-sworn-in-as-president-fe72a532?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Apr 2026 05:24:57 -0000</pubDate>
-<description><![CDATA[Myanmar junta chief Min Aung Hlaing was sworn in as president on Friday, continuing his rule from a civilian post five years after snatching power in a military coup.]]></description>
 </item>
 </channel></rss>
