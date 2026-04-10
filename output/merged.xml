@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 10 Apr 2026 07:22:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 08:51:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Are They In Trump's Crosshairs?]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-are-they-in-trump-s-crosshairs-2765cc19?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[In Pakistan's Mediation To End Mideast War, China May Hold The Key]]></title>
+<link>https://www.barrons.com/news/in-pakistan-s-mediation-to-end-mideast-war-china-may-hold-the-key-c6314705?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 08:51:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Myanmar Junta Chief Sworn In As President]]></title>
 <link>https://www.barrons.com/news/myanmar-junta-chief-sworn-in-as-president-fe72a532?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 07:22:43 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[After Oil, Venezuela Opens Up Mining To Private Investors]]></title>
-<link>https://www.barrons.com/news/after-oil-venezuela-opens-up-mining-to-private-investors-ca41aab1?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Apr 2026 02:33:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 05:09:57 -0000</pubDate>
@@ -137,15 +137,15 @@
 <description><![CDATA[While the Artemis II astronauts have been protected from the icy vacuum of space on their journey, their bodies have nonetheless been left exposed to possibly high levels of radiation -- a danger of space travel that NASA is anxiously waiting to study.]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese, Taiwanese Will Unite, Xi Tells Taiwan Opposition Leader]]></title>
+<link>https://www.barrons.com/news/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader-f52ccc5d?refsec=topics_afp-news</link>
+<pubDate>Fri, 10 Apr 2026 08:51:59 -0000</pubDate>
+<description><![CDATA[China's President Xi Jinping met Taiwan's opposition party leader Cheng Li-wun in Beijing on Friday, telling the visiting delegation he had "full confidence" that Taiwanese and Chinese people would be united.]]></description>
+</item>
+<item>
 <title><![CDATA[Coachella Kicks Off With Headliners Sabrina Carpenter, Bieber And Karol G]]></title>
 <link>https://www.barrons.com/news/coachella-kicks-off-with-headliners-sabrina-carpenter-bieber-and-karol-g-9b33ff64?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 05:54:57 -0000</pubDate>
 <description><![CDATA[Thousands of fans have gathered in the California desert for the hotly anticipated Coachella Festival, which kicks off Friday with pop princess Sabrina Carpenter in the headliner spotlight.]]></description>
-</item>
-<item>
-<title><![CDATA[In Pakistan's Mediation To End Mideast War, China May Hold The Key]]></title>
-<link>https://www.barrons.com/news/in-pakistan-s-mediation-to-end-mideast-war-china-may-hold-the-key-c6314705?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Apr 2026 05:39:57 -0000</pubDate>
-<description><![CDATA[As Iranian and US envoys prepare to hold talks in Islamabad to end the Middle East war, official sources and experts say Beijing helped pave the way for the negotiations and will be a crucial component in securing a permanent truce.]]></description>
 </item>
 </channel></rss>
