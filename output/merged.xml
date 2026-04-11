@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 04:24:36 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 05:43:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ecuador To Hit Colombia With 100% Tariffs As Dispute Intensifies]]></title>
 <link>https://www.barrons.com/news/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies-6a81e437?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Administration Reveals Plans For Massive Washington Arch]]></title>
+<link>https://www.barrons.com/news/trump-administration-reveals-plans-for-massive-washington-arch-8cc1ddd8?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 05:43:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Carney Poised To Win Canada Majority But Affordability Pressure Looms]]></title>
 <link>https://www.barrons.com/news/carney-poised-to-win-canada-majority-but-affordability-pressure-looms-f6f4a583?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 04:24:35 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Harris Teases Comeback As Democrats Eye 2028 US Election]]></title>
-<link>https://www.barrons.com/news/harris-teases-comeback-as-democrats-eye-2028-us-election-56c5068d?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Apr 2026 21:33:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 20:01:53 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[After Artemis II, NASA Looks To SpaceX, Blue Origin For Moon Landings]]></title>
+<link>https://www.barrons.com/news/after-artemis-ii-nasa-looks-to-spacex-blue-origin-for-moon-landings-b0d6ce1f?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 05:43:57 -0000</pubDate>
+<description><![CDATA[With Artemis II successfully completing its historic lunar mission on Friday, NASA is banking on billionaires Jeff Bezos and Elon Musk for the next step: landing astronauts on the Moon.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Howl At The Moon': NASA's Bid To Boost Space Enthusiasm]]></title>
 <link>https://www.barrons.com/news/howl-at-the-moon-nasa-s-bid-to-boost-space-enthusiasm-accf376b?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 04:24:35 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/russia-and-ukraine-set-to-begin-easter-truce-55968a1e?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 04:09:35 -0000</pubDate>
 <description><![CDATA[A temporary ceasefire between Russia and Ukraine for Orthodox Easter is set to begin on Saturday afternoon, as US-led diplomatic efforts to end the war falter.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Administration Reveals Plans For Massive Washington Arch]]></title>
-<link>https://www.barrons.com/news/trump-administration-reveals-plans-for-massive-washington-arch-8cc1ddd8?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 03:54:35 -0000</pubDate>
-<description><![CDATA[US President Donald Trump's administration on Friday revealed renderings for a colossal triumphal arch proposed for construction in Washington near some of the nation's most revered monuments.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
