@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 17:28:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 17:58:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ecuador To Hit Colombia With 100% Tariffs As Dispute Intensifies]]></title>
 <link>https://www.barrons.com/news/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies-6a81e437?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Buffets, Baristas, But No Briefings: Journalists Frozen Out Of Iran Talks]]></title>
+<link>https://www.barrons.com/news/buffets-baristas-but-no-briefings-journalists-frozen-out-of-iran-talks-b00750d7?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 17:58:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UK Puts Chagos Handover Deal In 'Deep Freeze' After Trump Criticism]]></title>
 <link>https://www.barrons.com/news/uk-puts-chagos-handover-deal-in-deep-freeze-after-trump-criticism-79281e12?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 16:45:56 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Easter Truce Between Russia And Ukraine Begins]]></title>
-<link>https://www.barrons.com/news/russia-and-ukraine-set-to-begin-easter-truce-55968a1e?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 13:38:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 20:01:53 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[In Fiery Speech, Pope Leo Says 'Enough To War!']]></title>
+<link>https://www.barrons.com/news/in-fiery-speech-pope-leo-says-enough-to-war-09d89926?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 17:58:51 -0000</pubDate>
+<description><![CDATA[Pope Leo lashed out against warmongers on Saturday while calling on billions of people around the globe to embrace peace and "believe once again in love, moderation and good politics".
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Scores Arrested At Pro-Palestinian Rally In London]]></title>
 <link>https://www.barrons.com/news/scores-arrested-at-pro-palestinian-rally-in-london-2ffa7b44?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 16:45:57 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/planes-fly-from-beirut-airport-despite-israeli-bombing-cc5df505?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 16:30:57 -0000</pubDate>
 <description><![CDATA[Smoke from an Israeli strike still lingered in the air as a plane from Lebanon's national carrier took off from Beirut airport, which has stayed open despite the latest war between Israel and Hezbollah.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Buffets, Baristas, But No Briefings: Journalists Frozen Out Of Iran Talks]]></title>
-<link>https://www.barrons.com/news/buffets-baristas-but-no-briefings-journalists-frozen-out-of-iran-talks-b00750d7?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 15:29:56 -0000</pubDate>
-<description><![CDATA[They came from around the world: hundreds of journalists rushed to Islamabad's flagship convention centre -- converted into a media hub by Pakistani authorities for landmark talks between the United States and Iran to end the war in the Middle East.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
