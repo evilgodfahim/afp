@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Apr 2026 23:02:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 23:57:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ecuador To Hit Colombia With 100% Tariffs As Dispute Intensifies]]></title>
 <link>https://www.barrons.com/news/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies-6a81e437?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Planes Fly From Beirut Airport Despite Israeli Bombing]]></title>
+<link>https://www.barrons.com/news/planes-fly-from-beirut-airport-despite-israeli-bombing-cc5df505?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 23:57:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Buffets, Baristas, But No Briefings: Journalists Frozen Out Of Iran Talks]]></title>
 <link>https://www.barrons.com/news/buffets-baristas-but-no-briefings-journalists-frozen-out-of-iran-talks-b00750d7?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 17:58:51 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US, Iran Hold High-level Peace Talks In Pakistan]]></title>
+<title><![CDATA[US, Iran Talks Extend Into Second Day As Strait Showdown Deepens]]></title>
 <link>https://www.barrons.com/news/vance-in-islamabad-for-iran-talks-overshadowed-by-mutual-mistrust-2840b6c7?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 19:32:35 -0000</pubDate>
+<pubDate>Sat, 11 Apr 2026 23:42:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Vance In Islamabad For Iran Talks Overshadowed By Mutual Mistrust]]></title>
 <link>https://www.barrons.com/news/vance-in-islamabad-for-iran-talks-overshadowed-by-mutual-mistrust-22030f61?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 10:30:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[After Artemis II, NASA Looks To SpaceX, Blue Origin For Moon Landings]]></title>
-<link>https://www.barrons.com/news/after-artemis-ii-nasa-looks-to-spacex-blue-origin-for-moon-landings-b0d6ce1f?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 10:15:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Artemis Crew Urges Unity On 'Lifeboat' Earth]]></title>
+<link>https://www.barrons.com/news/artemis-crew-urges-unity-on-lifeboat-earth-d6986e19?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Apr 2026 23:57:36 -0000</pubDate>
+<description><![CDATA[Artemis II astronauts expressed awe on Saturday over their record-setting lunar flyby mission, urging unity on Earth after witnessing the planet's isolation like a "lifeboat" in space.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Fiery Speech, Pope Leo Says 'Enough To War!']]></title>
 <link>https://www.barrons.com/news/in-fiery-speech-pope-leo-says-enough-to-war-09d89926?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 17:58:51 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/scores-arrested-at-pro-palestinian-rally-in-london-2ffa7b44?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Apr 2026 19:32:36 -0000</pubDate>
 <description><![CDATA[Police in London said they had arrested more 200 pro-Palestinian protesters Saturday at a demonstration in support of the banned group Palestine Action.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Planes Fly From Beirut Airport Despite Israeli Bombing]]></title>
-<link>https://www.barrons.com/news/planes-fly-from-beirut-airport-despite-israeli-bombing-cc5df505?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 16:30:57 -0000</pubDate>
-<description><![CDATA[Smoke from an Israeli strike still lingered in the air as a plane from Lebanon's national carrier took off from Beirut airport, which has stayed open despite the latest war between Israel and Hezbollah.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
