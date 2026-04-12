@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 15:33:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 16:34:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Cape Town Mayor Elected To Lead S.Africa's Second-largest Party]]></title>
+<link>https://www.barrons.com/news/cape-town-mayor-elected-to-lead-s-africa-s-second-largest-party-9e41c137?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 16:34:23 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Orders US Navy To Block Hormuz After Iran Talks Fail]]></title>
 <link>https://www.barrons.com/news/us-iran-talks-fail-to-find-deal-but-gulf-truce-holds-for-now-89279d1d?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 15:33:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Stop Hiring Humans'? Silicon Valley Confronts AI Job Panic]]></title>
-<link>https://www.barrons.com/news/stop-hiring-humans-silicon-valley-confronts-ai-job-panic-13e9a56e?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 05:05:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:55:48 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['No Other Way': Mideast Prepares For More Fighting As Talks Fail]]></title>
+<link>https://www.barrons.com/news/no-other-way-mideast-prepares-for-more-fighting-as-talks-fail-e2275b6c?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 16:34:23 -0000</pubDate>
+<description><![CDATA[A sense of dread spread across the Middle East after talks between the US and Iran collapsed, as fears of renewed fighting rattled an already tense region with Donald Trump ordering a naval blockade of the Strait of Hormuz.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[At US-Iran Talks, Pakistan's Field Marshal Takes Centre Stage]]></title>
 <link>https://www.barrons.com/news/at-us-iran-talks-pakistan-s-field-marshal-takes-centre-stage-5d7db1dc?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 15:33:08 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-orders-us-naval-blockade-of-strait-of-hormuz-c6d90ac6?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 15:18:08 -0000</pubDate>
 <description><![CDATA[President Donald Trump on Sunday ordered a US naval blockade of the Strait of Hormuz in the wake of failed peace talks with Iran -- a significant escalation that would test an already fragile ceasefire.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cape Town Mayor Elected To Lead S.Africa's Second-largest Party]]></title>
-<link>https://www.barrons.com/news/cape-town-mayor-elected-to-lead-s-africa-s-second-largest-party-9e41c137?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 13:58:11 -0000</pubDate>
-<description><![CDATA[South Africa's second-largest party, the Democratic Alliance, elected Cape Town's mayor Sunday to lead it into the 2029 national polls, stepping up its drive to take votes away from the faltering ANC.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
