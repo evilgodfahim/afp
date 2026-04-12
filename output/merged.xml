@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 10:05:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 11:05:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Imagine Dragons Frontman Chases Childhood Video Game Dream]]></title>
+<link>https://www.barrons.com/news/imagine-dragons-frontman-chases-childhood-video-game-dream-022c344f?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 11:05:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hungarians Vote In Closely Watched Election With Orban's Rule On Line]]></title>
 <link>https://www.barrons.com/news/hungarians-vote-in-closely-watched-election-with-orban-s-rule-on-line-8c45bc9f?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 09:10:48 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[In Fiery Speech, Pope Leo Says 'Enough To War!']]></title>
-<link>https://www.barrons.com/news/in-fiery-speech-pope-leo-says-enough-to-war-09d89926?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 02:06:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:55:48 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-Iran Talks Fail To Find Deal But Gulf Truce Holds For Now]]></title>
+<link>https://www.barrons.com/news/us-iran-talks-fail-to-find-deal-but-gulf-truce-holds-for-now-89279d1d?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 11:05:01 -0000</pubDate>
+<description><![CDATA[Iran and the United States failed to strike a deal Sunday to end the war in the Middle East, but there was no immediate return to hostilities and the region clung to hope that a fragile truce would hold.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-02f64ca6?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:01:17 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/finance-minister-favourite-as-benin-votes-for-president-a73fbceb?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 09:10:49 -0000</pubDate>
 <description><![CDATA[Benin was voting for a new president on Sunday, with Finance Minister Romuald Wadagni a shoo-in after overseeing a decade of economic growth in the west African country despite jihadist attacks in the north.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Imagine Dragons Frontman Chases Childhood Video Game Dream]]></title>
-<link>https://www.barrons.com/news/imagine-dragons-frontman-chases-childhood-video-game-dream-022c344f?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 05:20:15 -0000</pubDate>
-<description><![CDATA[A childhood dream of making video games is becoming a reality this week for Imagine Dragons' singer Dan Reynolds, as his company's debut title "Last Flag" is released Tuesday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
