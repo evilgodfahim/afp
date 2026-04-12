@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 23:04:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 23:58:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Galactic 'Super Mario' Rules N. America Box Office For Second Week]]></title>
+<link>https://www.barrons.com/news/galactic-super-mario-rules-n-america-box-office-for-second-week-c3e3cc13?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 23:58:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon PM Says Working To Get Israeli Troop Withdrawal]]></title>
 <link>https://www.barrons.com/news/lebanon-pm-says-working-to-get-israeli-troop-withdrawal-8bedf55b?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 22:29:57 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-02f64ca6?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 12:54:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:55:48 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Karol G To Dance Her 'Tropicoqueta' At Coachella]]></title>
+<link>https://www.barrons.com/news/karol-g-to-dance-her-tropicoqueta-at-coachella-61853e37?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 23:58:56 -0000</pubDate>
+<description><![CDATA[Colombian reggaeton star Karol G is set to turn up the heat in the California desert even further on Sunday with a performance capping the Coachella music festival's first weekend.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Peter Magyar: Former Govt Insider Promising System Change]]></title>
 <link>https://www.barrons.com/news/peter-magyar-former-govt-insider-promising-system-change-037e6122?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 22:29:58 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/after-unsuccessful-us-iran-talks-what-next-for-trump-b50b0c15?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 18:41:16 -0000</pubDate>
 <description><![CDATA[The failure of US-Iran peace talks has left President Donald Trump with several unpalatable options, as analysts say his order to blockade the strategic Strait of Hormuz could further complicate his next move.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Galactic 'Super Mario' Rules N. America Box Office For Second Week]]></title>
-<link>https://www.barrons.com/news/galactic-super-mario-rules-n-america-box-office-for-second-week-c3e3cc13?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 18:26:16 -0000</pubDate>
-<description><![CDATA["The Super Mario Galaxy Movie" -- based on Nintendo's popular video game franchise -- reigned supreme at North America's box office, stomping competitors for a second straight week, industry estimates showed Sunday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
