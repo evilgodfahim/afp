@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Apr 2026 06:52:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 08:01:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ecuador To Hit Colombia With 100% Tariffs As Dispute Intensifies]]></title>
 <link>https://www.barrons.com/news/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies-6a81e437?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Ballroom Renovation Allowed To Proceed, For Now]]></title>
+<link>https://www.barrons.com/news/trump-ballroom-renovation-allowed-to-proceed-for-now-cc943f74?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 08:01:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Crime-weary Peru Votes For Ninth President In A Decade]]></title>
 <link>https://www.barrons.com/news/crime-weary-peru-votes-for-ninth-president-in-a-decade-4fb565bc?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 05:20:14 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Planes Fly From Beirut Airport Despite Israeli Bombing]]></title>
-<link>https://www.barrons.com/news/planes-fly-from-beirut-airport-despite-israeli-bombing-cc5df505?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Apr 2026 23:57:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Apr 2026 20:01:53 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-02f64ca6?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Apr 2026 08:01:17 -0000</pubDate>
+<description><![CDATA[The latest developments in the Middle East war:
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Imagine Dragons Frontman Chases Childhood Video Game Dream]]></title>
 <link>https://www.barrons.com/news/imagine-dragons-frontman-chases-childhood-video-game-dream-022c344f?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 05:20:15 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/hungarians-vote-in-closely-watched-election-with-orban-s-rule-on-line-8c45bc9f?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 06:52:26 -0000</pubDate>
 <description><![CDATA[Hungarians began voting on Sunday in closely watched parliamentary elections that could end nationalist Prime Minister Viktor Orban's 16-year stint in power as a self-described "thorn" in the EU's side.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Ballroom Renovation Allowed To Proceed, For Now]]></title>
-<link>https://www.barrons.com/news/trump-ballroom-renovation-allowed-to-proceed-for-now-cc943f74?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Apr 2026 04:50:15 -0000</pubDate>
-<description><![CDATA[A federal appeals court has ruled US President Donald Trump's $400 million White House ballroom renovation can proceed, albeit temporarily, and called for a district judge to clarify national security-related questions.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
