@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 13 Apr 2026 11:49:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 13:19:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine Loan, Frozen Funds: How Could Orban's Ouster Unblock EU?]]></title>
+<link>https://www.barrons.com/news/ukraine-loan-frozen-funds-how-could-orban-s-ouster-unblock-eu-6edf17e9?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 13:19:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Says To Begin Blockade Of Iranian Ports]]></title>
 <link>https://www.barrons.com/news/us-says-to-begin-blockade-of-iranian-ports-31ab79b6?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 11:49:12 -0000</pubDate>
@@ -101,15 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lost Film Of French Cinema Pioneer Retrieved From US Attic]]></title>
-<link>https://www.barrons.com/news/lost-film-of-french-cinema-pioneer-retrieved-from-us-attic-dfe3f687?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 05:56:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says 'Not A Big Fan' Of Pope Leo After His Anti-war Message]]></title>
-<link>https://www.barrons.com/news/trump-says-not-a-big-fan-of-pope-leo-after-his-anti-war-message-d561b12a?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 05:41:14 -0000</pubDate>
+<title><![CDATA[French Court Jails Lafarge Ex-CEO For Funding IS In Syria]]></title>
+<link>https://www.barrons.com/news/french-court-jails-lafarge-ex-ceo-for-funding-is-in-syria-95cfa208?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 13:04:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Releases Assets Of Football Captain In Australia Asylum Row]]></title>
+<link>https://www.barrons.com/news/iran-releases-assets-of-football-captain-in-australia-asylum-row-ab8ff9d2?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 13:19:06 -0000</pubDate>
+<description><![CDATA[Iran's judiciary said Monday authorities had released the assets of the captain of Iranian women's football team which had been seized after she made and then withdrew an asylum claim in Australia last month.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Help Me!': Family's Anguish Over Equatorial Guinean Lured Into Ukraine War]]></title>
 <link>https://www.barrons.com/news/help-me-family-s-anguish-over-equatorial-guinean-lured-into-ukraine-war-f0e4e125?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 11:49:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-b0be0f71?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 11:34:12 -0000</pubDate>
 <description><![CDATA[The latest developments in the Middle East war:
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine Loan, Frozen Funds: How Could Orban's Ouster Unblock EU?]]></title>
-<link>https://www.barrons.com/news/ukraine-loan-frozen-funds-how-could-orban-s-ouster-unblock-eu-6edf17e9?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 11:19:12 -0000</pubDate>
-<description><![CDATA[After years of holdups and bitter horse trading, EU leaders breathed a resounding sigh of relief at Viktor Orban's crushing defeat in Hungary's elections.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
