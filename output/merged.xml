@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 13 Apr 2026 08:27:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 10:14:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Singer Luisa Sonza Shares 'Unique Experience' Of Coachella Debut]]></title>
+<link>https://www.barrons.com/news/singer-luisa-sonza-shares-unique-experience-of-coachella-debut-1c3229c5?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 10:14:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Executed At Least 1,639 People In 2025, Most Since 1989: NGOs]]></title>
 <link>https://www.barrons.com/news/iran-executed-at-least-1-639-people-in-2025-most-since-1989-ngos-1437557d?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 08:27:21 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Spain's Sanchez Calls China Trade Imbalance With EU 'Unsustainable']]></title>
-<link>https://www.barrons.com/news/spain-s-sanchez-seeks-closer-china-ties-amid-strains-with-us-348aa8cb?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 02:50:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:55:48 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Says To Begin Blockade Of Iranian Ports]]></title>
+<link>https://www.barrons.com/news/us-says-to-begin-blockade-of-iranian-ports-31ab79b6?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 10:14:25 -0000</pubDate>
+<description><![CDATA[The US military said it would begin a blockade of all Iranian ports Monday, after talks between the warring sides in Pakistan collapsed, and despite the Iranian military warning that it would treat any such action as an act of piracy.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Germany To Cut Fuel Taxes Amid Iran War Energy Shock]]></title>
 <link>https://www.barrons.com/news/germany-to-cut-fuel-taxes-amid-iran-war-energy-shock-63fcc76e?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 08:27:22 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-says-not-a-big-fan-of-pope-leo-after-his-anti-war-message-bce47dfa?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 08:12:22 -0000</pubDate>
 <description><![CDATA[US President Donald Trump told reporters Sunday that he is "not a big fan" of Pope Leo XIV, after the global leader of Catholics made a plea for peace amid the war in the Middle East.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Singer Luisa Sonza Shares 'Unique Experience' Of Coachella Debut]]></title>
-<link>https://www.barrons.com/news/singer-luisa-sonza-shares-unique-experience-of-coachella-debut-1c3229c5?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 06:11:14 -0000</pubDate>
-<description><![CDATA[Brazilian singer Luisa Sonza brought her newly released album "Brutal Paraiso" to Coachella this weekend in a performance she described as "a unique experience."
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
