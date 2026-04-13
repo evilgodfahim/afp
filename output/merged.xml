@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 13 Apr 2026 19:09:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 20:30:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia Deputy FM Hails 'Special' Relations On Cuba Visit]]></title>
 <link>https://www.barrons.com/news/russia-deputy-fm-hails-special-relations-on-cuba-visit-08de7dab?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Deletes Jesus Post Of Himself After Outcry]]></title>
+<link>https://www.barrons.com/news/trump-deletes-jesus-post-of-himself-after-outcry-db3d7052?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 20:30:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Opposition Candidate Concedes Defeat In Benin Presidential Election]]></title>
 <link>https://www.barrons.com/news/opposition-candidate-concedes-defeat-in-benin-presidential-election-b24bdcd7?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 19:09:44 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lufthansa Pilots Strike As Cabin Crew Call Further Stoppage]]></title>
-<link>https://www.barrons.com/news/lufthansa-pilots-strike-as-cabin-crew-call-further-stoppage-96935fbd?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 18:24:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Apr 2026 08:55:48 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Allows LGBTQ Pride Flag To Fly Again At Stonewall]]></title>
+<link>https://www.barrons.com/news/trump-allows-lgbtq-pride-flag-to-fly-again-at-stonewall-f5e3daa0?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Apr 2026 20:30:27 -0000</pubDate>
+<description><![CDATA[The Trump administration has given the green light for the LGBTQ rainbow flag to once again fly above New York's Stonewall, a US national monument to the struggle for gay equality, a rights group that sued for its return said Monday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[CinemaCon Starts With Box Office Optimism]]></title>
 <link>https://www.barrons.com/news/cinemacon-starts-with-box-office-optimism-7b6941a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 19:09:45 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/mcdonald-s-iran-and-the-pope-trump-s-bizarre-press-conference-7f59e73a?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Apr 2026 18:54:45 -0000</pubDate>
 <description><![CDATA[If the McDonald's delivery to the Oval Office on Monday wasn't extraordinary enough, President Donald Trump's press conference on Iran, the pope and Jesus certainly was.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Deletes Jesus Post Of Himself After Outcry]]></title>
-<link>https://www.barrons.com/news/trump-deletes-jesus-post-of-himself-after-outcry-db3d7052?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Apr 2026 18:39:45 -0000</pubDate>
-<description><![CDATA[US President Donald Trump on Monday deleted a social media image apparently depicting him as Jesus after an outcry from religious leaders that he was being blasphemous.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
