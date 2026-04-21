@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Apr 2026 12:12:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 14:14:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[German Investor Morale Lowest In Over 3 Years On Iran War Fallout]]></title>
+<link>https://www.barrons.com/news/german-investor-morale-lowest-in-over-3-years-on-iran-war-fallout-0628c661?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Apr 2026 14:14:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[FedEx Faces French 'Genocide' Complaint Over Israel Cargoes]]></title>
 <link>https://www.barrons.com/news/fedex-faces-french-genocide-complaint-over-israel-cargoes-f7345ef4?refsec=topics_afp-news</link>
 <pubDate>Tue, 21 Apr 2026 12:12:22 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Associated British Foods To Spin Off Primark Clothes Brand]]></title>
-<link>https://www.barrons.com/news/associated-british-foods-to-spin-off-primark-clothes-brand-54af41f6?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Apr 2026 09:27:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Apr 2026 18:53:42 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Djibouti President Re-election Confirmed With 97% Of Vote]]></title>
+<link>https://www.barrons.com/news/djibouti-president-re-election-confirmed-with-97-of-vote-e847cf72?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Apr 2026 14:14:04 -0000</pubDate>
+<description><![CDATA[Djibouti's President Ismail Omar Guelleh was officially confirmed as winner of a sixth straight election with a final tally of 97.01 percent of the vote, the Constitutional Council said Tuesday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In South Lebanon's Nabatieh, Residents Fear A Return To War]]></title>
 <link>https://www.barrons.com/news/in-south-lebanon-s-nabatieh-residents-fear-a-return-to-war-a3185684?refsec=topics_afp-news</link>
 <pubDate>Tue, 21 Apr 2026 12:12:22 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/bangladesh-fuel-crunch-forces-hours-long-wait-at-the-pump-ac880f68?refsec=topics_afp-news</link>
 <pubDate>Tue, 21 Apr 2026 11:57:22 -0000</pubDate>
 <description><![CDATA[Day and night, drivers queue for hours for the chance to refill fuel tanks, as import-dependent Bangladesh grapples with shortages due to the Middle East war.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[German Investor Morale Lowest In Over 3 Years On Iran War Fallout]]></title>
-<link>https://www.barrons.com/news/german-investor-morale-lowest-in-over-3-years-on-iran-war-fallout-0628c661?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Apr 2026 11:10:59 -0000</pubDate>
-<description><![CDATA[German investor morale slid to its lowest level in over three years in April, a survey showed Tuesday, as the Middle East war threatens to snuff out a tentative recovery in Europe's top economy.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
