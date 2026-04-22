@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Apr 2026 10:46:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 11:57:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-based Buddhist Monks Bring Peace Walk To Sri Lanka]]></title>
+<link>https://www.barrons.com/news/us-based-buddhist-monks-bring-peace-walk-to-sri-lanka-8211cc67?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Apr 2026 11:57:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[NASA Unveils New Space Telescope To Give 'Atlas Of The Universe']]></title>
 <link>https://www.barrons.com/news/nasa-unveils-new-space-telescope-to-give-atlas-of-the-universe-9dbfb01d?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 10:46:26 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Falls, Stocks Mixed As Traders Weigh Outlook After Trump Extends Truce]]></title>
-<link>https://www.barrons.com/news/oil-stocks-fall-as-traders-weigh-outlook-after-trump-extends-truce-93060c77?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Apr 2026 07:40:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Apr 2026 18:53:42 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Murals Project Defiance In War With US]]></title>
+<link>https://www.barrons.com/news/iran-murals-project-defiance-in-war-with-us-b985fa19?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Apr 2026 11:57:49 -0000</pubDate>
+<description><![CDATA[Since the outbreak of war between Iran, Israel and the United States, colourful murals have sprung up across capital Tehran and other major cities, rich in symbolism and themes of resistance and defiance.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Germany Set To Slash Growth Forecast Due To Mideast War]]></title>
 <link>https://www.barrons.com/news/germany-set-to-slash-growth-forecast-due-to-mideast-war-1a26c247?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 10:46:27 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/pakistan-s-capital-holds-its-breath-with-us-iran-talks-in-limbo-db935e16?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 10:31:27 -0000</pubDate>
 <description><![CDATA[Pakistan's capital was still locked in gear on Wednesday to host high-stakes US-Iran talks that were pushed back at the last minute overnight, but many residents began to tire of the heavy personal and economic toll of tight security restrictions.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-based Buddhist Monks Bring Peace Walk To Sri Lanka]]></title>
-<link>https://www.barrons.com/news/us-based-buddhist-monks-bring-peace-walk-to-sri-lanka-8211cc67?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Apr 2026 09:17:47 -0000</pubDate>
-<description><![CDATA[Saffron-robed Buddhist monks began a week-long peace walk across Sri Lanka on Wednesday, accompanied by a rescued stray dog that has become a celebrity in its own right.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
