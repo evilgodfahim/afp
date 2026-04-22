@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Apr 2026 05:58:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 07:55:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Budget Deficit Remains Steady In First Quarter Of 2026]]></title>
 <link>https://www.barrons.com/news/us-budget-deficit-remains-steady-in-first-quarter-of-2026-6e1830b2?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Young Chinese Use AI To Launch One-person Firms Over Job Anxiety]]></title>
+<link>https://www.barrons.com/news/young-chinese-use-ai-to-launch-one-person-firms-over-job-anxiety-bd7d573f?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Apr 2026 07:55:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Delicate Extraction: Malaysia Offers Rare Earths Alternative To China]]></title>
 <link>https://www.barrons.com/news/delicate-extraction-malaysia-offers-rare-earths-alternative-to-china-942e2c7c?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 05:57:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil, Stocks Fall As Traders Weigh Outlook After Trump Extends Truce]]></title>
+<title><![CDATA[Oil Falls, Stocks Mixed As Traders Weigh Outlook After Trump Extends Truce]]></title>
 <link>https://www.barrons.com/news/oil-stocks-fall-as-traders-weigh-outlook-after-trump-extends-truce-93060c77?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Apr 2026 05:42:59 -0000</pubDate>
+<pubDate>Wed, 22 Apr 2026 07:40:39 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[John Ternus To Lead Apple In The Age Of AI]]></title>
-<link>https://www.barrons.com/news/john-ternus-to-lead-apple-in-the-age-of-ai-483ed3cf?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Apr 2026 02:04:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Apr 2026 18:53:42 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Anthropic Probes Unauthorized Access To Mythos AI Model]]></title>
+<link>https://www.barrons.com/news/anthropic-probes-unauthorized-access-to-mythos-ai-model-a3a8ea48?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Apr 2026 07:55:40 -0000</pubDate>
+<description><![CDATA[American AI developer Anthropic said Tuesday it was investigating unauthorized access to Mythos, its powerful model which the company itself worries could be a boon for hackers.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Chinese Carmakers Aim To Build Up Presence In Europe]]></title>
 <link>https://www.barrons.com/news/chinese-carmakers-aim-to-build-up-presence-in-europe-c9369701?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 05:58:00 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/fiji-villagers-reject-plan-for-pacific-ashtray-in-beach-paradise-0d25207a?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 05:43:00 -0000</pubDate>
 <description><![CDATA[An Australian billionaire's plan to burn rubbish for energy in Fiji amounts to "waste colonialism" and risks spoiling a "beach paradise", villagers and the Pacific nation's UN ambassador said.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Young Chinese Use AI To Launch One-person Firms Over Job Anxiety]]></title>
-<link>https://www.barrons.com/news/young-chinese-use-ai-to-launch-one-person-firms-over-job-anxiety-bd7d573f?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Apr 2026 03:34:32 -0000</pubDate>
-<description><![CDATA[Young Chinese, many who fear age discrimination in their workplace after turning 35, are increasingly starting "one-person companies" that have artificial intelligence do most of the work.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
