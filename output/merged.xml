@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 11:35:36 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 12:57:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8a90d290?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 12:57:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[From Radiation To Invasion: A Chernobyl Worker's Two Wars]]></title>
 <link>https://www.barrons.com/news/from-radiation-to-invasion-a-chernobyl-worker-s-two-wars-16a1ed04?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 10:39:52 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[The 'Housewives' Did Well -- Ukraine Takes Drone Know-how Abroad]]></title>
-<link>https://www.barrons.com/news/the-housewives-did-well-ukraine-takes-drone-know-how-abroad-c06c3d8b?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 02:53:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunfire In Mali As Army Battles 'Terrorist Groups']]></title>
+<title><![CDATA[Mali Junta Battles 'Terrorist Groups' Amid Intense Fighting]]></title>
 <link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 10:39:53 -0000</pubDate>
-<description><![CDATA[The army in junta-ruled Mali on Saturday  battled "terrorist groups" it said had launched attacks across the west African nation stricken by more than a decade of jihadist conflict.
+<pubDate>Sat, 25 Apr 2026 12:57:09 -0000</pubDate>
+<description><![CDATA[The army in junta-ruled Mali on Saturday battled what it called "terrorist groups" that launched surprise attacks around the capital Bamako and other parts of the west African nation.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Russian Strikes Kill Six Across Ukraine]]></title>
+<link>https://www.barrons.com/news/russian-strikes-kill-six-across-ukraine-81b317b6?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 12:42:09 -0000</pubDate>
+<description><![CDATA[Russian strikes across Ukraine killed at least six people, officials said Saturday, most of them in an attack on a residential building in the eastern city of Dnipro.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/gunfire-rocks-mali-districts-including-junta-stronghold-witnesses-e3d7a415?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 09:30:45 -0000</pubDate>
 <description><![CDATA[Gunfire rocked several districts of the junta-ruled west African country of Mali on Saturday, including Kati, the home of military ruler General Assimi Goita, witnesses and a security source told AFP.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8a90d290?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 07:09:20 -0000</pubDate>
-<description><![CDATA[The latest developments in the Middle East war:
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
