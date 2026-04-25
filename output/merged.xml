@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 08:29:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 09:30:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[AI Firms Flex Lobbying Muscle On Both Side Of Atlantic]]></title>
+<link>https://www.barrons.com/news/ai-firms-flex-lobbying-muscle-on-both-side-of-atlantic-aedd8467?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 09:30:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Crunch Nuclear Proliferation Meeting At UN Amid Raging Global Wars]]></title>
 <link>https://www.barrons.com/news/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars-ff666e93?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 07:09:20 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Spokeswoman Announces Maternity Leave]]></title>
-<link>https://www.barrons.com/news/trump-spokeswoman-announces-maternity-leave-be8cdb1c?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Apr 2026 21:11:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gunfire Rocks Mali Districts, Including Junta Stronghold: Witnesses]]></title>
+<link>https://www.barrons.com/news/gunfire-rocks-mali-districts-including-junta-stronghold-witnesses-e3d7a415?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 09:30:45 -0000</pubDate>
+<description><![CDATA[Gunfire rocked several districts of the junta-ruled west African country of Mali on Saturday, including Kati, the home of military ruler General Assimi Goita, witnesses and a security source told AFP.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8a90d290?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 07:09:20 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/from-radiation-to-invasion-a-chernobyl-worker-s-two-wars-16a1ed04?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 05:46:04 -0000</pubDate>
 <description><![CDATA[Nikolay Solovyov was on shift the night of April 26, 1986 when the Chernobyl nuclear power plant exploded. Instead of fleeing, he chose to fight his "first war" against radiation.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[AI Firms Flex Lobbying Muscle On Both Side Of Atlantic]]></title>
-<link>https://www.barrons.com/news/ai-firms-flex-lobbying-muscle-on-both-side-of-atlantic-aedd8467?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 05:31:04 -0000</pubDate>
-<description><![CDATA[AI developers are ramping up efforts to win over the hearts and minds of officials in Europe and the United States, hoping to sway governments as they weigh high-stake regulatory frameworks for the ever more powerful technology.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
