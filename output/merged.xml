@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 22:32:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 23:34:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Germany Blames Russia For Signal Phishing Attacks On MPs]]></title>
+<link>https://www.barrons.com/news/germany-blames-russia-for-signal-phishing-attacks-on-mps-062a6f06?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 23:34:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Jihadists, Tuareg Rebels, Claim Attacks Across Mali]]></title>
 <link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 22:32:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Awkward Debut For Trump At Correspondents' Dinner]]></title>
-<link>https://www.barrons.com/news/awkward-debut-for-trump-at-correspondents-dinner-3a12d3eb?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 05:31:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Highway Bomb Attack Kills 10 Ahead Of Colombia Election]]></title>
+<link>https://www.barrons.com/news/highway-bomb-attack-kills-10-ahead-of-colombia-election-61388336?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 23:34:08 -0000</pubDate>
+<description><![CDATA[A highway bomb attack in a restive region of southwestern Colombia killed 10 people and injured at least a dozen on Saturday, the latest spate of violence ahead of next month's presidential election.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What Is Signal And Is It Secure?]]></title>
 <link>https://www.barrons.com/news/what-is-signal-and-is-it-secure-b525dfae?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 22:32:58 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-orders-new-blue-surface-for-washington-s-reflecting-pool-26fdbb11?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 20:51:39 -0000</pubDate>
 <description><![CDATA[Workers on Saturday were resurfacing the bottom of Washington's famous Lincoln Memorial Reflecting Pool with "American flag blue"-colored material used in swimming pools, following an order by US President Donald Trump.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Germany Blames Russia For Signal Phishing Attacks On MPs]]></title>
-<link>https://www.barrons.com/news/germany-blames-russia-for-signal-phishing-attacks-on-mps-062a6f06?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 17:07:35 -0000</pubDate>
-<description><![CDATA[Top officials in the German government on Saturday blamed Russia for repeated phishing attacks targeting lawmakers and senior administration officials using the Signal messaging app.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
