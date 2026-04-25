@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 21:33:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 22:32:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Jihadists, Tuareg Rebels, Claim Attacks Across Mali]]></title>
+<link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 22:32:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russia Pounds Ukraine's Dnipro For 20 Hours Straight, Killing Eight]]></title>
 <link>https://www.barrons.com/news/russian-strikes-kill-six-across-ukraine-81b317b6?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 20:51:38 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Under Blackout Threat, Wikimedia Reaches Compromise With Indonesia]]></title>
-<link>https://www.barrons.com/news/under-blackout-threat-wikimedia-reaches-compromise-with-indonesia-e3f9f6e1?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 03:38:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[What Is Signal And Is It Secure?]]></title>
+<link>https://www.barrons.com/news/what-is-signal-and-is-it-secure-b525dfae?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 22:32:58 -0000</pubDate>
+<description><![CDATA[Signal, an end-to-end encrypted messaging app long considered one of the most secure in the world, has recently faced attacks from hackers accused of links to Russia.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Orders New, Blue Surface For Washington's Reflecting Pool]]></title>
 <link>https://www.barrons.com/news/trump-orders-new-blue-surface-for-washington-s-reflecting-pool-26fdbb11?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 20:51:39 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/germany-blames-russia-for-signal-phishing-attacks-on-mps-062a6f06?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 17:07:35 -0000</pubDate>
 <description><![CDATA[Top officials in the German government on Saturday blamed Russia for repeated phishing attacks targeting lawmakers and senior administration officials using the Signal messaging app.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Jihadists, Tuareg Rebels, Claim Attacks Across Mali]]></title>
-<link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 20:36:39 -0000</pubDate>
-<description><![CDATA[An Al-Qaeda-linked jihadist group said Saturday that its fighters had joined forces with Tuareg rebels to launch attacks against the army across junta-ruled Mali.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
