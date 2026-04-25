@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 16:02:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 17:07:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gunfire Rocks Mali Districts, Including Junta Stronghold: Witnesses]]></title>
+<link>https://www.barrons.com/news/gunfire-rocks-mali-districts-including-junta-stronghold-witnesses-e3d7a415?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 17:07:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8a90d290?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 12:57:09 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI CEO Apologizes To Canada Town For Not Reporting Mass Shooter]]></title>
-<link>https://www.barrons.com/news/openai-ceo-apologizes-to-canada-town-for-not-reporting-mass-shooter-4e8f0ef6?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 03:08:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Germany Blames Russia For Signal Phishing Attacks On MPs]]></title>
+<link>https://www.barrons.com/news/germany-blames-russia-for-signal-phishing-attacks-on-mps-062a6f06?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 17:07:35 -0000</pubDate>
+<description><![CDATA[Top officials in the German government on Saturday blamed Russia for repeated phishing attacks targeting lawmakers and senior administration officials using the Signal messaging app.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mali Junta Battles 'Terrorist Groups' Amid Intense Fighting]]></title>
 <link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 12:57:09 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian Strikes Kill Six Across Ukraine]]></title>
+<title><![CDATA[Russia Pounds Ukraine's Dnipro For 20 Hours Straight, Killing Six]]></title>
 <link>https://www.barrons.com/news/russian-strikes-kill-six-across-ukraine-81b317b6?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 12:42:09 -0000</pubDate>
-<description><![CDATA[Russian strikes across Ukraine killed at least six people, officials said Saturday, most of them in an attack on a residential building in the eastern city of Dnipro.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Gunfire Rocks Mali Districts, Including Junta Stronghold: Witnesses]]></title>
-<link>https://www.barrons.com/news/gunfire-rocks-mali-districts-including-junta-stronghold-witnesses-e3d7a415?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 09:30:45 -0000</pubDate>
-<description><![CDATA[Gunfire rocked several districts of the junta-ruled west African country of Mali on Saturday, including Kati, the home of military ruler General Assimi Goita, witnesses and a security source told AFP.
+<pubDate>Sat, 25 Apr 2026 16:52:35 -0000</pubDate>
+<description><![CDATA[Relentless Russian barrages of drones and missiles pounded on Ukraine's central-eastern city of Dnipro for 20 hours straight, killing six people and wounding dozens, local authorities said on Saturday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
