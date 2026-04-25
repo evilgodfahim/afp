@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Apr 2026 05:46:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 07:09:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Crunch Nuclear Proliferation Meeting At UN Amid Raging Global Wars]]></title>
+<link>https://www.barrons.com/news/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars-ff666e93?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 07:09:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Billionaire Elon Musk Enters Courtroom Showdown With OpenAI]]></title>
 <link>https://www.barrons.com/news/billionaire-elon-musk-enters-courtroom-showdown-with-openai-f8eee88b?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 05:46:03 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Anthropic Says Google To Pump $40 Bn Into AI Startup]]></title>
-<link>https://www.barrons.com/news/anthropic-says-google-to-pump-40-bn-into-ai-startup-409684bd?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Apr 2026 20:56:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-8a90d290?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Apr 2026 07:09:20 -0000</pubDate>
+<description><![CDATA[The latest developments in the Middle East war:
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[From Radiation To Invasion: A Chernobyl Worker's Two Wars]]></title>
 <link>https://www.barrons.com/news/from-radiation-to-invasion-a-chernobyl-worker-s-two-wars-16a1ed04?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 05:46:04 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/ai-firms-flex-lobbying-muscle-on-both-side-of-atlantic-aedd8467?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Apr 2026 05:31:04 -0000</pubDate>
 <description><![CDATA[AI developers are ramping up efforts to win over the hearts and minds of officials in Europe and the United States, hoping to sway governments as they weigh high-stake regulatory frameworks for the ever more powerful technology.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Crunch Nuclear Proliferation Meeting At UN Amid Raging Global Wars]]></title>
-<link>https://www.barrons.com/news/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars-ff666e93?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 03:38:14 -0000</pubDate>
-<description><![CDATA[Signatories of the landmark nuclear non-proliferation treaty will meet at the UN from Monday as hopes fade they can reach agreement and tensions soar between the atomic powers.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
