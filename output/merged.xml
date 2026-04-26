@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 07:09:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 08:42:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India Plugs Oil Gap As Middle East Supplies Sink]]></title>
+<link>https://www.barrons.com/news/india-plugs-oil-gap-as-middle-east-supplies-sink-fe8fba87?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 08:42:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Fed Set To Hold Rates Steady Again On Cost Hikes From Mideast War]]></title>
 <link>https://www.barrons.com/news/us-fed-set-to-hold-rates-steady-again-on-cost-hikes-from-mideast-war-279379f6?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 07:09:09 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Germany Blames Russia For Signal Phishing Attacks On MPs]]></title>
-<link>https://www.barrons.com/news/germany-blames-russia-for-signal-phishing-attacks-on-mps-062a6f06?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 23:34:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[World Leaders React To Washington Gala Shooting]]></title>
+<link>https://www.barrons.com/news/world-leaders-react-to-washington-gala-shooting-0e37892a?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 08:42:01 -0000</pubDate>
+<description><![CDATA[World leaders expressed shock after a shooter charged a glitzy media gala in Washington on Saturday night attended by US President Donald Trump -- and relief that there were no casualties.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['I've Studied Assassinations': Trump Muses On Reasons For Latest Shooting]]></title>
 <link>https://www.barrons.com/news/i-ve-studied-assassinations-trump-muses-on-reasons-for-latest-shooting-d125c0de?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 07:09:09 -0000</pubDate>
@@ -140,15 +147,8 @@ Delivered by PolitePaul service]]></description>
 <item>
 <title><![CDATA[What We Know About The Trump Press Gala Shooting]]></title>
 <link>https://www.barrons.com/news/what-we-know-about-the-trump-press-gala-shooting-780d9c8d?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 05:24:12 -0000</pubDate>
-<description><![CDATA[US President Donald Trump and other attendees were evacuated Saturday night after gunshots were fired at a glitzy media gala in Washington.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[India Plugs Oil Gap As Middle East Supplies Sink]]></title>
-<link>https://www.barrons.com/news/india-plugs-oil-gap-as-middle-east-supplies-sink-fe8fba87?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 05:09:12 -0000</pubDate>
-<description><![CDATA[India has ramped up purchases of Russian oil and revived alternate supplies from Africa, Iran and Venezuela to blunt a sharp crude shortfall from the crisis-ridden Middle East, analysts say.
+<pubDate>Sun, 26 Apr 2026 08:27:01 -0000</pubDate>
+<description><![CDATA[US President Donald Trump and other attendees at a glitzy media gala in Washington made a hasty exit Saturday night after gunshots were fired.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
