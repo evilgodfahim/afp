@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 22:01:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 23:04:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Attacks In Mali: What We Know]]></title>
+<link>https://www.barrons.com/news/attacks-in-mali-what-we-know-283873e9?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 23:04:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Colombia Road Bombing Death Toll Rises To 20]]></title>
 <link>https://www.barrons.com/news/colombia-road-bombing-death-toll-rises-to-19-a89aacf5?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 21:02:59 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Syrian Court Begins Proceedings Against Assad And Allies]]></title>
+<link>https://www.barrons.com/news/syrian-court-begins-proceedings-against-assad-and-allies-7451100a?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 22:49:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Engineer And Game Developer: The US Press Gala Shooting Suspect]]></title>
 <link>https://www.barrons.com/news/engineer-and-game-developer-the-us-press-gala-shooting-suspect-325b83e8?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 14:06:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[World Leaders React To Washington Gala Shooting]]></title>
-<link>https://www.barrons.com/news/world-leaders-react-to-washington-gala-shooting-af5afcd9?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 12:58:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mali Junta In Crisis After Minister Killed, Key City 'Captured']]></title>
-<link>https://www.barrons.com/news/new-fighting-in-mali-s-kidal-between-army-and-rebels-abf2abd4?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 18:56:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Global Military Spending Surges On Insecurity: Report]]></title>
+<link>https://www.barrons.com/news/global-military-spending-surges-on-insecurity-report-12ffe439?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 23:04:49 -0000</pubDate>
+<description><![CDATA[Global military spending reached nearly $2.9 trillion in 2025, marking an 11th consecutive year of growth, researchers said Monday, as insecurity and rearmament fuelled defence budgets.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Michael Jackson Biopic Debuts Atop N. America Box Office]]></title>
 <link>https://www.barrons.com/news/michael-jackson-biopic-debuts-atop-n-america-box-office-6fbfc6fe?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 19:26:28 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/key-us-senator-lifts-block-on-fed-chair-nominee-9fafb28c?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 17:08:24 -0000</pubDate>
 <description><![CDATA[Republican US Senator Thom Tillis said Sunday that he would support Kevin Warsh's nomination as Federal Reserve chairman after the investigation into the current Fed chief was dropped.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Attacks In Mali: What We Know]]></title>
-<link>https://www.barrons.com/news/attacks-in-mali-what-we-know-283873e9?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 16:53:24 -0000</pubDate>
-<description><![CDATA[Mali has been plunged into an unprecedented security crisis after an alliance of Tuareg rebels and a jihadist group carried out synchronised attacks against the West African country's military leadership.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
