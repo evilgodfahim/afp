@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 18:04:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 19:26:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Colombia Road Bombing Death Toll Rises To 19]]></title>
+<link>https://www.barrons.com/news/colombia-road-bombing-death-toll-rises-to-19-a89aacf5?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 19:26:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Two Former Israel PMs Unite To Challenge Netanyahu In Elections]]></title>
 <link>https://www.barrons.com/news/two-former-israel-pms-unite-to-challenge-netanyahu-in-elections-f33ba759?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 17:08:23 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Gunman Planned To Target Top Trump Officials: Attorney General]]></title>
+<title><![CDATA[Gunman Sought To Kill Trump, Cabinet At Gala Dinner]]></title>
 <link>https://www.barrons.com/news/gunman-planned-to-target-top-trump-officials-attorney-general-b4d575ea?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 16:38:23 -0000</pubDate>
+<pubDate>Sun, 26 Apr 2026 19:11:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,15 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mali Defence Minister Killed, Fresh Fighting Between Army And Rebels]]></title>
+<title><![CDATA[Mali Junta In Crisis After Minister Killed, Key City 'Captured']]></title>
 <link>https://www.barrons.com/news/new-fighting-in-mali-s-kidal-between-army-and-rebels-abf2abd4?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 12:43:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[World Leaders React To Washington Gala Shooting]]></title>
-<link>https://www.barrons.com/news/world-leaders-react-to-washington-gala-shooting-0e37892a?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 09:51:15 -0000</pubDate>
+<pubDate>Sun, 26 Apr 2026 18:56:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Michael Jackson Biopic Debuts Atop N. America Box Office]]></title>
+<link>https://www.barrons.com/news/michael-jackson-biopic-debuts-atop-n-america-box-office-6fbfc6fe?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 19:26:28 -0000</pubDate>
+<description><![CDATA["Michael," the much-anticipated biopic about late superstar Michael Jackson, debuted atop the North American box office this weekend with a thriller-ing $97 million, industry estimates showed Sunday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Key US Senator Lifts Block On Fed Chair Nominee]]></title>
 <link>https://www.barrons.com/news/key-us-senator-lifts-block-on-fed-chair-nominee-9fafb28c?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 17:08:24 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/attacks-in-mali-what-we-know-283873e9?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 16:53:24 -0000</pubDate>
 <description><![CDATA[Mali has been plunged into an unprecedented security crisis after an alliance of Tuareg rebels and a jihadist group carried out synchronised attacks against the West African country's military leadership.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Colombia Road Bombing Death Toll Rises To 19]]></title>
-<link>https://www.barrons.com/news/colombia-road-bombing-death-toll-rises-to-19-a89aacf5?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 16:38:24 -0000</pubDate>
-<description><![CDATA[Colombia's forensic institute said Sunday it was examining 19 bodies after a massive roadway explosion the day before, which authorities have blamed on an armed group ahead of next month's elections.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
