@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 12:58:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 14:06:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Engineer And Game Developer: The US Press Gala Shooting Suspect]]></title>
+<link>https://www.barrons.com/news/engineer-and-game-developer-the-us-press-gala-shooting-suspect-325b83e8?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 14:06:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Leaders React To Washington Gala Shooting]]></title>
 <link>https://www.barrons.com/news/world-leaders-react-to-washington-gala-shooting-af5afcd9?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 12:58:53 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Get Down!' Panic And Chaos At Glitzy Media Gala]]></title>
-<link>https://www.barrons.com/news/loud-bangs-and-a-trump-evacuation-chaos-at-correspondents-dinner-16bb5bbc?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 05:09:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gunman Planned To Target Top Trump Officials: Attorney General]]></title>
+<link>https://www.barrons.com/news/gunman-planned-to-target-top-trump-officials-attorney-general-b4d575ea?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 14:06:17 -0000</pubDate>
+<description><![CDATA[Investigators on Sunday said the gunman who tried to storm a gala dinner attended by US President Donald Trump planned to target top government officials, as scrutiny grew over the event's security.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-1a8a4414?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 12:58:54 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/taiwan-will-not-bow-its-head-fm-hits-out-at-china-during-visit-to-eswatini-1b82d5f0?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 12:43:54 -0000</pubDate>
 <description><![CDATA[Taiwan's Foreign Minister Lin Chia-lung on a visit to Eswatini slammed China's recent move to pressure several African countries into revoking overflight permits for the island's leader, saying it will not "bow its head."
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Engineer And Game Developer: The US Press Gala Shooting Suspect]]></title>
-<link>https://www.barrons.com/news/engineer-and-game-developer-the-us-press-gala-shooting-suspect-325b83e8?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 11:36:35 -0000</pubDate>
-<description><![CDATA[The suspected attacker in a shooting that plunged a press gala attended by US President Donald Trump into chaos has been identified by news media as a 31-year-old mechanical engineer from California.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
