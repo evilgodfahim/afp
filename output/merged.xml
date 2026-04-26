@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Apr 2026 05:24:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 07:09:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Haiti Fort Stampede Kills At Least 30: Authorities]]></title>
 <link>https://www.barrons.com/news/haiti-fort-stampede-kills-at-least-30-authorities-f5d5d017?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Fed Set To Hold Rates Steady Again On Cost Hikes From Mideast War]]></title>
+<link>https://www.barrons.com/news/us-fed-set-to-hold-rates-steady-again-on-cost-hikes-from-mideast-war-279379f6?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 07:09:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Japan Inflation Cools Demand For Vending Machine Drinks]]></title>
 <link>https://www.barrons.com/news/japan-inflation-cools-demand-for-vending-machine-drinks-78728385?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 05:24:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Jihadists, Tuareg Rebels, Claim Attacks Across Mali]]></title>
-<link>https://www.barrons.com/news/gunfire-in-mali-as-army-battles-terrorist-groups-e7cfdbb1?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Apr 2026 22:32:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Apr 2026 18:21:46 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['I've Studied Assassinations': Trump Muses On Reasons For Latest Shooting]]></title>
+<link>https://www.barrons.com/news/i-ve-studied-assassinations-trump-muses-on-reasons-for-latest-shooting-d125c0de?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Apr 2026 07:09:09 -0000</pubDate>
+<description><![CDATA[US President Donald Trump struck a philosophical tone Saturday after a shooter rushed a media gala in Washington, the latest in a series of incidents to target the Republican leader.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What We Know About The Trump Press Gala Shooting]]></title>
 <link>https://www.barrons.com/news/what-we-know-about-the-trump-press-gala-shooting-780d9c8d?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 05:24:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/india-plugs-oil-gap-as-middle-east-supplies-sink-fe8fba87?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Apr 2026 05:09:12 -0000</pubDate>
 <description><![CDATA[India has ramped up purchases of Russian oil and revived alternate supplies from Africa, Iran and Venezuela to blunt a sharp crude shortfall from the crisis-ridden Middle East, analysts say.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Fed Set To Hold Rates Steady Again On Cost Hikes From Mideast War]]></title>
-<link>https://www.barrons.com/news/us-fed-set-to-hold-rates-steady-again-on-cost-hikes-from-mideast-war-279379f6?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Apr 2026 04:54:12 -0000</pubDate>
-<description><![CDATA[The US central bank is widely expected to keep interest rates unchanged at its policy meeting next week, as energy prices stay high and supply chains snarled due to war in the Middle East.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
