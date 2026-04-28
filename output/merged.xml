@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Apr 2026 22:53:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 23:52:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['The White Lotus' Drafts Laura Dern After Bonham Carter Split]]></title>
+<link>https://www.barrons.com/news/the-white-lotus-drafts-laura-dern-after-bonham-carter-split-c7907a03?refsec=topics_afp-news</link>
+<pubDate>Tue, 28 Apr 2026 23:52:23 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ex-FBI Chief Comey Charged With Threatening Trump's Life In Instagram Post]]></title>
 <link>https://www.barrons.com/news/former-fbi-director-and-trump-foe-james-comey-indicted-again-us-media-e86bba2d?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Apr 2026 21:54:06 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ex-NBA Player Damon Jones Pleads Guilty In Gambling Probe]]></title>
-<link>https://www.barrons.com/news/ex-nba-player-damon-jones-pleads-guilty-in-gambling-probe-8202d60b?refsec=topics_afp-news</link>
-<pubDate>Tue, 28 Apr 2026 18:49:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Apr 2026 15:10:09 -0000</pubDate>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Late-night Buzz Returns To Cairo As War-fuelled Energy Curbs Ease]]></title>
+<title><![CDATA[Cairo's Night Buzz Returns As War-driven Energy Controls Loosen]]></title>
 <link>https://www.barrons.com/news/late-night-buzz-returns-to-cairo-as-war-fuelled-energy-curbs-ease-cd6bd9c8?refsec=topics_afp-news</link>
-<pubDate>Tue, 28 Apr 2026 21:39:07 -0000</pubDate>
+<pubDate>Tue, 28 Apr 2026 23:52:24 -0000</pubDate>
 <description><![CDATA[Cairo's famed nocturnal rhythm flickered back to life on Tuesday after Egypt eased energy-saving measures spurred by the Middle East war that had forced shops, cafes and restaurants to close early, dimming a city long defined by its late-night buzz.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['The White Lotus' Drafts Laura Dern After Bonham Carter Split]]></title>
-<link>https://www.barrons.com/news/the-white-lotus-drafts-laura-dern-after-bonham-carter-split-c7907a03?refsec=topics_afp-news</link>
-<pubDate>Tue, 28 Apr 2026 20:46:48 -0000</pubDate>
-<description><![CDATA[US actress Laura Dern has joined the cast of "The White Lotus," HBO announced Tuesday, days after Helena Bonham Carter left the show.
+<title><![CDATA[AI Fakes Of Accused US Press Gala Gunman Flood Social Media]]></title>
+<link>https://www.barrons.com/news/ai-fakes-of-accused-us-press-gala-gunman-flood-social-media-cd0b4272?refsec=topics_afp-news</link>
+<pubDate>Tue, 28 Apr 2026 23:37:24 -0000</pubDate>
+<description><![CDATA[Facebook has been overrun with low-effort AI fakes inventing biographical details and celebrity connections for the man charged with trying to assassinate Donald Trump at a Washington press gala Saturday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
