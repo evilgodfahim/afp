@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Apr 2026 10:23:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 11:58:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Thai Ex-PM Thaksin To Be Released From Prison Next Month]]></title>
+<link>https://www.barrons.com/news/thai-ex-pm-thaksin-to-be-released-from-prison-next-month-2c050fbd?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Apr 2026 11:58:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[French Teen In Straw Licking Case Allowed To Leave Singapore]]></title>
 <link>https://www.barrons.com/news/french-teen-in-straw-licking-case-allowed-to-leave-singapore-9698b142?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 10:23:25 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Opioid Crisis Victims Testify At Emotional Purdue Pharma Hearing]]></title>
-<link>https://www.barrons.com/news/us-opioid-crisis-victims-testify-at-emotional-purdue-pharma-hearing-24066c61?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Apr 2026 07:10:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Apr 2026 15:10:09 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Quipping King Charles Blends History With Humor In Washington]]></title>
+<link>https://www.barrons.com/news/quipping-king-charles-blends-history-with-humor-in-washington-5e9db82f?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Apr 2026 11:58:17 -0000</pubDate>
+<description><![CDATA[King Charles III made gentle fun of the shared history between Britain and the United States on Tuesday as he continued his high-stakes visit to patch up transatlantic ties.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-804b3b76?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 10:23:27 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/finnish-lift-maker-kone-acquires-german-rival-tke-creating-giant-eb949be6?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 10:08:27 -0000</pubDate>
 <description><![CDATA[Finnish lift maker Kone on Wednesday announced the acquisition of its German rival TKE in a huge share-and-cash deal valuing TKE at 29.4 billion euros ($34.4 billion) to create a global giant.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thai Ex-PM Thaksin To Be Released From Prison Next Month]]></title>
-<link>https://www.barrons.com/news/thai-ex-pm-thaksin-to-be-released-from-prison-next-month-2c050fbd?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Apr 2026 09:53:27 -0000</pubDate>
-<description><![CDATA[Thailand's jailed former prime minister Thaksin Shinawatra will be released early from prison next month, the corrections department said on Wednesday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
