@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Apr 2026 16:11:33 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 17:55:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[2 US Embassy Workers Among 4 Killed In Mexico Car Accident]]></title>
 <link>https://www.barrons.com/news/2-us-embassy-workers-among-4-killed-in-mexico-car-accident-b74df6d4?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Guerrillas Claim Deadly Colombia Attack, Say It Was An 'Error']]></title>
+<link>https://www.barrons.com/news/guerrillas-claim-deadly-colombia-attack-say-it-was-an-error-07629689?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Apr 2026 17:55:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Canada Holds Key Rate Steady, Says Will Act If War Inflation Persists]]></title>
 <link>https://www.barrons.com/news/canada-holds-key-rate-steady-says-will-act-if-war-inflation-persists-79ad26bc?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 16:11:32 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thai Ex-PM Thaksin To Be Released From Prison Next Month]]></title>
-<link>https://www.barrons.com/news/thai-ex-pm-thaksin-to-be-released-from-prison-next-month-2c050fbd?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Apr 2026 11:58:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Apr 2026 15:10:09 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Departing US Still Owes Money, Says WHO Chief]]></title>
+<link>https://www.barrons.com/news/departing-us-still-owes-money-says-who-chief-03c13404?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Apr 2026 17:55:45 -0000</pubDate>
+<description><![CDATA[The United States has still not paid off its membership fee arrears at the World Health Organization, the WHO chief said Wednesday, with Washington's intention to leave conditional on paying up.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Uber Adds Hotel Booking In Push To Become 'Everything App']]></title>
 <link>https://www.barrons.com/news/uber-adds-hotel-booking-in-push-to-become-everything-app-56e001b3?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 16:11:33 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-supreme-court-curbs-race-based-voting-maps-in-landmark-ruling-8705d85b?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 15:56:33 -0000</pubDate>
 <description><![CDATA[The US Supreme Court on Wednesday sharply limited the use of race in drawing electoral districts, in a decision that could reshape congressional maps nationwide and boost Republican prospects ahead of midterm elections.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Guerrillas Claim Deadly Colombia Attack, Say It Was An 'Error']]></title>
-<link>https://www.barrons.com/news/guerrillas-claim-deadly-colombia-attack-say-it-was-an-error-07629689?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Apr 2026 15:41:33 -0000</pubDate>
-<description><![CDATA[Dissident guerrillas from Colombia's defunct FARC rebel army took responsibility for a bomb attack that killed 21 people, claiming a "tactical error" during an electoral campaign marked by a surge in violence.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
