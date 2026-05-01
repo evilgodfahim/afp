@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 01 May 2026 13:12:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 14:35:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Rebels Take Key Military Camp In Mali's North]]></title>
+<link>https://www.barrons.com/news/rebels-take-key-military-camp-in-mali-s-north-f5fdc5a1?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 14:35:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US Fed Official Says Rate Hikes May Be Needed If Inflation Surges]]></title>
+<link>https://www.barrons.com/news/us-fed-official-says-rate-hikes-may-be-needed-if-inflation-surges-797b3e94?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 14:20:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[French Hub Monitors Hormuz Tensions From Afar]]></title>
 <link>https://www.barrons.com/news/french-hub-monitors-hormuz-tensions-from-afar-3381c4a1?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 13:12:16 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Solomon Islands Leader To Face No-confidence Vote After Appeal Court Loss]]></title>
-<link>https://www.barrons.com/news/solomon-islands-leader-loses-court-appeal-must-face-no-confidence-vote-ca82137b?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 11:22:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Five Takeaways From King Charles III's US Visit]]></title>
-<link>https://www.barrons.com/news/five-takeaways-from-king-charles-iii-s-us-visit-1655d0d4?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 11:07:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Baguettes Take Centre Stage On France's Labour Day]]></title>
+<link>https://www.barrons.com/news/baguettes-take-centre-stage-on-france-s-labour-day-0180f613?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 14:35:47 -0000</pubDate>
+<description><![CDATA[French bakeries sold crusty baguettes and flaky croissants with government backing Friday, defying labour unions arguing that May 1 should remain a sacred day of compulsory rest.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Gulf Countries' Plans To Bypass Hormuz Still Far Off, Experts Warn]]></title>
 <link>https://www.barrons.com/news/gulf-countries-plans-to-bypass-hormuz-still-far-off-experts-warn-3ecfba92?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 13:12:17 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/iran-offers-new-proposal-amid-stalled-us-peace-talks-8ef1e247?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 12:57:17 -0000</pubDate>
 <description><![CDATA[Iran delivered a new proposal for peace talks with the US via mediator Pakistan, state media reported Friday, with negotiations between the two sides frozen despite a weeks-long ceasefire.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Rebels Take Key Military Camp In Mali's North]]></title>
-<link>https://www.barrons.com/news/rebels-take-key-military-camp-in-mali-s-north-f5fdc5a1?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 12:42:17 -0000</pubDate>
-<description><![CDATA[Mali's army and its Russian mercenary allies surrendered a strategic northern military stronghold to armed rebels on Friday, as Tuareg separatists and jihadists waged a unified front to bring down the country's junta.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
