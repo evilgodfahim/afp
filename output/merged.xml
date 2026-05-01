@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 01 May 2026 06:13:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 08:28:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran War Redraws Sea Routes With Africa As The Pivot]]></title>
+<link>https://www.barrons.com/news/iran-war-redraws-sea-routes-with-africa-as-the-pivot-e0a0e7f5?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 08:28:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Crude Edges Up After Wild Swing, Stocks Track Wall St Rally]]></title>
 <link>https://www.barrons.com/news/crude-edges-up-after-wild-swing-stocks-track-wall-st-rally-8a155287?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 06:13:12 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela Opens Arms To World With Miami-Caracas Flight]]></title>
-<link>https://www.barrons.com/news/venezuela-opens-arms-to-world-with-miami-caracas-flight-429e5bee?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Apr 2026 21:17:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Solomon Islands Leader Loses Court Appeal, Must Face No Confidence Vote]]></title>
+<link>https://www.barrons.com/news/solomon-islands-leader-loses-court-appeal-must-face-no-confidence-vote-ca82137b?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 08:28:12 -0000</pubDate>
+<description><![CDATA[Solomon Islands' Prime Minister Jeremiah Manele must recall the Pacific Island nation's parliament to face a vote of no confidence, an appeal court ruled on Friday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Five Takeaways From King Charles III's US Visit]]></title>
 <link>https://www.barrons.com/news/five-takeaways-from-king-charles-iii-s-us-visit-1655d0d4?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 06:13:13 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/clashes-erupt-in-australian-town-over-death-of-indigenous-girl-2f48599c?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 05:58:13 -0000</pubDate>
 <description><![CDATA[An angry crowd clashed with Australian police outside a hospital treating the suspected killer of a five-year-old Indigenous girl in the outback town of Alice Springs.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran War Redraws Sea Routes With Africa As The Pivot]]></title>
-<link>https://www.barrons.com/news/iran-war-redraws-sea-routes-with-africa-as-the-pivot-e0a0e7f5?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 05:43:13 -0000</pubDate>
-<description><![CDATA[The closure of the Strait of Hormuz as well as tensions in the Red Sea are reshaping trade routes, with Africa becoming a hub of global container ship traffic, according to logistics and maritime sources.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
