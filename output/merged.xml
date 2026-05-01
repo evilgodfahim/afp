@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 01 May 2026 08:28:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 10:06:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Clashes Erupt In Australian Town Over Death Of Indigenous Girl]]></title>
+<link>https://www.barrons.com/news/clashes-erupt-in-australian-town-over-death-of-indigenous-girl-2f48599c?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 10:06:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iran War Redraws Sea Routes With Africa As The Pivot]]></title>
 <link>https://www.barrons.com/news/iran-war-redraws-sea-routes-with-africa-as-the-pivot-e0a0e7f5?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 08:28:12 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Musk Grilled On AI Profits At OpenAI Trial]]></title>
-<link>https://www.barrons.com/news/musk-grilled-on-ai-profits-at-openai-trial-494f691b?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Apr 2026 21:32:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Solomon Islands Leader Loses Court Appeal, Must Face No Confidence Vote]]></title>
+<title><![CDATA[Blockbuster EU-Mercosur Trade Deal Enters Into Force]]></title>
+<link>https://www.barrons.com/news/blockbuster-eu-mercosur-trade-deal-enters-into-force-325615db?refsec=topics_afp-news</link>
+<pubDate>Fri, 01 May 2026 10:06:17 -0000</pubDate>
+<description><![CDATA[The European Union's mammoth trade deal with South American bloc Mercosur provisionally enters into force Friday, despite a pending court ruling on its legality.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Solomon Islands Leader To Face No-confidence Vote After Appeal Court Loss]]></title>
 <link>https://www.barrons.com/news/solomon-islands-leader-loses-court-appeal-must-face-no-confidence-vote-ca82137b?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 08:28:12 -0000</pubDate>
-<description><![CDATA[Solomon Islands' Prime Minister Jeremiah Manele must recall the Pacific Island nation's parliament to face a vote of no confidence, an appeal court ruled on Friday.
+<pubDate>Fri, 01 May 2026 09:51:17 -0000</pubDate>
+<description><![CDATA[Solomon Islands Prime Minister Jeremiah Manele agreed on Friday to recall the South Pacific nation's parliament to face a vote of no confidence after losing a court appeal.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/five-takeaways-from-king-charles-iii-s-us-visit-1655d0d4?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 06:13:13 -0000</pubDate>
 <description><![CDATA[Britain's King Charles III and wife Queen Camilla wrapped up their diplomatically sensitive state visit to the United States on Thursday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Clashes Erupt In Australian Town Over Death Of Indigenous Girl]]></title>
-<link>https://www.barrons.com/news/clashes-erupt-in-australian-town-over-death-of-indigenous-girl-2f48599c?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 05:58:13 -0000</pubDate>
-<description><![CDATA[An angry crowd clashed with Australian police outside a hospital treating the suspected killer of a five-year-old Indigenous girl in the outback town of Alice Springs.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
