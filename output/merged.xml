@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 02 May 2026 09:39:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 10:47:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Humpback Whale Stranded In Germany Released Into North Sea: Media]]></title>
+<link>https://www.barrons.com/news/humpback-whale-stranded-in-germany-released-into-north-sea-media-1c3133ae?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 10:47:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Spirit Airlines Begins 'Wind-down', Cancels All Flights]]></title>
 <link>https://www.barrons.com/news/spirit-airlines-begins-wind-down-cancels-all-flights-03af5426?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 09:39:53 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US To Withdraw About 5,000 Troops From Germany]]></title>
+<title><![CDATA[NATO Seeks Details As US Says It Will Pull About 5,000 Troops From Germany]]></title>
 <link>https://www.barrons.com/news/us-to-withdraw-about-5-000-troops-from-germany-35ed414d?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 03:43:22 -0000</pubDate>
+<pubDate>Sat, 02 May 2026 10:32:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Gridlock As Pandemic Treaty Talks Fail To Finish]]></title>
 <link>https://www.barrons.com/news/gridlock-as-pandemic-treaty-talks-fail-to-finish-18497c55?refsec=topics_afp-news</link>
 <pubDate>Fri, 01 May 2026 23:13:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Sanctions Are 'Collective Punishment,' Says Cuba During May 1 Marches]]></title>
-<link>https://www.barrons.com/news/us-sanctions-are-collective-punishment-says-cuba-during-may-1-marches-ef00470b?refsec=topics_afp-news</link>
-<pubDate>Fri, 01 May 2026 22:58:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-de48a81a?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 10:47:10 -0000</pubDate>
+<description><![CDATA[The latest developments in the Middle East war:
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Vietnam, Japan PM Vows More Effort To Keep Asia 'Free And Open']]></title>
 <link>https://www.barrons.com/news/in-vietnam-japan-pm-vows-more-effort-to-keep-asia-free-and-open-380f6bd3?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 09:39:54 -0000</pubDate>
@@ -140,15 +147,8 @@ Delivered by PolitePaul service]]></description>
 <item>
 <title><![CDATA[Spirit Airlines Begins 'Wind-down', Cancels All Flights]]></title>
 <link>https://www.barrons.com/news/spirit-airlines-begins-wind-down-cancels-all-flights-1325a187?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 09:24:54 -0000</pubDate>
-<description><![CDATA[Low-cost US carrier Spirit Airlines said on Saturday that all of its flights have been cancelled as it started an "orderly wind-down of operations," citing spiking fuel prices in recent weeks that left it no choice.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Humpback Whale Stranded In Germany Released Into North Sea: Media]]></title>
-<link>https://www.barrons.com/news/humpback-whale-stranded-in-germany-released-into-north-sea-media-1c3133ae?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 09:09:54 -0000</pubDate>
-<description><![CDATA[A humpback whale that had been struggling to survive after beaching near the German coast was Saturday released into the North Sea off Denmark after being transported in a barge, a member of a rescue mission said.
+<pubDate>Sat, 02 May 2026 10:32:10 -0000</pubDate>
+<description><![CDATA[Low-cost US carrier Spirit Airlines said on Saturday that all of its flights have been cancelled as it started an "orderly wind-down of operations," citing spiking fuel prices in recent weeks as a key factor.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
