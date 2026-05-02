@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 02 May 2026 16:08:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 17:12:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[In Vietnam, Japan PM Vows More Effort To Keep Asia 'Free And Open']]></title>
+<link>https://www.barrons.com/news/in-vietnam-japan-pm-vows-more-effort-to-keep-asia-free-and-open-380f6bd3?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 17:12:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Spirit Airlines Begins 'Wind-down', Cancels All Flights]]></title>
 <link>https://www.barrons.com/news/spirit-airlines-begins-wind-down-cancels-all-flights-1325a187?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 14:28:27 -0000</pubDate>
@@ -83,6 +89,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Bookless Bookstore': Audio-only Book Shop Opens In New York]]></title>
+<link>https://www.barrons.com/news/bookless-bookstore-audio-only-book-shop-opens-in-new-york-02430aa6?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 16:57:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Japan PM Meets Top Vietnam Leaders In Hanoi]]></title>
 <link>https://www.barrons.com/news/japan-pm-to-meet-top-vietnam-leaders-in-hanoi-2d69dd71?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 09:24:53 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA['Trump Is An Idiot': Californians Fume Over Soaring Petrol Prices]]></title>
 <link>https://www.barrons.com/news/trump-is-an-idiot-californians-fume-over-soaring-petrol-prices-56d31c2e?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 08:05:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Appeals Court Temporarily Halts Mail Delivery Of Abortion Pill]]></title>
-<link>https://www.barrons.com/news/us-appeals-court-temporarily-halts-mail-delivery-of-abortion-pill-b9a36e50?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 03:58:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NATO Seeks Details As US Says It Will Pull About 5,000 Troops From Germany]]></title>
-<link>https://www.barrons.com/news/us-to-withdraw-about-5-000-troops-from-germany-35ed414d?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 10:32:09 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Quizzes Two Gaza Flotilla Activists, Angering Spain]]></title>
+<link>https://www.barrons.com/news/israel-quizzes-two-gaza-flotilla-activists-angering-spain-a7db3001?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 17:12:49 -0000</pubDate>
+<description><![CDATA[Two activists from a Gaza-bound flotilla, arrested off the coast of Greece, have been brought to Israel for questioning, a move Spain has condemned as "illegal".
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Taiwan Leader Makes Delayed Visit To Eswatini After China Objections]]></title>
 <link>https://www.barrons.com/news/taiwan-leader-makes-delayed-visit-to-eswatini-after-china-objections-c6ea436b?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 14:28:29 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-de48a81a?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 10:47:10 -0000</pubDate>
 <description><![CDATA[The latest developments in the Middle East war:
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[In Vietnam, Japan PM Vows More Effort To Keep Asia 'Free And Open']]></title>
-<link>https://www.barrons.com/news/in-vietnam-japan-pm-vows-more-effort-to-keep-asia-free-and-open-380f6bd3?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 09:39:54 -0000</pubDate>
-<description><![CDATA[Japan's prime minister vowed Saturday to do more to ensure a "free and open Indo-Pacific", using a speech in communist Vietnam to tout a regional strategy that has long rankled neighbouring China.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
