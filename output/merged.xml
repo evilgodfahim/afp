@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 02 May 2026 13:02:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 14:28:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Spirit Airlines Begins 'Wind-down', Cancels All Flights]]></title>
+<link>https://www.barrons.com/news/spirit-airlines-begins-wind-down-cancels-all-flights-1325a187?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 14:28:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Humpback Whale Stranded In Germany Released Into North Sea: Media]]></title>
 <link>https://www.barrons.com/news/humpback-whale-stranded-in-germany-released-into-north-sea-media-1c3133ae?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 10:47:09 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan Protesters Call Government Wage Hike A Joke]]></title>
-<link>https://www.barrons.com/news/venezuelan-protesters-call-government-wage-hike-a-joke-dab08a41?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 03:28:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Taiwan Leader Makes Delayed Visit To Eswatini After China Objections]]></title>
+<link>https://www.barrons.com/news/taiwan-leader-makes-delayed-visit-to-eswatini-after-china-objections-c6ea436b?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 14:28:29 -0000</pubDate>
+<description><![CDATA[Taiwanese President Lai Ching-te on Saturday announced his arrival in Eswatini -- Taipei's only diplomatic ally in Africa -- after an earlier trip was cancelled when several countries revoked overflight permits.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-de48a81a?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 10:47:10 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/in-vietnam-japan-pm-vows-more-effort-to-keep-asia-free-and-open-380f6bd3?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 09:39:54 -0000</pubDate>
 <description><![CDATA[Japan's prime minister vowed Saturday to do more to ensure a "free and open Indo-Pacific", using a speech in communist Vietnam to tout a regional strategy that has long rankled neighbouring China.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Spirit Airlines Begins 'Wind-down', Cancels All Flights]]></title>
-<link>https://www.barrons.com/news/spirit-airlines-begins-wind-down-cancels-all-flights-1325a187?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 10:32:10 -0000</pubDate>
-<description><![CDATA[Low-cost US carrier Spirit Airlines said on Saturday that all of its flights have been cancelled as it started an "orderly wind-down of operations," citing spiking fuel prices in recent weeks as a key factor.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
