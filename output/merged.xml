@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 02 May 2026 19:32:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 20:37:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-de48a81a?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 20:37:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Vietnam, Japan PM Vows More Effort To Keep Asia 'Free And Open']]></title>
 <link>https://www.barrons.com/news/in-vietnam-japan-pm-vows-more-effort-to-keep-asia-free-and-open-380f6bd3?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 17:12:48 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Raisin Moonshine Banned In Iran Enjoys Resurgence In New York]]></title>
-<link>https://www.barrons.com/news/raisin-moonshine-banned-in-iran-enjoys-resurgence-in-new-york-138a5613?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 09:09:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[NATO, Top Republicans Question US Troop Withdrawal From Germany]]></title>
+<link>https://www.barrons.com/news/nato-top-republicans-question-us-troop-withdrawal-from-germany-037d1b93?refsec=topics_afp-news</link>
+<pubDate>Sat, 02 May 2026 20:37:25 -0000</pubDate>
+<description><![CDATA[NATO said on Saturday it was working with the United States to understand Washington's decision to withdraw 5,000 troops from Germany as a rift in transatlantic ties deepens over the Middle East war.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Israel Quizzes Two Gaza Flotilla Activists, Angering Spain]]></title>
 <link>https://www.barrons.com/news/israel-quizzes-two-gaza-flotilla-activists-angering-spain-a7db3001?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 17:12:49 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/taiwan-leader-makes-delayed-visit-to-eswatini-after-china-objections-c6ea436b?refsec=topics_afp-news</link>
 <pubDate>Sat, 02 May 2026 14:28:29 -0000</pubDate>
 <description><![CDATA[Taiwanese President Lai Ching-te on Saturday announced his arrival in Eswatini -- Taipei's only diplomatic ally in Africa -- after an earlier trip was cancelled when several countries revoked overflight permits.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-de48a81a?refsec=topics_afp-news</link>
-<pubDate>Sat, 02 May 2026 10:47:10 -0000</pubDate>
-<description><![CDATA[The latest developments in the Middle East war:
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
