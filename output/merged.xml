@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 05 May 2026 18:51:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 20:03:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hantavirus On The Hondius: What We Know]]></title>
+<link>https://www.barrons.com/news/hantavirus-on-the-hondius-what-we-know-c207750e?refsec=topics_afp-news</link>
+<pubDate>Tue, 05 May 2026 20:03:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In The Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-30fa766b?refsec=topics_afp-news</link>
 <pubDate>Tue, 05 May 2026 18:51:56 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Race To Find Port For Cruise Ship Battling Deadly Rodent Virus]]></title>
+<title><![CDATA[Suspected Hantavirus Cases To Be Evacuated From Cruise Ship]]></title>
 <link>https://www.barrons.com/news/race-to-find-port-for-hantavirus-stricken-cruise-ship-999a2322?refsec=topics_afp-news</link>
-<pubDate>Tue, 05 May 2026 16:18:18 -0000</pubDate>
+<pubDate>Tue, 05 May 2026 19:48:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Pyongyang Calling: North Korea Shows Off Own-brand Phones]]></title>
 <link>https://www.barrons.com/news/pyongyang-calling-north-korea-shows-off-own-brand-phones-34d804b1?refsec=topics_afp-news</link>
 <pubDate>Tue, 05 May 2026 15:48:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Forces Ready To Resume Combat Operations Against Iran If Ordered]]></title>
-<link>https://www.barrons.com/news/iran-warns-not-even-started-in-hormuz-15262e8f?refsec=topics_afp-news</link>
-<pubDate>Tue, 05 May 2026 15:33:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe's First Commercial Robotaxi Service Rolls Out In Croatia]]></title>
+<link>https://www.barrons.com/news/europe-s-first-commercial-robotaxi-service-rolls-out-in-croatia-5a9420b7?refsec=topics_afp-news</link>
+<pubDate>Tue, 05 May 2026 20:03:54 -0000</pubDate>
+<description><![CDATA[For nearly a month, a Croatian company has been rolling out what it says is Europe's first robotaxi service on the streets of Zagreb, with AFP among the first journalists to try it on Tuesday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France's Macron Taps Ex-aide To Head Central Bank]]></title>
 <link>https://www.barrons.com/news/france-s-macron-taps-ex-aide-to-head-central-bank-282e6461?refsec=topics_afp-news</link>
 <pubDate>Tue, 05 May 2026 18:51:58 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-says-he-works-out-one-minute-a-day-as-he-restores-fitness-award-d7f1840b?refsec=topics_afp-news</link>
 <pubDate>Tue, 05 May 2026 18:36:58 -0000</pubDate>
 <description><![CDATA[US President Donald Trump said Tuesday his exercise routine lasts at most a minute a day, as he signed an order to bring back a presidential fitness award for children.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hantavirus On The Hondius: What We Know]]></title>
-<link>https://www.barrons.com/news/hantavirus-on-the-hondius-what-we-know-c207750e?refsec=topics_afp-news</link>
-<pubDate>Tue, 05 May 2026 17:03:19 -0000</pubDate>
-<description><![CDATA[Three passengers who were cruising the Atlantic Ocean have died and others have fallen sick amid a rare hantavirus outbreak on the MV Hondius, currently anchored off Cape Verde.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
