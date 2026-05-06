@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 06 May 2026 16:59:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 18:23:13 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[G7 Decries 'Economic Coercion' In Swipe At China]]></title>
+<link>https://www.barrons.com/news/g7-decries-economic-coercion-in-swipe-at-china-c74c8b5f?refsec=topics_afp-news</link>
+<pubDate>Wed, 06 May 2026 18:23:12 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pioneering CNN Founder Ted Turner Dead At 87]]></title>
 <link>https://www.barrons.com/news/pioneering-cnn-founder-ted-turner-dead-at-87-7036fa04?refsec=topics_afp-news</link>
 <pubDate>Wed, 06 May 2026 16:59:09 -0000</pubDate>
@@ -74,6 +80,12 @@
 <title><![CDATA[Trump Reminds Republicans It Is Still His Party]]></title>
 <link>https://www.barrons.com/news/trump-reminds-republicans-it-is-still-his-party-858f1360?refsec=topics_afp-news</link>
 <pubDate>Wed, 06 May 2026 15:10:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[French Aircraft Carrier Pre-positions For Possible Hormuz Mission]]></title>
+<link>https://www.barrons.com/news/french-aircraft-carrier-pre-positions-for-possible-hormuz-mission-fd3aafef?refsec=topics_afp-news</link>
+<pubDate>Wed, 06 May 2026 18:08:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela To ICJ: Rights To Oil-rich Region 'Inalienable']]></title>
-<link>https://www.barrons.com/news/venezuela-to-icj-rights-to-oil-rich-region-inalienable-50e1219c?refsec=topics_afp-news</link>
-<pubDate>Wed, 06 May 2026 13:55:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[War In The Middle East: Latest Developments]]></title>
-<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-758d0126?refsec=topics_afp-news</link>
-<pubDate>Wed, 06 May 2026 10:31:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[FBI Reportedly Probing Leaks Behind Article Critical Of Bureau's Director]]></title>
+<link>https://www.barrons.com/news/fbi-reportedly-probing-leaks-behind-article-critical-of-bureau-s-director-baf85fe3?refsec=topics_afp-news</link>
+<pubDate>Wed, 06 May 2026 18:23:13 -0000</pubDate>
+<description><![CDATA[The FBI has opened a criminal leak investigation focusing on a journalist who wrote a critical article about Kash Patel, the head of the US law enforcement agency, the cable news channel MS Now reported on Wednesday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Wave Of Arrests, Abductions After Attacks On Mali Junta]]></title>
 <link>https://www.barrons.com/news/wave-of-arrests-abductions-after-attacks-on-mali-junta-81d59440?refsec=topics_afp-news</link>
 <pubDate>Wed, 06 May 2026 16:59:10 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/eu-risks-financial-hit-if-chinese-suppliers-forced-out-trade-group-11396c23?refsec=topics_afp-news</link>
 <pubDate>Wed, 06 May 2026 16:44:10 -0000</pubDate>
 <description><![CDATA[A group representing Chinese companies warned Wednesday the EU would suffer hundreds of billions of euros in losses if Chinese telecoms suppliers are banned in the bloc over cybersecurity concerns.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[G7 Decries 'Economic Coercion' In Swipe At China]]></title>
-<link>https://www.barrons.com/news/g7-decries-economic-coercion-in-swipe-at-china-c74c8b5f?refsec=topics_afp-news</link>
-<pubDate>Wed, 06 May 2026 15:10:13 -0000</pubDate>
-<description><![CDATA[The trade ministers of the Group of Seven leading industrialised nations Wednesday criticised "economic coercion" by powers placing arbitrary restrictions on exports, particularly critical minerals, in a clear swipe at China.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
