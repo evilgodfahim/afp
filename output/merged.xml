@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 08 May 2026 19:52:38 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 20:56:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hantavirus Scare Revives Covid-era Conspiracy Theories]]></title>
+<link>https://www.barrons.com/news/hantavirus-scare-revives-covid-era-conspiracy-theories-21f7803c?refsec=topics_afp-news</link>
+<pubDate>Fri, 08 May 2026 20:56:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Report Revives Speculation China Eastern Crash Was Deliberate]]></title>
 <link>https://www.barrons.com/news/report-revives-speculation-china-eastern-crash-was-deliberate-9d792913?refsec=topics_afp-news</link>
 <pubDate>Fri, 08 May 2026 19:52:37 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Poland Signs 44-bn-euro EU Defence Loan Deal To Modernise Military]]></title>
-<link>https://www.barrons.com/news/poland-signs-44-bn-euro-eu-defence-loan-deal-to-modernise-military-ed948b93?refsec=topics_afp-news</link>
-<pubDate>Fri, 08 May 2026 15:07:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Costa Rica Leader Sworn In With Tough-on-crime Agenda]]></title>
+<title><![CDATA[US Authorities Warn World Cup Visitors Of Fentanyl-laced Drugs]]></title>
+<link>https://www.barrons.com/news/us-authorities-warn-world-cup-visitors-of-fentanyl-laced-drugs-42f77089?refsec=topics_afp-news</link>
+<pubDate>Fri, 08 May 2026 20:56:03 -0000</pubDate>
+<description><![CDATA[US authorities have warned people visiting the United States for the World Cup that taking recreational drugs could expose them to deadly doses of fentanyl, the powerful synthetic opioid.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Costa Rica's New Leader Vows 'Firm Land' Against Drug Gangs]]></title>
 <link>https://www.barrons.com/news/costa-rica-leader-sworn-in-with-tough-on-crime-agenda-fa145b02?refsec=topics_afp-news</link>
-<pubDate>Fri, 08 May 2026 19:52:38 -0000</pubDate>
-<description><![CDATA[Costa Rican political scientist Laura Fernandez was sworn in as president on Friday, the latest right-winger to win power in Latin America on a promise to combat drug-related violence.
+<pubDate>Fri, 08 May 2026 20:41:03 -0000</pubDate>
+<description><![CDATA[Costa Rica's new President Laura Fernandez vowed a "firm hand" against drug trafficking at her inauguration as leader of the Central American tourism hotspot.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-6935f844?refsec=topics_afp-news</link>
 <pubDate>Fri, 08 May 2026 19:37:38 -0000</pubDate>
 <description><![CDATA[The latest developments in the Middle East war:
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hantavirus Scare Revives Covid-era Conspiracy Theories]]></title>
-<link>https://www.barrons.com/news/hantavirus-scare-revives-covid-era-conspiracy-theories-21f7803c?refsec=topics_afp-news</link>
-<pubDate>Fri, 08 May 2026 18:06:50 -0000</pubDate>
-<description><![CDATA[An outbreak of the deadly hantavirus on a Dutch-flagged cruise ship is reviving conspiracy theories about vaccines, alleged depopulation campaigns and miracle cures that flourished during the Covid pandemic.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
