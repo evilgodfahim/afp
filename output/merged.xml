@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 09 May 2026 17:45:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 18:55:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Top Peru Ministers Resign In Protest Over Stalled US Fighter Jet Deal]]></title>
 <link>https://www.barrons.com/news/top-peru-ministers-resign-in-protest-over-stalled-us-fighter-jet-deal-af1cb2a0?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Moscow's Victory Day Parade Draws Muted Response From Russians]]></title>
+<link>https://www.barrons.com/news/moscow-s-victory-day-parade-draws-muted-response-from-russians-1d741e39?refsec=topics_afp-news</link>
+<pubDate>Sat, 09 May 2026 18:55:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Plane Hits And Kills Pedestrian During Takeoff At Denver Airport]]></title>
 <link>https://www.barrons.com/news/plane-hits-and-kills-pedestrian-during-takeoff-at-denver-airport-3bd7d41a?refsec=topics_afp-news</link>
 <pubDate>Sat, 09 May 2026 16:50:49 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Spirit Exit Likely To Lead To Higher US Airfares, Experts Say]]></title>
-<link>https://www.barrons.com/news/spirit-exit-likely-to-lead-to-higher-us-airfares-experts-say-462e916d?refsec=topics_afp-news</link>
-<pubDate>Sat, 09 May 2026 03:30:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Apr 2026 19:53:58 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Leader To Go To The Hague On First Trip Outside Caribbean]]></title>
+<link>https://www.barrons.com/news/venezuela-leader-to-go-to-the-hague-on-first-trip-outside-caribbean-5f26f924?refsec=topics_afp-news</link>
+<pubDate>Sat, 09 May 2026 18:55:06 -0000</pubDate>
+<description><![CDATA[Venezuela's acting president Delcy Rodriguez said Saturday she is traveling to The Hague to represent her country before the International Court of Justice in a dispute over the oil-rich Essequibo region.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UK's Starmer Vows To 'Listen To Voters' After Election Drubbing]]></title>
 <link>https://www.barrons.com/news/uk-s-starmer-vows-to-listen-to-voters-after-election-drubbing-8175c00b?refsec=topics_afp-news</link>
 <pubDate>Sat, 09 May 2026 13:08:42 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-7209842f?refsec=topics_afp-news</link>
 <pubDate>Sat, 09 May 2026 12:53:42 -0000</pubDate>
 <description><![CDATA[Here are the latest developments in the Middle East war:
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Moscow's Victory Day Parade Draws Muted Response From Russians]]></title>
-<link>https://www.barrons.com/news/moscow-s-victory-day-parade-draws-muted-response-from-russians-1d741e39?refsec=topics_afp-news</link>
-<pubDate>Sat, 09 May 2026 12:38:42 -0000</pubDate>
-<description><![CDATA[Moscow's annual Victory Day parade drew a cool response from Russians this year, some of whom expressed frustration at internet outages and fatigue with the more-than-four-year Ukraine war.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
