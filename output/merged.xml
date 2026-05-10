@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 10 May 2026 08:25:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 09:52:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Says Three Killed In Boat Strike As Campaign Toll Hits 185]]></title>
 <link>https://www.barrons.com/news/us-says-three-killed-in-boat-strike-as-campaign-toll-hits-185-6b254dac?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[No Trees, No Fans: Surviving Extreme Heat In India's Salt Pans]]></title>
+<link>https://www.barrons.com/news/no-trees-no-fans-surviving-extreme-heat-in-india-s-salt-pans-e397776f?refsec=topics_afp-news</link>
+<pubDate>Sun, 10 May 2026 09:52:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Soaring Energy Profits Reignite Calls For Windfall Tax]]></title>
 <link>https://www.barrons.com/news/soaring-energy-profits-reignite-calls-for-windfall-tax-7894fdd8?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 06:07:41 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Militia Kill At Least 69 In DR Congo: Local, Security Sources]]></title>
-<link>https://www.barrons.com/news/militia-kill-at-least-69-in-ne-dr-congo-local-security-sources-f439b6eb?refsec=topics_afp-news</link>
-<pubDate>Sun, 10 May 2026 05:07:41 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 08:10:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Evacuation Of Hantavirus-hit Ship Begins In Canary Islands]]></title>
+<link>https://www.barrons.com/news/evacuation-of-hantavirus-hit-ship-begins-in-canary-islands-26b9e6cf?refsec=topics_afp-news</link>
+<pubDate>Sun, 10 May 2026 09:52:18 -0000</pubDate>
+<description><![CDATA[Occupants of a cruise ship struck by a deadly hantavirus outbreak that has sparked international alarm began leaving the vessel in Spain's Canary Islands on Sunday for their repatriation.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Turkey Show Displays Photo Master Ara Guler's Cannes Shots]]></title>
 <link>https://www.barrons.com/news/turkey-show-displays-photo-master-ara-guler-s-cannes-shots-f7446c19?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 06:07:41 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/hantavirus-hit-cruise-ship-arrives-in-spain-s-canary-islands-adad1609?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 05:52:41 -0000</pubDate>
 <description><![CDATA[A cruise ship hit with a deadly hantavirus outbreak arrived in Spain's Canary Islands Sunday, where most of the nearly 150 people on board will be evacuated and flown home after weeks at sea.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[No Trees, No Fans: Surviving Extreme Heat In India's Salt Pans]]></title>
-<link>https://www.barrons.com/news/no-trees-no-fans-surviving-extreme-heat-in-india-s-salt-pans-e397776f?refsec=topics_afp-news</link>
-<pubDate>Sun, 10 May 2026 05:37:41 -0000</pubDate>
-<description><![CDATA[India faces challenging heatwaves each year, but few places endure conditions as searing as the country's western desert salt pans, where workers rely on simple techniques to survive almost unbearable temperatures.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
