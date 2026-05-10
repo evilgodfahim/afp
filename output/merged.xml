@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 10 May 2026 15:49:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 16:50:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Says Three Killed In Boat Strike As Campaign Toll Hits 185]]></title>
 <link>https://www.barrons.com/news/us-says-three-killed-in-boat-strike-as-campaign-toll-hits-185-6b254dac?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Turkey Show Displays Photo Master Ara Guler's Cannes Shots]]></title>
+<link>https://www.barrons.com/news/turkey-show-displays-photo-master-ara-guler-s-cannes-shots-f7446c19?refsec=topics_afp-news</link>
+<pubDate>Sun, 10 May 2026 16:50:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hantavirus-hit Cruise Ship Arrives In Spain's Canary Islands]]></title>
 <link>https://www.barrons.com/news/hantavirus-hit-cruise-ship-arrives-in-spain-s-canary-islands-adad1609?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 13:10:06 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Omar Garcia Harfuch: 'Mexico's Batman' -- And Possible Presidential Hopeful]]></title>
-<link>https://www.barrons.com/news/omar-garcia-harfuch-mexico-s-batman-and-possible-presidential-hopeful-35d05c3b?refsec=topics_afp-news</link>
-<pubDate>Sun, 10 May 2026 02:22:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 08:10:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In The Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-the-middle-east-latest-developments-71666f03?refsec=topics_afp-news</link>
+<pubDate>Sun, 10 May 2026 16:50:43 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in the Middle East war:
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Responds To US Peace Proposal As Drones Hit Gulf]]></title>
 <link>https://www.barrons.com/news/drones-target-gulf-vessels-as-tehran-warns-us-f3a82e32?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 14:35:00 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/evacuation-of-hantavirus-hit-ship-begins-in-canary-islands-26b9e6cf?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 14:20:00 -0000</pubDate>
 <description><![CDATA[Occupants of a cruise ship struck by a deadly hantavirus outbreak that has sparked international alarm began arriving home from Spain's Canary Islands on Sunday in a complex repatriation operation.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey Show Displays Photo Master Ara Guler's Cannes Shots]]></title>
-<link>https://www.barrons.com/news/turkey-show-displays-photo-master-ara-guler-s-cannes-shots-f7446c19?refsec=topics_afp-news</link>
-<pubDate>Sun, 10 May 2026 06:07:41 -0000</pubDate>
-<description><![CDATA[One shot shows Sophia Loren lifting a champagne glass beneath the adoring gaze of fans. In another frame, Brigitte Bardot lies carefree in the countryside in a T-shirt and jeans.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
