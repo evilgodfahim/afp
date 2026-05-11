@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 11 May 2026 18:19:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 20:14:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Says Three Killed In Boat Strike As Campaign Toll Hits 185]]></title>
 <link>https://www.barrons.com/news/us-says-three-killed-in-boat-strike-as-campaign-toll-hits-185-6b254dac?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Macron Announces 23 Bn Euros Of Investment At Africa Summit]]></title>
+<link>https://www.barrons.com/news/macron-announces-23-bn-euros-of-investment-at-africa-summit-9f46b0f6?refsec=topics_afp-news</link>
+<pubDate>Mon, 11 May 2026 20:14:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump To Suspend US Gas Tax As Iran War Spikes Prices]]></title>
 <link>https://www.barrons.com/news/trump-to-suspend-us-gas-tax-as-iran-war-spikes-prices-2fee5675?refsec=topics_afp-news</link>
 <pubDate>Mon, 11 May 2026 18:19:04 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Military Strikes, Gang Massacres In Nigeria Kill Around 100 Civilians]]></title>
-<link>https://www.barrons.com/news/military-strikes-gang-massacres-in-nigeria-kill-around-100-civilians-39e1aa43?refsec=topics_afp-news</link>
-<pubDate>Mon, 11 May 2026 17:34:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 08:10:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Frustrated Trump Learns He Doesn't Have The Cards On Iran]]></title>
+<link>https://www.barrons.com/news/frustrated-trump-learns-he-doesn-t-have-the-cards-on-iran-c63f2ac4?refsec=topics_afp-news</link>
+<pubDate>Mon, 11 May 2026 20:14:28 -0000</pubDate>
+<description><![CDATA[One of President Donald Trump's favorite metaphors is that he's got the cards -- that through the might of the United States and his own acumen he can overpower any adversary.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Suit Filed Over Trump Repainting Of Lincoln Memorial Reflecting Pool]]></title>
 <link>https://www.barrons.com/news/suit-filed-over-trump-repainting-of-lincoln-memorial-reflecting-pool-335d9800?refsec=topics_afp-news</link>
 <pubDate>Mon, 11 May 2026 18:19:05 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/venezuela-has-never-considered-becoming-51st-us-state-acting-president-5efddac9?refsec=topics_afp-news</link>
 <pubDate>Mon, 11 May 2026 18:04:05 -0000</pubDate>
 <description><![CDATA[Venezuela has "never" contemplated becoming the 51st US state, as suggested by US President Donald Trump following the capture of deposed leader Nicolas Maduro, the country's acting president said on Monday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Macron Announces 23 Bn Euros Of Investment At Africa Summit]]></title>
-<link>https://www.barrons.com/news/macron-announces-23-bn-euros-of-investment-at-africa-summit-9f46b0f6?refsec=topics_afp-news</link>
-<pubDate>Mon, 11 May 2026 16:29:48 -0000</pubDate>
-<description><![CDATA[French President Emmanuel Macron announced 23 billion euros ($27 billion) of investment for Africa during a major summit on the future of the continent hosted by Kenya on Monday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
