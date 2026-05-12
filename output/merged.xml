@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 12 May 2026 11:29:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 13:20:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Says Three Killed In Boat Strike As Campaign Toll Hits 185]]></title>
 <link>https://www.barrons.com/news/us-says-three-killed-in-boat-strike-as-campaign-toll-hits-185-6b254dac?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Says US Must Accept Peace Plan Or Face 'Failure']]></title>
+<link>https://www.barrons.com/news/iran-says-us-must-accept-peace-plan-or-face-failure-541f68d3?refsec=topics_afp-news</link>
+<pubDate>Tue, 12 May 2026 13:20:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Australia's Economy 'Hostage' To Mideast War: Treasurer]]></title>
+<link>https://www.barrons.com/news/australia-s-economy-hostage-to-mideast-war-treasurer-89092a5c?refsec=topics_afp-news</link>
+<pubDate>Tue, 12 May 2026 13:05:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Indigenous Australians Awarded Major Compensation In Mining Dispute]]></title>
 <link>https://www.barrons.com/news/indigenous-australians-awarded-major-compensation-in-mining-dispute-d06ceaea?refsec=topics_afp-news</link>
 <pubDate>Tue, 12 May 2026 11:29:30 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Antarctic Talks In Japan: Key Things To Know]]></title>
-<link>https://www.barrons.com/news/antarctic-talks-in-japan-key-things-to-know-28993d90?refsec=topics_afp-news</link>
-<pubDate>Tue, 12 May 2026 08:47:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thyssenkrupp Cuts Sales Outlook On Mideast War]]></title>
-<link>https://www.barrons.com/news/thyssenkrupp-cuts-sales-outlook-on-mideast-war-af786f80?refsec=topics_afp-news</link>
-<pubDate>Tue, 12 May 2026 08:32:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 08:10:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Singer FKA Twigs To Play Josephine Baker In Biopic Of Anti-racist Legend]]></title>
+<link>https://www.barrons.com/news/singer-fka-twigs-to-play-josephine-baker-in-biopic-of-anti-racist-legend-de53f6e7?refsec=topics_afp-news</link>
+<pubDate>Tue, 12 May 2026 13:20:33 -0000</pubDate>
+<description><![CDATA[British music star FKA twigs is to play Josephine Baker in a new biopic of the Roaring Twenties icon who became a hero of the French Resistance and the American civil rights movement.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Vodafone Sees Signs Of Recovery Amid Turnaround Plan]]></title>
 <link>https://www.barrons.com/news/vodafone-sees-signs-of-recovery-amid-turnaround-plan-5927eaab?refsec=topics_afp-news</link>
 <pubDate>Tue, 12 May 2026 11:29:31 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/who-chief-says-work-not-over-after-hantavirus-evacuation-94cfa28d?refsec=topics_afp-news</link>
 <pubDate>Tue, 12 May 2026 11:14:31 -0000</pubDate>
 <description><![CDATA[World Health Organization chief Tedros Adhanom Ghebreyesus said on Tuesday "our work is not over" to contain hantavirus after evacuations from a cruise ship hit by a deadly outbreak of the illness.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Australia's Economy 'Hostage' To Mideast War: Treasurer]]></title>
-<link>https://www.barrons.com/news/australia-s-economy-hostage-to-mideast-war-treasurer-89092a5c?refsec=topics_afp-news</link>
-<pubDate>Tue, 12 May 2026 10:59:31 -0000</pubDate>
-<description><![CDATA[Australia will avoid recession even if a prolonged Middle East war pushes the oil price to $200 a barrel, Treasurer Jim Chalmers said Tuesday, outlining a national budget "heavily hostage to events overseas".
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
