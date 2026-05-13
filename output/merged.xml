@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 13 May 2026 10:21:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 12:26:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Says Three Killed In Boat Strike As Campaign Toll Hits 185]]></title>
 <link>https://www.barrons.com/news/us-says-three-killed-in-boat-strike-as-campaign-toll-hits-185-6b254dac?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Besieged Starmer Seeks To Heal Labour Divisions In King's Speech]]></title>
+<title><![CDATA[Nissan Expects Return To Profit After Huge Loss]]></title>
+<link>https://www.barrons.com/news/nissan-expects-return-to-profit-after-huge-loss-863a24c6?refsec=topics_afp-news</link>
+<pubDate>Wed, 13 May 2026 12:26:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[King Charles Lays Out Starmer's Agenda As PM Fights For Survival]]></title>
 <link>https://www.barrons.com/news/besieged-starmer-seeks-to-heal-labour-divisions-in-king-s-speech-2762e451?refsec=topics_afp-news</link>
-<pubDate>Wed, 13 May 2026 10:21:52 -0000</pubDate>
+<pubDate>Wed, 13 May 2026 12:11:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK's Catherine On First Official Foreign Trip Since Cancer Revelation]]></title>
+<title><![CDATA[UK's Catherine On First Official Foreign Trip Since Cancer Diagnosis]]></title>
 <link>https://www.barrons.com/news/uk-s-catherine-on-first-official-foreign-trip-since-cancer-revelation-d8e16b59?refsec=topics_afp-news</link>
-<pubDate>Wed, 13 May 2026 09:51:52 -0000</pubDate>
+<pubDate>Wed, 13 May 2026 11:56:42 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[AI Rivalry Overshadows Push For Guardrails At Xi-Trump Talks: Experts]]></title>
-<link>https://www.barrons.com/news/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9?refsec=topics_afp-news</link>
-<pubDate>Wed, 13 May 2026 06:36:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
 <pubDate>Sun, 10 May 2026 08:10:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese Tech Giant Alibaba Posts Profit Drop Amid AI Drive]]></title>
+<link>https://www.barrons.com/news/chinese-tech-giant-alibaba-posts-profit-drop-amid-ai-drive-0bc58526?refsec=topics_afp-news</link>
+<pubDate>Wed, 13 May 2026 12:26:42 -0000</pubDate>
+<description><![CDATA[Chinese tech giant Alibaba said Wednesday that net profit dropped by nearly a fifth during its most recent fiscal year, weighed by challenges in the domestic economy and an expensive push into artificial intelligence.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Africa Must Drop 'Victim Mentality': Mogul Tony Elumelu]]></title>
 <link>https://www.barrons.com/news/africa-must-drop-victim-mentality-mogul-tony-elumelu-1ac12896?refsec=topics_afp-news</link>
 <pubDate>Wed, 13 May 2026 10:21:53 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/china-tech-giant-tencent-sees-q1-profit-jump-after-ai-bets-c685edf4?refsec=topics_afp-news</link>
 <pubDate>Wed, 13 May 2026 10:06:53 -0000</pubDate>
 <description><![CDATA[Chinese tech firm Tencent reported a 21 percent jump in quarterly net profit Wednesday as the video game giant bets big on the booming artificial intelligence sector.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nissan Expects Return To Profit After Huge Loss]]></title>
-<link>https://www.barrons.com/news/nissan-expects-return-to-profit-after-huge-loss-863a24c6?refsec=topics_afp-news</link>
-<pubDate>Wed, 13 May 2026 09:51:53 -0000</pubDate>
-<description><![CDATA[Nissan projected Wednesday a small net profit this year after posting a huge loss for the second year running, with the Japanese automaker saying it has "moved beyond recovery".
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
