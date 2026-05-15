@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 15 May 2026 20:56:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 21:59:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Beyond The Oscar': Travolta Gets Surprise Cannes Prize]]></title>
+<link>https://www.barrons.com/news/beyond-the-oscar-travolta-gets-surprise-cannes-prize-9c3a079d?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 21:59:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Prosecutors Seek Death Penalty For US Man Charged With Killing Israeli Embassy Staffers]]></title>
+<link>https://www.barrons.com/news/prosecutors-seek-death-penalty-for-us-man-charged-with-killing-israeli-embassy-staffers-5f24a230?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 21:44:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Canada Takes Key Step Towards New Oil Pipeline]]></title>
 <link>https://www.barrons.com/news/canada-takes-key-step-towards-new-oil-pipeline-599ae9df?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 20:56:38 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Scraps Deployment Of 4,000 Troops To Poland]]></title>
-<link>https://www.barrons.com/news/us-scraps-deployment-of-4-000-troops-to-poland-b76e7ae4?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 17:29:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine Can Down Russian Drones En Masse. But Missiles Are A Problem]]></title>
-<link>https://www.barrons.com/news/ukraine-can-down-russian-drones-en-masse-but-missiles-are-a-problem-9f3215f7?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 17:14:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 00:47:41 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Says Iran-backed Militia Commander Planned Jewish Site Attacks]]></title>
+<link>https://www.barrons.com/news/us-says-iran-backed-militia-commander-planned-jewish-site-attacks-8b53ccc1?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 21:59:27 -0000</pubDate>
+<description><![CDATA[US authorities on Friday detailed charges against a commander of an Iran-backed Iraqi militia who was allegedly involved in plotting terrorism against Jewish people in Europe, Canada and the United States.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Stocks Tumble As US-Iran Impasse Fuels Inflation Fears]]></title>
 <link>https://www.barrons.com/news/stocks-tumble-as-us-iran-impasse-fuels-inflation-fears-d2ac6a0b?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 20:56:39 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/democrats-accuse-trump-of-stock-trade-corruption-e21fe6b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 19:48:38 -0000</pubDate>
 <description><![CDATA[Democrats accused US President Donald Trump of corruption on Friday after the disclosure of major stock market transactions carried out in his name, although his son denied there was wrongdoing.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Prosecutors Seek Death Penalty For US Man Charged With Killing Israeli Embassy Staffers]]></title>
-<link>https://www.barrons.com/news/prosecutors-seek-death-penalty-for-us-man-charged-with-killing-israeli-embassy-staffers-5f24a230?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 19:33:38 -0000</pubDate>
-<description><![CDATA[Prosecutors said Friday that they will seek the death penalty for a Chicago man charged with fatally shooting two Israeli embassy staffers in the US capital last year.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
