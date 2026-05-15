@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 15 May 2026 19:48:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 20:56:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Canada Takes Key Step Towards New Oil Pipeline]]></title>
+<link>https://www.barrons.com/news/canada-takes-key-step-towards-new-oil-pipeline-599ae9df?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 20:56:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Better Than The Oscar': John Travolta Gets Surprise Cannes Prize]]></title>
 <link>https://www.barrons.com/news/better-than-the-oscar-john-travolta-gets-surprise-cannes-prize-3536b8e6?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 19:48:37 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia Government Says Deal Reached With Protesting Miners]]></title>
+<title><![CDATA[Bolivia Unrest Continues Despite Government Deal With Miners]]></title>
 <link>https://www.barrons.com/news/bolivia-government-says-deal-reached-with-protesting-miners-eec47043?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 19:18:37 -0000</pubDate>
+<pubDate>Fri, 15 May 2026 20:41:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Xi, Trump Eke Small Wins From Talks But No Major Deals: Analysts]]></title>
-<link>https://www.barrons.com/news/xi-trump-eke-small-wins-from-talks-but-no-major-deals-analysts-1b3edfae?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 16:59:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 00:47:41 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Stocks Tumble As US-Iran Impasse Fuels Inflation Fears]]></title>
+<link>https://www.barrons.com/news/stocks-tumble-as-us-iran-impasse-fuels-inflation-fears-d2ac6a0b?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 20:56:39 -0000</pubDate>
+<description><![CDATA[Global stocks slumped and oil prices rose Friday with worries about sustained inflation driving up bond yields with no conclusion to the Iran war in sight.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Democrats Accuse Trump Of Stock Trade Corruption]]></title>
 <link>https://www.barrons.com/news/democrats-accuse-trump-of-stock-trade-corruption-e21fe6b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 19:48:38 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/prosecutors-seek-death-penalty-for-us-man-charged-with-killing-israeli-embassy-staffers-5f24a230?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 19:33:38 -0000</pubDate>
 <description><![CDATA[Prosecutors said Friday that they will seek the death penalty for a Chicago man charged with fatally shooting two Israeli embassy staffers in the US capital last year.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Canada Takes Key Step Towards New Oil Pipeline]]></title>
-<link>https://www.barrons.com/news/canada-takes-key-step-towards-new-oil-pipeline-599ae9df?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 19:18:38 -0000</pubDate>
-<description><![CDATA[Prime Minister Mark Carney and the leader of Canada's oil‑rich Alberta province took a major step Friday toward building an oil pipeline that could substantially increase crude exports to Asia.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
