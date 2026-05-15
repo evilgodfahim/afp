@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 15 May 2026 21:59:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 23:02:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Democrats Accuse Trump Of Stock Trade Corruption]]></title>
+<link>https://www.barrons.com/news/democrats-accuse-trump-of-stock-trade-corruption-e21fe6b2?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 23:02:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Beyond The Oscar': Travolta Gets Surprise Cannes Prize]]></title>
 <link>https://www.barrons.com/news/beyond-the-oscar-travolta-gets-surprise-cannes-prize-9c3a079d?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 21:59:26 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pro-Gaza Activist Seeks To Reopen Case Over Trump Influence Claim]]></title>
-<link>https://www.barrons.com/news/pro-gaza-activist-seeks-to-reopen-case-over-trump-influence-claim-d1d95325?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 17:44:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 00:47:41 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump-supporting Election Denier Has State Sentence Commuted]]></title>
+<link>https://www.barrons.com/news/trump-supporting-election-denier-has-state-sentence-commuted-ab0fb93c?refsec=topics_afp-news</link>
+<pubDate>Fri, 15 May 2026 23:02:35 -0000</pubDate>
+<description><![CDATA[A US election denier whose case has been championed by Donald Trump was granted a commutation Friday that will see her released from state prison next month.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Says Iran-backed Militia Commander Planned Jewish Site Attacks]]></title>
 <link>https://www.barrons.com/news/us-says-iran-backed-militia-commander-planned-jewish-site-attacks-8b53ccc1?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 21:59:27 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/stocks-tumble-as-us-iran-impasse-fuels-inflation-fears-d2ac6a0b?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 20:56:39 -0000</pubDate>
 <description><![CDATA[Global stocks slumped and oil prices rose Friday with worries about sustained inflation driving up bond yields with no conclusion to the Iran war in sight.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Democrats Accuse Trump Of Stock Trade Corruption]]></title>
-<link>https://www.barrons.com/news/democrats-accuse-trump-of-stock-trade-corruption-e21fe6b2?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 19:48:38 -0000</pubDate>
-<description><![CDATA[Democrats accused US President Donald Trump of corruption on Friday after the disclosure of major stock market transactions carried out in his name, although his son denied there was wrongdoing.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
