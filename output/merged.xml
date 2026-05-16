@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 15 May 2026 23:02:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 00:13:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Stocks Tumble As US-Iran Impasse Fuels Inflation Fears]]></title>
+<link>https://www.barrons.com/news/stocks-tumble-as-us-iran-impasse-fuels-inflation-fears-d2ac6a0b?refsec=topics_afp-news</link>
+<pubDate>Sat, 16 May 2026 00:13:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Democrats Accuse Trump Of Stock Trade Corruption]]></title>
 <link>https://www.barrons.com/news/democrats-accuse-trump-of-stock-trade-corruption-e21fe6b2?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 23:02:34 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Showdowns And Spycraft On Trump-Xi Summit Sidelines]]></title>
-<link>https://www.barrons.com/news/showdowns-and-spycraft-on-trump-xi-summit-sidelines-3cb8330a?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 17:59:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 00:47:41 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Boeing Confirms China Commitment To Buy 200 Aircraft]]></title>
+<link>https://www.barrons.com/news/boeing-confirms-china-commitment-to-buy-200-aircraft-92b3bc05?refsec=topics_afp-news</link>
+<pubDate>Sat, 16 May 2026 00:13:43 -0000</pubDate>
+<description><![CDATA[Aerospace giant Boeing on Friday confirmed that China had committed to purchasing 200 aircraft during a visit to Beijing by US President Donald Trump -- a deal that could ultimately balloon with orders for 750 additional planes.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump-supporting Election Denier Has State Sentence Commuted]]></title>
 <link>https://www.barrons.com/news/trump-supporting-election-denier-has-state-sentence-commuted-ab0fb93c?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 23:02:35 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-says-iran-backed-militia-commander-planned-jewish-site-attacks-8b53ccc1?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 21:59:27 -0000</pubDate>
 <description><![CDATA[US authorities on Friday detailed charges against a commander of an Iran-backed Iraqi militia who was allegedly involved in plotting terrorism against Jewish people in Europe, Canada and the United States.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Stocks Tumble As US-Iran Impasse Fuels Inflation Fears]]></title>
-<link>https://www.barrons.com/news/stocks-tumble-as-us-iran-impasse-fuels-inflation-fears-d2ac6a0b?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 20:56:39 -0000</pubDate>
-<description><![CDATA[Global stocks slumped and oil prices rose Friday with worries about sustained inflation driving up bond yields with no conclusion to the Iran war in sight.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
