@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 16 May 2026 18:59:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 20:03:42 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Scuffles From Europe To NYC As Swatch Sale Descends Into Chaos]]></title>
+<link>https://www.barrons.com/news/scuffles-from-europe-to-nyc-as-swatch-sale-descends-into-chaos-b072e7b4?refsec=topics_afp-news</link>
+<pubDate>Sat, 16 May 2026 20:03:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Opposition Latvian Lawmaker Tapped To Form Interim Government]]></title>
 <link>https://www.barrons.com/news/opposition-latvian-lawmaker-tapped-to-form-interim-government-0c756ba8?refsec=topics_afp-news</link>
 <pubDate>Sat, 16 May 2026 18:59:01 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Whale That Was Rescued After Stranded In Germany Found Dead In Denmark]]></title>
+<title><![CDATA[Stranded Whale Rescued In Germany Found Dead In Denmark]]></title>
 <link>https://www.barrons.com/news/whale-that-was-rescued-after-stranded-in-germany-found-dead-in-denmark-2a1af330?refsec=topics_afp-news</link>
-<pubDate>Sat, 16 May 2026 15:40:05 -0000</pubDate>
+<pubDate>Sat, 16 May 2026 19:48:41 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Trump, Nigeria Claim Killing Of IS Second-in-command]]></title>
 <link>https://www.barrons.com/news/trump-nigeria-claim-killing-of-is-second-in-command-aa89bf21?refsec=topics_afp-news</link>
 <pubDate>Sat, 16 May 2026 15:10:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mercedes Benz Mulls Diversification Into Defence]]></title>
-<link>https://www.barrons.com/news/mercedes-benz-mulls-diversification-into-defence-d3032213?refsec=topics_afp-news</link>
-<pubDate>Sat, 16 May 2026 14:38:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bolivian Police Clash With Protesters Blocking Roads]]></title>
+<link>https://www.barrons.com/news/bolivian-police-clash-with-protesters-blocking-roads-cd4f199f?refsec=topics_afp-news</link>
+<pubDate>Sat, 16 May 2026 20:03:42 -0000</pubDate>
+<description><![CDATA[Bolivian police and soldiers clashed Saturday with protesters blocking roads into La Paz to press for wage increases and other demands.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Modi Oversees Semi-conductor Deal On Dutch Trip]]></title>
 <link>https://www.barrons.com/news/modi-oversees-semi-conductor-deal-on-dutch-trip-8075d340?refsec=topics_afp-news</link>
 <pubDate>Sat, 16 May 2026 18:59:02 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/rwanda-genocide-suspect-kabuga-dead-court-af442ca2?refsec=topics_afp-news</link>
 <pubDate>Sat, 16 May 2026 18:44:02 -0000</pubDate>
 <description><![CDATA[A suspect in the 1994 Rwandan genocide, accused of masterminding a notorious radio station that urged on the brutal massacres, died Saturday, according to the international court in The Hague where he had faced trial.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Scuffles From Europe To NYC As Swatch Sale Descends Into Chaos]]></title>
-<link>https://www.barrons.com/news/scuffles-from-europe-to-nyc-as-swatch-sale-descends-into-chaos-b072e7b4?refsec=topics_afp-news</link>
-<pubDate>Sat, 16 May 2026 18:29:02 -0000</pubDate>
-<description><![CDATA[The launch of limited edition Swatch watches descended into chaos Saturday in several European cities and New York, with French police firing tear gas to restore order at one store near Paris.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
