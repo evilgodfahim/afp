@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 04:37:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 07:31:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nepali Duo Break Own Records On Everest]]></title>
+<link>https://www.barrons.com/news/nepali-duo-break-own-records-on-everest-03a99ff2?refsec=topics_afp-news</link>
+<pubDate>Sun, 17 May 2026 07:31:08 -0000</pubDate>
+<description><![CDATA[A Nepali climber dubbed the "Everest Man", Kami Rita Sherpa, scaled Mount Everest for a record 32nd time Sunday, while Lhakpa Sherpa broke her own women's record with an 11th summit.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Senator Loses Primary Bid To Trump-backed Challenger]]></title>
 <link>https://www.barrons.com/news/us-senator-loses-primary-bid-to-trump-backed-challenger-f2cdaf0c?refsec=topics_afp-news</link>
 <pubDate>Sun, 17 May 2026 04:37:31 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/german-chemical-town-fears-impact-of-industrial-decline-d7143457?refsec=topics_afp-news</link>
 <pubDate>Sun, 17 May 2026 04:22:31 -0000</pubDate>
 <description><![CDATA[Germany's industrial decline is taking a painful toll on communities that have long relied on local manufacturing titans for jobs, prosperity and a sense of a secure future.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Qantas Flight Diverted After Man Bites Flight Attendant]]></title>
-<link>https://www.barrons.com/news/qantas-flight-diverted-after-man-bites-flight-attendant-a5c52c81?refsec=topics_afp-news</link>
-<pubDate>Sun, 17 May 2026 04:07:31 -0000</pubDate>
-<description><![CDATA[Australia's Qantas was forced to divert a flight bound for the United States over a disruptive passenger, with local media reporting the man bit a flight attendant.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
