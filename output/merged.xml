@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 17 May 2026 14:02:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 15:35:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
 <link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[War In Middle East: Latest Developments]]></title>
+<link>https://www.barrons.com/news/war-in-middle-east-latest-developments-5c5391a8?refsec=topics_afp-news</link>
+<pubDate>Sun, 17 May 2026 15:35:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Gucci Takes Over New York's Times Square For Fashion Show]]></title>
+<link>https://www.barrons.com/news/gucci-takes-over-new-york-s-times-square-for-fashion-show-cf15695b?refsec=topics_afp-news</link>
+<pubDate>Sun, 17 May 2026 15:20:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nepali Duo Break Own Records On Everest]]></title>
 <link>https://www.barrons.com/news/nepali-duo-break-own-records-on-everest-03a99ff2?refsec=topics_afp-news</link>
 <pubDate>Sun, 17 May 2026 14:02:15 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Crackdown In Southeast Asia Pushes Scam Networks To Sri Lanka]]></title>
-<link>https://www.barrons.com/news/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka-7d0ac644?refsec=topics_afp-news</link>
-<pubDate>Sun, 17 May 2026 04:07:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Missing Washington Placard Highlights Trump's Scrubbing Of US History]]></title>
-<link>https://www.barrons.com/news/missing-washington-placard-highlights-trump-s-scrubbing-of-us-history-7fab072d?refsec=topics_afp-news</link>
-<pubDate>Sun, 17 May 2026 03:52:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
 <pubDate>Fri, 15 May 2026 00:47:41 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Shock Threat By Billionaire Bollore's Canal+ Group Rocks French Cinema]]></title>
+<link>https://www.barrons.com/news/shock-threat-by-billionaire-bollore-s-canal-group-rocks-french-cinema-872e68a4?refsec=topics_afp-news</link>
+<pubDate>Sun, 17 May 2026 15:35:53 -0000</pubDate>
+<description><![CDATA[The head of France's biggest film producer, Canal+, said Sunday that the group would no longer work with 600 industry professionals who signed a petition against right-wing billionaire owner Vincent Bollore.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Message For Friends And Foes': Libyan National Army Conducts Grand Exercises]]></title>
 <link>https://www.barrons.com/news/message-for-friends-and-foes-libyan-national-army-conducts-grand-exercises-bd182da0?refsec=topics_afp-news</link>
 <pubDate>Sun, 17 May 2026 14:02:16 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/denmark-s-antonsen-wins-badminton-thailand-open-title-91624e92?refsec=topics_afp-news</link>
 <pubDate>Sun, 17 May 2026 12:10:14 -0000</pubDate>
 <description><![CDATA[Denmark's Anders Antonsen won the badminton men's singles final of the Thailand Open on Sunday, getting his revenge against homegrown Kunlavut Vitidsarn who defeated the Dane last year.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Gucci Takes Over New York's Times Square For Fashion Show]]></title>
-<link>https://www.barrons.com/news/gucci-takes-over-new-york-s-times-square-for-fashion-show-cf15695b?refsec=topics_afp-news</link>
-<pubDate>Sun, 17 May 2026 09:43:58 -0000</pubDate>
-<description><![CDATA[Famed Italian fashion house Gucci took over New York's iconic Times Square on Saturday for its second runway show led by creative director Demna.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
