@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 18 May 2026 20:14:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 21:45:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Says Delaying Iran Attack At Request Of Gulf Leaders]]></title>
+<link>https://www.barrons.com/news/trump-says-delaying-iran-attack-at-request-of-gulf-leaders-2e2350bb?refsec=topics_afp-news</link>
+<pubDate>Mon, 18 May 2026 21:45:02 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[War In Middle East: Latest Developments]]></title>
 <link>https://www.barrons.com/news/war-in-middle-east-latest-developments-f5c08310?refsec=topics_afp-news</link>
 <pubDate>Mon, 18 May 2026 20:14:52 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba Warns Of 'Bloodbath' If US Attacks And Washington Issues Sanctions]]></title>
+<title><![CDATA[Cuba Warns Of 'Bloodbath' If US Attacks; Washington Adds Sanctions]]></title>
 <link>https://www.barrons.com/news/cuba-defends-legitimate-right-to-defense-as-us-weighs-alleged-drone-threat-394a8c86?refsec=topics_afp-news</link>
-<pubDate>Mon, 18 May 2026 19:29:52 -0000</pubDate>
+<pubDate>Mon, 18 May 2026 21:30:02 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Admin Creates $1.7 Bln Fund To Compensate Allies Prosecuted Under Biden]]></title>
-<link>https://www.barrons.com/news/trump-drops-10-billion-suit-against-irs-over-tax-returns-leak-b1885b09?refsec=topics_afp-news</link>
-<pubDate>Mon, 18 May 2026 17:28:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ikea To Cut 850 Jobs At Parent Company]]></title>
 <link>https://www.barrons.com/news/ikea-to-cut-850-jobs-at-parent-company-ab258395?refsec=topics_afp-news</link>
 <pubDate>Mon, 18 May 2026 11:26:57 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[ICE Agent Faces Minnesota State Charges Over Migrant Shooting]]></title>
+<link>https://www.barrons.com/news/ice-agent-faces-minnesota-state-charges-over-migrant-shooting-3acec737?refsec=topics_afp-news</link>
+<pubDate>Mon, 18 May 2026 21:45:03 -0000</pubDate>
+<description><![CDATA[An Immigration and Customs Enforcement (ICE) agent was charged by state prosecutors in Minnesota on Monday in connection with the January shooting of a Venezuelan migrant.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[After Mayor's Murder, Mexico Battles To Bring Peace]]></title>
 <link>https://www.barrons.com/news/after-mayor-s-murder-mexico-battles-to-bring-peace-c6232f9b?refsec=topics_afp-news</link>
 <pubDate>Mon, 18 May 2026 20:14:53 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-admin-creates-1-7-bln-fund-to-compensate-allies-prosecuted-under-biden-75fffb2d?refsec=topics_afp-news</link>
 <pubDate>Mon, 18 May 2026 19:59:53 -0000</pubDate>
 <description><![CDATA[US President Donald Trump's Justice Department announced on Monday the creation of a $1.7 billion fund to compensate political allies prosecuted under the Biden administration.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says Delaying Iran Attack At Request Of Gulf Leaders]]></title>
-<link>https://www.barrons.com/news/trump-says-delaying-iran-attack-at-request-of-gulf-leaders-2e2350bb?refsec=topics_afp-news</link>
-<pubDate>Mon, 18 May 2026 19:44:53 -0000</pubDate>
-<description><![CDATA[US President Donald Trump said he was postponing a planned attack on Iran scheduled for Tuesday at the request of Gulf leaders amid "serious negotiations" with Tehran.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
