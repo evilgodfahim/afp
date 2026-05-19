@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 19 May 2026 04:40:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 08:24:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
@@ -59,9 +59,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Asian Markets Cautious, Oil Dips After Trump Holds Off On Iran Attack]]></title>
+<title><![CDATA[Putin Trip Aims To Show China Ties Unshakeable After Trump Pomp]]></title>
+<link>https://www.barrons.com/news/putin-trip-aims-to-show-china-ties-unshakeable-after-trump-pomp-cb443937?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 08:23:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Brush Fire Near Los Angeles Forces Thousands To Evacuate]]></title>
+<link>https://www.barrons.com/news/brush-fire-near-los-angeles-forces-thousands-to-evacuate-8a615a86?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 08:08:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hanoi Hits The Brakes On Petrol Bike Ban]]></title>
+<link>https://www.barrons.com/news/hanoi-hits-the-brakes-on-petrol-bike-ban-e0cec857?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 07:53:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China Market For Nvidia AI Chips To Open 'Over Time': Huang]]></title>
+<link>https://www.barrons.com/news/china-market-for-nvidia-ai-chips-to-open-over-time-huang-69cb6361?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 07:38:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Tech Stocks Retreat, Oil Dips After Trump Holds Off On Iran Attack]]></title>
 <link>https://www.barrons.com/news/asian-markets-cautious-oil-dips-after-trump-holds-off-on-iran-attack-456883ee?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 04:40:25 -0000</pubDate>
+<pubDate>Tue, 19 May 2026 07:23:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -89,30 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Argentine Scientists Lay First Traps In Hantavirus Hunt]]></title>
-<link>https://www.barrons.com/news/argentine-scientists-lay-first-traps-in-hantavirus-hunt-4abb9327?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 03:25:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Bolivia Protest Sees Violent Clashes, Looting In La Paz]]></title>
-<link>https://www.barrons.com/news/bolivia-protest-sees-violent-clashes-looting-in-la-paz-3513ea6b?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 03:10:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Los Angeles World Cup Workers Vow Strike Over ICE Guarantees]]></title>
-<link>https://www.barrons.com/news/los-angeles-world-cup-workers-vow-strike-over-ice-guarantees-3e23e8e9?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 02:55:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[ICE Agent Faces Minnesota State Charges Over Migrant Shooting]]></title>
-<link>https://www.barrons.com/news/ice-agent-faces-minnesota-state-charges-over-migrant-shooting-3acec737?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 02:40:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ikea To Cut 850 Jobs At Parent Company]]></title>
 <link>https://www.barrons.com/news/ikea-to-cut-850-jobs-at-parent-company-ab258395?refsec=topics_afp-news</link>
 <pubDate>Mon, 18 May 2026 11:26:57 -0000</pubDate>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Brush Fire Near Los Angeles Forces Thousands To Evacuate]]></title>
-<link>https://www.barrons.com/news/brush-fire-near-los-angeles-forces-thousands-to-evacuate-8a615a86?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 04:40:26 -0000</pubDate>
-<description><![CDATA[A brush fire broke out Monday in the suburbs of Los Angeles, spreading rapidly and prompting authorities to issue evacuation orders for thousands of residents.
+<title><![CDATA[Stellantis Joins Race To Build Mini-EVs For Europe]]></title>
+<link>https://www.barrons.com/news/stellantis-joins-race-to-build-mini-evs-for-europe-b07c122a?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 08:24:00 -0000</pubDate>
+<description><![CDATA[Stellantis, owner of the Jeep and Fiat brands, announced Tuesday that it would start building smaller, low-cost electric cars for the European market, where demand for clean-energy vehicles has fallen short of automakers' hopes.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hanoi Hits The Brakes On Petrol Bike Ban]]></title>
-<link>https://www.barrons.com/news/hanoi-hits-the-brakes-on-petrol-bike-ban-e0cec857?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 04:25:26 -0000</pubDate>
-<description><![CDATA[Millions of exhaust-belching motorbikes zip through Hanoi's narrow streets every day fuelling its chronic air pollution, but authorities have backtracked from an ambitious plan to ban them in favour of electric two-wheelers.
+<title><![CDATA[Malians Tell Of Torture And Killings By Army, Russian Fighters]]></title>
+<link>https://www.barrons.com/news/malians-tell-of-torture-and-killings-by-army-russian-fighters-bb22debe?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 08:09:00 -0000</pubDate>
+<description><![CDATA[Tears soaked Cherifa's veil as she recounted how her son was beheaded by a unit of Malian soldiers and Russian paramilitaries supporting the fight against jihadists.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China Market For Nvidia AI Chips To Open 'Over Time': Huang]]></title>
-<link>https://www.barrons.com/news/china-market-for-nvidia-ai-chips-to-open-over-time-huang-69cb6361?refsec=topics_afp-news</link>
-<pubDate>Tue, 19 May 2026 04:10:26 -0000</pubDate>
-<description><![CDATA[Nvidia boss Jensen Huang expects China to eventually open its market to high-end US chips that can train and run artificial intelligence systems.
+<title><![CDATA[Under Trump Pressure, EU Eyes Deal To End Trade Standoff]]></title>
+<link>https://www.barrons.com/news/under-trump-pressure-eu-eyes-deal-to-end-trade-standoff-98c882b4?refsec=topics_afp-news</link>
+<pubDate>Tue, 19 May 2026 07:54:00 -0000</pubDate>
+<description><![CDATA[The EU hopes Tuesday to strike a deal towards implementing its nearly year-old trade pact with the United States -- with an increasingly impatient Donald Trump threatening steep new tariffs unless it is done by July 4.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
