@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 24 May 2026 11:48:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 13:17:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tariff Refund Boosts Ford Results As It Eyes Higher Metal Costs]]></title>
 <link>https://www.barrons.com/news/tariff-refund-boosts-ford-results-as-it-eyes-higher-metal-costs-bf34a2db?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan Train Blast Kills At Least 24 In Balochistan]]></title>
+<link>https://www.barrons.com/news/pakistan-train-blast-kills-at-least-24-in-balochistan-ae3711b3?refsec=topics_afp-news</link>
+<pubDate>Sun, 24 May 2026 13:17:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Dozens Killed In Blast Targeting Train In SW Pakistan: Official]]></title>
 <link>https://www.barrons.com/news/dozens-killed-in-blast-targeting-train-in-sw-pakistan-official-03a7f1da?refsec=topics_afp-news</link>
 <pubDate>Sun, 24 May 2026 11:48:04 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russia Kills 4 In Massive Ukraine Attack After Vowing Retaliation]]></title>
+<title><![CDATA[Russia Kills 4 In Massive Ukraine Attack Using Nuclear-capable Missile]]></title>
 <link>https://www.barrons.com/news/missile-strikes-pound-kyiv-after-russia-vows-retaliation-57dcc60d?refsec=topics_afp-news</link>
-<pubDate>Sun, 24 May 2026 07:54:39 -0000</pubDate>
+<pubDate>Sun, 24 May 2026 13:02:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Gunman Killed By US Secret Service After Opening Fire Near White House]]></title>
 <link>https://www.barrons.com/news/security-forces-swarm-white-house-after-shots-fired-78922c3a?refsec=topics_afp-news</link>
 <pubDate>Sun, 24 May 2026 05:11:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Large Police Presence Around White House After Reports Of Shots Fired: AFP]]></title>
-<link>https://www.barrons.com/news/large-police-presence-around-white-house-after-reports-of-shots-fired-afp-776ab4f0?refsec=topics_afp-news</link>
-<pubDate>Sun, 24 May 2026 01:30:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Possible Iran-US Deal: What We Know]]></title>
+<link>https://www.barrons.com/news/possible-iran-us-deal-what-we-know-cdb1664c?refsec=topics_afp-news</link>
+<pubDate>Sun, 24 May 2026 13:17:58 -0000</pubDate>
+<description><![CDATA[The United States and Iran appear closer than ever to a deal that would end a war that has engulfed the Middle East and disrupted the global oil market.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Dread And Denial At Heart Of Deadly DR Congo Ebola Outbreak]]></title>
 <link>https://www.barrons.com/news/dread-and-denial-at-heart-of-deadly-dr-congo-ebola-outbreak-81f73430?refsec=topics_afp-news</link>
 <pubDate>Sun, 24 May 2026 11:48:05 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/india-voices-concern-on-us-visas-but-sees-alignment-with-rubio-bbe501d9?refsec=topics_afp-news</link>
 <pubDate>Sun, 24 May 2026 11:33:05 -0000</pubDate>
 <description><![CDATA[India voiced concern on Sunday over a US visa crackdown, striking a rare critical note even as it expressed broad alignment with Secretary of State Marco Rubio on other fractious issues.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan Train Blast Kills At Least 24 In Balochistan]]></title>
-<link>https://www.barrons.com/news/pakistan-train-blast-kills-at-least-24-in-balochistan-ae3711b3?refsec=topics_afp-news</link>
-<pubDate>Sun, 24 May 2026 10:17:42 -0000</pubDate>
-<description><![CDATA[A blast targeting a train carrying military personnel killed at least 24 people on Sunday in Pakistan's turbulent southwestern province of Balochistan, a senior official said.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
