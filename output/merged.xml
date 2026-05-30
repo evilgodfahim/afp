@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 12:45:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 14:26:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hungary To Reform Public Media After Long Pro-Orban Bias]]></title>
+<link>https://www.barrons.com/news/hungary-to-reform-public-media-after-long-pro-orban-bias-0bbdfda0?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 14:26:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hegseth Seems To Rebut Navy Official's Comments On Taiwan Arms Sales]]></title>
 <link>https://www.barrons.com/news/hegseth-seems-to-rebut-navy-official-s-comments-on-taiwan-arms-sales-921c8627?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 09:55:55 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[State, Federal Authorities Spar Amid Protests At US Immigration Detention Center]]></title>
-<link>https://www.barrons.com/news/state-federal-authorities-spar-amid-protests-at-us-immigration-detention-center-ef40720d?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 04:17:37 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Launches More South Lebanon Strikes After Warnings]]></title>
+<link>https://www.barrons.com/news/israel-launches-more-south-lebanon-strikes-after-warnings-a9df8017?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 14:26:11 -0000</pubDate>
+<description><![CDATA[Israel launched strikes across south Lebanon Saturday after ordering evacuations from more than a dozen locations a day after its premier said Israeli forces had pushed even deeper into Lebanese territory.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US, South Korea In Talks Over US Commander's Remarks: Seoul]]></title>
 <link>https://www.barrons.com/news/us-south-korea-in-talks-over-us-commander-s-remarks-seoul-a921abfc?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 09:55:56 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/raise-defence-spending-or-else-hegseth-tells-nato-europe-ed8af0bf?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 07:37:53 -0000</pubDate>
 <description><![CDATA[US Defense Secretary Pete Hegseth took another swipe at Washington's NATO and European partners on Saturday, saying those that do not hike defence spending sufficiently "will face a clear shift in how we do business".
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hungary To Reform Public Media After Long Pro-Orban Bias]]></title>
-<link>https://www.barrons.com/news/hungary-to-reform-public-media-after-long-pro-orban-bias-0bbdfda0?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 07:22:53 -0000</pubDate>
-<description><![CDATA[Fired in 2011 from Hungarian state media for
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
