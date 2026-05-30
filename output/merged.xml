@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 18:05:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 19:47:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Expels New Group Of West Africans To Ghana, Lawyer Says]]></title>
+<link>https://www.barrons.com/news/us-expels-new-group-of-west-africans-to-ghana-lawyer-says-db35a652?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 19:47:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Lebanon PM Denounces Israeli Campaign As Fresh Strikes Hit South]]></title>
 <link>https://www.barrons.com/news/israel-launches-more-south-lebanon-strikes-after-warnings-a9df8017?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 18:05:02 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pentagon Chief Says US Seeks 'Stable Equilibrium' With China In Asia]]></title>
-<link>https://www.barrons.com/news/pentagon-chief-hits-measured-tone-on-china-at-asia-defence-meet-ab30f8e6?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 06:52:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[SoftBank To Spend $87.5bn On AI Centres In France: Son]]></title>
+<link>https://www.barrons.com/news/softbank-to-spend-87-5bn-on-ai-centres-in-france-son-d55bcaee?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 19:47:44 -0000</pubDate>
+<description><![CDATA[Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview released Saturday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France Warns That Strong Storms Could End Deadly Heatwave]]></title>
 <link>https://www.barrons.com/news/france-warns-that-strong-storms-could-end-deadly-heatwave-294226a2?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 18:05:03 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/drag-queens-and-minecraft-players-converge-on-rotterdam-for-twitchcon-0d6f2876?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 17:50:03 -0000</pubDate>
 <description><![CDATA[A venue in Rotterdam turned itself over to fantasy dress-up and gamer fanaticism on the weekend, with thousands attending TwitchCon Europe.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Expels New Group Of West Africans To Ghana, Lawyer Says]]></title>
-<link>https://www.barrons.com/news/us-expels-new-group-of-west-africans-to-ghana-lawyer-says-db35a652?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 16:58:40 -0000</pubDate>
-<description><![CDATA[Another group of west Africans has been sent to Ghana by the United States, including at least one with deportation protections, a lawyer involved with the case told AFP Saturday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
