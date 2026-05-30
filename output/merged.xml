@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 19:47:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 20:51:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Drag Queens And Minecraft Players Converge On Rotterdam For TwitchCon]]></title>
+<link>https://www.barrons.com/news/drag-queens-and-minecraft-players-converge-on-rotterdam-for-twitchcon-0d6f2876?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 20:51:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Expels New Group Of West Africans To Ghana, Lawyer Says]]></title>
 <link>https://www.barrons.com/news/us-expels-new-group-of-west-africans-to-ghana-lawyer-says-db35a652?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 19:47:43 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump 'In Excellent Health' But Should Lose Weight: Presidential Physician]]></title>
-<link>https://www.barrons.com/news/trump-in-excellent-health-but-should-lose-weight-presidential-physician-762eb8aa?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 07:07:52 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Admin Walks Back Recent Green Card Announcement]]></title>
+<link>https://www.barrons.com/news/trump-admin-walks-back-recent-green-card-announcement-34a76198?refsec=topics_afp-news</link>
+<pubDate>Sat, 30 May 2026 20:51:35 -0000</pubDate>
+<description><![CDATA[The Trump administration has walked back its announcement that non-citizens seeking permanent US residency, commonly called a Green Card, would need to return to their home country to apply, The New York Times reported.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[SoftBank To Spend $87.5bn On AI Centres In France: Son]]></title>
 <link>https://www.barrons.com/news/softbank-to-spend-87-5bn-on-ai-centres-in-france-son-d55bcaee?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 19:47:44 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/france-warns-that-strong-storms-could-end-deadly-heatwave-294226a2?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 18:05:03 -0000</pubDate>
 <description><![CDATA[France's weather service warned Saturday that strong storms could mark the end of a record-breaking heatwave blamed for a number of deaths across northern Europe.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Drag Queens And Minecraft Players Converge On Rotterdam For TwitchCon]]></title>
-<link>https://www.barrons.com/news/drag-queens-and-minecraft-players-converge-on-rotterdam-for-twitchcon-0d6f2876?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 17:50:03 -0000</pubDate>
-<description><![CDATA[A venue in Rotterdam turned itself over to fantasy dress-up and gamer fanaticism on the weekend, with thousands attending TwitchCon Europe.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
