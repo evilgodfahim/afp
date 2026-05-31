@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 30 May 2026 23:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 01:33:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[France Warns That Strong Storms Could End Deadly Heatwave]]></title>
+<link>https://www.barrons.com/news/france-warns-that-strong-storms-could-end-deadly-heatwave-294226a2?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 01:33:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Drag Queens And Minecraft Players Converge On Rotterdam For TwitchCon]]></title>
 <link>https://www.barrons.com/news/drag-queens-and-minecraft-players-converge-on-rotterdam-for-twitchcon-0d6f2876?refsec=topics_afp-news</link>
 <pubDate>Sat, 30 May 2026 20:51:34 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Says Capable Of Resuming War With Iran As Deal Remains Elusive]]></title>
-<link>https://www.barrons.com/news/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-5d3f9255?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 17:35:02 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -145,10 +145,10 @@ Delivered by PolitePaul service]]></description>
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France Warns That Strong Storms Could End Deadly Heatwave]]></title>
-<link>https://www.barrons.com/news/france-warns-that-strong-storms-could-end-deadly-heatwave-294226a2?refsec=topics_afp-news</link>
-<pubDate>Sat, 30 May 2026 18:05:03 -0000</pubDate>
-<description><![CDATA[France's weather service warned Saturday that strong storms could mark the end of a record-breaking heatwave blamed for a number of deaths across northern Europe.
+<title><![CDATA[Trump Calls For Replacing US 250th Concerts With MAGA Rally]]></title>
+<link>https://www.barrons.com/news/trump-calls-for-replacing-us-250th-concerts-with-maga-rally-fc25fa13?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 01:33:21 -0000</pubDate>
+<description><![CDATA[US President Donald Trump called Saturday for the cancellation of upcoming concerts celebrating America's 250th anniversary after several musical acts backed out, saying they should be replaced by a political rally headlined by himself.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
