@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 31 May 2026 11:15:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 12:55:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe's Green Jet Fuels See Upside In Iran War]]></title>
+<link>https://www.barrons.com/news/europe-s-green-jet-fuels-see-upside-in-iran-war-6478b69f?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 12:55:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ballot Counting Starts In Malta General Election]]></title>
 <link>https://www.barrons.com/news/ballot-counting-starts-in-malta-general-election-45a18a17?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 11:15:37 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Says No Deal With US Unless Its Rights Secured]]></title>
+<title><![CDATA[Iran Says Does Not Trust US As Trump Toughens Terms]]></title>
 <link>https://www.barrons.com/news/trump-says-iran-has-agreed-to-no-nuclear-weapons-6aba1452?refsec=topics_afp-news</link>
-<pubDate>Sun, 31 May 2026 11:00:37 -0000</pubDate>
+<pubDate>Sun, 31 May 2026 12:40:18 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[After The AI Binge, Companies Balk At Soaring Bills]]></title>
-<link>https://www.barrons.com/news/after-the-ai-binge-companies-balk-at-soaring-bills-c06eabdf?refsec=topics_afp-news</link>
-<pubDate>Sun, 31 May 2026 05:14:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[780 Arrested, Deadly Road Accident In Riotous PSG Victory Celebrations Across France]]></title>
+<link>https://www.barrons.com/news/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france-708e6502?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 12:55:19 -0000</pubDate>
+<description><![CDATA[French authorities announced Sunday that 780 people were arrested across the country when overnight  celebrations of Paris Saint-Germain's Champions League victory over Arsenal were marred by violent clashes, and a road accident that killed a young man.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Malta's Labour Party Wins Historic Fourth Term Amid Mideast Crisis]]></title>
 <link>https://www.barrons.com/news/malta-s-labour-party-wins-historic-fourth-term-preliminary-count-64d6c5fd?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 11:15:38 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/israel-plants-flag-on-medieval-castle-pushes-lebanon-ground-operation-7f8aeb49?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 11:00:38 -0000</pubDate>
 <description><![CDATA[Israel's flag flew over the medieval castle of Beaufort in Lebanon on Sunday, as it warned Lebanese civilians to evacuate a large part of the south of the country ahead of stepped up ground operations.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Europe's Green Jet Fuels See Upside In Iran War]]></title>
-<link>https://www.barrons.com/news/europe-s-green-jet-fuels-see-upside-in-iran-war-6478b69f?refsec=topics_afp-news</link>
-<pubDate>Sun, 31 May 2026 09:12:24 -0000</pubDate>
-<description><![CDATA[At a plant near Frankfurt, in Germany, hydrogen and CO2 sourced from a chlorine factory and a biogas facility nearby are piped into a reactor and -- after a few more steps -- turned into jet fuel.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
