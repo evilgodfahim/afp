@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 31 May 2026 12:55:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 14:40:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israel PM Says Capturing Beaufort 'Dramatic Shift' In Lebanon Offensive]]></title>
+<link>https://www.barrons.com/news/israel-plants-flag-on-medieval-castle-pushes-lebanon-ground-operation-7f8aeb49?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 14:40:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Europe's Green Jet Fuels See Upside In Iran War]]></title>
 <link>https://www.barrons.com/news/europe-s-green-jet-fuels-see-upside-in-iran-war-6478b69f?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 12:55:18 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Totally Hooked': Hong Kong Targets Claw Machine Addiction]]></title>
-<link>https://www.barrons.com/news/totally-hooked-hong-kong-targets-claw-machine-addiction-22a4bd89?refsec=topics_afp-news</link>
-<pubDate>Sun, 31 May 2026 05:29:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Paris Prepares Hero's Welcome For PSG Champions League Winners Under Heavy Security]]></title>
+<link>https://www.barrons.com/news/paris-prepares-hero-s-welcome-for-psg-champions-league-winners-under-heavy-security-9553b01b?refsec=topics_afp-news</link>
+<pubDate>Sun, 31 May 2026 14:40:58 -0000</pubDate>
+<description><![CDATA[Paris prepared a hero's welcome for Paris Saint-Germain players who won their second consecutive Champions League title with celebrations planned in the capital under heavy security after a night of revelry marred by unrest.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[780 Arrested, Deadly Road Accident In Riotous PSG Victory Celebrations Across France]]></title>
 <link>https://www.barrons.com/news/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france-708e6502?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 12:55:19 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/malta-s-labour-party-wins-historic-fourth-term-preliminary-count-64d6c5fd?refsec=topics_afp-news</link>
 <pubDate>Sun, 31 May 2026 11:15:38 -0000</pubDate>
 <description><![CDATA[Malta's Labour party won an unprecedented fourth term Sunday in a victory for outgoing Prime Minister Robert Abela, who had called a snap election in light of geopolitical uncertainties.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel Plants Flag On Medieval Castle, Pushes Lebanon Ground Operation]]></title>
-<link>https://www.barrons.com/news/israel-plants-flag-on-medieval-castle-pushes-lebanon-ground-operation-7f8aeb49?refsec=topics_afp-news</link>
-<pubDate>Sun, 31 May 2026 11:00:38 -0000</pubDate>
-<description><![CDATA[Israel's flag flew over the medieval castle of Beaufort in Lebanon on Sunday, as it warned Lebanese civilians to evacuate a large part of the south of the country ahead of stepped up ground operations.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
