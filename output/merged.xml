@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 01 Jun 2026 20:53:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 22:58:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UN Agency Blocks Trump Official's Appointment Over US Arrears]]></title>
+<link>https://www.barrons.com/news/un-agency-blocks-trump-official-s-appointment-over-us-arrears-9d9dd796?refsec=topics_afp-news</link>
+<pubDate>Mon, 01 Jun 2026 22:58:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Florida Sues OpenAI, CEO Altman Over ChatGPT Harm To Minors]]></title>
 <link>https://www.barrons.com/news/florida-sues-openai-ceo-altman-over-chatgpt-harm-to-minors-4acab7d5?refsec=topics_afp-news</link>
 <pubDate>Mon, 01 Jun 2026 20:53:13 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russia Fired Record 8,150 Drones At Ukraine In May: AFP Analysis]]></title>
-<link>https://www.barrons.com/news/russia-fired-record-8-150-drones-at-ukraine-in-may-afp-analysis-7c8165cb?refsec=topics_afp-news</link>
-<pubDate>Mon, 01 Jun 2026 18:53:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Universal Music Rejects Takeover Bid From Pershing Square]]></title>
 <link>https://www.barrons.com/news/universal-music-rejects-takeover-bid-from-pershing-square-29672354?refsec=topics_afp-news</link>
 <pubDate>Fri, 29 May 2026 20:50:37 -0000</pubDate>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Admin Agrees To Temporarily Freeze 'Slush Fund' For Allies]]></title>
+<link>https://www.barrons.com/news/trump-admin-agrees-to-temporarily-freeze-slush-fund-for-allies-5c00ae19?refsec=topics_afp-news</link>
+<pubDate>Mon, 01 Jun 2026 22:58:57 -0000</pubDate>
+<description><![CDATA[The Justice Department said Monday it will abide by a court order temporarily freezing a $1.8 billion compensation package that critics have denounced as a "slush fund" for President Donald Trump's political allies.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuela Opposition Leader Machado Says 'Aligned' With US Goals]]></title>
 <link>https://www.barrons.com/news/venezuela-opposition-leader-machado-says-aligned-with-us-goals-2306a134?refsec=topics_afp-news</link>
 <pubDate>Mon, 01 Jun 2026 20:38:14 -0000</pubDate>
 <description><![CDATA[Venezuelan opposition leader and Nobel laureate Maria Corina Machado said Monday she was "aligned" with the United States on its goals for her country, following Washington's armed ouster of Nicolas Maduro on January 3.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UN Agency Blocks Trump Official's Appointment Over US Arrears]]></title>
-<link>https://www.barrons.com/news/un-agency-blocks-trump-official-s-appointment-over-us-arrears-9d9dd796?refsec=topics_afp-news</link>
-<pubDate>Mon, 01 Jun 2026 20:23:14 -0000</pubDate>
-<description><![CDATA[The International Labour Organization, the UN's labour agency, has scrapped the appointment of Trump administration official Sheng Li as its deputy director-general over Washington's failure to pay its dues.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
