@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Jun 2026 10:46:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 13:56:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
 <link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Persepolis' Author Marjane Satrapi Dies Aged 56]]></title>
+<link>https://www.barrons.com/news/persepolis-author-marjane-satrapi-dies-aged-56-77bd20d7?refsec=topics_afp-news</link>
+<pubDate>Thu, 04 Jun 2026 13:56:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nepali Climber Alive After Six Days Missing On Everest]]></title>
 <link>https://www.barrons.com/news/nepali-climber-alive-after-six-days-missing-on-everest-5f8a1168?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 10:46:33 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel Strikes Lebanon After Truce Announcement]]></title>
+<title><![CDATA[Israel Strikes Lebanon After 'Last Chance' Truce Announcement]]></title>
 <link>https://www.barrons.com/news/israel-lebanon-agree-to-conditional-ceasefire-b85c4b2a?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 09:31:33 -0000</pubDate>
+<pubDate>Thu, 04 Jun 2026 13:41:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[N. Korea's Kim Vows 'Exponential' Boost In Nuclear Forces]]></title>
 <link>https://www.barrons.com/news/n-korea-s-kim-vows-exponential-boost-in-nuclear-forces-4231453e?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 06:31:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Overtaken By Hong Kong In Global Wealth Management, Swiss Keep Cool]]></title>
-<link>https://www.barrons.com/news/overtaken-by-hong-kong-in-global-wealth-management-swiss-keep-cool-d9fa2cf4?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 06:16:59 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK PM Says Elon Musk 'Trying To Whip Up Division' Over Student's Murder]]></title>
+<link>https://www.barrons.com/news/uk-pm-says-elon-musk-trying-to-whip-up-division-over-student-s-murder-135d2adf?refsec=topics_afp-news</link>
+<pubDate>Thu, 04 Jun 2026 13:56:26 -0000</pubDate>
+<description><![CDATA[UK leader Keir Starmer accused US tech tycoon Elon Musk on Thursday of "trying to whip up division" in Britain following anger over the police handling of the murder of a white student by a Sikh man.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[What We Know About Kushner's Project In Albania]]></title>
 <link>https://www.barrons.com/news/what-we-know-about-kushner-s-project-in-albania-3aaf83f0?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 10:46:35 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/iran-leader-says-dealt-enemies-decisive-blow-in-mideast-war-0dea5d20?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 10:31:35 -0000</pubDate>
 <description><![CDATA[Iran's supreme leader said Thursday that the United States and Israel had been dealt a "decisive blow" in the Middle East war, after the government reported "no tangible progress" in negotiations on ending the conflict.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Persepolis' Author Marjane Satrapi Dies Aged 56]]></title>
-<link>https://www.barrons.com/news/persepolis-author-marjane-satrapi-dies-aged-56-77bd20d7?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 10:16:35 -0000</pubDate>
-<description><![CDATA[Franco-Iranian author and film director Marjane Satrapi, best known for the graphic novel and film "Persepolis", has died aged 56, AFP learned Thursday from a member of her close circle.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
