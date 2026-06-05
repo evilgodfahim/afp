@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 04 Jun 2026 22:52:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 00:02:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[What Do Argentine Scientists Know About Hantavirus So Far?]]></title>
 <link>https://www.barrons.com/news/what-do-argentine-scientists-know-about-hantavirus-so-far-fdafee35?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Confirms Mass Rally, Scrapping US 250th Concerts]]></title>
+<link>https://www.barrons.com/news/trump-confirms-mass-rally-scrapping-us-250th-concerts-7ed4d038?refsec=topics_afp-news</link>
+<pubDate>Fri, 05 Jun 2026 00:02:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Thousands Protest In Albania Against Kushner Real Estate Project]]></title>
+<link>https://www.barrons.com/news/thousands-protest-in-albania-against-kushner-real-estate-project-8e4dc1ff?refsec=topics_afp-news</link>
+<pubDate>Thu, 04 Jun 2026 23:47:41 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[German Serial Killer Found Guilty Of Murder Of French Schoolboy]]></title>
 <link>https://www.barrons.com/news/german-serial-killer-found-guilty-of-murder-of-french-schoolboy-53269b6f?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 22:52:18 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[German Prosecutors Demand Life Term Over Christmas Market Attack]]></title>
-<link>https://www.barrons.com/news/german-prosecutors-demand-life-term-over-christmas-market-attack-b8f28862?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 20:25:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[IMF Boosting Financial Support For Four African Nations Over War Impact]]></title>
-<link>https://www.barrons.com/news/imf-boosting-financial-support-for-four-african-nations-over-war-impact-8614195b?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 20:10:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 21:52:18 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Imposes Sanctions On Cuban President, Castro Family Members]]></title>
+<link>https://www.barrons.com/news/us-imposes-sanctions-on-cuban-president-castro-family-members-f2d0080e?refsec=topics_afp-news</link>
+<pubDate>Fri, 05 Jun 2026 00:02:44 -0000</pubDate>
+<description><![CDATA[The United States announced new sanctions Thursday on Cuba's president and some of his immediate family, alongside members of the Castro family, in Washington's latest ramping up of pressure on its communist-led neighbor.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Anthropic Calls For Pause Of Global AI Development]]></title>
 <link>https://www.barrons.com/news/anthropic-calls-for-pause-of-global-ai-development-48e18c93?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 22:52:19 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/dangerous-livestock-pest-case-confirmed-in-texas-3df9e304?refsec=topics_afp-news</link>
 <pubDate>Thu, 04 Jun 2026 22:37:19 -0000</pubDate>
 <description><![CDATA[The United States said on Thursday that the New World screwworm (NWS) fly, a dangerous livestock pest whose flesh-eating larvae can kill cattle, has been detected in a calf in south Texas.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Thousands Protest In Albania Against Kushner Real Estate Project]]></title>
-<link>https://www.barrons.com/news/thousands-protest-in-albania-against-kushner-real-estate-project-8e4dc1ff?refsec=topics_afp-news</link>
-<pubDate>Thu, 04 Jun 2026 22:22:19 -0000</pubDate>
-<description><![CDATA[Thousands of Albanians protested Thursday evening in Tirana for a fourth consecutive day against a coastal tourism complex allegedly linked to US President Donald Trump's son-in-law Jared Kushner.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
