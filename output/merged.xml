@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Jun 2026 10:00:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 11:40:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Says Church Abuse 'Still An Open Wound' As Spain Trip Begins]]></title>
+<link>https://www.barrons.com/news/pope-visits-polarised-spain-with-focus-on-migrants-70634013?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 11:39:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Airlines Gather In Rio To Chart Course As Horizon Darkens]]></title>
 <link>https://www.barrons.com/news/airlines-gather-in-rio-to-chart-course-as-horizon-darkens-c4def4cb?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 07:44:00 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US VP Vance Blames British Student's Murder On Migrant 'Invasion']]></title>
-<link>https://www.barrons.com/news/us-vp-vance-blames-british-student-s-murder-on-migrant-invasion-0e049829?refsec=topics_afp-news</link>
-<pubDate>Fri, 05 Jun 2026 21:06:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran World Cup Squad Heads To Mexico As US Visa Row Erupts]]></title>
+<link>https://www.barrons.com/news/iran-world-cup-squad-heads-to-mexico-as-us-visa-row-erupts-fb35a157?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 11:40:00 -0000</pubDate>
+<description><![CDATA[Iran lashed out at the United States on Saturday for refusing visas to some of its World Cup squad support staff as the players were to leave Turkey for Mexico.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[India Tightens Security Ahead Of 'Cockroach Party' Protest]]></title>
 <link>https://www.barrons.com/news/india-tightens-security-ahead-of-cockroach-party-protest-e28ecfcd?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 07:44:01 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-f09025fb?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 07:29:01 -0000</pubDate>
 <description><![CDATA[New attacks in the Middle East on Friday threatened to unravel an already fragile US-Iran ceasefire, even as American officials confirmed that Tehran's football players had received visas for the World Cup.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Says Church Abuse 'Still An Open Wound' As Spain Trip Begins]]></title>
-<link>https://www.barrons.com/news/pope-visits-polarised-spain-with-focus-on-migrants-70634013?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 10:00:11 -0000</pubDate>
-<description><![CDATA[Pope Leo XIV on Saturday said sexual abuse within the Catholic Church remained "an open wound" as he began a trip to Spain that will include a meeting with victims.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
