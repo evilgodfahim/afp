@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Jun 2026 17:40:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 19:15:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Police, Protesters Clash In Bolivia At Road Blockade]]></title>
+<link>https://www.barrons.com/news/police-protesters-clash-in-bolivia-at-road-blockade-06d87ab2?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 19:15:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Late French President Chirac's Widow Dies Aged 93: Daughter]]></title>
 <link>https://www.barrons.com/news/late-french-president-chirac-s-widow-dies-aged-93-daughter-f192e54e?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 17:40:34 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Targets Bahrain And Kuwait After New US Strikes]]></title>
-<link>https://www.barrons.com/news/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-f09025fb?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 17:10:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[LA Stadium Workers Threaten Strike Ahead Of World Cup]]></title>
+<link>https://www.barrons.com/news/la-stadium-workers-threaten-strike-ahead-of-world-cup-d65d61e0?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 19:15:53 -0000</pubDate>
+<description><![CDATA[Workers at SoFi Stadium in Los Angeles have overwhelmingly voted to authorize a potential strike during the World Cup, just days before football's global showpiece begins.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Police, Protesters Clash In Bolivia At Road Blockade]]></title>
 <link>https://www.barrons.com/news/police-protesters-clash-in-bolivia-at-road-blockade-26a05b4f?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 17:40:35 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/turkey-probes-billionaire-businessman-95-over-kurdish-woman-joke-17742321?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 16:05:16 -0000</pubDate>
 <description><![CDATA[Prosecutors on Saturday opened a probe into a 95-year-old billionaire and honorary head of Koc Holdings, Turkey's biggest conglomerate, over a joke about a Kurdish woman widely denounced as sexist and racist.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Police, Protesters Clash In Bolivia At Road Blockade]]></title>
-<link>https://www.barrons.com/news/police-protesters-clash-in-bolivia-at-road-blockade-06d87ab2?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 17:25:35 -0000</pubDate>
-<description><![CDATA[Police and anti-government protesters clashed Saturday in the Santa Cruz area of eastern Bolivia, as authorities attempted to clear a road blocked by rural workers demanding President Rodrigo Paz's resignation.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
