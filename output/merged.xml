@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 06 Jun 2026 11:40:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 13:23:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pope Says Church Abuse 'Still An Open Wound' As Spain Trip Begins]]></title>
+<title><![CDATA[India Tightens Security Ahead Of 'Cockroach Party' Protest]]></title>
+<link>https://www.barrons.com/news/india-tightens-security-ahead-of-cockroach-party-protest-e28ecfcd?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 13:23:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Targets Bahrain And Kuwait After Renewed US Strikes]]></title>
+<link>https://www.barrons.com/news/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-f09025fb?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 13:08:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pope Calls For End To Polarisation On Spain Visit]]></title>
 <link>https://www.barrons.com/news/pope-visits-polarised-spain-with-focus-on-migrants-70634013?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 11:39:59 -0000</pubDate>
+<pubDate>Sat, 06 Jun 2026 12:53:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[SpaceX Signs Pre-IPO Deal To Provide AI Computing To Google]]></title>
-<link>https://www.barrons.com/news/spacex-signs-pre-ipo-deal-to-provide-ai-computing-to-google-3d9fbbd1?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 00:03:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Appointee Launches Probe Into California Governor Vote]]></title>
-<link>https://www.barrons.com/news/trump-appointee-launches-probe-into-california-governor-vote-f9fe169c?refsec=topics_afp-news</link>
-<pubDate>Fri, 05 Jun 2026 21:21:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Prevost Is Real Madrid!': Pope Enters Spanish Football Schism]]></title>
+<link>https://www.barrons.com/news/prevost-is-real-madrid-pope-enters-spanish-football-schism-2b31c47a?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 13:23:56 -0000</pubDate>
+<description><![CDATA[Leo XIV tossed away the diplomatic tact usually required of popes as he began a state visit to Spain on Saturday, revealing that his footballing loyalties lie with Real Madrid.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iran World Cup Squad Heads To Mexico As US Visa Row Erupts]]></title>
 <link>https://www.barrons.com/news/iran-world-cup-squad-heads-to-mexico-as-us-visa-row-erupts-fb35a157?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 11:40:00 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India Tightens Security Ahead Of 'Cockroach Party' Protest]]></title>
-<link>https://www.barrons.com/news/india-tightens-security-ahead-of-cockroach-party-protest-e28ecfcd?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 07:44:01 -0000</pubDate>
-<description><![CDATA[Indian police tightened security in New Delhi on Saturday ahead of a protest by the satirical "Cockroach People's Party", over alleged irregularities in major examinations.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US, Iran Trade Strikes Despite Visas For World Cup Footballers]]></title>
-<link>https://www.barrons.com/news/us-iran-trade-strikes-despite-visas-for-world-cup-footballers-f09025fb?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 07:29:01 -0000</pubDate>
-<description><![CDATA[New attacks in the Middle East on Friday threatened to unravel an already fragile US-Iran ceasefire, even as American officials confirmed that Tehran's football players had received visas for the World Cup.
+<title><![CDATA[Israeli Strike Kills Three Lebanese Soldiers]]></title>
+<link>https://www.barrons.com/news/israeli-strike-kills-three-lebanese-soldiers-d71f408c?refsec=topics_afp-news</link>
+<pubDate>Sat, 06 Jun 2026 13:08:56 -0000</pubDate>
+<description><![CDATA[An Israeli strike on a vehicle in southern Lebanon killed three soldiers, Beirut's military said Saturday, days after the countries agreed a conditional truce during talks in the United States.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
