@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Jun 2026 18:46:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 20:07:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bolivian Congress Gives Paz Power To Use Troops Against Crippling Protests]]></title>
+<link>https://www.barrons.com/news/bolivian-congress-gives-paz-power-to-use-troops-against-crippling-protests-82065626?refsec=topics_afp-news</link>
+<pubDate>Sun, 07 Jun 2026 20:07:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[French Mobile Operators Agree 20.4-bn-euro Joint Bid For SFR]]></title>
 <link>https://www.barrons.com/news/french-mobile-operators-agree-20-4-bn-euro-joint-bid-for-sfr-ffa5665b?refsec=topics_afp-news</link>
 <pubDate>Sun, 07 Jun 2026 18:46:40 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Threatens Retaliation Against US, Israel After Strikes On Beirut]]></title>
+<title><![CDATA[Israel Reports Incoming Iranian Missiles In First Since Mideast War Ceasefire]]></title>
 <link>https://www.barrons.com/news/us-says-shot-down-iran-drones-as-war-reaches-100th-day-b897c3af?refsec=topics_afp-news</link>
-<pubDate>Sun, 07 Jun 2026 18:16:40 -0000</pubDate>
+<pubDate>Sun, 07 Jun 2026 19:52:57 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Russian Strikes Kill Five, Damage Nuclear Storage Facility: Kyiv]]></title>
-<link>https://www.barrons.com/news/russian-strikes-kill-four-damage-nuclear-storage-facility-kyiv-781042bc?refsec=topics_afp-news</link>
-<pubDate>Sun, 07 Jun 2026 16:26:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Storms Out Of Tense, Rain-plagued NBC Interview]]></title>
+<link>https://www.barrons.com/news/trump-storms-out-of-tense-rain-plagued-nbc-interview-c6ffb375?refsec=topics_afp-news</link>
+<pubDate>Sun, 07 Jun 2026 20:07:58 -0000</pubDate>
+<description><![CDATA[President Donald Trump lasted through probing questions about his Iran war strategy and repeated weather disruptions during an interview with US broadcaster NBC -- but angrily stormed out when confronted over his unfounded claims of election fraud.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Europe Opening Up To Self-driving Taxis]]></title>
 <link>https://www.barrons.com/news/europe-opening-up-to-self-driving-taxis-e43339fe?refsec=topics_afp-news</link>
 <pubDate>Sun, 07 Jun 2026 18:46:41 -0000</pubDate>
@@ -140,15 +147,8 @@ Delivered by PolitePaul service]]></description>
 <item>
 <title><![CDATA[Zelensky Meets Allies In UK After Strike Hits Ukraine Nuclear Site]]></title>
 <link>https://www.barrons.com/news/zelensky-meets-allies-in-uk-after-strike-hits-ukraine-nuclear-site-f67eae59?refsec=topics_afp-news</link>
-<pubDate>Sun, 07 Jun 2026 17:11:39 -0000</pubDate>
-<description><![CDATA[Ukrainian President Volodymyr Zelenksy arrived in Britain Sunday for defence talks with leaders of the UK, France and Germany after new Russian strikes killed five people and hit a nuclear site in Ukraine.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Bolivian Congress Gives Paz Power To Use Troops Against Crippling Protests]]></title>
-<link>https://www.barrons.com/news/bolivian-congress-gives-paz-power-to-use-troops-against-crippling-protests-82065626?refsec=topics_afp-news</link>
-<pubDate>Sun, 07 Jun 2026 16:56:39 -0000</pubDate>
-<description><![CDATA[Bolivia's legislature gave the green light on Sunday for President Rodrigo Paz to use the military to clear roadblocks that have crippled key cities for weeks.
+<pubDate>Sun, 07 Jun 2026 19:52:58 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky arrived in Britain Sunday for defence talks with leaders of the UK, France and Germany after new Russian strikes killed five people and hit a nuclear site in Ukraine.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
