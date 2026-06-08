@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 08 Jun 2026 20:38:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 22:23:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Kennedy Center Drops Trump Name From Website]]></title>
+<link>https://www.barrons.com/news/kennedy-center-drops-trump-name-from-website-a21df509?refsec=topics_afp-news</link>
+<pubDate>Mon, 08 Jun 2026 22:23:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bolivia Protests: President Warns 'Narcoterrorists' Days Numbered]]></title>
 <link>https://www.barrons.com/news/bolivia-protests-president-warns-narcoterrorists-days-numbered-f97685c1?refsec=topics_afp-news</link>
 <pubDate>Mon, 08 Jun 2026 20:38:17 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nintendo Agrees To 35 Mn Euro French Fine Over Faulty Switch Controllers]]></title>
-<link>https://www.barrons.com/news/nintendo-agrees-to-35-mn-euro-french-fine-over-faulty-switch-controllers-0b49ed9d?refsec=topics_afp-news</link>
-<pubDate>Mon, 08 Jun 2026 17:07:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[OpenAI Makes Move To Go Public One Week After Rival Anthropic]]></title>
+<link>https://www.barrons.com/news/openai-makes-move-to-go-public-one-week-after-rival-anthropic-d31351ad?refsec=topics_afp-news</link>
+<pubDate>Mon, 08 Jun 2026 22:23:06 -0000</pubDate>
+<description><![CDATA[ChatGPT-maker OpenAI on Monday took the first step toward going public, one week after arch-rival Anthropic announced its own filing, as both companies look to raise the massive sums needed to expand.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Killing The Mood: Smartphones Reduce Birth Rate, Studies Say]]></title>
 <link>https://www.barrons.com/news/killing-the-mood-smartphones-reduce-birth-rate-studies-say-4c244ce9?refsec=topics_afp-news</link>
 <pubDate>Mon, 08 Jun 2026 20:38:18 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/earthquake-rattles-cuban-capital-havana-afp-reporters-2567cadc?refsec=topics_afp-news</link>
 <pubDate>Mon, 08 Jun 2026 20:23:18 -0000</pubDate>
 <description><![CDATA[A strong earthquake struck off the coast of western Cuba on Monday, with AFP journalists in Havana reporting 20 seconds of shaking that forced Cubans out of buildings and into the streets.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Kennedy Center Drops Trump Name From Website]]></title>
-<link>https://www.barrons.com/news/kennedy-center-drops-trump-name-from-website-a21df509?refsec=topics_afp-news</link>
-<pubDate>Mon, 08 Jun 2026 18:22:49 -0000</pubDate>
-<description><![CDATA[The Kennedy Center on Monday dropped US President Donald Trump's name from the website of the performing arts venue.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
