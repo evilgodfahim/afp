@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 10 Jun 2026 17:55:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 20:24:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[SpaceX's Historic IPO By The Numbers]]></title>
+<link>https://www.barrons.com/news/spacex-s-historic-ipo-by-the-numbers-504430c5?refsec=topics_afp-news</link>
+<pubDate>Wed, 10 Jun 2026 20:24:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Norm-breaking SpaceX IPO A Source Of Elation, Angst On Wall Street]]></title>
 <link>https://www.barrons.com/news/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street-152892eb?refsec=topics_afp-news</link>
 <pubDate>Wed, 10 Jun 2026 17:55:10 -0000</pubDate>
@@ -68,6 +74,12 @@
 <title><![CDATA[Trump Orders Downsizing Of Key Intelligence Office]]></title>
 <link>https://www.barrons.com/news/trump-orders-downsizing-of-key-intelligence-office-398b82a4?refsec=topics_afp-news</link>
 <pubDate>Wed, 10 Jun 2026 17:40:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pentagon Chief Visits Guantanamo, Warns Cuba Against Threatening US]]></title>
+<link>https://www.barrons.com/news/pentagon-chief-visits-guantanamo-warns-cuba-against-threatening-us-ff2eebda?refsec=topics_afp-news</link>
+<pubDate>Wed, 10 Jun 2026 20:09:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Israel's Netanyahu To Seek Re-election Despite Trump Doubts, War Strains]]></title>
-<link>https://www.barrons.com/news/israel-s-netanyahu-to-seek-re-election-despite-trump-doubts-war-strains-55c0001b?refsec=topics_afp-news</link>
-<pubDate>Wed, 10 Jun 2026 14:34:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Vows Fresh Iran Strikes After 'Playing Us For Suckers']]></title>
-<link>https://www.barrons.com/news/trump-says-iran-taken-too-long-to-negotiate-will-have-to-pay-the-price-123df034?refsec=topics_afp-news</link>
-<pubDate>Wed, 10 Jun 2026 16:10:10 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
 <pubDate>Sat, 06 Jun 2026 03:34:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Frasers Makes 2-bn-euro Offer For Hugo Boss]]></title>
+<link>https://www.barrons.com/news/frasers-makes-2-bn-euro-offer-for-hugo-boss-3bc02bf4?refsec=topics_afp-news</link>
+<pubDate>Wed, 10 Jun 2026 20:24:24 -0000</pubDate>
+<description><![CDATA[British clothing group Frasers announced Wednesday a nearly two-billion-euro ($2.3 billion) offer to acquire outstanding shares in German men's premium apparel firm Hugo Boss.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Says Will Attend World Cup]]></title>
 <link>https://www.barrons.com/news/trump-says-will-attend-world-cup-6de4db8d?refsec=topics_afp-news</link>
 <pubDate>Wed, 10 Jun 2026 17:55:11 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/nasa-head-defends-artemis-3-crew-of-all-men-ed7f1121?refsec=topics_afp-news</link>
 <pubDate>Wed, 10 Jun 2026 17:40:11 -0000</pubDate>
 <description><![CDATA[NASA's administrator Jared Isaacman on Wednesday defended the makeup of the space agency's latest Artemis crew, an all-male group.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[SpaceX's Historic IPO By The Numbers]]></title>
-<link>https://www.barrons.com/news/spacex-s-historic-ipo-by-the-numbers-504430c5?refsec=topics_afp-news</link>
-<pubDate>Wed, 10 Jun 2026 17:25:11 -0000</pubDate>
-<description><![CDATA[The stock market debut of SpaceX -- Elon Musk's rocket, satellite and company -- expected Friday, could be the biggest in history. Here are the key numbers.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
