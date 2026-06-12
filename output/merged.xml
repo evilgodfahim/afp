@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 12 Jun 2026 08:21:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 11:58:04 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Pledges Support To Embattled Bolivian President]]></title>
 <link>https://www.barrons.com/news/us-pledges-support-to-embattled-bolivian-president-73205d63?refsec=topics_afp-news</link>
@@ -59,6 +59,30 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Urges Migrants To Integrate During Canary Islands Visit]]></title>
+<link>https://www.barrons.com/news/all-of-us-of-are-migrants-pope-says-in-canary-islands-4e66c4a3?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:58:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[A Year After Deadly Air India Crash, Families Await Answers]]></title>
+<link>https://www.barrons.com/news/a-year-after-deadly-air-india-crash-families-await-answers-cca4eda8?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:43:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US Submarine Group To Arrive In Australia This Year: Minister]]></title>
+<link>https://www.barrons.com/news/us-submarine-group-to-arrive-in-australia-this-year-minister-a871e5ba?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:28:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Indonesian Messi Superfan Welcomes World Cup]]></title>
+<link>https://www.barrons.com/news/indonesian-messi-superfan-welcomes-world-cup-3f10fa02?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:13:03 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thai Princess Dies Aged 47 After Three Years In Hospital]]></title>
 <link>https://www.barrons.com/news/thai-princess-dies-aged-47-after-three-years-in-hospital-8d48f144?refsec=topics_afp-news</link>
 <pubDate>Fri, 12 Jun 2026 08:21:14 -0000</pubDate>
@@ -77,39 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks Up, Oil Down On Mideast Deal Hopes]]></title>
+<title><![CDATA[Stocks Rally, Oil Slides On Mideast Deal Hopes]]></title>
 <link>https://www.barrons.com/news/asia-stocks-up-oil-down-on-mideast-deal-hopes-05d0ce3d?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 07:36:14 -0000</pubDate>
+<pubDate>Fri, 12 Jun 2026 10:58:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[S. Korea's Ex-president Gets 30 Years Over North Korea Drone Incident]]></title>
+<title><![CDATA[South Korea Ex-president Gets 30 Years In Jail Over North Drone Incursion]]></title>
 <link>https://www.barrons.com/news/s-korea-s-ex-president-gets-30-years-over-north-korea-drone-incident-cf011c63?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 07:21:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[SpaceX IPO Set For Liftoff In Record Market Debut]]></title>
-<link>https://www.barrons.com/news/spacex-ipo-set-for-liftoff-in-record-market-debut-e3851357?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 07:06:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Battery On Wheels': Sweden Powers Homes With EVs]]></title>
-<link>https://www.barrons.com/news/battery-on-wheels-sweden-powers-homes-with-evs-c50d466d?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 06:51:14 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[From Cage Fights To The White House, UFC Marches Into Mainstream]]></title>
-<link>https://www.barrons.com/news/from-cage-fights-to-the-white-house-ufc-marches-into-mainstream-9ec4fb14?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 03:34:00 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Happy Birthday Mr. President: Trump To Turn 80 With Cage Fight]]></title>
-<link>https://www.barrons.com/news/happy-birthday-mr-president-trump-to-turn-80-with-cage-fight-e81452fd?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 03:19:00 -0000</pubDate>
+<pubDate>Fri, 12 Jun 2026 10:43:03 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[A Year After Deadly Air India Crash, Families Await Answers]]></title>
-<link>https://www.barrons.com/news/a-year-after-deadly-air-india-crash-families-await-answers-cca4eda8?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 08:21:15 -0000</pubDate>
-<description><![CDATA[Families of those killed in last year's Air India plane crash gathered at the site on Friday to mark the anniversary of the disaster, still awaiting answers about its cause.
+<title><![CDATA[Iran Insists On Nuclear Enrichment Under Any Deal With US]]></title>
+<link>https://www.barrons.com/news/iran-insists-on-nuclear-enrichment-under-any-deal-with-us-1b481a8d?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:58:04 -0000</pubDate>
+<description><![CDATA[Iran insisted on Friday on its right to enrich uranium and maintain control over the Strait of Hormuz under any deal with the United States, after President Donald Trump said a draft accord was ready.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Submarine Group To Arrive In Australia This Year: Minister]]></title>
-<link>https://www.barrons.com/news/us-submarine-group-to-arrive-in-australia-this-year-minister-a871e5ba?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 08:06:15 -0000</pubDate>
-<description><![CDATA[The United States Navy will deploy a nuclear-powered submarine squadron to a strategic Australian navy port this year, Canberra's defence minister said on Friday.
+<title><![CDATA[British Art 'Giant' David Hockney Dies Aged 88]]></title>
+<link>https://www.barrons.com/news/british-art-giant-david-hockney-dies-aged-88-d7120c73?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:43:04 -0000</pubDate>
+<description><![CDATA[British artist David Hockney, one of the most influential and defining figures in contemporary art, whose paintings captured the world in brilliant colour, has died aged 88, his publicist announced Friday.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Indonesian Messi Superfan Welcomes World Cup]]></title>
-<link>https://www.barrons.com/news/indonesian-messi-superfan-welcomes-world-cup-3f10fa02?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 07:51:15 -0000</pubDate>
-<description><![CDATA[On the balcony of his house in Indonesia, Muhammad Yusuf swayed to blaring music and waved a replica of the World Cup trophy as hundreds paraded past, many decked out in Argentina's colours.
+<title><![CDATA[David Hockney: Contemporary Master Of Brilliant, Bold Colours]]></title>
+<link>https://www.barrons.com/news/david-hockney-contemporary-master-of-brilliant-bold-colours-a1a7ca0b?refsec=topics_afp-news</link>
+<pubDate>Fri, 12 Jun 2026 11:28:04 -0000</pubDate>
+<description><![CDATA[British artist David Hockney's paintings captured the world in brilliant colour, from carefree 1960s California to the bucolic landscapes of his native Yorkshire.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
