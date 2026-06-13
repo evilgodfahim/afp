@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Jun 2026 16:11:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 17:51:57 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Confirms Iranian Footballers Granted Visas For World Cup]]></title>
 <link>https://www.barrons.com/news/us-confirms-iranian-footballers-granted-visas-for-world-cup-2bd8a33d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Betting Firm Sponsorships Spark Election Integrity Fears]]></title>
+<link>https://www.barrons.com/news/us-betting-firm-sponsorships-spark-election-integrity-fears-806cae9a?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 17:51:56 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[James Talarico, The Soft-spoken Democratic Teacher Winning Over Texans]]></title>
 <link>https://www.barrons.com/news/james-talarico-the-soft-spoken-democratic-teacher-winning-over-texans-78954af0?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 14:36:36 -0000</pubDate>
@@ -101,15 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Removal Of Trump's Name From Kennedy Center Begins After Court Ruling]]></title>
+<title><![CDATA[Trump's Name Removed From Washington Arts Center]]></title>
 <link>https://www.barrons.com/news/judge-rejects-bid-to-halt-removal-of-trump-s-name-from-kennedy-center-32f0fcec?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 14:21:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Clears Paramount's $111 Bn Warner Bros. Takeover]]></title>
-<link>https://www.barrons.com/news/us-clears-paramount-s-111-bn-warner-bros-takeover-a43bc874?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 23:43:27 -0000</pubDate>
+<pubDate>Sat, 13 Jun 2026 17:36:56 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump To Participate In G7 Working Session With Zelensky: Official]]></title>
+<link>https://www.barrons.com/news/trump-to-participate-in-g7-working-session-with-zelensky-official-e4d98015?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 17:51:57 -0000</pubDate>
+<description><![CDATA[US President Donald Trump will take part in a G7 working session with Ukraine's Volodymyr Zelensky in France on Tuesday, but no bilateral meeting between the two is scheduled, a senior administration official said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ghana Protests To Canada After Player Partey Is Denied Visa For World Cup]]></title>
 <link>https://www.barrons.com/news/ghana-protests-to-canada-after-player-partey-is-denied-visa-for-world-cup-59e176f6?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 14:36:38 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says-2f0cea30?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 14:21:38 -0000</pubDate>
 <description><![CDATA[The United States and Iran could finalise an agreement to end the Middle East war within as little as 24 hours, mediator Pakistan said Saturday, after both sides expressed optimism about the chances of concluding a deal.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Betting Firm Sponsorships Spark Election Integrity Fears]]></title>
-<link>https://www.barrons.com/news/us-betting-firm-sponsorships-spark-election-integrity-fears-806cae9a?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 04:14:41 -0000</pubDate>
-<description><![CDATA[A US mayoral race triggered a flood of misinformation from online influencers sponsored by betting companies -- exposing a new threat analysts warn could undermine the integrity of future elections.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
