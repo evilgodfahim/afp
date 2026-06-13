@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Jun 2026 19:19:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 20:47:07 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
+<link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 20:47:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US Confirms Iranian Footballers Granted Visas For World Cup]]></title>
 <link>https://www.barrons.com/news/us-confirms-iranian-footballers-granted-visas-for-world-cup-2bd8a33d?refsec=topics_afp-news</link>
@@ -53,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Billion-dollar Energy Deals Signal US Push Into Balkans]]></title>
-<link>https://www.barrons.com/news/croatia-bosnia-sign-major-gas-pipeline-deal-43f2f077?refsec=topics_afp-news</link>
-<pubDate>Fri, 15 May 2026 02:47:40 -0000</pubDate>
+<title><![CDATA[Trump Says US-Iran Deal To Be Signed Sunday, Hormuz To Open Afterwards]]></title>
+<link>https://www.barrons.com/news/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says-2f0cea30?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 20:47:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Lebanon Reports Strikes On South, East As Israel Issues Broad Evacuation Warnings]]></title>
+<link>https://www.barrons.com/news/lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuation-warnings-4f648ebe?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 20:32:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -71,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Venezuela Operation Kills Leader Of Tren De Aragua Gang]]></title>
-<link>https://www.barrons.com/news/us-venezuela-operation-kills-leader-of-tren-de-aragua-gang-afbb306a?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 16:11:33 -0000</pubDate>
+<title><![CDATA[Anthropic Cuts Access To AI Models Over US 'National Security' Order]]></title>
+<link>https://www.barrons.com/news/anthropic-cuts-access-to-ai-models-over-us-national-security-order-a68226ec?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 20:17:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,21 +113,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rotting Body Found Near Iran's World Cup Training Venue]]></title>
-<link>https://www.barrons.com/news/rotting-body-found-near-iran-s-world-cup-training-venue-9f6e3971?refsec=topics_afp-news</link>
-<pubDate>Fri, 12 Jun 2026 23:58:27 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump's Name Removed From Washington Arts Center]]></title>
-<link>https://www.barrons.com/news/judge-rejects-bid-to-halt-removal-of-trump-s-name-from-kennedy-center-32f0fcec?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 17:36:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 03:14:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US-Venezuela Operation Kills Leader Of Tren De Aragua Gang]]></title>
+<link>https://www.barrons.com/news/us-venezuela-operation-kills-leader-of-tren-de-aragua-gang-afbb306a?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 16:11:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -125,10 +131,11 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
-<link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
-<pubDate>Sat, 06 Jun 2026 03:19:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
+<title><![CDATA[Albania Targets 20 In Crime Crackdown, Possible Ties To Trump-linked Project]]></title>
+<link>https://www.barrons.com/news/albania-targets-20-in-crime-crackdown-possible-ties-to-trump-linked-project-d1ffaba3?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 20:47:07 -0000</pubDate>
+<description><![CDATA[Albanian prosecutors said Saturday they had demanded the arrest of 20 people over alleged drug-trafficking and money-laundering, with media saying some may have ties to a resort project linked to relatives of Donald Trump.
+Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Trump To Participate In G7 Working Session With Zelensky: Official]]></title>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/ghana-protests-to-canada-after-player-partey-is-denied-visa-for-world-cup-59e176f6?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 14:36:38 -0000</pubDate>
 <description><![CDATA[Ghana said Saturday it has formally lodged a protest over Canada's refusal to issue a visa for the World Cup to player Thomas Partey, who is facing trial in Britain on rape charges.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Says US-Iran Deal To Be Signed Sunday, Hormuz To Open Afterwards]]></title>
-<link>https://www.barrons.com/news/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says-2f0cea30?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 19:19:46 -0000</pubDate>
-<description><![CDATA[US President Donald Trump said Saturday that a deal with Iran to end the war in the Middle East would be signed on Sunday, and that the strategic Strait of Hormuz would be "open to all" immediately after.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
