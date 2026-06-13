@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Jun 2026 21:59:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 23:14:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
 <link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ghana Protests To Canada After Player Partey Is Denied Visa For World Cup]]></title>
+<link>https://www.barrons.com/news/ghana-protests-to-canada-after-player-partey-is-denied-visa-for-world-cup-59e176f6?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 23:14:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Says US-Iran Deal To Be Signed Sunday, Hormuz To Open Afterwards]]></title>
 <link>https://www.barrons.com/news/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says-2f0cea30?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 20:47:06 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[SpaceX: Five Key Moments, From First Launch To Starship Megarocket]]></title>
-<link>https://www.barrons.com/news/spacex-five-key-moments-from-first-launch-to-starship-megarocket-c45a004b?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 03:44:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 03:14:40 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[High-school Drop Out To Big Time Crime Boss, Venezuela's 'Nino Guerrero']]></title>
+<link>https://www.barrons.com/news/high-school-drop-out-to-big-time-crime-boss-venezuela-s-nino-guerrero-982d9c64?refsec=topics_afp-news</link>
+<pubDate>Sat, 13 Jun 2026 23:14:10 -0000</pubDate>
+<description><![CDATA[The Tren de Aragua leader killed in a US-Venezuelan raid was a high school dropout who lived in comfort behind bars as he transformed a prison gang into one of the most powerful and extensive criminal organizations in Latin America.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Albania Targets 20 In Crime Crackdown, Possible Ties To Trump-linked Project]]></title>
 <link>https://www.barrons.com/news/albania-targets-20-in-crime-crackdown-possible-ties-to-trump-linked-project-d1ffaba3?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 20:47:07 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-to-participate-in-g7-working-session-with-zelensky-official-e4d98015?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 17:51:57 -0000</pubDate>
 <description><![CDATA[US President Donald Trump will take part in a G7 working session with Ukraine's Volodymyr Zelensky in France on Tuesday, but no bilateral meeting between the two is scheduled, a senior administration official said.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ghana Protests To Canada After Player Partey Is Denied Visa For World Cup]]></title>
-<link>https://www.barrons.com/news/ghana-protests-to-canada-after-player-partey-is-denied-visa-for-world-cup-59e176f6?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 14:36:38 -0000</pubDate>
-<description><![CDATA[Ghana said Saturday it has formally lodged a protest over Canada's refusal to issue a visa for the World Cup to player Thomas Partey, who is facing trial in Britain on rape charges.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
