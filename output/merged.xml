@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Jun 2026 17:55:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 19:23:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
 <link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[South Africa Says 2,745 Foreigners Sent Home In A Week]]></title>
+<link>https://www.barrons.com/news/south-africa-says-2-745-foreigners-sent-home-in-a-week-c1599325?refsec=topics_afp-news</link>
+<pubDate>Sun, 14 Jun 2026 19:23:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Zelensky Says Will Discuss Ukraine War With Trump At G7 Summit]]></title>
 <link>https://www.barrons.com/news/zelensky-says-will-discuss-ukraine-war-with-trump-at-g7-summit-adf62031?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 17:55:54 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Knicks' Jalen Brunson Named NBA Finals MVP]]></title>
-<link>https://www.barrons.com/news/knicks-jalen-brunson-named-nba-finals-mvp-44713c88?refsec=topics_afp-news</link>
-<pubDate>Sun, 14 Jun 2026 12:21:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 03:14:40 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Order Cutting Access To Anthropic's AI Models Sparks Criticism]]></title>
+<link>https://www.barrons.com/news/us-order-cutting-access-to-anthropic-s-ai-models-sparks-criticism-ff56d818?refsec=topics_afp-news</link>
+<pubDate>Sun, 14 Jun 2026 19:23:07 -0000</pubDate>
+<description><![CDATA[The US government's order for Anthropic to withdraw its most powerful artificial intelligence models has sparked a wave of criticism from both advocates and opponents of AI regulation.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[In Crisis-hit Cuba, World Cup Offers Brief Respite]]></title>
 <link>https://www.barrons.com/news/in-crisis-hit-cuba-world-cup-offers-brief-respite-5f217bd9?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 17:55:55 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/six-killed-as-helicopters-collide-in-rio-de-janeiro-b74a70a1?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 17:40:55 -0000</pubDate>
 <description><![CDATA[At least six people died in Brazil on Sunday after two helicopters collided in western Rio de Janeiro, firefighters said.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South Africa Says 2,745 Foreigners Sent Home In A Week]]></title>
-<link>https://www.barrons.com/news/south-africa-says-2-745-foreigners-sent-home-in-a-week-c1599325?refsec=topics_afp-news</link>
-<pubDate>Sun, 14 Jun 2026 16:18:48 -0000</pubDate>
-<description><![CDATA[South Africa has repatriated 2,745 foreigners in the week after President Cyril Ramaphosa vowed tougher action against illegal immigration, the country's home affairs minister said on Sunday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
