@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 14 Jun 2026 12:21:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 14:38:48 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
 <link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Tiny Curacao Tackle Germany At World Cup As Iran Arrive In US]]></title>
+<link>https://www.barrons.com/news/tiny-curacao-tackle-germany-at-world-cup-as-iran-arrive-in-us-71896bc3?refsec=topics_afp-news</link>
+<pubDate>Sun, 14 Jun 2026 14:38:47 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Knicks' Jalen Brunson Named NBA Finals MVP]]></title>
 <link>https://www.barrons.com/news/knicks-jalen-brunson-named-nba-finals-mvp-44713c88?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 12:21:28 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Swiss Reject Divisive Anti-immigration Proposal: Projections]]></title>
-<link>https://www.barrons.com/news/swiss-head-to-polls-in-divisive-anti-immigration-vote-22aae7d0?refsec=topics_afp-news</link>
-<pubDate>Sun, 14 Jun 2026 12:06:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 03:14:40 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[China Direct Strike Threat To Australia 'Growing': Report]]></title>
+<link>https://www.barrons.com/news/china-direct-strike-threat-to-australia-growing-report-b1b0e66d?refsec=topics_afp-news</link>
+<pubDate>Sun, 14 Jun 2026 14:38:48 -0000</pubDate>
+<description><![CDATA[China is capable of a direct missile strike on Australia and the threat is growing as Beijing amasses long-range and hypersonic weapons and builds islands in the South China Sea, an Australian think tank said on Sunday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Israel Says Strikes Hezbollah Targets In Beirut's Southern Suburbs]]></title>
 <link>https://www.barrons.com/news/israel-says-strikes-hezbollah-targets-in-beirut-s-southern-suburbs-41729112?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 12:21:29 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/protests-set-to-grip-geneva-ahead-of-g7-summit-1b177eee?refsec=topics_afp-news</link>
 <pubDate>Sun, 14 Jun 2026 10:22:15 -0000</pubDate>
 <description><![CDATA[Thousands of protesters were expected to rally in Geneva on Sunday under a heavy police presence ahead of the G7 summit in Evian in neighbouring France, amid fears of a repeat of the violence that marked a similar summit in 2003.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tiny Curacao Tackle Germany At World Cup As Iran Arrive In US]]></title>
-<link>https://www.barrons.com/news/tiny-curacao-tackle-germany-at-world-cup-as-iran-arrive-in-us-71896bc3?refsec=topics_afp-news</link>
-<pubDate>Sun, 14 Jun 2026 10:07:15 -0000</pubDate>
-<description><![CDATA[The smallest nation by population in the tournament comes face-to-face with the four-time winners on Sunday when tiny Curacao play Germany in a true World Cup fairytale.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
