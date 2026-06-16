@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 16 Jun 2026 20:11:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 22:28:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Air Canada Suspends Cuba Operations 'Indefinitely']]></title>
 <link>https://www.barrons.com/news/air-canada-suspends-cuba-operations-indefinitely-40afa7b8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[EU Admits It Can't Save Discontinued Video Games]]></title>
+<link>https://www.barrons.com/news/eu-admits-it-can-t-save-discontinued-video-games-d90483f7?refsec=topics_afp-news</link>
+<pubDate>Tue, 16 Jun 2026 22:28:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[BMW Downgrades 2026 Targets On Mideast War, China Woes]]></title>
 <link>https://www.barrons.com/news/bmw-downgrades-2026-targets-on-mideast-war-china-woes-74830791?refsec=topics_afp-news</link>
 <pubDate>Tue, 16 Jun 2026 20:11:01 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Surging SpaceX Overtakes Amazon To Become 5th Biggest Company]]></title>
+<title><![CDATA[After Three Sessions, SpaceX Already Among World's Most Valuable Companies]]></title>
 <link>https://www.barrons.com/news/surging-spacex-overtakes-amazon-to-become-5th-biggest-company-47fb9a85?refsec=topics_afp-news</link>
-<pubDate>Tue, 16 Jun 2026 19:41:01 -0000</pubDate>
+<pubDate>Tue, 16 Jun 2026 22:13:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Alleged Plot To Attack White House Fight Night Thwarted: FBI]]></title>
-<link>https://www.barrons.com/news/alleged-plot-to-attack-white-house-fight-night-foiled-fbi-b40f3e96?refsec=topics_afp-news</link>
-<pubDate>Tue, 16 Jun 2026 19:11:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
 <pubDate>Sat, 13 Jun 2026 03:14:40 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Swamp Thing: Algae Mess With Trump's Pool Project]]></title>
+<link>https://www.barrons.com/news/swamp-thing-algae-mess-with-trump-s-pool-project-b2d3767c?refsec=topics_afp-news</link>
+<pubDate>Tue, 16 Jun 2026 22:28:31 -0000</pubDate>
+<description><![CDATA[One of President Donald Trump's pet beauty projects for Washington was supposed to make the Lincoln Memorial Reflecting Pool look blue, like part of the US flag.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russian Warship Fires 'Warning Shots' At UK Yacht In Channel]]></title>
 <link>https://www.barrons.com/news/russian-warship-fires-warning-shots-at-uk-yacht-in-channel-0b21e2a9?refsec=topics_afp-news</link>
 <pubDate>Tue, 16 Jun 2026 20:11:02 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/swiss-us-iran-deal-venue-a-playground-of-world-leaders-movie-stars-f408c5f0?refsec=topics_afp-news</link>
 <pubDate>Tue, 16 Jun 2026 19:56:02 -0000</pubDate>
 <description><![CDATA[The uber-plush Burgenstock resort perched high above Switzerland's Lake Lucerne provides the dramatic setting for Friday's planned signing of the US-Iran memorandum of understanding to end nearly four months of war.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[EU Admits It Can't Save Discontinued Video Games]]></title>
-<link>https://www.barrons.com/news/eu-admits-it-can-t-save-discontinued-video-games-d90483f7?refsec=topics_afp-news</link>
-<pubDate>Tue, 16 Jun 2026 16:43:29 -0000</pubDate>
-<description><![CDATA[It's game over for fans of discontinued video games after the EU admitted defeat on Tuesday and said it cannot stop publishers making them unplayable.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
