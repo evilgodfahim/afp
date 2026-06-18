@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 18 Jun 2026 21:21:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 23:16:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump Faces G7 After Year Of Trade Wrath, Diplomatic Bluster]]></title>
 <link>https://www.barrons.com/news/trump-faces-g7-after-year-of-trade-wrath-diplomatic-bluster-63b05c5d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe Risks 'Total Irrelevance' Without Sovereign Tech: Cohere Chief]]></title>
+<link>https://www.barrons.com/news/europe-risks-total-irrelevance-without-sovereign-tech-cohere-chief-432f1eff?refsec=topics_afp-news</link>
+<pubDate>Thu, 18 Jun 2026 23:16:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ex-presidents And Stars, But No Trump, Turn Out For Obama Library]]></title>
 <link>https://www.barrons.com/news/ex-presidents-stars-but-no-trump-turn-out-for-obama-center-b892c2f5?refsec=topics_afp-news</link>
 <pubDate>Thu, 18 Jun 2026 21:21:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Joyful New York Celebrates Knicks With Ticker-tape Parade]]></title>
-<link>https://www.barrons.com/news/knicks-celebrate-nba-win-with-huge-new-york-parade-e2761f0e?refsec=topics_afp-news</link>
-<pubDate>Thu, 18 Jun 2026 16:56:30 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA['Duplicitous' Or Neutral? How Oman Incurred Trump's Wrath]]></title>
 <link>https://www.barrons.com/news/duplicitous-or-neutral-how-oman-incurred-trump-s-wrath-93e256a4?refsec=topics_afp-news</link>
 <pubDate>Thu, 18 Jun 2026 14:26:36 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Faces Tough Path To New Iran Nuclear Deal]]></title>
+<link>https://www.barrons.com/news/us-faces-tough-path-to-new-iran-nuclear-deal-001381a3?refsec=topics_afp-news</link>
+<pubDate>Thu, 18 Jun 2026 23:16:37 -0000</pubDate>
+<description><![CDATA[The United States is about to embark on difficult negotiations with the Iranian government, whose survival of a massive US-Israeli military assault has undercut American leverage while bolstering the Islamic republic.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Last Ride': US Says Goodbye To Air Force One As Qatari Jet Awaits]]></title>
 <link>https://www.barrons.com/news/last-ride-us-says-goodbye-to-air-force-one-as-qatari-jet-awaits-e505053e?refsec=topics_afp-news</link>
 <pubDate>Thu, 18 Jun 2026 21:21:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/ghana-pushes-for-concrete-slavery-reparations-4dcfd026?refsec=topics_afp-news</link>
 <pubDate>Thu, 18 Jun 2026 18:41:31 -0000</pubDate>
 <description><![CDATA[Ghana hosted a landmark global conference on Thursday seeking to translate growing political support for slavery reparations into practical commitments towards justice.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Europe Risks 'Total Irrelevance' Without Sovereign Tech: Cohere Chief]]></title>
-<link>https://www.barrons.com/news/europe-risks-total-irrelevance-without-sovereign-tech-cohere-chief-432f1eff?refsec=topics_afp-news</link>
-<pubDate>Thu, 18 Jun 2026 18:26:31 -0000</pubDate>
-<description><![CDATA[Europe risks "total technological irrelevance" if it fails to develop sovereign capabilities, the head of Canadian AI startup Cohere warned Thursday on the sidelines of the Vivatech trade fair in Paris.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
