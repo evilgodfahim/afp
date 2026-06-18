@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Jun 2026 22:58:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 00:18:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US-Venezuela Operation Kills Leader Of Tren De Aragua Gang]]></title>
+<link>https://www.barrons.com/news/us-venezuela-operation-kills-leader-of-tren-de-aragua-gang-afbb306a?refsec=topics_afp-news</link>
+<pubDate>Thu, 18 Jun 2026 00:18:21 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
 <item>
 <title><![CDATA[US Reports Second Case Of Dangerous Livestock Pest]]></title>
 <link>https://www.barrons.com/news/us-reports-second-case-of-dangerous-livestock-pest-d461e420?refsec=topics_afp-news</link>
@@ -53,12 +59,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Giant Saudi Aramco Says Quarterly Profits Up As Crude Prices Surge]]></title>
-<link>https://www.barrons.com/news/oil-giant-saudi-aramco-says-quarterly-profits-up-as-crude-prices-surge-a2a9fa7a?refsec=topics_afp-news</link>
-<pubDate>Fri, 29 May 2026 21:20:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Malawians Crowd Makeshift S.African Camp Desperate To Get Home]]></title>
 <link>https://www.barrons.com/news/malawians-crowd-makeshift-s-african-camp-desperate-to-get-home-b1223acf?refsec=topics_afp-news</link>
 <pubDate>Wed, 17 Jun 2026 22:58:33 -0000</pubDate>
@@ -95,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Cuba's Communists Meet To Fast-track Liberal Reforms]]></title>
+<title><![CDATA[Castro Gives Crucial Backing To Cuba Reforms]]></title>
 <link>https://www.barrons.com/news/cuba-s-under-pressure-communists-meets-to-fast-track-liberal-reforms-61a923e6?refsec=topics_afp-news</link>
-<pubDate>Wed, 17 Jun 2026 18:23:04 -0000</pubDate>
+<pubDate>Thu, 18 Jun 2026 00:18:22 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -113,6 +113,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
+<link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
+<pubDate>Thu, 18 Jun 2026 00:03:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Paris And Berlin Bet On Digital Sovereignty At Vivatech, G7]]></title>
 <link>https://www.barrons.com/news/sovereignty-fears-to-dog-ai-enthusiasm-at-france-s-vivatech-15367ba8?refsec=topics_afp-news</link>
 <pubDate>Wed, 17 Jun 2026 17:53:04 -0000</pubDate>
@@ -125,12 +131,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Venezuela Operation Kills Leader Of Tren De Aragua Gang]]></title>
-<link>https://www.barrons.com/news/us-venezuela-operation-kills-leader-of-tren-de-aragua-gang-afbb306a?refsec=topics_afp-news</link>
-<pubDate>Sat, 13 Jun 2026 16:11:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Qantas To Launch Non-stop Sydney-London Flights In October 2027]]></title>
 <link>https://www.barrons.com/news/qantas-to-launch-non-stop-sydney-london-flights-in-october-2027-3a797d01?refsec=topics_afp-news</link>
 <pubDate>Wed, 17 Jun 2026 22:58:35 -0000</pubDate>
@@ -138,10 +138,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran To Dilute Its Enriched Uranium Under Accord With US To End Mideast War]]></title>
+<title><![CDATA[Trump, Iran's President Sign Deal To End Mideast War]]></title>
 <link>https://www.barrons.com/news/iran-to-dilute-its-enriched-uranium-under-accord-with-us-to-end-mideast-war-0f620113?refsec=topics_afp-news</link>
-<pubDate>Wed, 17 Jun 2026 22:43:35 -0000</pubDate>
-<description><![CDATA[The United States and Iran on Wednesday released the text of their agreement to end the Middle East war, with Tehran committing to dilute its enriched uranium while being allowed to resume oil sales.
+<pubDate>Thu, 18 Jun 2026 00:18:23 -0000</pubDate>
+<description><![CDATA[US President Donald Trump and Iran's president signed a deal Wednesday meant to end the Middle East war, with Tehran agreeing to dilute its enriched uranium in return for large-scale economic relief.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
