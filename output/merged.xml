@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Jun 2026 19:19:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 20:48:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Paris And Berlin Bet On Digital Sovereignty At Vivatech, G7]]></title>
 <link>https://www.barrons.com/news/sovereignty-fears-to-dog-ai-enthusiasm-at-france-s-vivatech-15367ba8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Red Heat Alert Issued For Third Of France, Alcohol Banned At Music Festival]]></title>
+<link>https://www.barrons.com/news/red-heat-alert-issued-for-third-of-france-alcohol-banned-at-music-festival-60eead7d?refsec=topics_afp-news</link>
+<pubDate>Sat, 20 Jun 2026 20:48:44 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Driver Killed, 28 In Hospital As UK Train Collision Probed]]></title>
 <link>https://www.barrons.com/news/driver-killed-28-in-hospital-as-uk-train-collision-probed-223f1cf8?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 16:14:20 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia Declares State Of Emergency And Begins Removing Protester Roadblocks]]></title>
+<title><![CDATA[Bolivia Declares State Of Emergency, Deploys Military To Quell Protests]]></title>
 <link>https://www.barrons.com/news/bolivia-declares-state-of-emergency-and-begins-removing-protester-roadblocks-ee06a89c?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 15:29:20 -0000</pubDate>
+<pubDate>Sat, 20 Jun 2026 20:33:44 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[James Burrows, Prolific Innovator In US TV Comedies, Dead At 85]]></title>
 <link>https://www.barrons.com/news/james-burrows-prolific-innovator-in-us-tv-comedies-dead-at-85-6361b059?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 12:25:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Like China': Cubans Welcome Reforms But Exiles Remain Skeptical]]></title>
-<link>https://www.barrons.com/news/like-china-cubans-welcome-reforms-but-exiles-remain-skeptical-3c05ed02?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 10:55:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Specter Of Military Escalation Hangs Over Colombia Vote]]></title>
+<link>https://www.barrons.com/news/specter-of-military-escalation-hangs-over-colombia-vote-b22200c6?refsec=topics_afp-news</link>
+<pubDate>Sat, 20 Jun 2026 20:48:45 -0000</pubDate>
+<description><![CDATA[Colombians elect a new president on Sunday, with the frontrunner's plans for a military offensive against resurgent armed groups splitting voters, and even the military ranks.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine's Zelensky, Top Officials Return Polish Awards In WWII Row]]></title>
 <link>https://www.barrons.com/news/ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row-c30f62fa?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 16:14:21 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-escalates-spat-with-italy-s-meloni-over-g7-photo-claim-5c474985?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 17:52:57 -0000</pubDate>
 <description><![CDATA[Italian Prime Minister Giorgia Meloni fired back at US President Donald Trump on Saturday, saying his "constant, unprovoked attacks are senseless" after he escalated a diplomatic row by accusing her of repeatedly seeking a photograph with him.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Red Heat Alert Issued For Third Of France, Alcohol Banned At Music Festival]]></title>
-<link>https://www.barrons.com/news/red-heat-alert-issued-for-third-of-france-alcohol-banned-at-music-festival-60eead7d?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 15:59:21 -0000</pubDate>
-<description><![CDATA[France issued a red heatwave alert across more than a third of the country for Sunday as a ferocious heatwave dug in and the government banned the consumption of alcohol during the annual Fete de la Musique festivities.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
