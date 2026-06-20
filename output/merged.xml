@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Jun 2026 22:02:48 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 23:43:05 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Paris And Berlin Bet On Digital Sovereignty At Vivatech, G7]]></title>
 <link>https://www.barrons.com/news/sovereignty-fears-to-dog-ai-enthusiasm-at-france-s-vivatech-15367ba8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Meloni Hits Back As Trump Escalates G7 Photo Spat]]></title>
+<link>https://www.barrons.com/news/trump-escalates-spat-with-italy-s-meloni-over-g7-photo-claim-5c474985?refsec=topics_afp-news</link>
+<pubDate>Sat, 20 Jun 2026 23:43:04 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Red Heat Alert Issued For Third Of France, Alcohol Banned At Music Festival]]></title>
 <link>https://www.barrons.com/news/red-heat-alert-issued-for-third-of-france-alcohol-banned-at-music-festival-60eead7d?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 20:48:44 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Says Hormuz Closed As US-Iran Deal Falters Over Lebanon]]></title>
+<title><![CDATA[US And Iran Set For New Talks After Delay And Deadly Strikes]]></title>
 <link>https://www.barrons.com/news/israel-strikes-south-lebanon-despite-truce-announced-with-hezbollah-e52b1a1f?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 22:02:47 -0000</pubDate>
+<pubDate>Sat, 20 Jun 2026 23:28:04 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Peeling Paint Adds To Woes Of Trump's Pool Project]]></title>
 <link>https://www.barrons.com/news/peeling-paint-adds-to-woes-of-trump-s-pool-project-e6f0ebc4?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 13:54:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[James Burrows, Prolific Innovator In US TV Comedies, Dead At 85]]></title>
-<link>https://www.barrons.com/news/james-burrows-prolific-innovator-in-us-tv-comedies-dead-at-85-6361b059?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 12:25:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Albanian Protests Against Trump-linked Resort Swell]]></title>
+<link>https://www.barrons.com/news/albanian-protests-against-trump-linked-resort-swell-763765a8?refsec=topics_afp-news</link>
+<pubDate>Sat, 20 Jun 2026 23:43:05 -0000</pubDate>
+<description><![CDATA[Thousands of protesters marched through Albania's capital Saturday, one of the largest demonstrations since rallies against a planned resort linked to US President Donald Trump's family began almost three weeks ago.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Specter Of Military Escalation Hangs Over Colombia Vote]]></title>
 <link>https://www.barrons.com/news/specter-of-military-escalation-hangs-over-colombia-vote-b22200c6?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 20:48:45 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row-c30f62fa?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 16:14:21 -0000</pubDate>
 <description><![CDATA[Ukrainian President Volodymyr Zelensky and his top officials said on Saturday they were returning Polish awards, in a spiralling row with key ally Poland over WWII massacres.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Meloni Hits Back As Trump Escalates G7 Photo Spat]]></title>
-<link>https://www.barrons.com/news/trump-escalates-spat-with-italy-s-meloni-over-g7-photo-claim-5c474985?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 17:52:57 -0000</pubDate>
-<description><![CDATA[Italian Prime Minister Giorgia Meloni fired back at US President Donald Trump on Saturday, saying his "constant, unprovoked attacks are senseless" after he escalated a diplomatic row by accusing her of repeatedly seeking a photograph with him.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
