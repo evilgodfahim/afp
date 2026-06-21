@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Jun 2026 23:43:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 03:43:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Paris And Berlin Bet On Digital Sovereignty At Vivatech, G7]]></title>
 <link>https://www.barrons.com/news/sovereignty-fears-to-dog-ai-enthusiasm-at-france-s-vivatech-15367ba8?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine's Zelensky, Top Officials Return Polish Awards In WWII Row]]></title>
+<link>https://www.barrons.com/news/ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row-c30f62fa?refsec=topics_afp-news</link>
+<pubDate>Sun, 21 Jun 2026 03:43:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Meloni Hits Back As Trump Escalates G7 Photo Spat]]></title>
 <link>https://www.barrons.com/news/trump-escalates-spat-with-italy-s-meloni-over-g7-photo-claim-5c474985?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 23:43:04 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Peeling Paint Adds To Woes Of Trump's Pool Project]]></title>
-<link>https://www.barrons.com/news/peeling-paint-adds-to-woes-of-trump-s-pool-project-e6f0ebc4?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 13:54:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Lebanon Says 47 Killed In Strikes, Israel Reports Deaths Of 4 Soldiers]]></title>
 <link>https://www.barrons.com/news/lebanon-says-47-killed-in-strikes-israel-reports-deaths-of-4-soldiers-f2b4f4c8?refsec=topics_afp-news</link>
 <pubDate>Fri, 19 Jun 2026 16:52:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Los Angeles Under State Of Emergency Due To Warehouse Fire]]></title>
+<link>https://www.barrons.com/news/los-angeles-under-state-of-emergency-due-to-warehouse-fire-ad6d0cb1?refsec=topics_afp-news</link>
+<pubDate>Sun, 21 Jun 2026 03:43:50 -0000</pubDate>
+<description><![CDATA[Los Angeles was under a state of emergency Saturday as fire crews fought a days-long battle against a stubborn warehouse blaze that has filled the air with acrid black smoke.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Albanian Protests Against Trump-linked Resort Swell]]></title>
 <link>https://www.barrons.com/news/albanian-protests-against-trump-linked-resort-swell-763765a8?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 23:43:05 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/specter-of-military-escalation-hangs-over-colombia-vote-b22200c6?refsec=topics_afp-news</link>
 <pubDate>Sat, 20 Jun 2026 20:48:45 -0000</pubDate>
 <description><![CDATA[Colombians elect a new president on Sunday, with the frontrunner's plans for a military offensive against resurgent armed groups splitting voters, and even the military ranks.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine's Zelensky, Top Officials Return Polish Awards In WWII Row]]></title>
-<link>https://www.barrons.com/news/ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row-c30f62fa?refsec=topics_afp-news</link>
-<pubDate>Sat, 20 Jun 2026 16:14:21 -0000</pubDate>
-<description><![CDATA[Ukrainian President Volodymyr Zelensky and his top officials said on Saturday they were returning Polish awards, in a spiralling row with key ally Poland over WWII massacres.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
