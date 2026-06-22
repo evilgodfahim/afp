@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 22 Jun 2026 21:29:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 23:03:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -71,12 +71,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Threatens Prison For Damage To Washington Reflecting Pool]]></title>
-<link>https://www.barrons.com/news/trump-threatens-prison-for-damage-to-washington-reflecting-pool-c94c2cf6?refsec=topics_afp-news</link>
-<pubDate>Mon, 22 Jun 2026 20:59:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hormuz: Traffic Flows Despite Iran's Closure Announcement]]></title>
 <link>https://www.barrons.com/news/hormuz-traffic-flows-despite-iran-s-closure-announcement-917c0e2d?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 18:42:45 -0000</pubDate>
@@ -98,6 +92,12 @@
 <title><![CDATA[Dangerous 'Heat Stress' Has Surged Worldwide, Study Shows]]></title>
 <link>https://www.barrons.com/news/dangerous-heat-stress-has-surged-worldwide-study-shows-17c3b2a8?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 17:57:45 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Threatens Prison For Damage To Washington Reflecting Pool]]></title>
+<link>https://www.barrons.com/news/trump-threatens-prison-for-damage-to-washington-reflecting-pool-c94c2cf6?refsec=topics_afp-news</link>
+<pubDate>Mon, 22 Jun 2026 20:59:45 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
