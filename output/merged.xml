@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 23 Jun 2026 21:42:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 23:05:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Airbus To Inspect 16 A380s After Cracks Found On Plane Wings]]></title>
+<link>https://www.barrons.com/news/airbus-to-inspect-16-a380s-after-cracks-found-on-plane-wings-b2c505f6?refsec=topics_afp-news</link>
+<pubDate>Tue, 23 Jun 2026 23:05:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bolivian Government Says Cleared All Protest Roadblocks]]></title>
 <link>https://www.barrons.com/news/bolivian-government-says-cleared-all-protest-roadblocks-5ab7c5ae?refsec=topics_afp-news</link>
 <pubDate>Tue, 23 Jun 2026 21:42:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[American Michele Kang Agrees Deal To Buy French Club Lyon]]></title>
-<link>https://www.barrons.com/news/american-michele-kang-agrees-deal-to-buy-french-club-lyon-57b30cc5?refsec=topics_afp-news</link>
-<pubDate>Tue, 23 Jun 2026 17:04:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Europe Wilts Under Record Heat As AC Sales Soar]]></title>
+<link>https://www.barrons.com/news/europe-wilts-under-record-heat-as-ac-sales-soar-f9f21a39?refsec=topics_afp-news</link>
+<pubDate>Tue, 23 Jun 2026 23:05:32 -0000</pubDate>
+<description><![CDATA[Europe braced Wednesday for another day of an unprecedented heatwave that has smashed records in many countries and sent air conditioner sales zooming in a continent unused and ill-equipped to handle searing heat.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cubans Bid Farewell To Revolution Hero Valdes]]></title>
 <link>https://www.barrons.com/news/cubans-bid-farewell-to-revolution-hero-valdes-86370cbf?refsec=topics_afp-news</link>
 <pubDate>Tue, 23 Jun 2026 21:42:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-congress-passes-symbolic-iran-war-rebuke-to-trump-72e47799?refsec=topics_afp-news</link>
 <pubDate>Tue, 23 Jun 2026 21:27:12 -0000</pubDate>
 <description><![CDATA[The US Senate passed a largely symbolic resolution Tuesday calling for an end to President Donald Trump's war with Iran, delivering a fresh rebuke to the White House as it tries to negotiate a lasting settlement with Tehran.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Airbus To Inspect 16 A380s After Cracks Found On Plane Wings]]></title>
-<link>https://www.barrons.com/news/airbus-to-inspect-16-a380s-after-cracks-found-on-plane-wings-b2c505f6?refsec=topics_afp-news</link>
-<pubDate>Tue, 23 Jun 2026 21:12:12 -0000</pubDate>
-<description><![CDATA[Airbus on Tuesday said it would inspect 16 A380 planes, five of them immediately, after cracks were found in a key wing component on aircraft used by the Emirates and Qantas airlines.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
