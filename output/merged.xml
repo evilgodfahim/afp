@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 24 Jun 2026 05:33:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 09:21:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,9 +59,33 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Geopolitics And AI In Spotlight At China's 'Summer Davos']]></title>
+<title><![CDATA[Latest Developments In Europe's Heatwave]]></title>
+<link>https://www.barrons.com/news/latest-developments-in-europe-s-heatwave-58e99e17?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 09:21:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Japan PM Heckled At WWII Memorial]]></title>
+<link>https://www.barrons.com/news/japan-pm-heckled-at-wwii-memorial-ce928b0a?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 09:06:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hanoi Residents Mount Silent Protest Over Home Demolitions]]></title>
+<link>https://www.barrons.com/news/hanoi-residents-mount-silent-protest-over-home-demolitions-42d9b0dd?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 08:51:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Seoul Bounces As Asian Markets Look To Recover From Rout]]></title>
+<link>https://www.barrons.com/news/seoul-bounces-as-asian-markets-look-to-recover-from-rout-076a0038?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 08:36:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China Premier Urges AI Governance To Avoid 'Losing Control']]></title>
 <link>https://www.barrons.com/news/geopolitics-and-ai-in-spotlight-at-china-s-summer-davos-b9ce67a5?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 05:33:28 -0000</pubDate>
+<pubDate>Wed, 24 Jun 2026 08:21:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -89,30 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Europe Wilts Under Record Heat As AC Sales Soar]]></title>
-<link>https://www.barrons.com/news/europe-wilts-under-record-heat-as-ac-sales-soar-f9f21a39?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 04:18:28 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Cubans Bid Farewell To Revolution Hero Valdes]]></title>
-<link>https://www.barrons.com/news/cubans-bid-farewell-to-revolution-hero-valdes-86370cbf?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 01:23:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Congress Passes Symbolic Iran War Rebuke To Trump]]></title>
-<link>https://www.barrons.com/news/us-congress-passes-symbolic-iran-war-rebuke-to-trump-72e47799?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 01:08:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Airbus To Inspect 16 A380s After Cracks Found On Plane Wings]]></title>
-<link>https://www.barrons.com/news/airbus-to-inspect-16-a380s-after-cracks-found-on-plane-wings-b2c505f6?refsec=topics_afp-news</link>
-<pubDate>Tue, 23 Jun 2026 23:05:31 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Japan PM Heckled At WWII Memorial]]></title>
-<link>https://www.barrons.com/news/japan-pm-heckled-at-wwii-memorial-ce928b0a?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 05:33:29 -0000</pubDate>
-<description><![CDATA[Japanese Prime Minister Sanae Takaichi was heckled at a World War II memorial event by protesters angry about Tokyo's further shift away from its decades-long pacifist stance, television footage showed.
+<title><![CDATA['Pragmatists' Vs 'Hardliners': Is Iran Split Over US Deal?]]></title>
+<link>https://www.barrons.com/news/pragmatists-vs-hardliners-is-iran-split-over-us-deal-2807427f?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 09:21:18 -0000</pubDate>
+<description><![CDATA[Factional divisions and opposition to talks with the United States exist within the Iranian hierarchy, but such splits will not suffice on their own to derail the negotiating process, analysts say.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hanoi Residents Mount Silent Protest Over Home Demolitions]]></title>
-<link>https://www.barrons.com/news/hanoi-residents-mount-silent-protest-over-home-demolitions-42d9b0dd?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 05:18:29 -0000</pubDate>
-<description><![CDATA[Silent prayer vigils, cautiously worded protest banners and T-shirts pleading for neighbourhoods to be spared -- Hanoi residents are showing rare public opposition to a massive redevelopment scheme that could displace hundreds of thousands.
+<title><![CDATA[Right-winger Fujimori Poised To Win Peru President Runoff]]></title>
+<link>https://www.barrons.com/news/right-winger-fujimori-poised-to-win-peru-president-runoff-e2d7a259?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 09:06:18 -0000</pubDate>
+<description><![CDATA[Conservative Keiko Fujimori appeared on Tuesday to win Peru's presidential election, setting the stage for the return of the Fujimori name to power decades after her father's fall.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Seoul Bounces As Asian Markets Look To Recover From Rout]]></title>
-<link>https://www.barrons.com/news/seoul-bounces-as-asian-markets-look-to-recover-from-rout-076a0038?refsec=topics_afp-news</link>
-<pubDate>Wed, 24 Jun 2026 05:03:29 -0000</pubDate>
-<description><![CDATA[South Korean stocks bounced back Wednesday from the previous day's rout, while the rest of Asia battled to recover from a region-wide sell-off amid lingering concern about the AI spending boom.
+<title><![CDATA[H5 Bird Flu Detected In Second Australia State]]></title>
+<link>https://www.barrons.com/news/h5-bird-flu-detected-in-second-australia-state-6971fb66?refsec=topics_afp-news</link>
+<pubDate>Wed, 24 Jun 2026 08:51:18 -0000</pubDate>
+<description><![CDATA[Scientists have detected the highly contagious H5 bird flu strain in a second Australian state, the nation's agriculture minister said on Wednesday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
