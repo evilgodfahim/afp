@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Jun 2026 22:18:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 23:50:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Supreme Court Strikes Down Hawaii Gun Law As Unconstitutional]]></title>
+<link>https://www.barrons.com/news/us-supreme-court-strikes-down-hawaii-gun-law-as-unconstitutional-1ab72b0f?refsec=topics_afp-news</link>
+<pubDate>Thu, 25 Jun 2026 23:50:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Supreme Court Hands Win To Bayer In Weedkiller Litigation]]></title>
 <link>https://www.barrons.com/news/us-supreme-court-hands-win-to-bayer-in-weedkiller-litigation-1e63c74a?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 20:53:39 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump To Mark US 250th Anniversary At Mount Rushmore]]></title>
-<link>https://www.barrons.com/news/trump-to-mark-us-250th-anniversary-at-mount-rushmore-b9c44de1?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 18:53:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Quake-hit Venezuela's Hospitals Care For Children Left Alone]]></title>
+<link>https://www.barrons.com/news/quake-hit-venezuela-s-hospitals-care-for-children-left-alone-2fff9e76?refsec=topics_afp-news</link>
+<pubDate>Thu, 25 Jun 2026 23:50:54 -0000</pubDate>
+<description><![CDATA[Teenager Yenderlin Cabarza waited alone in an emergency room on Thursday, her bones broken by two powerful earthquakes that devastated Venezuela the day before.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Judge Says Lawsuit Against Trump Compensation Fund Can Proceed]]></title>
 <link>https://www.barrons.com/news/us-judge-says-lawsuit-against-trump-compensation-fund-can-proceed-81a4f951?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 20:53:40 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/will-taylor-swift-and-travis-kelce-wed-in-new-york-clues-abound-4dfacf0a?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 20:38:40 -0000</pubDate>
 <description><![CDATA[Will Taylor Swift and Travis Kelce's "Love Story" culminate in a Big Apple wedding? Increasing signs point to a mega-bash for the A-list celebrity couple at Madison Square Garden next week.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Supreme Court Strikes Down Hawaii Gun Law As Unconstitutional]]></title>
-<link>https://www.barrons.com/news/us-supreme-court-strikes-down-hawaii-gun-law-as-unconstitutional-1ab72b0f?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 20:23:40 -0000</pubDate>
-<description><![CDATA[The US Supreme Court on Thursday struck down a Hawaii law that bans the carrying of firearms on private property open to the public such as stores or restaurants without the owner's permission.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
