@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Jun 2026 11:13:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 13:34:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Struggling VW To Sell Majority Stake In Marine Engine Unit]]></title>
+<link>https://www.barrons.com/news/struggling-vw-to-sell-majority-stake-in-marine-engine-unit-f9fb43da?refsec=topics_afp-news</link>
+<pubDate>Thu, 25 Jun 2026 13:34:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Latest Developments In Europe's Heatwave]]></title>
 <link>https://www.barrons.com/news/latest-developments-in-europe-s-heatwave-9d4dc873?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 11:13:22 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine Recovery Summit Opens, Overshadowed By Kyiv-Warsaw Row]]></title>
+<title><![CDATA[Poland, Ukraine Tone Down Dispute At Reconstruction Conference]]></title>
 <link>https://www.barrons.com/news/ukraine-recovery-summit-opens-overshadowed-by-kyiv-warsaw-row-65d37350?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 10:28:22 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 13:19:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Seoul Stocks Soar In Asia Tech Rally After Micron's Blowout Forecast]]></title>
+<title><![CDATA[Stocks Rally On AI Optimism After Micron's Blowout Forecast]]></title>
 <link>https://www.barrons.com/news/seoul-stocks-soar-in-asia-tech-rally-after-micron-blowout-forecast-e4b94a0b?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 07:49:58 -0000</pubDate>
+<pubDate>Thu, 25 Jun 2026 13:04:13 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Secret Cameras, Mics And AI Reveal Rare Cambodia Wildlife]]></title>
 <link>https://www.barrons.com/news/secret-cameras-mics-and-ai-reveal-rare-cambodia-wildlife-0a7ea542?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 07:34:58 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Bulgaria's Milk Farmers Falter In Former Yogurt Empire]]></title>
-<link>https://www.barrons.com/news/bulgaria-s-milk-farmers-falter-in-former-yogurt-empire-9227968d?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 07:19:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Everything Collapsed': Venezuela Region Hit Hardest By Quakes Cries For Help]]></title>
+<link>https://www.barrons.com/news/everything-collapsed-venezuela-region-hit-hardest-by-quakes-cries-for-help-9431e3bc?refsec=topics_afp-news</link>
+<pubDate>Thu, 25 Jun 2026 13:34:15 -0000</pubDate>
+<description><![CDATA[In the city of Catia La Mar on Venezuela's coast, Yilsmaris Blanco stared in shock at the scenes of devastation early Thursday after powerful twin earthquakes levelled dozens of buildings.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Baking Heatwave Gives Europe No Respite]]></title>
 <link>https://www.barrons.com/news/baking-heatwave-gives-europe-no-respite-30697058?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 11:13:23 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/amazon-pledges-additional-13-bn-in-india-ai-investment-19001626?refsec=topics_afp-news</link>
 <pubDate>Thu, 25 Jun 2026 10:58:23 -0000</pubDate>
 <description><![CDATA[E-commerce giant Amazon announced on Thursday an additional $13-billion investment by 2030 to expand its artificial intelligence footprint in India, months after declaring plans to invest more than $35 billion.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Struggling VW To Sell Majority Stake In Marine Engine Unit]]></title>
-<link>https://www.barrons.com/news/struggling-vw-to-sell-majority-stake-in-marine-engine-unit-f9fb43da?refsec=topics_afp-news</link>
-<pubDate>Thu, 25 Jun 2026 10:43:23 -0000</pubDate>
-<description><![CDATA[Volkswagen said Thursday that it would sell a majority stake in its marine engine unit to a US investment firm for 7.4 billion euros ($8.4 billion) as the struggling German carmaker pushes ahead with an overhaul.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
