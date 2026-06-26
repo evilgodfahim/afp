@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Jun 2026 06:55:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:21:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,36 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Wole Soyinka University Theatre: A Talent Factory For Nigeria And Beyond]]></title>
+<link>https://www.barrons.com/news/wole-soyinka-university-theatre-a-talent-factory-for-nigeria-and-beyond-749c90c8?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 10:21:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Hospitals Overwhelmed As Europe Heatwave Shifts East]]></title>
+<link>https://www.barrons.com/news/hospitals-overwhelmed-as-europe-heatwave-shifts-east-86766151?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 10:06:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Venezuelan Mother Digs With Bare Hands For Missing Son]]></title>
+<link>https://www.barrons.com/news/venezuelan-mother-digs-with-bare-hands-for-missing-son-b6e8cf03?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 09:51:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA['Very Strong' Nuclear Verification Needed In Iran After War: IAEA Head]]></title>
+<link>https://www.barrons.com/news/very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head-e548d8e6?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 09:36:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Climate Change To Blame For Intensity Of Europe Heatwave: Scientists]]></title>
+<link>https://www.barrons.com/news/climate-change-to-blame-for-intensity-of-europe-heatwave-scientists-38a30012?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 09:21:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Red Rocks Yield Coveted Minerals In DR Congo]]></title>
 <link>https://www.barrons.com/news/red-rocks-yield-coveted-minerals-in-dr-congo-003d3b8f?refsec=topics_afp-news</link>
 <pubDate>Fri, 26 Jun 2026 06:55:11 -0000</pubDate>
@@ -83,36 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Asian Stocks Suffer Fresh Rout As Rollercoaster Week Draws To Close]]></title>
-<link>https://www.barrons.com/news/asian-stocks-drop-again-as-rollercoaster-week-draws-to-close-79ab18e8?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 05:55:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[New York Votes To Freeze Rents For Some Homes In Win For Mayor]]></title>
-<link>https://www.barrons.com/news/new-york-votes-to-freeze-rents-for-some-homes-in-win-for-mayor-ed0690b0?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 05:40:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NZ Internal Report Warns Of Chinese Military Forays In Pacific]]></title>
-<link>https://www.barrons.com/news/nz-internal-report-warns-of-chinese-military-forays-in-pacific-55cf003f?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 02:56:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Quake-hit Venezuela's Hospitals Care For Children Left Alone]]></title>
-<link>https://www.barrons.com/news/quake-hit-venezuela-s-hospitals-care-for-children-left-alone-2fff9e76?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 02:41:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Judge Says Lawsuit Against Trump Compensation Fund Can Proceed]]></title>
-<link>https://www.barrons.com/news/us-judge-says-lawsuit-against-trump-compensation-fund-can-proceed-81a4f951?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 02:26:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuelan Mother Digs With Bare Hands For Missing Son]]></title>
-<link>https://www.barrons.com/news/venezuelan-mother-digs-with-bare-hands-for-missing-son-b6e8cf03?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 06:55:12 -0000</pubDate>
-<description><![CDATA[Amparo del Giudice dug with her bare hands at a huge mound of concrete in search of her son, trapped under rubble after Venezuela's strongest earthquake since 1900.
+<title><![CDATA[Latest Developments In Europe's Heatwave]]></title>
+<link>https://www.barrons.com/news/latest-developments-in-europe-s-heatwave-64e7a8c6?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 10:21:15 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in Europe's heatwave.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Very Strong' Nuclear Verification Needed In Iran After War: IAEA Head]]></title>
-<link>https://www.barrons.com/news/very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head-e548d8e6?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 06:40:12 -0000</pubDate>
-<description><![CDATA["Very strong" verification is needed in Iran following the Middle East conflict to ensure that it does not develop nuclear weapons, the UN atomic watchdog chief said on Friday.
+<title><![CDATA[UN Says Iran Nuclear Pledge Needs 'Very Strong' Verification]]></title>
+<link>https://www.barrons.com/news/un-says-iran-nuclear-pledge-needs-very-strong-verification-cff29038?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 10:06:15 -0000</pubDate>
+<description><![CDATA[The UN's nuclear chief said Friday that Iran's pledge not to build a nuclear weapon would need "very strong" verification, as the United States and the Islamic republic negotiate a permanent settlement to end their war.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Climate Change To Blame For Intensity Of Europe Heatwave: Scientists]]></title>
-<link>https://www.barrons.com/news/climate-change-to-blame-for-intensity-of-europe-heatwave-scientists-38a30012?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 06:25:12 -0000</pubDate>
-<description><![CDATA[Human-caused climate change is "unequivocally" responsible for the intensity of a record-breaking heatwave scorching Europe, scientists said Friday.
+<title><![CDATA[European Economies Suffer From Heatwave]]></title>
+<link>https://www.barrons.com/news/european-economies-suffer-from-heatwave-be01436a?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 09:51:15 -0000</pubDate>
+<description><![CDATA[When the mercury rises so do the costs for an economy as productivity melts and growth becomes lethargic, providing an additional challenge to Europe as it struggles with high energy prices.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
