@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Jun 2026 15:21:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 17:14:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Lukashenko Will Always Be Threat To Ukraine: Belarus Opposition Leader]]></title>
+<link>https://www.barrons.com/news/lukashenko-will-always-be-threat-to-ukraine-belarus-opposition-leader-b1cdbeb2?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 17:14:53 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UN Demands Probes Into US ICE Custody Deaths]]></title>
 <link>https://www.barrons.com/news/un-demands-probes-into-us-ice-custody-deaths-d3cbc760?refsec=topics_afp-news</link>
 <pubDate>Fri, 26 Jun 2026 15:21:26 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[European Economies Suffer From Heatwave]]></title>
-<link>https://www.barrons.com/news/european-economies-suffer-from-heatwave-be01436a?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 11:30:42 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Foe Bolton Pleads Guilty In Classified Files Case]]></title>
+<link>https://www.barrons.com/news/trump-foe-bolton-pleads-guilty-in-classified-files-case-5051ba59?refsec=topics_afp-news</link>
+<pubDate>Fri, 26 Jun 2026 17:14:54 -0000</pubDate>
+<description><![CDATA[John Bolton, who served as Donald Trump's national security advisor before becoming an outspoken critic of the US president, pleaded guilty Friday to one count of retaining classified documents.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Envoy Hosts 250th Bash In Brussels -- Minus Some Wow Factor]]></title>
 <link>https://www.barrons.com/news/trump-envoy-hosts-250th-bash-in-brussels-minus-some-wow-factor-80546234?refsec=topics_afp-news</link>
 <pubDate>Fri, 26 Jun 2026 15:21:27 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/europe-heatwave-shattering-temperature-records-un-733f9c97?refsec=topics_afp-news</link>
 <pubDate>Fri, 26 Jun 2026 15:06:27 -0000</pubDate>
 <description><![CDATA[Europe's heatwave has smashed several temperature records, the UN's weather and climate agency said Friday, adding that it would determine the full impact once the phenomenon has ended.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Lukashenko Will Always Be Threat To Ukraine: Belarus Opposition Leader]]></title>
-<link>https://www.barrons.com/news/lukashenko-will-always-be-threat-to-ukraine-belarus-opposition-leader-b1cdbeb2?refsec=topics_afp-news</link>
-<pubDate>Fri, 26 Jun 2026 14:51:27 -0000</pubDate>
-<description><![CDATA[Belarus will be a threat to Ukraine for as long as President Alexander Lukashenko is in power and relies on the Kremlin, the country's exiled opposition leader told AFP.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
