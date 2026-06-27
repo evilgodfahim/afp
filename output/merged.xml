@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Jun 2026 16:14:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 17:36:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA['Duplicitous' Or Neutral? How Oman Incurred Trump's Wrath]]></title>
 <link>https://www.barrons.com/news/duplicitous-or-neutral-how-oman-incurred-trump-s-wrath-93e256a4?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Farmers Fear Drought As Italy's Longest River Runs Dry]]></title>
+<link>https://www.barrons.com/news/farmers-fear-drought-as-italy-s-longest-river-runs-dry-4f5e1eda?refsec=topics_afp-news</link>
+<pubDate>Sat, 27 Jun 2026 17:36:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Budapest Pride To Push For Equality After Reversed Ban]]></title>
 <link>https://www.barrons.com/news/budapest-pride-to-push-for-equality-after-reversed-ban-59e26570?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 10:02:37 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Should We Fear An AI Bubble Bust?]]></title>
-<link>https://www.barrons.com/news/should-we-fear-an-ai-bubble-bust-54755d10?refsec=topics_afp-news</link>
-<pubDate>Sat, 27 Jun 2026 03:32:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 14:59:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Prince Harry And Family To Stay At Royal Residences On UK Visit]]></title>
+<link>https://www.barrons.com/news/prince-harry-and-family-to-stay-at-royal-residences-on-uk-visit-ec4d9a7c?refsec=topics_afp-news</link>
+<pubDate>Sat, 27 Jun 2026 17:36:02 -0000</pubDate>
+<description><![CDATA[Prince Harry, his wife Meghan and two children will stay at royal residences during their first family trip back to the UK in four years in July, a source familiar with the matter said Saturday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Latest Developments In Europe's Heatwave]]></title>
 <link>https://www.barrons.com/news/latest-developments-in-europe-s-heatwave-8624db96?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 10:02:38 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/thousands-expected-as-vespa-celebrates-80-years-in-rome-3c737b97?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 13:24:26 -0000</pubDate>
 <description><![CDATA[An icon of the Italian way of life, the Vespa was celebrating its 80th birthday on Saturday, as thousands of riders paraded through Rome on the legendary scooters.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Farmers Fear Drought As Italy's Longest River Runs Dry]]></title>
-<link>https://www.barrons.com/news/farmers-fear-drought-as-italy-s-longest-river-runs-dry-4f5e1eda?refsec=topics_afp-news</link>
-<pubDate>Sat, 27 Jun 2026 07:31:12 -0000</pubDate>
-<description><![CDATA[Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
