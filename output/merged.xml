@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Jun 2026 07:46:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 10:02:38 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Brazil Cuts Benchmark Rate Again Despite Inflation Pressure]]></title>
 <link>https://www.barrons.com/news/brazil-cuts-benchmark-rate-again-despite-inflation-pressure-741701aa?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Budapest Pride To Push For Equality After Reversed Ban]]></title>
+<link>https://www.barrons.com/news/budapest-pride-to-push-for-equality-after-reversed-ban-59e26570?refsec=topics_afp-news</link>
+<pubDate>Sat, 27 Jun 2026 10:02:37 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Cup Fans Get Taste Of American Life -- At The Mall]]></title>
 <link>https://www.barrons.com/news/world-cup-fans-get-taste-of-american-life-at-the-mall-b8c56bfa?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 07:46:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Globalization Isn't Dead, Just 'Transformed,' Says IMF Chief Economist]]></title>
-<link>https://www.barrons.com/news/globalization-isn-t-dead-just-transformed-says-imf-chief-economist-4d56289c?refsec=topics_afp-news</link>
-<pubDate>Sat, 27 Jun 2026 03:17:36 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[EU To Criminalise AI Producing Child Sex Abuse Content]]></title>
 <link>https://www.barrons.com/news/eu-to-criminalise-ai-producing-child-sex-abuse-content-75a979a4?refsec=topics_afp-news</link>
 <pubDate>Mon, 22 Jun 2026 12:33:34 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Latest Developments In Europe's Heatwave]]></title>
+<link>https://www.barrons.com/news/latest-developments-in-europe-s-heatwave-8624db96?refsec=topics_afp-news</link>
+<pubDate>Sat, 27 Jun 2026 10:02:38 -0000</pubDate>
+<description><![CDATA[Here are the latest developments in Europe's heatwave.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands Expected As Vespa Celebrates 80 Years In Rome]]></title>
 <link>https://www.barrons.com/news/thousands-expected-as-vespa-celebrates-80-years-in-rome-3c737b97?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 07:46:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/farmers-fear-drought-as-italy-s-longest-river-runs-dry-4f5e1eda?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 07:31:12 -0000</pubDate>
 <description><![CDATA[Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Budapest Pride To Push For Equality After Reversed Ban]]></title>
-<link>https://www.barrons.com/news/budapest-pride-to-push-for-equality-after-reversed-ban-59e26570?refsec=topics_afp-news</link>
-<pubDate>Sat, 27 Jun 2026 07:16:12 -0000</pubDate>
-<description><![CDATA[Droves are expected to attend Saturday's Budapest Pride march in scorching hot temperatures, seen as a "signal" after last year's ban ordered under nationalist Viktor Orban prompted record attendance.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
