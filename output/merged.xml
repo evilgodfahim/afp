@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 29 Jun 2026 22:35:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 23:59:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA['Duplicitous' Or Neutral? How Oman Incurred Trump's Wrath]]></title>
 <link>https://www.barrons.com/news/duplicitous-or-neutral-how-oman-incurred-trump-s-wrath-93e256a4?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[NFL Lions Release Arnold After Florida Arrest]]></title>
+<link>https://www.barrons.com/news/nfl-lions-release-arnold-after-florida-arrest-4001ac5b?refsec=topics_afp-news</link>
+<pubDate>Mon, 29 Jun 2026 23:59:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Bank Drops Climate Finance Targets In Renewed Action Plan]]></title>
 <link>https://www.barrons.com/news/world-bank-drops-climate-finance-targets-in-renewed-action-plan-59eca4fc?refsec=topics_afp-news</link>
 <pubDate>Mon, 29 Jun 2026 22:35:09 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Bolivia Removes 15-year Dollar Peg In Bid To Revive Economy]]></title>
-<link>https://www.barrons.com/news/bolivia-removes-15-year-dollar-peg-in-bid-to-revive-economy-8bebd214?refsec=topics_afp-news</link>
-<pubDate>Mon, 29 Jun 2026 16:44:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
 <pubDate>Sat, 27 Jun 2026 14:59:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['I Recognized Her Ring': Identifying Venezuela's Dead In A Makeshift Morgue]]></title>
+<link>https://www.barrons.com/news/i-recognized-her-ring-identifying-venezuela-s-dead-in-a-makeshift-morgue-e1569346?refsec=topics_afp-news</link>
+<pubDate>Mon, 29 Jun 2026 23:59:52 -0000</pubDate>
+<description><![CDATA[At a makeshift morgue in the quake-hit Venezuelan port of La Guaira, forensic experts in blue gowns and caps picked their way through dozens of bodies laid out in bags under the sun.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[More Than 1,000 Drones Detected Since Start Of World Cup: FBI]]></title>
 <link>https://www.barrons.com/news/more-than-1-000-drones-detected-since-start-of-world-cup-fbi-3f9dcd16?refsec=topics_afp-news</link>
 <pubDate>Mon, 29 Jun 2026 22:35:10 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/france-to-illuminate-statue-of-liberty-for-us-250th-birthday-57641a90?refsec=topics_afp-news</link>
 <pubDate>Mon, 29 Jun 2026 22:20:10 -0000</pubDate>
 <description><![CDATA[France will stage an elaborate light show at the Statue of Liberty to mark the 250th anniversary of the United States, the French consulate said Monday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[NFL Lions Release Arnold After Florida Arrest]]></title>
-<link>https://www.barrons.com/news/nfl-lions-release-arnold-after-florida-arrest-4001ac5b?refsec=topics_afp-news</link>
-<pubDate>Mon, 29 Jun 2026 22:05:10 -0000</pubDate>
-<description><![CDATA[The NFL Detroit Lions released cornerback Terrion Arnold on Monday after his arrest last week in Florida on eight felony charges in connection with a February robbery and kidnapping.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
