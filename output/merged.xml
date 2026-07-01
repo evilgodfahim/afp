@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 01 Jul 2026 20:22:18 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 21:58:18 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mixed US Auto Sales In 2nd Quarter Amid High Gas Prices]]></title>
+<title><![CDATA[Pair Climb To Top Of Empire State Building For Apparent Proposal]]></title>
+<link>https://www.barrons.com/news/pair-climb-to-top-of-empire-state-building-for-apparent-proposal-28206ed4?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Jul 2026 21:58:17 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Mixed US Auto Sales In Q2 Amid High Gas Prices]]></title>
 <link>https://www.barrons.com/news/mixed-us-auto-sales-in-2nd-quarter-amid-high-gas-prices-ccba0ccc?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Jul 2026 20:22:17 -0000</pubDate>
+<pubDate>Wed, 01 Jul 2026 21:43:17 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Envoy Warns Some NATO Allies 'Lagging' On Trump Spending Vow]]></title>
-<link>https://www.barrons.com/news/us-envoy-warns-some-nato-allies-lagging-on-trump-spending-vow-b670f9b1?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Jul 2026 17:07:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Actor Danny Glover Says He Has Alzheimer's]]></title>
+<link>https://www.barrons.com/news/us-actor-danny-glover-says-he-has-alzheimer-s-43a4fe55?refsec=topics_afp-news</link>
+<pubDate>Wed, 01 Jul 2026 21:58:18 -0000</pubDate>
+<description><![CDATA["Lethal Weapon" star Danny Glover revealed Wednesday that he has Alzheimer's disease and is leaning on his family for support as he lives with the incurable condition.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Gus' The T. Rex Presented In New York Ahead Of Auction]]></title>
 <link>https://www.barrons.com/news/gus-the-t-rex-presented-in-new-york-ahead-of-auction-f37c429f?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 20:22:18 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/new-york-prepares-for-taylor-swift-travis-kelce-wedding-c038ae86?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 20:07:18 -0000</pubDate>
 <description><![CDATA[Taylor Swift and Travis Kelce's official wedding plans are tightly under wraps, but New York is bracing to host the celebrity marriage of the year this week at Madison Square Garden.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pair Climb To Top Of Empire State Building For Apparent Proposal]]></title>
-<link>https://www.barrons.com/news/pair-climb-to-top-of-empire-state-building-for-apparent-proposal-28206ed4?refsec=topics_afp-news</link>
-<pubDate>Wed, 01 Jul 2026 19:52:18 -0000</pubDate>
-<description><![CDATA[Two people were arrested Wednesday after they climbed up an antenna on the top of the Empire State Building in New York -- and possibly got engaged at the same time.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
