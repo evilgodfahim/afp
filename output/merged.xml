@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Jul 2026 19:43:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 20:52:11 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[An 'Angel' In Darkness After Venezuela's Deadly Quakes]]></title>
+<link>https://www.barrons.com/news/an-angel-in-darkness-after-venezuela-s-deadly-quakes-0d2d3816?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 20:52:09 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[A 'Garden Inside The Garden': More Details Of Swift-Kelce Wedding Emerge]]></title>
 <link>https://www.barrons.com/news/a-garden-inside-the-garden-more-details-of-swift-kelce-wedding-emerge-ba660f53?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 19:43:38 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Billboards, Cologne And Flowers: Turkish Capital Gets NATO Makeover]]></title>
-<link>https://www.barrons.com/news/billboards-cologne-and-flowers-turkish-capital-gets-nato-makeover-061d85f0?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 09:34:38 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Quake Death Toll Rises To Nearly 3,000]]></title>
+<link>https://www.barrons.com/news/venezuela-quake-death-toll-rises-to-nearly-3-000-5ad012ca?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 20:52:11 -0000</pubDate>
+<description><![CDATA[Venezuela's devastating twin earthquakes have killed nearly 3,000, official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[On America's Big Birthday, Mixed Emotions Over Legacy And Future]]></title>
 <link>https://www.barrons.com/news/on-america-s-big-birthday-mixed-emotions-over-legacy-and-future-82a0d0e0?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 19:43:39 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/vance-blasts-us-critics-on-america-s-250th-birthday-a2aa5218?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 18:08:47 -0000</pubDate>
 <description><![CDATA[US Vice President JD Vance on Saturday slammed those who criticize America's "imperfections" in a lengthy July Fourth address from the deck of an amphibious assault ship in New York.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[An 'Angel' In Darkness After Venezuela's Deadly Quakes]]></title>
-<link>https://www.barrons.com/news/an-angel-in-darkness-after-venezuela-s-deadly-quakes-0d2d3816?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 19:28:39 -0000</pubDate>
-<description><![CDATA[Just when Pedro Cordido thought all was lost, he heard Erick Roa's voice.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
