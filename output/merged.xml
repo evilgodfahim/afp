@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Jul 2026 07:20:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 09:34:40 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Billboards, Cologne And Flowers: Turkish Capital Gets NATO Makeover]]></title>
+<link>https://www.barrons.com/news/billboards-cologne-and-flowers-turkish-capital-gets-nato-makeover-061d85f0?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 09:34:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Super Typhoon' Bavi Heads For US Pacific Islands]]></title>
 <link>https://www.barrons.com/news/super-typhoon-bavi-heads-for-us-pacific-islands-f4f4dacb?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 07:20:53 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mass Protests Expected As German Far-right AfD Meets]]></title>
+<title><![CDATA[Mass Protests In Germany As Far-right AfD Meets]]></title>
 <link>https://www.barrons.com/news/mass-protests-expected-as-german-far-right-afd-meets-dc597c57?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 07:05:53 -0000</pubDate>
+<pubDate>Sat, 04 Jul 2026 09:19:38 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Dangerous Heat Wave Roasts America's Big Birthday Party]]></title>
-<link>https://www.barrons.com/news/dangerous-heatwave-hits-peak-temps-along-us-east-coast-1a51ede5?refsec=topics_afp-news</link>
-<pubDate>Fri, 03 Jul 2026 21:23:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Pope Defends Migrants At Mediterranean Island Frontier]]></title>
+<link>https://www.barrons.com/news/pope-defends-migrants-at-mediterranean-island-frontier-30c49c27?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 09:34:40 -0000</pubDate>
+<description><![CDATA[Pope Leo XIV on Saturday visited Italy's Lampedusa island, a major port of call for migrants risking the perilous crossing from Africa, in a stark message to US and EU leaders.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pope To Defend Migrants At Mediterranean Island Frontier]]></title>
 <link>https://www.barrons.com/news/pope-to-defend-migrants-at-mediterranean-island-frontier-522f683d?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 07:20:54 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-turns-250-as-trump-warns-of-attack-on-american-identity-ccc17652?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 07:05:54 -0000</pubDate>
 <description><![CDATA[America turns 250 on Saturday -- a landmark birthday that coincides with a time of deep national division and a president determined to seize the festive center stage.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Billboards, Cologne And Flowers: Turkish Capital Gets NATO Makeover]]></title>
-<link>https://www.barrons.com/news/billboards-cologne-and-flowers-turkish-capital-gets-nato-makeover-061d85f0?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 06:50:54 -0000</pubDate>
-<description><![CDATA[Along the highway from Ankara airport to the city centre, municipal workers have been planting flowers and installing giant billboards to shield views of dilapidated homes and poorer neighbourhoods.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
