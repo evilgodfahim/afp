@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:55:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 23:58:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Quake Death Toll Rises To Nearly 3,000]]></title>
+<link>https://www.barrons.com/news/venezuela-quake-death-toll-rises-to-nearly-3-000-5ad012ca?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 23:58:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[On America's Big Birthday, Mixed Emotions Over Legacy And Future]]></title>
 <link>https://www.barrons.com/news/on-america-s-big-birthday-mixed-emotions-over-legacy-and-future-82a0d0e0?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 21:55:13 -0000</pubDate>
@@ -83,6 +89,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine Denies Moscow Claim Of Seizing Strategic Stronghold]]></title>
+<link>https://www.barrons.com/news/ukraine-denies-moscow-claim-of-seizing-strategic-stronghold-34225f00?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 23:43:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Europe's Baked Rice Bowl Seeks Escape From Drought]]></title>
 <link>https://www.barrons.com/news/europe-s-baked-rice-bowl-seeks-escape-from-drought-8801e32b?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 19:28:38 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[Mali Hit By New Wave Of Coordinated Rebel Attacks]]></title>
 <link>https://www.barrons.com/news/mali-hit-by-new-wave-of-coordinated-attacks-d1c79e71?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 16:59:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukraine Says Still Fighting For Eastern Stronghold]]></title>
-<link>https://www.barrons.com/news/ukraine-says-still-fighting-for-eastern-stronghold-053e11b1?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 11:23:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Pope Urges Europe To Protect Migrants In Visit To Island Frontier]]></title>
-<link>https://www.barrons.com/news/pope-defends-migrants-at-mediterranean-island-frontier-30c49c27?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 11:08:23 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Main Washington July Fourth Event Evacuated Over Storm Threat: AFP]]></title>
+<link>https://www.barrons.com/news/main-washington-july-fourth-event-evacuated-over-storm-threat-afp-33793578?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 23:58:47 -0000</pubDate>
+<description><![CDATA[A massive July Fourth celebration on Washington's National Mall was evacuated on Saturday, due to an approaching severe thunderstorm, AFP reporters said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['I'm Going With Him': Families Fear For Bodies Of Venezuela's Quake Dead]]></title>
 <link>https://www.barrons.com/news/i-m-going-with-him-families-fear-for-bodies-of-venezuela-s-quake-dead-752873ed?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 21:55:14 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/tens-of-thousands-rally-in-albania-against-trump-linked-resort-project-4d3adefc?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 21:40:14 -0000</pubDate>
 <description><![CDATA[Tens of thousands rallied on Saturday in the Albanian capital Tirana in the largest protest since a movement against a resort linked to US President Donald Trump's family began.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Quake Death Toll Rises To Nearly 3,000]]></title>
-<link>https://www.barrons.com/news/venezuela-quake-death-toll-rises-to-nearly-3-000-5ad012ca?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 20:52:11 -0000</pubDate>
-<description><![CDATA[Venezuela's devastating twin earthquakes have killed nearly 3,000, official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
