@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 04 Jul 2026 15:40:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 16:59:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Mali Hit By New Wave Of Coordinated Rebel Attacks]]></title>
+<link>https://www.barrons.com/news/mali-hit-by-new-wave-of-coordinated-attacks-d1c79e71?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 16:59:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine Says Still Fighting For Eastern Stronghold]]></title>
 <link>https://www.barrons.com/news/ukraine-says-still-fighting-for-eastern-stronghold-053e11b1?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 11:23:23 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[President-elect Fujimori Hails 'New Chapter' For Peru]]></title>
-<link>https://www.barrons.com/news/president-elect-fujimori-hails-new-chapter-for-peru-8627fd83?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 04:09:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[A 'Garden Inside The Garden': More Details Of Swift-Kelce Wedding Emerge]]></title>
+<link>https://www.barrons.com/news/a-garden-inside-the-garden-more-details-of-swift-kelce-wedding-emerge-ba660f53?refsec=topics_afp-news</link>
+<pubDate>Sat, 04 Jul 2026 16:59:55 -0000</pubDate>
+<description><![CDATA[A performance from Stevie Nicks, personal vows, high school friends and a "garden inside the Garden": details are slowly emerging about Taylor Swift and Travis Kelce's star-studded wedding in New York.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Europe's Baked Rice Bowl Seeks Escape From Drought]]></title>
 <link>https://www.barrons.com/news/europe-s-baked-rice-bowl-seeks-escape-from-drought-8801e32b?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 11:23:25 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/struggling-german-auto-supplier-continental-to-sell-unit-e89b8bb3?refsec=topics_afp-news</link>
 <pubDate>Sat, 04 Jul 2026 11:08:25 -0000</pubDate>
 <description><![CDATA[German auto supplier Continental announced Saturday a four-billion-euro ($4.6-billion) deal to sell a division to a US investment group, the latest move in a major restructuring.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Mali Hit By New Wave Of Coordinated Rebel Attacks]]></title>
-<link>https://www.barrons.com/news/mali-hit-by-new-wave-of-coordinated-attacks-d1c79e71?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 12:42:14 -0000</pubDate>
-<description><![CDATA[Jihadists and their separatist Tuareg allies hit Mali with fresh coordinated attacks Saturday, striking multiple towns and a prison just months after hobbling the country's military junta with a similar wave of assaults.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
