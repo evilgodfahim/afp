@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Jul 2026 13:22:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 14:56:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Very Dangerous' Super Typhoon Nears US Pacific Islands]]></title>
+<link>https://www.barrons.com/news/very-dangerous-super-typhoon-nears-us-pacific-islands-ae99e4b0?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 14:56:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rain, Lightning And Chaos Open Trump's Headline Fourth Of July Event]]></title>
 <link>https://www.barrons.com/news/rain-lightning-and-chaos-open-trump-s-headline-fourth-of-july-event-8cba0655?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 11:52:12 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[On America's Big Birthday, Mixed Emotions Over Legacy And Future]]></title>
-<link>https://www.barrons.com/news/on-america-s-big-birthday-mixed-emotions-over-legacy-and-future-82a0d0e0?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 21:55:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Country Roads' Stars As Unofficial US Anthem At World Cup]]></title>
+<link>https://www.barrons.com/news/country-roads-stars-as-unofficial-us-anthem-at-world-cup-5cd83dfa?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 14:56:20 -0000</pubDate>
+<description><![CDATA[At this World Cup, the host US team's stirring unofficial anthem is...a 1971 folk song?
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UK Hard-right Leader Farage Faces New Allegations Over Gifts]]></title>
 <link>https://www.barrons.com/news/uk-hard-right-leader-farage-faces-new-allegations-over-gifts-7574d1b7?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 11:52:13 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/turkey-eyes-f110-fighter-jet-engines-as-trump-comes-to-town-ec0ef234?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 07:42:10 -0000</pubDate>
 <description><![CDATA[US President Donald Trump's visit to Ankara for the NATO summit could help secure Turkey's acquisition of dozens of fighter jet engines, but won't resolve the F-35 dispute that has soured ties, analysts say.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Very Dangerous' Super Typhoon Nears US Pacific Islands]]></title>
-<link>https://www.barrons.com/news/very-dangerous-super-typhoon-nears-us-pacific-islands-ae99e4b0?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 07:27:10 -0000</pubDate>
-<description><![CDATA[People in Guam and the Northern Marianas moved to emergency evacuation centers and made last-minute preparations on Sunday, hours before a "super typhoon" was projected to bulldoze through the US Pacific territories.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
