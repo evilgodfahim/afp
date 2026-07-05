@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Jul 2026 19:11:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 20:34:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,9 +59,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[White Supremacist March In DC Just 'Messy' Democracy: US Official]]></title>
+<title><![CDATA['Country Roads' Stars As Unofficial US Anthem At World Cup]]></title>
+<link>https://www.barrons.com/news/country-roads-stars-as-unofficial-us-anthem-at-world-cup-5cd83dfa?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 20:34:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[White Supremacist March In DC Just 'Messy' Democracy, Official Says]]></title>
 <link>https://www.barrons.com/news/white-supremacist-march-in-dc-just-messy-democracy-us-official-8192944d?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 19:11:02 -0000</pubDate>
+<pubDate>Sun, 05 Jul 2026 20:19:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Very Dangerous' Super Typhoon Nears US Pacific Islands]]></title>
+<title><![CDATA['Catastrophic' Super Typhoon Bavi Aims At US Pacific Island Rota]]></title>
 <link>https://www.barrons.com/news/very-dangerous-super-typhoon-nears-us-pacific-islands-ae99e4b0?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 14:56:19 -0000</pubDate>
+<pubDate>Sun, 05 Jul 2026 20:04:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Violent Crime Wave Beleaguers Israel's Arab Youth]]></title>
-<link>https://www.barrons.com/news/violent-crime-wave-beleaguers-israel-s-arab-youth-02a1f790?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 07:27:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Banana!: 'Minions' Knocks 'Toy Story' Off N.America Box Office Perch]]></title>
+<link>https://www.barrons.com/news/banana-minions-knocks-toy-story-off-n-america-box-office-perch-d3fb6ceb?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 20:34:37 -0000</pubDate>
+<description><![CDATA[The latest chapter in the lowbrow but lucrative "Minions" franchise debuted atop the North American box office this weekend, edging out another popular animation series in "Toy Story," industry estimates showed Sunday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Thanks FIFA For Suspending USA's Balogun World Cup Ban]]></title>
 <link>https://www.barrons.com/news/trump-thanks-fifa-for-suspending-usa-s-balogun-world-cup-ban-e737bf53?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 19:11:03 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/four-legged-rescuers-lead-way-after-venezuela-quakes-c08ab20d?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 17:34:52 -0000</pubDate>
 <description><![CDATA[Sisu tackles her missions in the rubble left by Venezuela's two earthquakes with the same determination and energy she uses to chase her favorite toy, an orange and blue ball.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Country Roads' Stars As Unofficial US Anthem At World Cup]]></title>
-<link>https://www.barrons.com/news/country-roads-stars-as-unofficial-us-anthem-at-world-cup-5cd83dfa?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 14:56:20 -0000</pubDate>
-<description><![CDATA[At this World Cup, the host US team's stirring unofficial anthem is...a 1971 folk song?
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
