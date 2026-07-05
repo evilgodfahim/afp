@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 05 Jul 2026 14:56:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 16:07:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Turkey Eyes F110 Fighter Jet Engines As Trump Comes To Town]]></title>
+<link>https://www.barrons.com/news/turkey-eyes-f110-fighter-jet-engines-as-trump-comes-to-town-ec0ef234?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 16:07:27 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Very Dangerous' Super Typhoon Nears US Pacific Islands]]></title>
 <link>https://www.barrons.com/news/very-dangerous-super-typhoon-nears-us-pacific-islands-ae99e4b0?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 14:56:19 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Venezuela Quake Death Toll Rises To Nearly 3,000]]></title>
-<link>https://www.barrons.com/news/venezuela-quake-death-toll-rises-to-nearly-3-000-5ad012ca?refsec=topics_afp-news</link>
-<pubDate>Sat, 04 Jul 2026 23:58:46 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
 <pubDate>Wed, 01 Jul 2026 16:07:43 -0000</pubDate>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[White Supremacist March In DC Just 'Messy' Democracy: US Official]]></title>
+<link>https://www.barrons.com/news/white-supremacist-march-in-dc-just-messy-democracy-us-official-8192944d?refsec=topics_afp-news</link>
+<pubDate>Sun, 05 Jul 2026 16:07:29 -0000</pubDate>
+<description><![CDATA[A top US official on Sunday shrugged off a July Fourth parade by masked white supremacists in Washington as an example of "messy" democracy that fell under the banner of constitutionally protected free speech.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UK Hard-right Leader Farage Faces New Allegations Over Gifts]]></title>
 <link>https://www.barrons.com/news/uk-hard-right-leader-farage-faces-new-allegations-over-gifts-7574d1b7?refsec=topics_afp-news</link>
 <pubDate>Sun, 05 Jul 2026 11:52:13 -0000</pubDate>
 <description><![CDATA[Hard-right British politican Nigel Farage on Sunday faced fresh allegations over non-disclosure of gifts after a newspaper reported a convicted fraudster paid for his security and staff before he became an MP.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Turkey Eyes F110 Fighter Jet Engines As Trump Comes To Town]]></title>
-<link>https://www.barrons.com/news/turkey-eyes-f110-fighter-jet-engines-as-trump-comes-to-town-ec0ef234?refsec=topics_afp-news</link>
-<pubDate>Sun, 05 Jul 2026 07:42:10 -0000</pubDate>
-<description><![CDATA[US President Donald Trump's visit to Ankara for the NATO summit could help secure Turkey's acquisition of dozens of fighter jet engines, but won't resolve the F-35 dispute that has soured ties, analysts say.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
