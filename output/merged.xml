@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 06 Jul 2026 21:08:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:44:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Newborn Baby Rescued From Rubble Of Venezuela Quake]]></title>
 <link>https://www.barrons.com/news/newborn-baby-rescued-from-rubble-of-venezuela-quake-eecf82b5?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Agony' In Cuba Amid Third Nationwide Blackout In Six Months]]></title>
+<link>https://www.barrons.com/news/agony-in-cuba-amid-third-nationwide-blackout-in-six-months-e2e74459?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Jul 2026 22:43:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[For Trump's World Cup, 'America First' Collides With World's Game]]></title>
 <link>https://www.barrons.com/news/for-trump-s-world-cup-america-first-collides-with-world-s-game-1cac9977?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Jul 2026 21:08:39 -0000</pubDate>
@@ -89,6 +95,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Canada Chooses Germany's TKMS To Build New Fleet Of Submarines]]></title>
+<link>https://www.barrons.com/news/canada-chooses-germany-s-tkms-to-build-new-fleet-of-submarines-2d12a567?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Jul 2026 22:28:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Clooney To Get Lifetime Award At Venice Film Festival]]></title>
 <link>https://www.barrons.com/news/clooney-to-get-lifetime-award-at-venice-film-festival-1f8a393d?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Jul 2026 18:28:33 -0000</pubDate>
@@ -98,18 +110,6 @@
 <title><![CDATA[UK's Farage Under The Cosh Over Undeclared Finances]]></title>
 <link>https://www.barrons.com/news/uk-s-farage-under-the-cosh-over-undeclared-finances-9d251d94?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Jul 2026 18:13:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Big Defence Spending, Aid Cuts: German Cabinet Approves Budget]]></title>
-<link>https://www.barrons.com/news/big-defence-spending-aid-cuts-german-cabinet-approves-budget-496a457c?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Jul 2026 17:58:33 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Microsoft Cuts 4,800 Jobs As It Revamps Xbox]]></title>
-<link>https://www.barrons.com/news/microsoft-cuts-4-800-job-as-it-revamps-xbox-d5ab18c3?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Jul 2026 17:43:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Charlie Kirk Widow Comes Face-to-face With Alleged Killer]]></title>
+<link>https://www.barrons.com/news/charlie-kirk-widow-comes-face-to-face-with-alleged-killer-0ae45e88?refsec=topics_afp-news</link>
+<pubDate>Mon, 06 Jul 2026 22:44:00 -0000</pubDate>
+<description><![CDATA[The widow of assassinated right-wing activist Charlie Kirk came face-to-face Monday with the man alleged to have killed him, during a court hearing in the western United States.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[FIFA Chief Forced To Defend Balogun World Cup Reprieve]]></title>
 <link>https://www.barrons.com/news/fifa-chief-forced-to-defend-balogun-world-cup-reprieve-2b72395a?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Jul 2026 21:08:41 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-touts-latest-white-house-renovation-a-new-helipad-0c2c1425?refsec=topics_afp-news</link>
 <pubDate>Mon, 06 Jul 2026 20:53:41 -0000</pubDate>
 <description><![CDATA[US President Donald Trump on Monday confirmed that work was underway to build a "beautiful" new helipad at the White House, in his latest personally directed redesign to the iconic building.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Agony' In Cuba Amid Third Nationwide Blackout In Six Months]]></title>
-<link>https://www.barrons.com/news/agony-in-cuba-amid-third-nationwide-blackout-in-six-months-e2e74459?refsec=topics_afp-news</link>
-<pubDate>Mon, 06 Jul 2026 19:13:34 -0000</pubDate>
-<description><![CDATA[Cuba on Monday suffered its third nationwide power outage since the start of the year, causing mounting despair in the face of an energy collapse precipitated by a US fuel blockade.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
