@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Jul 2026 16:59:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 18:54:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Three-year-old Rescued Six Days After Venezuela Quakes]]></title>
 <link>https://www.barrons.com/news/three-year-old-rescued-six-days-after-venezuela-quakes-17f2ab10?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Florida Airport Renamed 'Trump' In Latest Push To Expand His Brand]]></title>
+<link>https://www.barrons.com/news/florida-airport-renamed-trump-in-latest-push-to-expand-his-brand-3b6dd96b?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 18:54:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russia Subjecting 1.6 Million Ukrainian Children To Military Brainwashing: OSCE Report]]></title>
 <link>https://www.barrons.com/news/russia-subjecting-1-6-million-ukrainian-children-to-military-brainwashing-osce-report-1a929127?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 16:59:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[China Factory Fire Kills At Least 28 People]]></title>
+<link>https://www.barrons.com/news/china-factory-fire-kills-at-least-28-people-f7b78090?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 18:39:05 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[One Revolver, Six Bullets: Turkish President's 'Unusual' Gift To NATO Leaders]]></title>
-<link>https://www.barrons.com/news/how-nato-leaders-reacted-to-erdogan-s-revolver-gift-49bbd624?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 15:14:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chemical Weapons Watchdog Reinstates Syria]]></title>
-<link>https://www.barrons.com/news/chemical-weapons-watchdog-reinstates-syria-9e0230e9?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 14:59:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Jul 2026 21:46:08 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bayeux Tapestry Begins Epic Journey From France To London: Source]]></title>
+<link>https://www.barrons.com/news/bayeux-tapestry-begins-epic-journey-from-france-to-london-source-445bad3a?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 18:54:06 -0000</pubDate>
+<description><![CDATA[The medieval Bayeux Tapestry began a hugely complicated journey on Thursday that will see it leave France for the first time in more than 900 years for an exhibition in the British capital.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Olympian Accused Of Vandalizing Reflecting Pool Pleads Not Guilty]]></title>
 <link>https://www.barrons.com/news/us-olympian-accused-of-vandalizing-reflecting-pool-pleads-not-guilty-f40ebb6d?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 16:59:49 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/nerves-high-in-kyiv-as-russia-escalates-missile-attacks-a67bae01?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 16:44:49 -0000</pubDate>
 <description><![CDATA[Through more than four years of the Russian invasion, 27-year-old Oleksiy Virskovsky largely hasn't bothered going to the underground shelter in the building next door -- despite almost nightly missile and drone attacks.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Florida Airport Renamed 'Trump' In Latest Push To Expand His Brand]]></title>
-<link>https://www.barrons.com/news/florida-airport-renamed-trump-in-latest-push-to-expand-his-brand-3b6dd96b?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 16:29:49 -0000</pubDate>
-<description><![CDATA[A Florida airport was renamed after Donald Trump on Thursday, accelerating a push by the US president and supporters to plaster his name and image on everything from national landmarks to banknotes.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
