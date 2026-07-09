@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Jul 2026 18:54:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 20:44:10 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Three-year-old Rescued Six Days After Venezuela Quakes]]></title>
 <link>https://www.barrons.com/news/three-year-old-rescued-six-days-after-venezuela-quakes-17f2ab10?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nerves High In Kyiv As Russia Escalates Missile Attacks]]></title>
+<link>https://www.barrons.com/news/nerves-high-in-kyiv-as-russia-escalates-missile-attacks-a67bae01?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 20:44:10 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Florida Airport Renamed 'Trump' In Latest Push To Expand His Brand]]></title>
 <link>https://www.barrons.com/news/florida-airport-renamed-trump-in-latest-push-to-expand-his-brand-3b6dd96b?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 18:54:05 -0000</pubDate>
@@ -95,21 +101,15 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fendi Shows Haute Couture In Rome With Nod To Lagerfeld]]></title>
+<title><![CDATA[Black And Cream And Very Roman At Fendi Haute Couture Show]]></title>
 <link>https://www.barrons.com/news/fendi-shows-haute-couture-in-rome-with-nod-to-lagerfeld-dd524f62?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 15:59:48 -0000</pubDate>
+<pubDate>Thu, 09 Jul 2026 20:29:10 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[US Existing Home Sales Dip In June As Cost Worries Persist]]></title>
 <link>https://www.barrons.com/news/us-existing-home-sales-dip-in-june-as-cost-worries-persist-1cc09860?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 15:44:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ebola Outbreak Is 'Fastest Growing Ever' As 600 Die]]></title>
-<link>https://www.barrons.com/news/ebola-outbreak-is-fastest-growing-ever-as-600-die-20a40d00?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 15:29:48 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Pushes For Weaker Truck Pollution Rules]]></title>
+<link>https://www.barrons.com/news/us-pushes-for-weaker-truck-pollution-rules-3bc12369?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 20:44:10 -0000</pubDate>
+<description><![CDATA[President Donald Trump's administration on Thursday moved to loosen truck pollution regulations put in place by his predecessor Joe Biden, in its latest environmental rollback that benefits makers of fossil fuel burning vehicles.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bayeux Tapestry Begins Epic Journey From France To London: Source]]></title>
 <link>https://www.barrons.com/news/bayeux-tapestry-begins-epic-journey-from-france-to-london-source-445bad3a?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 18:54:06 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-olympian-accused-of-vandalizing-reflecting-pool-pleads-not-guilty-f40ebb6d?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 16:59:49 -0000</pubDate>
 <description><![CDATA[A former US Olympian who faces up to 10 years in prison for alleged vandalism of Washington's newly resurfaced -- but already peeling -- Reflecting Pool pleaded not guilty Thursday as supporters rallied outside the court.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nerves High In Kyiv As Russia Escalates Missile Attacks]]></title>
-<link>https://www.barrons.com/news/nerves-high-in-kyiv-as-russia-escalates-missile-attacks-a67bae01?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 16:44:49 -0000</pubDate>
-<description><![CDATA[Through more than four years of the Russian invasion, 27-year-old Oleksiy Virskovsky largely hasn't bothered going to the underground shelter in the building next door -- despite almost nightly missile and drone attacks.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
