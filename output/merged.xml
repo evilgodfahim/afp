@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 09 Jul 2026 20:44:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:18:21 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Three-year-old Rescued Six Days After Venezuela Quakes]]></title>
 <link>https://www.barrons.com/news/three-year-old-rescued-six-days-after-venezuela-quakes-17f2ab10?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Olympian Accused Of Vandalizing Reflecting Pool Pleads Not Guilty]]></title>
+<link>https://www.barrons.com/news/us-olympian-accused-of-vandalizing-reflecting-pool-pleads-not-guilty-f40ebb6d?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 22:18:20 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nerves High In Kyiv As Russia Escalates Missile Attacks]]></title>
 <link>https://www.barrons.com/news/nerves-high-in-kyiv-as-russia-escalates-missile-attacks-a67bae01?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 20:44:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Existing Home Sales Dip In June As Cost Worries Persist]]></title>
-<link>https://www.barrons.com/news/us-existing-home-sales-dip-in-june-as-cost-worries-persist-1cc09860?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 15:44:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
 <pubDate>Wed, 08 Jul 2026 21:46:08 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Charlie Kirk Killing: Suspect In Tears After Killing, Says Roommate]]></title>
+<link>https://www.barrons.com/news/charlie-kirk-killing-suspect-in-tears-after-killing-says-roommate-a6590994?refsec=topics_afp-news</link>
+<pubDate>Thu, 09 Jul 2026 22:18:21 -0000</pubDate>
+<description><![CDATA[The man accused of murdering influential right-wing campaigner Charlie Kirk broke down in tears of regret days after the killing, according to video testimony played in a US court on Thursday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Pushes For Weaker Truck Pollution Rules]]></title>
 <link>https://www.barrons.com/news/us-pushes-for-weaker-truck-pollution-rules-3bc12369?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 20:44:10 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/bayeux-tapestry-begins-epic-journey-from-france-to-london-source-445bad3a?refsec=topics_afp-news</link>
 <pubDate>Thu, 09 Jul 2026 18:54:06 -0000</pubDate>
 <description><![CDATA[The medieval Bayeux Tapestry began a hugely complicated journey on Thursday that will see it leave France for the first time in more than 900 years for an exhibition in the British capital.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Olympian Accused Of Vandalizing Reflecting Pool Pleads Not Guilty]]></title>
-<link>https://www.barrons.com/news/us-olympian-accused-of-vandalizing-reflecting-pool-pleads-not-guilty-f40ebb6d?refsec=topics_afp-news</link>
-<pubDate>Thu, 09 Jul 2026 16:59:49 -0000</pubDate>
-<description><![CDATA[A former US Olympian who faces up to 10 years in prison for alleged vandalism of Washington's newly resurfaced -- but already peeling -- Reflecting Pool pleaded not guilty Thursday as supporters rallied outside the court.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
