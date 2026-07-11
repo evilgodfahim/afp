@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Jul 2026 02:45:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 05:36:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Economic Uncertainty Looms Over Venezuela Quake Zone]]></title>
+<link>https://www.barrons.com/news/economic-uncertainty-looms-over-venezuela-quake-zone-e74ee8c3?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 05:36:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Apple Sues OpenAI For Stealing Trade Secrets]]></title>
 <link>https://www.barrons.com/news/apple-sues-openai-for-stealing-trade-secrets-b9b925c4?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 02:45:06 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Brutal Heat Wave Forecast For Western US This Weekend]]></title>
-<link>https://www.barrons.com/news/brutal-heat-wave-forecast-for-western-us-this-weekend-c7a3f60e?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Jul 2026 20:33:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[New Zealand, India Form 'Strategic Partnership']]></title>
+<title><![CDATA[Thousands Shelter In Taiwan As Typhoon Lashes Japan Islands]]></title>
+<link>https://www.barrons.com/news/thousands-shelter-in-taiwan-as-typhoon-lashes-japan-islands-afccc915?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 05:36:01 -0000</pubDate>
+<description><![CDATA[More than 14,000 people in Taiwan have fled their homes, and many shops remain closed, as a typhoon pounding Japan's remote southwestern islands swept towards China on Saturday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[New Zealand, India Strike 'Milestone' Strategic Partnership]]></title>
 <link>https://www.barrons.com/news/new-zealand-india-form-strategic-partnership-aae2c142?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 02:45:07 -0000</pubDate>
-<description><![CDATA[New Zealand and India announced Saturday a "strategic partnership" including in defence and security during a landmark visit by Prime Minister Narendra Modi to build on burgeoning trade ties.
+<pubDate>Sat, 11 Jul 2026 05:21:01 -0000</pubDate>
+<description><![CDATA[New Zealand and India announced Saturday a "strategic partnership" encompassing defence and security, during a landmark visit by Prime Minister Narendra Modi.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-canada-bridge-threatened-by-trump-to-open-july-27-e7ef44d7?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 02:30:07 -0000</pubDate>
 <description><![CDATA[A long-awaited new bridge between Canada and the United States, threatened by President Donald Trump earlier this year, will open for public use in late July, officials said Friday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Economic Uncertainty Looms Over Venezuela Quake Zone]]></title>
-<link>https://www.barrons.com/news/economic-uncertainty-looms-over-venezuela-quake-zone-e74ee8c3?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 02:15:07 -0000</pubDate>
-<description><![CDATA[Economic woes have joined the long list of worries facing Venezuelans living in the coastal region that suffered unthinkable damage during twin tremors a fortnight ago.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
