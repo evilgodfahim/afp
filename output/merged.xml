@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Jul 2026 07:48:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 09:23:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-Canada Bridge Threatened By Trump To Open July 27]]></title>
+<link>https://www.barrons.com/news/us-canada-bridge-threatened-by-trump-to-open-july-27-e7ef44d7?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 09:23:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Economic Uncertainty Looms Over Venezuela Quake Zone]]></title>
 <link>https://www.barrons.com/news/economic-uncertainty-looms-over-venezuela-quake-zone-e74ee8c3?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 05:36:00 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Scare Force One? Security Questions Swirl Over Trump's New Plane]]></title>
-<link>https://www.barrons.com/news/scare-force-one-security-questions-swirl-over-trump-s-new-plane-272ecf40?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Jul 2026 20:48:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands Shelter In Taiwan As Typhoon Lashes Japan Islands]]></title>
+<title><![CDATA[MSF Ebola Training In Kenya Prepares Doctors For 'Intense' Job]]></title>
+<link>https://www.barrons.com/news/msf-ebola-training-in-kenya-prepares-doctors-for-intense-job-f03d2667?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 09:23:51 -0000</pubDate>
+<description><![CDATA[An Ebola training facility set up by Doctors Without Borders in Kenya is a chance for health workers to prepare for one of the most complex emergencies they are ever likely to face.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Over 900,000 People Flee In China As Typhoon Lashes Taiwan, Japan Islands]]></title>
 <link>https://www.barrons.com/news/thousands-shelter-in-taiwan-as-typhoon-lashes-japan-islands-afccc915?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 05:36:01 -0000</pubDate>
-<description><![CDATA[More than 14,000 people in Taiwan have fled their homes, and many shops remain closed, as a typhoon pounding Japan's remote southwestern islands swept towards China on Saturday.
+<pubDate>Sat, 11 Jul 2026 09:08:51 -0000</pubDate>
+<description><![CDATA[More than 900,000 people have fled their homes in China, the government said, as an approaching typhoon lashed northern Taiwan and Japan's remote southwestern islands on Saturday, toppling trees and leaving tens of thousands without power.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/new-zealand-india-form-strategic-partnership-aae2c142?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 07:48:24 -0000</pubDate>
 <description><![CDATA[New Zealand and India announced Saturday a strategic partnership encompassing defence and security, during a landmark visit by Prime Minister Narendra Modi.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Canada Bridge Threatened By Trump To Open July 27]]></title>
-<link>https://www.barrons.com/news/us-canada-bridge-threatened-by-trump-to-open-july-27-e7ef44d7?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 02:30:07 -0000</pubDate>
-<description><![CDATA[A long-awaited new bridge between Canada and the United States, threatened by President Donald Trump earlier this year, will open for public use in late July, officials said Friday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
