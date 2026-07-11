@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Jul 2026 10:40:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 11:48:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nigerian Forces Suffered Casualties In Kidnap Rescue: Army]]></title>
+<link>https://www.barrons.com/news/nigerian-forces-suffered-casualties-in-kidnap-rescue-army-54a76119?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 11:48:55 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[MSF Ebola Training In Kenya Prepares Doctors For 'Intense' Job]]></title>
 <link>https://www.barrons.com/news/msf-ebola-training-in-kenya-prepares-doctors-for-intense-job-f03d2667?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 10:40:37 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Over 900,000 People Flee In China As Typhoon Lashes Taiwan, Japan Islands]]></title>
+<title><![CDATA[Nearly 2 Million People Flee In China As Typhoon Lashes Taiwan, Japan Islands]]></title>
 <link>https://www.barrons.com/news/thousands-shelter-in-taiwan-as-typhoon-lashes-japan-islands-afccc915?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 10:25:37 -0000</pubDate>
+<pubDate>Sat, 11 Jul 2026 11:33:55 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Music Industry Launches AI-generated Content Labels]]></title>
-<link>https://www.barrons.com/news/music-industry-launches-ai-generated-content-labels-e335aeb9?refsec=topics_afp-news</link>
-<pubDate>Fri, 10 Jul 2026 22:56:39 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Firefighters Gain Upper Hand On Deadly Spain Wildfire]]></title>
+<link>https://www.barrons.com/news/firefighters-gain-upper-hand-on-deadly-spain-wildfire-30619070?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 11:48:56 -0000</pubDate>
+<description><![CDATA[Firefighters aided by better weather on Saturday gained the upper hand on one of Spain's deadliest wildfires as survivors described "horrific" and terrifying moments as they escaped the flames.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mediators Try To Salvage Diplomacy After US-Iran Strikes]]></title>
 <link>https://www.barrons.com/news/mediators-try-to-salvage-diplomacy-after-us-iran-strikes-97462500?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 10:40:38 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/fresh-arrests-hit-opposition-run-district-in-ankara-79a9fb4f?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 10:25:38 -0000</pubDate>
 <description><![CDATA[Turkey's government pressed on with its campaign against the main opposition CHP on Saturday with dozens of arrests targeting a district in the capital Ankara that is run by the party.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nigerian Forces Suffered Casualties In Kidnap Rescue: Army]]></title>
-<link>https://www.barrons.com/news/nigerian-forces-suffered-casualties-in-kidnap-rescue-army-54a76119?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 10:10:38 -0000</pubDate>
-<description><![CDATA[Nigerian security forces suffered "casualties" during the rescue of over 40 kidnapped schoolchildren, the army said Saturday, in an operation that put an end to a major security crisis in the country's relatively safe southwest.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
