@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Jul 2026 13:09:26 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 14:34:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Supreme Leader Vows Revenge For Father's Killing]]></title>
+<link>https://www.barrons.com/news/mediators-try-to-salvage-diplomacy-after-us-iran-strikes-97462500?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 14:34:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Fresh Arrests Hit Opposition-run District In Ankara]]></title>
 <link>https://www.barrons.com/news/fresh-arrests-hit-opposition-run-district-in-ankara-79a9fb4f?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 13:09:25 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nigerian Forces Suffered Casualties In Kidnap Rescue: Army]]></title>
+<title><![CDATA[Nigerian Forces Suffered Casualties In Oyo Kidnap Rescue: Army]]></title>
 <link>https://www.barrons.com/news/nigerian-forces-suffered-casualties-in-kidnap-rescue-army-54a76119?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 11:48:55 -0000</pubDate>
+<pubDate>Sat, 11 Jul 2026 14:19:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Decision Delayed On Murder Trial Over Charlie Kirk Killing]]></title>
-<link>https://www.barrons.com/news/decision-delayed-on-murder-trial-over-charlie-kirk-killing-779b4692?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 02:30:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Our Land, Our Sky:' West Bank Palestinians Fly Kites In Defiance Of Israeli Settlers]]></title>
+<link>https://www.barrons.com/news/our-land-our-sky-west-bank-palestinians-fly-kites-in-defiance-of-israeli-settlers-cd732116?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 14:34:47 -0000</pubDate>
+<description><![CDATA[As brightly coloured kites climb above Burin, a Palestinian village in the Israeli-occupied West Bank, children race across a sun-baked hillside, watching their creations soar into the sky.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Ring The Bells': Residents Recall Escape From Deadly Spanish Wildfire]]></title>
 <link>https://www.barrons.com/news/ring-the-bells-residents-recall-escape-from-deadly-spanish-wildfire-24586668?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 13:09:26 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/firefighters-gain-upper-hand-on-deadly-spain-wildfire-30619070?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 11:48:56 -0000</pubDate>
 <description><![CDATA[Firefighters aided by better weather on Saturday gained the upper hand on one of Spain's deadliest wildfires as survivors described "horrific" and terrifying moments as they escaped the flames.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Supreme Leader Vows Revenge For Father's Killing]]></title>
-<link>https://www.barrons.com/news/mediators-try-to-salvage-diplomacy-after-us-iran-strikes-97462500?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 12:54:26 -0000</pubDate>
-<description><![CDATA[Iran's supreme leader on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
