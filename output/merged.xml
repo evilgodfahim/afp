@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 11 Jul 2026 11:48:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 13:09:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Fresh Arrests Hit Opposition-run District In Ankara]]></title>
+<link>https://www.barrons.com/news/fresh-arrests-hit-opposition-run-district-in-ankara-79a9fb4f?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 13:09:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nigerian Forces Suffered Casualties In Kidnap Rescue: Army]]></title>
 <link>https://www.barrons.com/news/nigerian-forces-suffered-casualties-in-kidnap-rescue-army-54a76119?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 11:48:55 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Sparks US Midterm Fears With Election Body Firings]]></title>
-<link>https://www.barrons.com/news/trump-sparks-us-midterm-fears-with-election-body-firings-4af14231?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 02:15:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Ring The Bells': Residents Recall Escape From Deadly Spanish Wildfire]]></title>
+<link>https://www.barrons.com/news/ring-the-bells-residents-recall-escape-from-deadly-spanish-wildfire-24586668?refsec=topics_afp-news</link>
+<pubDate>Sat, 11 Jul 2026 13:09:26 -0000</pubDate>
+<description><![CDATA[As flames raced toward the Spanish village of Bedar, Manoli Ramos received a desperate order from the mayor: run to the church and ring the bells to warn residents of the danger closing in.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Firefighters Gain Upper Hand On Deadly Spain Wildfire]]></title>
 <link>https://www.barrons.com/news/firefighters-gain-upper-hand-on-deadly-spain-wildfire-30619070?refsec=topics_afp-news</link>
 <pubDate>Sat, 11 Jul 2026 11:48:56 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mediators Try To Salvage Diplomacy After US-Iran Strikes]]></title>
+<title><![CDATA[Iran Supreme Leader Vows Revenge For Father's Killing]]></title>
 <link>https://www.barrons.com/news/mediators-try-to-salvage-diplomacy-after-us-iran-strikes-97462500?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 10:40:38 -0000</pubDate>
-<description><![CDATA[Mediators were trying to salvage diplomacy aimed at ending the Middle East war after US President Donald Trump declared the ceasefire over, with a Qatari delegation in Iran and Tehran's top diplomat travelling to Oman.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Fresh Arrests Hit Opposition-run District In Ankara]]></title>
-<link>https://www.barrons.com/news/fresh-arrests-hit-opposition-run-district-in-ankara-79a9fb4f?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 10:25:38 -0000</pubDate>
-<description><![CDATA[Turkey's government pressed on with its campaign against the main opposition CHP on Saturday with dozens of arrests targeting a district in the capital Ankara that is run by the party.
+<pubDate>Sat, 11 Jul 2026 12:54:26 -0000</pubDate>
+<description><![CDATA[Iran's supreme leader on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
