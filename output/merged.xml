@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Jul 2026 16:56:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 17:57:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
+<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-e6c512d9?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Jul 2026 17:57:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Senator And Trump Ally Lindsey Graham Dies Aged 71]]></title>
 <link>https://www.barrons.com/news/us-senator-and-trump-ally-lindsey-graham-dies-age-71-c9493972?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 16:56:29 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France Hosts S.Africa Leader For Talks, War Remembrance]]></title>
-<link>https://www.barrons.com/news/france-hosts-s-africa-leader-for-talks-war-remembrance-b9952766?refsec=topics_afp-news</link>
-<pubDate>Sat, 11 Jul 2026 15:51:48 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Elections To Be Held On October 27: Parliament]]></title>
+<link>https://www.barrons.com/news/israel-elections-to-be-held-on-october-27-parliament-5ff257f3?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Jul 2026 17:57:08 -0000</pubDate>
+<description><![CDATA[Israel will hold national elections on October 27, the last date allowed by law, its parliament said on Sunday, with the vote widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Gaza war erupted.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Zelensky Orders New PM In Major Government Reshuffle]]></title>
 <link>https://www.barrons.com/news/zelensky-orders-new-pm-in-major-government-reshuffle-c9b850de?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 16:56:31 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/evacuees-allowed-to-return-home-after-deadly-wildfire-in-spain-stabilises-fcf8ac5e?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 16:41:31 -0000</pubDate>
 <description><![CDATA[A wildfire that killed at least 12 people in southern Spain has been stabilised, allowing hundreds of evacuees to return home, officials said Sunday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
-<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-e6c512d9?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 09:25:44 -0000</pubDate>
-<description><![CDATA[Iran announced it was again closing the Strait of Hormuz on Sunday and hit Gulf neighbours in retaliation for US strikes, further undermining efforts to salvage Middle East peace efforts.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
