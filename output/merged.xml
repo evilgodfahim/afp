@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Jul 2026 17:57:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 19:07:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Evacuees Allowed To Return Home After Deadly Wildfire In Spain Stabilises]]></title>
+<link>https://www.barrons.com/news/evacuees-allowed-to-return-home-after-deadly-wildfire-in-spain-stabilises-fcf8ac5e?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Jul 2026 19:06:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
 <link>https://www.barrons.com/news/us-iran-strikes-latest-developments-e6c512d9?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 17:57:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Death Toll In Venezuela Earthquakes Surpasses 4,300]]></title>
-<link>https://www.barrons.com/news/death-toll-in-venezuela-earthquakes-surpasses-4-300-fb4258c9?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 04:04:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -145,10 +145,10 @@ Delivered by PolitePaul service]]></description>
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Evacuees Allowed To Return Home After Deadly Wildfire In Spain Stabilises]]></title>
-<link>https://www.barrons.com/news/evacuees-allowed-to-return-home-after-deadly-wildfire-in-spain-stabilises-fcf8ac5e?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 16:41:31 -0000</pubDate>
-<description><![CDATA[A wildfire that killed at least 12 people in southern Spain has been stabilised, allowing hundreds of evacuees to return home, officials said Sunday.
+<title><![CDATA[Spain Ex-PM Draws Criticism With 'Xenophobic' Remark On French Team]]></title>
+<link>https://www.barrons.com/news/spain-ex-pm-draws-criticism-with-xenophobic-remark-on-french-team-0ee64ade?refsec=topics_afp-news</link>
+<pubDate>Sun, 12 Jul 2026 19:07:00 -0000</pubDate>
+<description><![CDATA[Spain's conservative ex-prime minister Mariano Rajoy faced criticism at home and in France Sunday after saying the neighbouring country's national football team had "no French players".
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
