@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 12 Jul 2026 23:24:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 01:02:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Israel Elections To Be Held On October 27: Parliament]]></title>
+<link>https://www.barrons.com/news/israel-elections-to-be-held-on-october-27-parliament-5ff257f3?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Jul 2026 01:02:11 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Zelensky Orders New PM In Major Government Reshuffle]]></title>
 <link>https://www.barrons.com/news/zelensky-orders-new-pm-in-major-government-reshuffle-c9b850de?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 23:24:13 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Till Death Do Us Bark: Pets Serve As Witnesses At Ecuador Weddings]]></title>
-<link>https://www.barrons.com/news/till-death-do-us-bark-pets-serve-as-witnesses-at-ecuador-weddings-8e6e7ee8?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 04:49:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Top US Senator Breaks Silence On Health-related Absence]]></title>
+<link>https://www.barrons.com/news/top-us-senator-breaks-silence-on-health-related-absence-a7ca2d81?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Jul 2026 01:02:12 -0000</pubDate>
+<description><![CDATA[US Senator Mitch McConnell, the 84-year-old former Republican leader of the upper chamber, revealed on Sunday that his weeks-long hospitalization had been due to a fall after losing consciousness, with a subsequent bout of pneumonia.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Massive Fire In Bangkok Bar Kills At Least 27]]></title>
 <link>https://www.barrons.com/news/massive-fire-in-bangkok-bar-kills-at-least-27-2b6dd762?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 23:24:14 -0000</pubDate>
-<description><![CDATA[A massive fire in a Bangkok bar late Sunday night killed at least 27 people and injured dozens, sending screaming patrons fleeing as flames shot from the entrance, according to officials and video verified by AFP.
+<pubDate>Mon, 13 Jul 2026 00:47:12 -0000</pubDate>
+<description><![CDATA[A massive fire in a Bangkok bar late Sunday night killed at least 27 people and injured dozens, sending screaming patrons fleeing as flames shot from the entrance, according to officials, witnesses and video verified by AFP.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/venezuela-quake-death-toll-rises-to-4-490-b475a22b?refsec=topics_afp-news</link>
 <pubDate>Sun, 12 Jul 2026 21:21:31 -0000</pubDate>
 <description><![CDATA[The official death toll from Venezuela's devastating twin earthquakes rose to nearly 4,500 on Sunday, as the government reported more than 19,500 people were now living in camps due to the destruction.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Israel Elections To Be Held On October 27: Parliament]]></title>
-<link>https://www.barrons.com/news/israel-elections-to-be-held-on-october-27-parliament-5ff257f3?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 17:57:08 -0000</pubDate>
-<description><![CDATA[Israel will hold national elections on October 27, the last date allowed by law, its parliament said on Sunday, with the vote widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Gaza war erupted.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
