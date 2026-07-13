@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 13 Jul 2026 04:56:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 08:16:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Protected But Deported Anyway, As Trump Goes After 'Dreamers']]></title>
+<link>https://www.barrons.com/news/protected-but-deported-anyway-as-trump-goes-after-dreamers-d16c3854?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Jul 2026 08:16:30 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Top US Senator Breaks Silence On Health-related Absence]]></title>
 <link>https://www.barrons.com/news/top-us-senator-breaks-silence-on-health-related-absence-a7ca2d81?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Jul 2026 04:56:46 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Huge Fire In Bangkok Bar Kills At Least 27]]></title>
+<title><![CDATA[Thailand Probes Bangkok Bar Fire That Killed 27, Injured Dozens]]></title>
 <link>https://www.barrons.com/news/massive-fire-in-bangkok-bar-kills-at-least-27-2b6dd762?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Jul 2026 04:41:46 -0000</pubDate>
+<pubDate>Mon, 13 Jul 2026 08:01:30 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Senator And Trump Ally Lindsey Graham Dies Aged 71]]></title>
-<link>https://www.barrons.com/news/us-senator-and-trump-ally-lindsey-graham-dies-age-71-c9493972?refsec=topics_afp-news</link>
-<pubDate>Sun, 12 Jul 2026 16:56:29 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Prices Spike On Fresh US-Iran Attacks, Tech Weighs On Stocks Again]]></title>
+<title><![CDATA[Mulling Ban, EU Gets Expert Verdict On Social Media For Children]]></title>
+<link>https://www.barrons.com/news/mulling-ban-eu-gets-expert-verdict-on-social-media-for-children-31201ea6?refsec=topics_afp-news</link>
+<pubDate>Mon, 13 Jul 2026 08:16:31 -0000</pubDate>
+<description><![CDATA[To ban or not to ban children from all social media? That is the big question facing the European Union in its bid to protect minors from harmful content.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Oil Prices Spike On Fresh US-Iran Attacks, Tech Hammers On Stocks Again]]></title>
 <link>https://www.barrons.com/news/oil-prices-spike-on-fresh-us-iran-attacks-tech-weighs-on-stocks-again-f3989bc5?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Jul 2026 04:56:47 -0000</pubDate>
-<description><![CDATA[Oil prices jumped more than four percent Monday after another flare-up between the United States and Iran that threatened their already fragile truce, while Seoul led losses in most Asian stock markets as tech firms suffered another selloff.
+<pubDate>Mon, 13 Jul 2026 08:01:31 -0000</pubDate>
+<description><![CDATA[Oil prices jumped more than four percent on Monday after another flare-up between the United States and Iran that threatened their already fragile truce, while South Korean stocks plunged as tech firms were hit by a fresh rout.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/indispensable-xiaohongshu-app-fuels-chinese-tourism-2ec84db4?refsec=topics_afp-news</link>
 <pubDate>Mon, 13 Jul 2026 04:41:47 -0000</pubDate>
 <description><![CDATA[Competition is fierce for professional photographers at Beijing's tourist hotspots, including a scenic lake where women in flowy traditional robes pose for snaps to share on Xiaohongshu, China's massively popular lifestyle app.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Protected But Deported Anyway, As Trump Goes After 'Dreamers']]></title>
-<link>https://www.barrons.com/news/protected-but-deported-anyway-as-trump-goes-after-dreamers-d16c3854?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Jul 2026 04:26:47 -0000</pubDate>
-<description><![CDATA[Jose Contreras felt safe from deportation under a program launched years ago under Barack Obama, but the Trump administration expelled him anyway.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
