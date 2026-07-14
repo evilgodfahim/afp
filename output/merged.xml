@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 14 Jul 2026 03:53:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 06:07:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[New Era For Gibraltar As Border Controls With Spain Set To End]]></title>
+<link>https://www.barrons.com/news/new-era-for-gibraltar-as-border-controls-with-spain-set-to-end-7773a6e4?refsec=topics_afp-news</link>
+<pubDate>Tue, 14 Jul 2026 06:07:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Slashes Two Utah Protected Areas By More Than 90%]]></title>
 <link>https://www.barrons.com/news/trump-slashes-two-utah-protected-areas-by-more-than-90-179e1976?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 03:53:33 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Uganda Opposition Leader Treason Trial Starts Without Lawyers]]></title>
-<link>https://www.barrons.com/news/uganda-opposition-leader-treason-trial-starts-without-lawyers-f2608a4e?refsec=topics_afp-news</link>
-<pubDate>Mon, 13 Jul 2026 18:25:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Families Claim Bodies As Bangkok Fire Toll Rises To 30]]></title>
+<link>https://www.barrons.com/news/families-claim-bodies-as-bangkok-fire-toll-rises-to-30-41058e93?refsec=topics_afp-news</link>
+<pubDate>Tue, 14 Jul 2026 06:07:17 -0000</pubDate>
+<description><![CDATA[Grieving relatives of the victims of a huge Bangkok bar fire claimed their bodies Tuesday as the death toll rose to 30, even as others held out hope that missing loved ones were alive.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Oil Extends Gains After Latest US Strikes, Tech Suffers More Losses]]></title>
 <link>https://www.barrons.com/news/oil-extends-gains-after-latest-us-strikes-tech-suffers-more-losses-17d63e8b?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 03:53:34 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/armenian-apricots-become-geopolitical-battleground-with-russia-ffe16a72?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 03:38:34 -0000</pubDate>
 <description><![CDATA[In Armenia's Ararat valley, where apricots ripen beneath the biblical mountain of the same name, farmer Aramais Kazaryan's harvest has been swept into the centre of a geopolitical battle between Russia and the West.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[New Era For Gibraltar As Border Controls With Spain Set To End]]></title>
-<link>https://www.barrons.com/news/new-era-for-gibraltar-as-border-controls-with-spain-set-to-end-7773a6e4?refsec=topics_afp-news</link>
-<pubDate>Tue, 14 Jul 2026 03:23:34 -0000</pubDate>
-<description><![CDATA[Thousands of workers crossing daily between Spain and Gibraltar will enter a new era of easier travel on Wednesday, as border checks that have long been a source of tension are lifted.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
