@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 14 Jul 2026 20:07:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 21:29:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Xi Vows To Strengthen China's Military, Stamp Out Corruption]]></title>
 <link>https://www.barrons.com/news/xi-vows-to-strengthen-china-s-military-stamp-out-corruption-9fd95987?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Green Groups Sue To Block Trump Rule Gutting Species Habitat Protections]]></title>
+<link>https://www.barrons.com/news/green-groups-sue-to-block-trump-rule-gutting-species-habitat-protections-7cbc70aa?refsec=topics_afp-news</link>
+<pubDate>Tue, 14 Jul 2026 21:29:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Cuba Faces Third Nationwide Blackout In Less Than 10 Days]]></title>
 <link>https://www.barrons.com/news/cuba-faces-third-nationwide-blackout-in-less-than-10-days-3c567f68?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 18:36:56 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Supreme Court Justices Face Congress Amid Trump Tensions]]></title>
-<link>https://www.barrons.com/news/us-supreme-court-justices-face-congress-amid-trump-tensions-ff1b3b67?refsec=topics_afp-news</link>
-<pubDate>Tue, 14 Jul 2026 15:40:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Record-smashing Heat Wave Surges From West To Eastern US, Canada]]></title>
+<link>https://www.barrons.com/news/record-smashing-heat-wave-surges-from-west-to-eastern-us-canada-e1a88f0a?refsec=topics_afp-news</link>
+<pubDate>Tue, 14 Jul 2026 21:29:17 -0000</pubDate>
+<description><![CDATA[A record-smashing heat wave was spreading Tuesday from the Mountain West toward the eastern United States and Canada, placing more than 100 million people under heat alerts.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[NY State Pauses New Large Data Center Projects In US First]]></title>
 <link>https://www.barrons.com/news/ny-pauses-new-large-data-center-projects-for-one-year-f1d84d5a?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 20:07:01 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-speech-to-focus-on-free-and-fair-elections-42bf609c?refsec=topics_afp-news</link>
 <pubDate>Tue, 14 Jul 2026 18:21:57 -0000</pubDate>
 <description><![CDATA[US President Donald Trump said he would discuss "free and fair" voting in an address to the nation on Thursday, apparently doubling down on his false claims to have won the 2020 election.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Green Groups Sue To Block Trump Rule Gutting Species Habitat Protections]]></title>
-<link>https://www.barrons.com/news/green-groups-sue-to-block-trump-rule-gutting-species-habitat-protections-7cbc70aa?refsec=topics_afp-news</link>
-<pubDate>Tue, 14 Jul 2026 18:06:57 -0000</pubDate>
-<description><![CDATA[Conservation groups sued US President Donald Trump's administration Tuesday, accusing it of gutting a core protection in the Endangered Species Act by excluding habitat destruction from the legal definition of "harm" to vulnerable plants and animals.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
