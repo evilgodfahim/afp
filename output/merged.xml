@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 16 Jul 2026 21:11:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:27:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Farnborough To Survey The State Of Boeing's Comeback]]></title>
+<link>https://www.barrons.com/news/farnborough-to-survey-the-state-of-boeing-s-comeback-7e83c17a?refsec=topics_afp-news</link>
+<pubDate>Thu, 16 Jul 2026 22:27:51 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Speech To Focus On Election 'Integrity']]></title>
 <link>https://www.barrons.com/news/trump-speech-to-focus-on-election-integrity-f90e9f2d?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 21:10:59 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Italy Court Finds 32 People Guilty Over Deadly Genoa Bridge Collapse]]></title>
-<link>https://www.barrons.com/news/italy-court-finds-32-people-guilty-over-deadly-genoa-bridge-collapse-84b186c5?refsec=topics_afp-news</link>
-<pubDate>Thu, 16 Jul 2026 15:23:55 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
 <pubDate>Wed, 15 Jul 2026 18:34:23 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Netflix Shares Drop On Growth Worries]]></title>
+<link>https://www.barrons.com/news/netflix-shares-drop-on-growth-worries-e459b518?refsec=topics_afp-news</link>
+<pubDate>Thu, 16 Jul 2026 22:27:52 -0000</pubDate>
+<description><![CDATA[Netflix shares dropped as much as 8 percent Thursday after results underwhelmed investors already worried about slowing engagement at the streaming giant.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pele's World Cup Jersey Fetches $4.9 Million At US Auction]]></title>
 <link>https://www.barrons.com/news/pele-s-world-cup-jersey-fetches-4-9-million-at-us-auction-d175521f?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 21:11:02 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/signs-of-bird-strike-in-wreckage-of-deadly-ny-chopper-crash-investigators-300e18ae?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 20:56:02 -0000</pubDate>
 <description><![CDATA[The wreckage of a New York sightseeing helicopter that crashed into the Hudson River, killing six people, showed signs of a bird strike, investigators said on Thursday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Farnborough To Survey The State Of Boeing's Comeback]]></title>
-<link>https://www.barrons.com/news/farnborough-to-survey-the-state-of-boeing-s-comeback-7e83c17a?refsec=topics_afp-news</link>
-<pubDate>Thu, 16 Jul 2026 19:59:51 -0000</pubDate>
-<description><![CDATA[Fresh off last week's launch of new production capacity in Washington state, Boeing plans a splashy display of new commercial and defense offerings at next week's Farnborough International Airshow.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
