@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 16 Jul 2026 08:05:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:24:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ali Khamenei: Key Moments From His Life]]></title>
 <link>https://www.barrons.com/news/ali-khamenei-key-moments-from-his-life-e8141bee?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Germany's Delivery Hero Agrees 12.7-bn-euro Takeover By Uber]]></title>
+<link>https://www.barrons.com/news/germany-s-delivery-hero-agrees-12-7-bn-euro-takeover-by-uber-febb2352?refsec=topics_afp-news</link>
+<pubDate>Thu, 16 Jul 2026 10:24:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UK Nationalises Struggling British Steel]]></title>
+<link>https://www.barrons.com/news/uk-nationalises-struggling-british-steel-1f9f878c?refsec=topics_afp-news</link>
+<pubDate>Thu, 16 Jul 2026 10:09:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['No Rest': Indonesians Overworked And Abused On Foreign Fishing Vessels]]></title>
 <link>https://www.barrons.com/news/no-rest-indonesians-overworked-and-abused-on-foreign-fishing-vessels-dc9a6018?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 08:05:39 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Saving Gaza's Past, One Artefact At A Time]]></title>
-<link>https://www.barrons.com/news/saving-gaza-s-past-one-artefact-at-a-time-f6f2e92f?refsec=topics_afp-news</link>
-<pubDate>Thu, 16 Jul 2026 05:36:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Bid For Libya Reunification A Gamble, Analysts Say]]></title>
-<link>https://www.barrons.com/news/us-bid-for-libya-reunification-a-gamble-analysts-say-b5ad4d85?refsec=topics_afp-news</link>
-<pubDate>Thu, 16 Jul 2026 05:21:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
 <pubDate>Wed, 15 Jul 2026 18:34:23 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK Launches Hi-tech Mission To Study Greenland Ice Melt]]></title>
+<link>https://www.barrons.com/news/uk-launches-hi-tech-mission-to-study-greenland-ice-melt-7252a9a0?refsec=topics_afp-news</link>
+<pubDate>Thu, 16 Jul 2026 10:24:31 -0000</pubDate>
+<description><![CDATA[A team of international scientists sets sail Thursday from Britain for Greenland to study its rapidly melting ice using drones, mini-submarines and autonomous swimming robots.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Messi Magic Sends Argentina Into World Cup Final As England Fall Short]]></title>
 <link>https://www.barrons.com/news/messi-magic-sends-argentina-into-world-cup-final-as-england-fall-short-5c3bc891?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 08:05:41 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/taiwan-chipmaker-tsmc-to-invest-another-100bn-in-arizona-fabs-8830995f?refsec=topics_afp-news</link>
 <pubDate>Thu, 16 Jul 2026 07:50:41 -0000</pubDate>
 <description><![CDATA[Taiwanese chipmaker TSMC will invest an additional US$100 billion in the US state of Arizona, the company said Thursday, as it reported a record quarterly net profit on the back of massive demand for AI hardware.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Germany's Delivery Hero Agrees 12.7-bn-euro Takeover By Uber]]></title>
-<link>https://www.barrons.com/news/germany-s-delivery-hero-agrees-12-7-bn-euro-takeover-by-uber-febb2352?refsec=topics_afp-news</link>
-<pubDate>Thu, 16 Jul 2026 07:35:41 -0000</pubDate>
-<description><![CDATA[German food delivery group Delivery Hero said Thursday it has agreed to be taken over by US ride-hailing giant Uber in a 12.7-billion-euro ($14.6-billion) deal.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
