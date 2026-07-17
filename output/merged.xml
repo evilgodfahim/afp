@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 17 Jul 2026 17:36:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 19:00:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -89,6 +89,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[German Lawmaker Faces Criticism For US Surrogacy To Have A Child]]></title>
+<link>https://www.barrons.com/news/german-lawmaker-faces-criticism-for-us-surrogacy-to-have-a-child-2d82a734?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 19:00:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France Blocks Access To Polymarket]]></title>
 <link>https://www.barrons.com/news/france-blocks-access-to-polymarket-0b33c0a8?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 16:11:06 -0000</pubDate>
@@ -101,15 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US, Iran Trade Attacks In Return To Full-blown War]]></title>
+<title><![CDATA[US, Iran Trade Attacks As Renewed War Intensifies]]></title>
 <link>https://www.barrons.com/news/us-iran-trade-attacks-in-return-to-full-blown-war-8edca829?refsec=topics_afp-news</link>
-<pubDate>Fri, 17 Jul 2026 15:41:06 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Volvo Cars Sees Declining Sales In 'Challenging' Environment]]></title>
-<link>https://www.barrons.com/news/volvo-cars-sees-declining-sales-in-challenging-environment-2af9a2dd?refsec=topics_afp-news</link>
-<pubDate>Fri, 17 Jul 2026 15:26:06 -0000</pubDate>
+<pubDate>Fri, 17 Jul 2026 18:45:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -129,5 +129,26 @@
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
 <pubDate>Fri, 10 Jul 2026 08:50:12 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ex-president Sall Arrives Back In Senegal For Meeting With Successor]]></title>
+<link>https://www.barrons.com/news/ex-president-sall-arrives-back-in-senegal-for-meeting-with-successor-f111756e?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 19:00:59 -0000</pubDate>
+<description><![CDATA[Senegal's ex-president Macky Sall, who is campaigning to become the next UN secretary-general, arrived in Dakar Friday for a brief meeting with his successor, a visit criticised by the former leader's detractors.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Brazil Toughens Rules On Gambling Ads As Bets Explode]]></title>
+<link>https://www.barrons.com/news/brazil-toughens-rules-on-gambling-ads-as-bets-explode-e16359bb?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 18:45:59 -0000</pubDate>
+<description><![CDATA[Brazil on Friday made it mandatory for gambling advertisements to carry warnings about addiction and money loss, tightening regulations on a sector that has exploded in recent years, dragging many into debt.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US Links Taco Bell Lettuce To Multistate Parasite Outbreak]]></title>
+<link>https://www.barrons.com/news/us-links-taco-bell-lettuce-to-multistate-parasite-outbreak-496cc8f8?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 18:30:59 -0000</pubDate>
+<description><![CDATA[US officials on Friday pinned the source of a diarrhea-causing foodborne parasite as shredded iceberg lettuce used by the fast food chain Taco Bell.
+Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
