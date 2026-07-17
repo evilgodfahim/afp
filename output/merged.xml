@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 17 Jul 2026 22:12:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 23:21:58 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[China's Kimi K3 Rattles US AI Industry]]></title>
+<link>https://www.barrons.com/news/china-s-kimi-k3-rattles-us-ai-industry-7689a3ad?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 23:21:57 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands Protest Sacking Of Ukraine Defence Minister: AFP]]></title>
 <link>https://www.barrons.com/news/thousands-protest-sacking-of-ukraine-defence-minister-afp-37c9aca9?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 22:12:47 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Leader Herbert, Burns Equal Record 62 At British Open, DeChambeau Docked Two Shots]]></title>
-<link>https://www.barrons.com/news/leader-herbert-burns-equal-record-62-at-british-open-dechambeau-docked-two-shots-3e30ab59?refsec=topics_afp-news</link>
-<pubDate>Fri, 17 Jul 2026 21:42:47 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Leather Jacket Worn By Nvidia CEO Jensen Huang Auctions For Nearly $1 Mn]]></title>
+<link>https://www.barrons.com/news/leather-jacket-worn-by-nvidia-ceo-jensen-huang-auctions-for-nearly-1-mn-48e6d7cc?refsec=topics_afp-news</link>
+<pubDate>Fri, 17 Jul 2026 23:21:58 -0000</pubDate>
+<description><![CDATA[A black leather jacket sported by Nvidia CEO Jensen Huang sold for $960,000 at a New York auction on Friday, 16 times higher than the estimated value of $60,000, according to Sotheby's.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[DeChambeau's British Open Charge Hit By Two-shot Penalty]]></title>
 <link>https://www.barrons.com/news/dechambeau-s-british-open-charge-hit-by-two-shot-penalty-26d3bff3?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 22:12:48 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/venice-protesters-denounce-us-ambassador-s-mega-yacht-ded9e17f?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 21:57:48 -0000</pubDate>
 <description><![CDATA[Police and demonstrators clashed briefly in Venice on Friday during a protest against the arrival of a mega-yacht owned by the US ambassador to Italy, Texan businessman Tilman Fertitta.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[China's Kimi K3 Rattles US AI Industry]]></title>
-<link>https://www.barrons.com/news/china-s-kimi-k3-rattles-us-ai-industry-7689a3ad?refsec=topics_afp-news</link>
-<pubDate>Fri, 17 Jul 2026 20:25:53 -0000</pubDate>
-<description><![CDATA[Kimi K3, a new artificial intelligence program from a Chinese startup called Moonshot AI, stunned the US tech industry on Friday, setting off fresh discussion over the China-US rivalry to dominate AI.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
