@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Jul 2026 17:53:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 18:57:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukrainian Strikes On Russian Warehouses Kill 8, Shroud Skies In Smoke]]></title>
+<link>https://www.barrons.com/news/ukrainian-strikes-on-russian-warehouses-kill-8-shroud-skies-in-smoke-83255159?refsec=topics_afp-news</link>
+<pubDate>Sat, 18 Jul 2026 18:57:21 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Botswana Says 'Alarming Rise' In Citizens Lured To Russia's War]]></title>
 <link>https://www.barrons.com/news/botswana-says-alarming-rise-in-citizens-lured-to-russia-s-war-c9eadf1f?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 17:53:20 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Iran Fighting Escalates With Infrastructure Targeted]]></title>
+<title><![CDATA[Iran Threatens 'Unforgettable Lessons', As Two US Troops Killed]]></title>
 <link>https://www.barrons.com/news/us-iran-fighting-escalates-with-infrastructure-targeted-96aa5374?refsec=topics_afp-news</link>
-<pubDate>Sat, 18 Jul 2026 15:52:25 -0000</pubDate>
+<pubDate>Sat, 18 Jul 2026 18:42:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Founding Father: Statues Of Myanmar's Aung San Disappear]]></title>
-<link>https://www.barrons.com/news/founding-father-statues-of-myanmar-s-aung-san-disappear-a74f20e5?refsec=topics_afp-news</link>
-<pubDate>Sat, 18 Jul 2026 10:58:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ukrainian Strikes On Russian Warehouses Kill 8, Shroud Skies In Smoke]]></title>
+<link>https://www.barrons.com/news/ukrainian-strikes-on-russian-warehouses-kill-8-shroud-skies-in-smoke-e5de2a8e?refsec=topics_afp-news</link>
+<pubDate>Sat, 18 Jul 2026 18:57:22 -0000</pubDate>
+<description><![CDATA[Waves of Ukrainian explosive-laden drones on Saturday pounded e-commerce warehouses in the Moscow and Tambov regions, killing eight people and causing large fires that blackened the skies with thick smoke for hours.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[NY Mayor Says Still Mulling Netanyahu Arrest During UN Meet]]></title>
 <link>https://www.barrons.com/news/ny-mayor-says-still-mulling-netanyahu-arrest-during-un-meet-4e0562e1?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 17:53:21 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/wildfire-haze-hangs-over-eastern-us-and-world-cup-final-e468343e?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 16:52:54 -0000</pubDate>
 <description><![CDATA[Heavy, acrid smoke blanketed the eastern United States on Saturday, marring preparations for the weekend's highly awaited World Cup final to be held in an open stadium in New Jersey.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ukrainian Strikes On Russian Warehouses Kill 8, Shroud Skies In Smoke]]></title>
-<link>https://www.barrons.com/news/ukrainian-strikes-on-russian-warehouses-kill-8-shroud-skies-in-smoke-83255159?refsec=topics_afp-news</link>
-<pubDate>Sat, 18 Jul 2026 16:37:54 -0000</pubDate>
-<description><![CDATA[Waves of Ukrainian explosive-laden drones on Saturday pounded e-commerce warehouses in the Moscow and Tambov regions, killing eight people and causing large fires that blackened the skies with thick smoke for hours.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
