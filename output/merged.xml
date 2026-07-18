@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 18 Jul 2026 20:03:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 21:12:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Wildfire Haze Hangs Over Eastern US -- And World Cup Final]]></title>
+<link>https://www.barrons.com/news/wildfire-haze-hangs-over-eastern-us-and-world-cup-final-e468343e?refsec=topics_afp-news</link>
+<pubDate>Sat, 18 Jul 2026 21:12:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukrainian Strikes On Russian Warehouses Kill 8, Shroud Skies In Smoke]]></title>
 <link>https://www.barrons.com/news/ukrainian-strikes-on-russian-warehouses-kill-8-shroud-skies-in-smoke-83255159?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 18:57:21 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
-<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-654b3df1?refsec=topics_afp-news</link>
-<pubDate>Sat, 18 Jul 2026 12:57:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Zelensky Mulls Army Changes As Protests Rock Ukraine For Third Day]]></title>
+<link>https://www.barrons.com/news/zelensky-mulls-army-changes-as-protests-rock-ukraine-for-third-day-59b2286e?refsec=topics_afp-news</link>
+<pubDate>Sat, 18 Jul 2026 21:12:59 -0000</pubDate>
+<description><![CDATA[Ukrainian President Volodymyr Zelensky on Saturday hinted at potential changes in the army, as rare wartime protests over the removal of a popular defence minister rocked the country for a third day.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukrainian Strikes On Russian Warehouses Kill 8, Shroud Skies In Smoke]]></title>
 <link>https://www.barrons.com/news/ukrainian-strikes-on-russian-warehouses-kill-8-shroud-skies-in-smoke-e5de2a8e?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 18:57:22 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/ny-mayor-says-still-mulling-netanyahu-arrest-during-un-meet-4e0562e1?refsec=topics_afp-news</link>
 <pubDate>Sat, 18 Jul 2026 17:53:21 -0000</pubDate>
 <description><![CDATA[New York Mayor Zohran Mamdani is in talks over whether to try to arrest Israeli Prime Minister Benjamin Netanyahu during an upcoming UN summit, he said in an interview published Saturday -- prompting a sharp rebuke from Netanyahu's camp.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Wildfire Haze Hangs Over Eastern US -- And World Cup Final]]></title>
-<link>https://www.barrons.com/news/wildfire-haze-hangs-over-eastern-us-and-world-cup-final-e468343e?refsec=topics_afp-news</link>
-<pubDate>Sat, 18 Jul 2026 16:52:54 -0000</pubDate>
-<description><![CDATA[Heavy, acrid smoke blanketed the eastern United States on Saturday, marring preparations for the weekend's highly awaited World Cup final to be held in an open stadium in New Jersey.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
