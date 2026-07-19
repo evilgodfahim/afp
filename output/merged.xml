@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Jul 2026 20:09:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 21:21:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Palestinians Say Israeli Settlers Torch Mosque, Factory]]></title>
+<link>https://www.barrons.com/news/palestinians-say-israeli-settlers-torch-mosque-factory-e4568a47?refsec=topics_afp-news</link>
+<pubDate>Sun, 19 Jul 2026 21:21:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Launches Strikes To 'Punish' Iran After Troops Killed]]></title>
 <link>https://www.barrons.com/news/us-launches-strikes-to-punish-iran-after-troops-killed-9e20dc19?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 11:53:27 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump To Bask In World Cup Final Spotlight]]></title>
+<title><![CDATA[Trump Basks In World Cup Final Spotlight]]></title>
 <link>https://www.barrons.com/news/trump-to-bask-in-world-cup-final-spotlight-a642a44d?refsec=topics_afp-news</link>
-<pubDate>Sun, 19 Jul 2026 09:10:13 -0000</pubDate>
+<pubDate>Sun, 19 Jul 2026 21:06:58 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Kyiv Hit With Deadly Strikes After Attack On Russian E-commerce Giant]]></title>
-<link>https://www.barrons.com/news/kyiv-struck-after-attack-on-russian-e-commerce-giant-41b1fd3b?refsec=topics_afp-news</link>
-<pubDate>Sun, 19 Jul 2026 06:33:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['The Odyssey' Storms N. American Box Office]]></title>
+<link>https://www.barrons.com/news/the-odyssey-storms-n-american-box-office-85ece829?refsec=topics_afp-news</link>
+<pubDate>Sun, 19 Jul 2026 21:21:59 -0000</pubDate>
+<description><![CDATA[Christopher Nolan's "The Odyssey" sailed straight to the top of the North American box office, bringing home $124.5 million in its opening weekend -- the best live action debut of the year, industry estimates showed Sunday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
 <link>https://www.barrons.com/news/us-iran-strikes-latest-developments-034e539e?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 14:37:03 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/starbucks-korea-staff-form-union-after-tank-day-campaign-fiasco-6ecbe265?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 10:51:30 -0000</pubDate>
 <description><![CDATA[Workers at Starbucks Korea have formed a labour union, the company confirmed on Sunday, following a marketing fiasco that evoked painful memories of a 1980 government crackdown on pro-democracy activists.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Palestinians Say Israeli Settlers Torch Mosque, Factory]]></title>
-<link>https://www.barrons.com/news/palestinians-say-israeli-settlers-torch-mosque-factory-e4568a47?refsec=topics_afp-news</link>
-<pubDate>Sun, 19 Jul 2026 10:36:30 -0000</pubDate>
-<description><![CDATA[Israeli settlers set fire overnight to a mosque in a village in the occupied West Bank, a Palestinian official said Sunday, as an AFP journalist saw the structure's entrance scorched and Hebrew graffiti sprayed on its walls.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
