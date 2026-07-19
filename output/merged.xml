@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Jul 2026 22:24:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 23:27:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Starbucks Korea Staff Form Union After 'Tank Day' Campaign Fiasco]]></title>
+<link>https://www.barrons.com/news/starbucks-korea-staff-form-union-after-tank-day-campaign-fiasco-6ecbe265?refsec=topics_afp-news</link>
+<pubDate>Sun, 19 Jul 2026 23:27:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Palestinians Say Israeli Settlers Torch Mosque, Factory]]></title>
 <link>https://www.barrons.com/news/palestinians-say-israeli-settlers-torch-mosque-factory-e4568a47?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 21:21:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Burnham Likely To Steer Steady Ship On UK Foreign Policy]]></title>
-<link>https://www.barrons.com/news/burnham-likely-to-steer-steady-ship-on-uk-foreign-policy-031579e0?refsec=topics_afp-news</link>
-<pubDate>Sun, 19 Jul 2026 04:23:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Argentina, Spain Fans Flood New York As City Bids Farewell To World Cup]]></title>
+<link>https://www.barrons.com/news/argentina-spain-fans-flood-new-york-as-city-bids-farewell-to-world-cup-637c2633?refsec=topics_afp-news</link>
+<pubDate>Sun, 19 Jul 2026 23:27:15 -0000</pubDate>
+<description><![CDATA[Victorious Spanish fans and mournful Argentinians brought the World Cup carnival back to the heart of New York for their blockbuster clash Sunday, reigniting fervor that had dipped with the US exit.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['The Odyssey' Storms N. American Box Office]]></title>
 <link>https://www.barrons.com/news/the-odyssey-storms-n-american-box-office-85ece829?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 21:21:59 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-iran-strikes-latest-developments-034e539e?refsec=topics_afp-news</link>
 <pubDate>Sun, 19 Jul 2026 14:37:03 -0000</pubDate>
 <description><![CDATA[US and Iranian strikes extended into Sunday, with Washington saying it was punishing Tehran for the deaths of two US servicemen in Jordan and Gulf states announcing responses to Iranian attacks.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Starbucks Korea Staff Form Union After 'Tank Day' Campaign Fiasco]]></title>
-<link>https://www.barrons.com/news/starbucks-korea-staff-form-union-after-tank-day-campaign-fiasco-6ecbe265?refsec=topics_afp-news</link>
-<pubDate>Sun, 19 Jul 2026 10:51:30 -0000</pubDate>
-<description><![CDATA[Workers at Starbucks Korea have formed a labour union, the company confirmed on Sunday, following a marketing fiasco that evoked painful memories of a 1980 government crackdown on pro-democracy activists.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
