@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Jul 2026 21:40:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 22:55:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
+<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-a09e9e14?refsec=topics_afp-news</link>
+<pubDate>Mon, 20 Jul 2026 22:55:34 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Mexican Drug Lord 'El Mayo' Sentenced To Life In US Prison]]></title>
 <link>https://www.barrons.com/news/mexican-drug-lord-el-mayo-sentenced-to-life-in-prison-3994b867?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Jul 2026 20:17:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Swiss Researchers Hoard Vast Trove Of NASA Climate Data]]></title>
-<link>https://www.barrons.com/news/swiss-researchers-hoard-vast-trove-of-nasa-climate-data-3e0aebfb?refsec=topics_afp-news</link>
-<pubDate>Mon, 20 Jul 2026 14:41:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Orders New 50% Tariff On Many Canadian Goods]]></title>
+<link>https://www.barrons.com/news/trump-orders-new-50-tariff-on-many-canadian-goods-1655899f?refsec=topics_afp-news</link>
+<pubDate>Mon, 20 Jul 2026 22:55:35 -0000</pubDate>
+<description><![CDATA[US President Donald Trump signed orders Monday to impose new 50-percent tariffs on many Canadian goods, claiming "discriminatory treatment" by Ottawa against American alcohol, automobile and dairy products.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Canada Faces One Of Its Most Intense Fire Seasons]]></title>
 <link>https://www.barrons.com/news/canada-faces-one-of-its-most-intense-fire-seasons-9be91332?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Jul 2026 20:17:13 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-judge-suspends-paramount-s-acquisition-of-warner-bros-033aa005?refsec=topics_afp-news</link>
 <pubDate>Mon, 20 Jul 2026 20:02:13 -0000</pubDate>
 <description><![CDATA[A federal judge in California on Monday ordered Paramount Skydance and Warner Brothers Discovery to temporarily pause their merger while a case brought by multiple states challenging the deal moves forward.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
-<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-a09e9e14?refsec=topics_afp-news</link>
-<pubDate>Mon, 20 Jul 2026 18:50:21 -0000</pubDate>
-<description><![CDATA[Iran's president said his country is fighting a "full-scale war" with the United States, as Washington expanded its strikes across the Islamic republic and Tehran hit Gulf states.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
