@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:37:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 12:21:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran To Bury Khamenei In Hometown As US Ramps Up Strikes]]></title>
 <link>https://www.barrons.com/news/iran-to-bury-khamenei-in-hometown-as-us-ramps-up-strikes-ebe61f33?refsec=topics_afp-news</link>
@@ -59,6 +59,36 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK PM Burnham's New Cabinet To Meet As He Announces Tax Cut]]></title>
+<link>https://www.barrons.com/news/uk-pm-burnham-s-new-cabinet-to-meet-as-he-announces-tax-cut-17f67037?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 12:21:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Iran Steps Up Attacks In Return To War With US]]></title>
+<link>https://www.barrons.com/news/iran-steps-up-attacks-in-return-to-war-with-us-02b57e43?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 12:06:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Oleksandr Syrsky, Ukraine's Under-fire Commander-in-chief]]></title>
+<link>https://www.barrons.com/news/oleksandr-syrsky-ukraine-s-under-fire-commander-in-chief-279dc371?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 11:51:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Opposition Leader Gandhi Demands India PM's Resignation Over Protest Crackdown]]></title>
+<link>https://www.barrons.com/news/india-s-cockroach-movement-vows-to-protest-until-education-minister-resigns-dbd2cf32?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 11:36:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
+<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-e781f0e4?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 11:21:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New UK Govt Tackles Cost Of Living With Energy Tax Cut]]></title>
 <link>https://www.barrons.com/news/new-uk-govt-tackles-cost-of-living-with-energy-tax-cut-211221ba?refsec=topics_afp-news</link>
 <pubDate>Tue, 21 Jul 2026 10:37:18 -0000</pubDate>
@@ -83,36 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Novartis Says Buoyed By New Treatments In Second Quarter]]></title>
-<link>https://www.barrons.com/news/novartis-says-buoyed-by-new-treatments-in-second-quarter-59e67b1a?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 08:05:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South China Sea Rivalry Looms Over ASEAN Meeting]]></title>
-<link>https://www.barrons.com/news/south-china-sea-rivalry-looms-over-asean-meeting-5483aac9?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 07:50:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Countries Move To Ban Social Media For Children]]></title>
-<link>https://www.barrons.com/news/countries-move-to-ban-social-media-for-children-c2d383d0?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 07:35:51 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Asia Stocks Up As Chip Stocks Recover, Oil Eases]]></title>
-<link>https://www.barrons.com/news/asia-stocks-up-as-chip-stocks-recover-oil-eases-db46f24e?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 05:34:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Fires In Brazil's Amazon Dropped To Historic Low In 2025]]></title>
-<link>https://www.barrons.com/news/fires-in-brazil-s-amazon-dropped-to-historic-low-in-2025-9cb2ead6?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 05:19:18 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oleksandr Syrsky, Ukraine's Under-fire Commander-in-chief]]></title>
-<link>https://www.barrons.com/news/oleksandr-syrsky-ukraine-s-under-fire-commander-in-chief-279dc371?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 10:37:19 -0000</pubDate>
-<description><![CDATA[Ukraine's Soviet-trained top commander Oleksandr Syrsky -- who could be sacked this week -- led some of Kyiv's most decisive military campaigns, but clashed with reformers as drones and technology changed the face of war.
+<title><![CDATA[General Motors Lifts 2026 Outlook Despite Hit From Electric Retreat]]></title>
+<link>https://www.barrons.com/news/general-motors-lifts-2026-outlook-despite-hit-from-electric-retreat-32eca71a?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 12:21:30 -0000</pubDate>
+<description><![CDATA[General Motors raised its full-year profit forecast on Tuesday after reporting solid quarterly results on strong vehicle pricing that offset a hit from costs tied to winding down electric vehicle investments.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India's 'Cockroach' Movement Vows To Protest Until Education Minister Resigns]]></title>
-<link>https://www.barrons.com/news/india-s-cockroach-movement-vows-to-protest-until-education-minister-resigns-dbd2cf32?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 10:22:19 -0000</pubDate>
-<description><![CDATA[India's "Cockroach" party movement vowed Tuesday to press ahead for the resignation of the country's education minister, a day after at least 178 people were injured in protests in New Delhi.
+<title><![CDATA[Uproar In France Over Reintroduction Of Bee-harming Pesticides]]></title>
+<link>https://www.barrons.com/news/uproar-in-france-over-reintroduction-of-bee-harming-pesticides-6c16ecbb?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 12:06:30 -0000</pubDate>
+<description><![CDATA[Environmentalists in France were outraged Tuesday as parliament looked set to authorise some farmers to use two bee-harming pesticides banned in France but allowed in the European Union.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US-Iran Strikes: Latest Developments]]></title>
-<link>https://www.barrons.com/news/us-iran-strikes-latest-developments-e781f0e4?refsec=topics_afp-news</link>
-<pubDate>Tue, 21 Jul 2026 10:07:19 -0000</pubDate>
-<description><![CDATA[Iran targeted US radar and air defence installations in the Gulf on Tuesday, warning Washington of "more decisive and powerful" attacks to come as the conflict threatened to widen with a blockade of Saudi ports by Houthi rebels in Yemen.
+<title><![CDATA[Kuwaitis Ration Electricity As Iran Hits Power Grid]]></title>
+<link>https://www.barrons.com/news/kuwaitis-ration-electricity-as-iran-hits-power-grid-0f8dba88?refsec=topics_afp-news</link>
+<pubDate>Tue, 21 Jul 2026 11:51:30 -0000</pubDate>
+<description><![CDATA[Residents of Kuwait, one of the world's hottest countries, are cutting their use of air conditioning at the height of summer, as Iranian strikes on power plants turn rationing into a national priority.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
