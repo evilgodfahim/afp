@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Jul 2026 21:35:18 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:57:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Google-parent Alphabet Beats Expectations, Cloud Revenue Nearly Doubles]]></title>
+<link>https://www.barrons.com/news/alphabet-beats-expectations-in-second-quarter-cloud-revenue-nearly-doubles-5be15f9a?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Jul 2026 22:57:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[US Eyes Offshore Nuclear Reactors]]></title>
+<link>https://www.barrons.com/news/us-eyes-offshore-nuclear-reactors-d98606d0?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Jul 2026 22:42:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[EU Conditionally Clears Paramount Bid For Warner Bros.]]></title>
 <link>https://www.barrons.com/news/eu-conditionally-clears-paramount-bid-for-warner-bros-cd2e34fa?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Jul 2026 21:35:17 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rubio Says At ASEAN Meeting He Expects 'Positive' US Visit By China's Xi]]></title>
-<link>https://www.barrons.com/news/rubio-says-at-asean-meeting-he-expects-positive-us-visit-by-china-s-xi-00cc72eb?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Jul 2026 16:42:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South African Tycoon Motsepe Rules Out Presidential Bid]]></title>
-<link>https://www.barrons.com/news/south-african-tycoon-motsepe-rules-out-presidential-bid-334d1764?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Jul 2026 16:27:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Jul 2026 15:21:38 -0000</pubDate>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Announces Civilian Nuclear Deal With Saudi Arabia]]></title>
+<link>https://www.barrons.com/news/us-announces-civilian-nuclear-deal-with-saudi-arabia-0f4fb433?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Jul 2026 22:57:33 -0000</pubDate>
+<description><![CDATA[The United States on Wednesday announced a landmark deal with Saudi Arabia that would establish a civilian nuclear program in the Gulf country, with Washington insisting the agreement includes safeguards against non-proliferation.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Wildfires Ravage Parts Of Southern France, Italy And Spain]]></title>
+<link>https://www.barrons.com/news/wildfires-ravage-parts-of-southern-france-italy-and-spain-e218ed74?refsec=topics_afp-news</link>
+<pubDate>Wed, 22 Jul 2026 22:42:33 -0000</pubDate>
+<description><![CDATA[Wildfires raged on Wednesday in Sicily, southwestern France and central Spain, sparking thousands of evacuations and claiming the life of an Italian firefighter.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Tesla Shares Dip After Profit Misses Expectations]]></title>
 <link>https://www.barrons.com/news/tesla-shares-dip-after-profit-misses-expectations-06859746?refsec=topics_afp-news</link>
 <pubDate>Wed, 22 Jul 2026 21:35:18 -0000</pubDate>
 <description><![CDATA[Tesla reported weaker-than-expected quarterly profits on Wednesday, citing a hit from lower vehicle prices despite increased auto sales.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Alphabet Beats Expectations In Second Quarter, Cloud Revenue Nearly Doubles]]></title>
-<link>https://www.barrons.com/news/alphabet-beats-expectations-in-second-quarter-cloud-revenue-nearly-doubles-5be15f9a?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Jul 2026 21:20:18 -0000</pubDate>
-<description><![CDATA[Google's cloud business grew by more than 80 percent, the company said Wednesday, exceeding investor expectations as markets look for signs that the company's AI investments are paying off.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Eyes Offshore Nuclear Reactors]]></title>
-<link>https://www.barrons.com/news/us-eyes-offshore-nuclear-reactors-d98606d0?refsec=topics_afp-news</link>
-<pubDate>Wed, 22 Jul 2026 20:09:11 -0000</pubDate>
-<description><![CDATA[The United States on Wednesday announced it had created a "clear framework" for the eventual deployment of offshore nuclear reactors, as part of the Trump administration's push to drastically ramp up atomic energy output.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
