@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Jul 2026 09:42:23 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 11:38:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Eleven Dead, 19 Missing As Spain Wildfire Roars Through Village]]></title>
 <link>https://www.barrons.com/news/eleven-dead-19-missing-as-spain-wildfire-roars-through-village-266cf5ac?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[South Korean Tycoon Ordered To Pay $644m In Divorce]]></title>
+<link>https://www.barrons.com/news/south-korean-tycoon-ordered-to-pay-644m-in-divorce-5941a627?refsec=topics_afp-news</link>
+<pubDate>Fri, 24 Jul 2026 11:38:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Philippines Says Ship Hit By Chinese Water Cannon At Disputed Reef]]></title>
 <link>https://www.barrons.com/news/philippines-says-ship-hit-by-chinese-water-cannon-at-disputed-reef-dc1a11be?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 09:42:22 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Volkswagen Profit Plunges As Carmaker Weighs Mass Job Cuts]]></title>
+<title><![CDATA[Volkswagen Profits Skid On One-off Costs, China Competition]]></title>
 <link>https://www.barrons.com/news/volkswagen-profit-plunges-as-carmaker-weighs-mass-job-cuts-15d64b12?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 09:12:22 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 11:23:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,15 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks Suffer Fresh Blow As Markets Hit By Perfect Storm]]></title>
+<title><![CDATA[Oil Prices Retreat After Surge, As Stock Markets Diverge]]></title>
 <link>https://www.barrons.com/news/stocks-suffer-fresh-blow-as-markets-hit-by-perfect-storm-c9bc7b0f?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 06:19:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Under Pressure From All Sides Over Chinese AI Surge]]></title>
-<link>https://www.barrons.com/news/trump-under-pressure-from-all-sides-over-chinese-ai-surge-0f0762fd?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 06:04:21 -0000</pubDate>
+<pubDate>Fri, 24 Jul 2026 11:08:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Thousands Flee Wildfires In Southern Europe]]></title>
-<link>https://www.barrons.com/news/thousands-flee-wildfires-in-southern-europe-28f5621e?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 09:27:23 -0000</pubDate>
-<description><![CDATA[Luggage-clad residents and tourists fled a French peninsula by boat and the smell of smoke drifted into parts of Madrid on Friday as wildfires swept through parts of western Europe, triggering states of emergencies and calls for EU help.
+<title><![CDATA[UN Urges Evacuation Of 6,000 Sailors Stranded In Hormuz Strait]]></title>
+<link>https://www.barrons.com/news/un-urges-evacuation-of-6-000-sailors-stranded-in-hormuz-strait-61e313ad?refsec=topics_afp-news</link>
+<pubDate>Fri, 24 Jul 2026 11:38:41 -0000</pubDate>
+<description><![CDATA[The United Nations on Friday called for the safe evacuation and repatriation of some 6,000 sailors stuck in a "dire humanitarian and human rights crisis" in the Strait of Hormuz.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Korean Tycoon Ordered To Pay $644m In Divorce]]></title>
-<link>https://www.barrons.com/news/south-korean-tycoon-ordered-to-pay-644m-in-divorce-5941a627?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 09:12:23 -0000</pubDate>
-<description><![CDATA[A South Korean court ordered an AI chip-manufacturing tycoon on Friday to make a trimmed-down $644 million divorce payment to his former wife.
+<title><![CDATA[Thousands Flee Wildfires In France, Spain]]></title>
+<link>https://www.barrons.com/news/thousands-flee-wildfires-in-southern-europe-28f5621e?refsec=topics_afp-news</link>
+<pubDate>Fri, 24 Jul 2026 11:23:41 -0000</pubDate>
+<description><![CDATA[Luggage-laden residents and tourists fled a French peninsula by boat and the smell of smoke drifted into parts of Madrid on Friday as wildfires swept France and Spain, triggering states of emergencies and calls for EU help.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
