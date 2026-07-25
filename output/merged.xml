@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Jul 2026 13:15:49 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 14:46:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Devastating Wildfires Send 267,000 Fleeing In France And Spain]]></title>
+<link>https://www.barrons.com/news/untamed-wildfires-force-over-160-000-to-flee-in-france-spain-6f93e5f0?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Jul 2026 14:46:19 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New York's Noisy Food Carts Go Electric In Clean Air Trial]]></title>
 <link>https://www.barrons.com/news/new-york-s-noisy-food-carts-go-electric-in-clean-air-trial-1f03c2b3?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 13:15:46 -0000</pubDate>
@@ -89,9 +95,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Houthis Say Hit Saudi Arabia As Fighting Spreads On New Middle East Front]]></title>
+<title><![CDATA[Houthis Target Saudi Oil As New Middle East Front]]></title>
 <link>https://www.barrons.com/news/trump-weighs-harder-iran-strikes-as-conflict-widens-26d12a7b?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Jul 2026 11:41:55 -0000</pubDate>
+<pubDate>Sat, 25 Jul 2026 14:31:19 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -104,12 +110,6 @@
 <title><![CDATA[Turk's Term As UN Human Rights Chief Extended Despite US Warnings]]></title>
 <link>https://www.barrons.com/news/turk-s-term-as-un-human-rights-chief-extended-despite-us-warnings-8510a6d7?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 23:50:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Tariff Wall Set To Stay After Supreme Court Blow: Analysts]]></title>
-<link>https://www.barrons.com/news/trump-tariff-wall-set-to-stay-after-supreme-court-blow-analysts-32c6c646?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 23:35:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India's Education Minister Resigns, End Called To Delhi Protests]]></title>
+<link>https://www.barrons.com/news/india-s-education-minister-resigns-end-called-to-delhi-protests-69895066?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Jul 2026 14:46:21 -0000</pubDate>
+<description><![CDATA[India's Education Minister Dharmendra Pradhan resigned on Saturday after mass youth-led protests demanded his ouster in anger over a string of irregularities in potentially life-changing exams.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thousands Sheltered In Bordeaux As France Wildfires Trigger Exodus]]></title>
 <link>https://www.barrons.com/news/thousands-sheltered-in-bordeaux-as-france-wildfires-trigger-exodus-8a595947?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 13:15:48 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/fires-in-europe-latest-developments-d41ec8a4?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 13:00:48 -0000</pubDate>
 <description><![CDATA[Here are the main developments related to the wildfires raging in Spain and France on Saturday:
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Untamed Wildfires In Spain, France Force Over 200,000 To Flee]]></title>
-<link>https://www.barrons.com/news/untamed-wildfires-force-over-160-000-to-flee-in-france-spain-6f93e5f0?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Jul 2026 11:41:58 -0000</pubDate>
-<description><![CDATA[Out-of-control wildfires in Spain and France that have forced the evacuation of more than 200,000 people raged on Saturday near Madrid and Bordeaux, with Paris mobilising its military to help overstretched firefighters.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
