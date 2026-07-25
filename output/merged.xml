@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Jul 2026 14:46:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 16:00:43 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Fires In Europe: Latest Developments]]></title>
+<link>https://www.barrons.com/news/fires-in-europe-latest-developments-d41ec8a4?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Jul 2026 16:00:40 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Devastating Wildfires Send 267,000 Fleeing In France And Spain]]></title>
 <link>https://www.barrons.com/news/untamed-wildfires-force-over-160-000-to-flee-in-france-spain-6f93e5f0?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 14:46:19 -0000</pubDate>
@@ -68,6 +74,12 @@
 <title><![CDATA[New York's Noisy Food Carts Go Electric In Clean Air Trial]]></title>
 <link>https://www.barrons.com/news/new-york-s-noisy-food-carts-go-electric-in-clean-air-trial-1f03c2b3?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 13:15:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Crisis-hit Flavio Bolsonaro Launches Presidential Candidacy In Brazil]]></title>
+<link>https://www.barrons.com/news/crisis-hit-flavio-bolsonaro-launches-presidential-candidacy-in-brazil-cab4d954?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Jul 2026 15:45:40 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -98,18 +110,6 @@
 <title><![CDATA[Houthis Target Saudi Oil As New Middle East Front]]></title>
 <link>https://www.barrons.com/news/trump-weighs-harder-iran-strikes-as-conflict-widens-26d12a7b?refsec=topics_afp-news</link>
 <pubDate>Sat, 25 Jul 2026 14:31:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Panel Endorses More Unproven If Buzzy Peptides]]></title>
-<link>https://www.barrons.com/news/us-panel-endorses-more-unproven-if-buzzy-peptides-4e9e1d2f?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Jul 2026 00:05:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Turk's Term As UN Human Rights Chief Extended Despite US Warnings]]></title>
-<link>https://www.barrons.com/news/turk-s-term-as-un-human-rights-chief-extended-despite-us-warnings-8510a6d7?refsec=topics_afp-news</link>
-<pubDate>Fri, 24 Jul 2026 23:50:20 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -145,10 +145,10 @@ Delivered by PolitePaul service]]></description>
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fires In Europe: Latest Developments]]></title>
-<link>https://www.barrons.com/news/fires-in-europe-latest-developments-d41ec8a4?refsec=topics_afp-news</link>
-<pubDate>Sat, 25 Jul 2026 13:00:48 -0000</pubDate>
-<description><![CDATA[Here are the main developments related to the wildfires raging in Spain and France on Saturday:
+<title><![CDATA[Ukraine Strikes Siberia Refinery As Kazakh Leader Tells Putin War Should End]]></title>
+<link>https://www.barrons.com/news/ukraine-strikes-siberia-refinery-as-kazakh-leader-tells-putin-war-should-end-fd209c44?refsec=topics_afp-news</link>
+<pubDate>Sat, 25 Jul 2026 16:00:42 -0000</pubDate>
+<description><![CDATA[Ukrainian drones struck a Siberian oil refinery Saturday and disrupted an Urals athletics competition, as Kazakhstan's president told Russia's Vladimir Putin the Ukraine war should end during a forum in Siberia's Omsk.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
