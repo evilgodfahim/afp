@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Jul 2026 20:06:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 21:25:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Spanish Wildfires Intrude On Holidaying Foreign Visitors]]></title>
+<link>https://www.barrons.com/news/spanish-wildfires-intrude-on-holidaying-foreign-visitors-cdb403cf?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 21:25:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Berlin Police Shoot Dead Chief Suspect In Deadly Islamist Pride Attack]]></title>
 <link>https://www.barrons.com/news/urgent-search-for-suspect-after-deadly-attack-near-berlin-pride-2343ba7f?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 20:06:01 -0000</pubDate>
@@ -71,9 +77,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[France, Spain Battle 'Unpredictable' Wildfires As 325,000 Evacuated]]></title>
+<title><![CDATA['Monster' Wildfires Force 350,000 From Homes In France, Spain]]></title>
 <link>https://www.barrons.com/news/wildfires-overwhelm-exhausted-firefighters-in-france-and-spain-2689bec7?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 17:05:18 -0000</pubDate>
+<pubDate>Sun, 26 Jul 2026 21:10:06 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Fires In Europe: Latest Developments]]></title>
-<link>https://www.barrons.com/news/fires-in-europe-latest-developments-39b2cc17?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 09:32:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil Recalls Ambassador To Argentina Over Milei's Bolsonaro Rally Speech]]></title>
+<link>https://www.barrons.com/news/brazil-recalls-ambassador-to-argentina-over-milei-s-bolsonaro-rally-speech-c7aa38ce?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 21:25:07 -0000</pubDate>
+<description><![CDATA[Brazil recalled its ambassador to Argentina for consultations Sunday following "insults" leveled by President Javier Milei against his Brazilian counterpart Luiz Inacio Lula da Silva and others at a Sao Paulo political event, the foreign ministry said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Honduran Ex-president Returns Home After Trump Pardon]]></title>
 <link>https://www.barrons.com/news/ex-president-hernandez-returns-to-honduras-after-trump-pardon-51f209ac?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 19:51:06 -0000</pubDate>
 <description><![CDATA[Honduran ex-president Juan Orlando Hernandez -- who was serving a 45-year prison sentence in the United States for drug trafficking until President Donald Trump pardoned him last year -- returned to his home country on Sunday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Spanish Wildfires Intrude On Holidaying Foreign Visitors]]></title>
-<link>https://www.barrons.com/news/spanish-wildfires-intrude-on-holidaying-foreign-visitors-cdb403cf?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 14:47:44 -0000</pubDate>
-<description><![CDATA[Being indoors as much as possible was not the plan when Chicago attorney Thomas Fawkes, 49, arrived on holiday in Madrid with his wife and son.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
