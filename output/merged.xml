@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Jul 2026 21:25:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 22:28:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Honduran Ex-president Returns Home After Trump Pardon]]></title>
+<link>https://www.barrons.com/news/ex-president-hernandez-returns-to-honduras-after-trump-pardon-51f209ac?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 22:28:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Spanish Wildfires Intrude On Holidaying Foreign Visitors]]></title>
 <link>https://www.barrons.com/news/spanish-wildfires-intrude-on-holidaying-foreign-visitors-cdb403cf?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 21:25:06 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Monster' Wildfires Force 350,000 From Homes In France, Spain]]></title>
+<title><![CDATA[France, Spain Battle 'Monster' Wildfires With More Heat On The Way]]></title>
 <link>https://www.barrons.com/news/wildfires-overwhelm-exhausted-firefighters-in-france-and-spain-2689bec7?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 21:10:06 -0000</pubDate>
+<pubDate>Sun, 26 Jul 2026 22:13:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Africa's Migrant Exodus Leaves Employers Short-handed]]></title>
-<link>https://www.barrons.com/news/south-africa-s-migrant-exodus-leaves-employers-short-handed-e405fb42?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 09:47:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK's Burnham To Welcome Zelensky In First Foreign Leader Visit]]></title>
+<link>https://www.barrons.com/news/uk-s-burnham-to-welcome-zelensky-in-first-foreign-leader-visit-f9154bf6?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 22:28:34 -0000</pubDate>
+<description><![CDATA[British Prime Minister Andy Burnham will on Monday host Ukrainian President Volodymyr Zelensky as his first foreign leader since taking office a week ago, to underline London's "unwavering support" for Kyiv.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nolan's 'Odyssey' Shows Staying Power At N. America Box Office]]></title>
 <link>https://www.barrons.com/news/nolan-s-odyssey-shows-staying-power-at-n-america-box-office-c4c81188?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 20:06:06 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/brazil-recalls-ambassador-to-argentina-over-milei-s-bolsonaro-rally-speech-c7aa38ce?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 21:25:07 -0000</pubDate>
 <description><![CDATA[Brazil recalled its ambassador to Argentina for consultations Sunday following "insults" leveled by President Javier Milei against his Brazilian counterpart Luiz Inacio Lula da Silva and others at a Sao Paulo political event, the foreign ministry said.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Honduran Ex-president Returns Home After Trump Pardon]]></title>
-<link>https://www.barrons.com/news/ex-president-hernandez-returns-to-honduras-after-trump-pardon-51f209ac?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 19:51:06 -0000</pubDate>
-<description><![CDATA[Honduran ex-president Juan Orlando Hernandez -- who was serving a 45-year prison sentence in the United States for drug trafficking until President Donald Trump pardoned him last year -- returned to his home country on Sunday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
