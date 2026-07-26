@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Jul 2026 11:43:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 13:11:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Urgent Search For Suspect After Deadly Attack Near Berlin Pride]]></title>
+<link>https://www.barrons.com/news/urgent-search-for-suspect-after-deadly-attack-near-berlin-pride-72474c8d?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 13:11:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[D-Day Beaches Inscribed On UNESCO World Heritage List]]></title>
 <link>https://www.barrons.com/news/d-day-beaches-inscribed-on-unesco-world-heritage-list-52422fc2?refsec=topics_afp-news</link>
 <pubDate>Sun, 26 Jul 2026 11:43:38 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Will Heatwaves Push European Holidaymakers To 'Coolcations'?]]></title>
-<link>https://www.barrons.com/news/will-heatwaves-push-european-holidaymakers-to-coolcations-7cba56df?refsec=topics_afp-news</link>
-<pubDate>Sun, 26 Jul 2026 05:56:54 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -129,5 +129,26 @@
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
 <pubDate>Fri, 17 Jul 2026 14:39:21 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Urgent Search For Suspect After Deadly Attack Near Berlin Pride]]></title>
+<link>https://www.barrons.com/news/urgent-search-for-suspect-after-deadly-attack-near-berlin-pride-2343ba7f?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 13:11:22 -0000</pubDate>
+<description><![CDATA[German police on Sunday were hunting for the prime suspect in a car-ramming attack on the outskirts of Berlin Pride, which left one woman dead and 16 others injured.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Threatened By Fire, Bordeaux Is 'Ready For Anything': Mayor]]></title>
+<link>https://www.barrons.com/news/threatened-by-fire-bordeaux-is-ready-for-anything-mayor-763f1298?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 12:56:22 -0000</pubDate>
+<description><![CDATA[The mayor of Bordeaux in southwest France said on Sunday authorities had no current plans to evacuate the population of the UNESCO-listed city due to raging forest fires but were "ready for anything."
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[France And Spain Battle 'Unpredictable' Wildfires As 300,000 Evacuated]]></title>
+<link>https://www.barrons.com/news/wildfires-overwhelm-exhausted-firefighters-in-france-and-spain-2689bec7?refsec=topics_afp-news</link>
+<pubDate>Sun, 26 Jul 2026 12:41:22 -0000</pubDate>
+<description><![CDATA[France fought an "unpredictable" wildfire close to Bordeaux on Sunday while Spain warned of "difficult hours" in its own fiery battle, with evacuations from danger zones in both countries mounting to well over 300,000 people.
+Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
