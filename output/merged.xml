@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Jul 2026 17:44:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:20:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran, US Hold Fire As Saudi Arabia Intercepts Drones]]></title>
+<title><![CDATA[Renault To Face Criminal Trial In France Over Dieselgate]]></title>
+<link>https://www.barrons.com/news/renault-to-face-criminal-trial-in-france-over-dieselgate-93dacf6b?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 19:20:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[LVMH Says Growth Accelerates In Second Quarter]]></title>
+<link>https://www.barrons.com/news/lvmh-says-growth-accelerates-in-second-quarter-400ac453?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 19:05:36 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Trump Says 'Good Chance' Of Progress In Iran Talks As Foes Hold Fire]]></title>
 <link>https://www.barrons.com/news/iran-us-hold-fire-as-saudi-arabia-intercepts-drones-022a53f9?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 17:44:53 -0000</pubDate>
+<pubDate>Mon, 27 Jul 2026 18:50:36 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[German Sports Carmaker Porsche To Cut 5,000 Jobs By 2035]]></title>
-<link>https://www.barrons.com/news/german-sports-carmaker-porsche-to-cut-5-000-jobs-by-2035-6a6e36da?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 15:27:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[German Govt Vows To Toughen Laws After Jihadist Attack On Pride Event]]></title>
-<link>https://www.barrons.com/news/german-authorities-criticised-after-pride-attack-b98fea68?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 15:12:56 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Sees 'Good Chance' For Iran Deal, Warns Strikes Could Resume]]></title>
+<link>https://www.barrons.com/news/trump-sees-good-chance-for-iran-deal-warns-strikes-could-resume-7e2186ed?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 19:20:37 -0000</pubDate>
+<description><![CDATA[US President Donald Trump voiced optimism Monday that diplomacy with Iran could produce a deal to end the months-long war, but warned that Washington would resume military strikes if negotiations failed.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Singer Carly Simon Diagnosed With Parkinson's: Statement]]></title>
 <link>https://www.barrons.com/news/singer-carly-simon-diagnosed-with-parkinson-s-statement-4ffad4da?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 17:44:56 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-envoy-quits-un-security-council-meeting-to-protest-france-comments-45bb8a6a?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 17:29:56 -0000</pubDate>
 <description><![CDATA[The United States walked out of a UN Security Council meeting Monday when France's ambassador took the floor, protesting French comments comparing the US to North Korea and other authoritarian states regarding votes on human rights.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[LVMH Says Growth Accelerates In Second Quarter]]></title>
-<link>https://www.barrons.com/news/lvmh-says-growth-accelerates-in-second-quarter-400ac453?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 17:14:56 -0000</pubDate>
-<description><![CDATA[LVMH, the world's top luxury group, said Monday that sales growth accelerated in the second quarter as it beat analyst expectations with stable net profit in the first half of the year.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
