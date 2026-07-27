@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Jul 2026 20:49:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 22:03:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Sees 'Good Chance' For Iran Deal, Warns Strikes Could Resume]]></title>
+<link>https://www.barrons.com/news/trump-sees-good-chance-for-iran-deal-warns-strikes-could-resume-7e2186ed?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 22:03:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Singer Carly Simon Diagnosed With Parkinson's: Statement]]></title>
 <link>https://www.barrons.com/news/singer-carly-simon-diagnosed-with-parkinson-s-statement-4ffad4da?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 20:49:18 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[What Are 'Fire Clouds', The Ominous Phenomenon Seen In France?]]></title>
-<link>https://www.barrons.com/news/what-are-fire-clouds-the-ominous-phenomenon-seen-in-france-d9c04414?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 16:44:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Like A Prisoner': Haitian Migrants In US Face End Of Protected Status]]></title>
+<link>https://www.barrons.com/news/like-a-prisoner-haitian-migrants-in-us-face-end-of-protected-status-03ab581b?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 22:03:29 -0000</pubDate>
+<description><![CDATA[Tens of thousands of Haitians faced the prospect of leaving the United States or being deported, with the special protected status allowing them to live and work legally in the country set to expire on Monday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[HIV Progress In 'Real Danger' As Global Funding Plummets]]></title>
 <link>https://www.barrons.com/news/hiv-progress-in-real-danger-as-global-funding-plummets-7f30e652?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 20:49:19 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/imf-boss-hails-much-sounder-argentine-economy-under-milei-0b8c4e7e?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 20:34:19 -0000</pubDate>
 <description><![CDATA[International Monetary Fund director Kristalina Georgieva on Monday hailed Argentina's improved economic standing since ultraliberal President Javier Milei took power in 2023.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Sees 'Good Chance' For Iran Deal, Warns Strikes Could Resume]]></title>
-<link>https://www.barrons.com/news/trump-sees-good-chance-for-iran-deal-warns-strikes-could-resume-7e2186ed?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 19:20:37 -0000</pubDate>
-<description><![CDATA[US President Donald Trump voiced optimism Monday that diplomacy with Iran could produce a deal to end the months-long war, but warned that Washington would resume military strikes if negotiations failed.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
