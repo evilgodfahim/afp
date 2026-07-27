@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Jul 2026 22:03:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 23:32:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[IMF Boss Hails 'Much Sounder' Argentine Economy Under Milei]]></title>
+<link>https://www.barrons.com/news/imf-boss-hails-much-sounder-argentine-economy-under-milei-0b8c4e7e?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 23:32:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Sees 'Good Chance' For Iran Deal, Warns Strikes Could Resume]]></title>
 <link>https://www.barrons.com/news/trump-sees-good-chance-for-iran-deal-warns-strikes-could-resume-7e2186ed?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 22:03:18 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK Funeral Director Faces Jail Over Bodies Left 'On Racks']]></title>
-<link>https://www.barrons.com/news/uk-funeral-director-faces-jail-over-bodies-left-on-racks-61ffbfa9?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 16:59:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Singer D4vd To Stand Trial In Killing Of Teenage Girl]]></title>
+<link>https://www.barrons.com/news/us-singer-d4vd-to-stand-trial-in-killing-of-teenage-girl-c383b7da?refsec=topics_afp-news</link>
+<pubDate>Mon, 27 Jul 2026 23:32:33 -0000</pubDate>
+<description><![CDATA[American singer D4vd will stand trial on charges of killing and dismembering a 14-year-old girl who prosecutors say threatened to reveal their illegal sexual relationship, a judge ordered Monday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Like A Prisoner': Haitian Migrants In US Face End Of Protected Status]]></title>
 <link>https://www.barrons.com/news/like-a-prisoner-haitian-migrants-in-us-face-end-of-protected-status-03ab581b?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 22:03:29 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/hiv-progress-in-real-danger-as-global-funding-plummets-7f30e652?refsec=topics_afp-news</link>
 <pubDate>Mon, 27 Jul 2026 20:49:19 -0000</pubDate>
 <description><![CDATA[The science has never been better, but political will has reached a new low: AIDS experts warned Monday that the fight against HIV was in real danger as funding fell by a fifth last year.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[IMF Boss Hails 'Much Sounder' Argentine Economy Under Milei]]></title>
-<link>https://www.barrons.com/news/imf-boss-hails-much-sounder-argentine-economy-under-milei-0b8c4e7e?refsec=topics_afp-news</link>
-<pubDate>Mon, 27 Jul 2026 20:34:19 -0000</pubDate>
-<description><![CDATA[International Monetary Fund director Kristalina Georgieva on Monday hailed Argentina's improved economic standing since ultraliberal President Javier Milei took power in 2023.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
