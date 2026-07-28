@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Jul 2026 21:13:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 22:32:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Fed Official Says 'Prepared To Act' To Curb Inflation]]></title>
 <link>https://www.barrons.com/news/us-fed-official-says-prepared-to-act-to-curb-inflation-8209856e?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[In Devastated South Lebanon Village, Residents Count On Army Deployment]]></title>
+<link>https://www.barrons.com/news/in-devastated-south-lebanon-village-residents-count-on-army-deployment-16bb2a42?refsec=topics_afp-news</link>
+<pubDate>Tue, 28 Jul 2026 22:32:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Keiko Fujimori Sworn In As President Of Peru]]></title>
 <link>https://www.barrons.com/news/keiko-fujimori-sworn-in-as-president-of-peru-124bb86c?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Jul 2026 19:59:11 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Praise The Gods! Greek PM Thanks Nolan For The 'The Odyssey' Spotlight]]></title>
-<link>https://www.barrons.com/news/praise-the-gods-greek-pm-thanks-nolan-for-the-the-odyssey-spotlight-ff0f611f?refsec=topics_afp-news</link>
-<pubDate>Tue, 28 Jul 2026 15:00:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
 <pubDate>Fri, 24 Jul 2026 13:43:00 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Life In Prison For US Teenager Who Shot Dead Four People At School]]></title>
+<link>https://www.barrons.com/news/life-in-prison-for-us-teenager-who-shot-dead-four-people-at-school-4ae913fc?refsec=topics_afp-news</link>
+<pubDate>Tue, 28 Jul 2026 22:32:23 -0000</pubDate>
+<description><![CDATA[A teenager who shot dead four people at a high school in the southern US state of Georgia with a gun his father gave him as a Christmas present was sentenced to life in prison on Tuesday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France Needs More Canadair Water Bombers But Building Them Is Painfully Slow]]></title>
 <link>https://www.barrons.com/news/france-needs-more-canadair-water-bombers-but-building-them-is-painfully-slow-4907f7c4?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Jul 2026 19:59:11 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/keiko-fujimori-becomes-peru-s-ninth-president-in-a-decade-06c0b9d3?refsec=topics_afp-news</link>
 <pubDate>Tue, 28 Jul 2026 19:44:11 -0000</pubDate>
 <description><![CDATA[Peru's conservative President Keiko Fujimori took office on Tuesday, vowing to tackle the wave of crime sweeping the Andean nation.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[In Devastated South Lebanon Village, Residents Count On Army Deployment]]></title>
-<link>https://www.barrons.com/news/in-devastated-south-lebanon-village-residents-count-on-army-deployment-16bb2a42?refsec=topics_afp-news</link>
-<pubDate>Tue, 28 Jul 2026 19:29:11 -0000</pubDate>
-<description><![CDATA[As Lebanon's army deploys in the southern village of Zawtar al-Gharbiya, Hassan Sbeih is among those reassured by the troops and hoping the move will soon extend to areas still occupied by Israel.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
