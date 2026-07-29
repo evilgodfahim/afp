@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Jul 2026 11:21:43 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 13:12:55 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,9 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US, Saudi Strike Iraq Alliance In Expanding War]]></title>
+<link>https://www.barrons.com/news/us-saudi-strike-iraq-alliance-in-expanding-war-7e9f07ae?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Jul 2026 13:12:54 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Spain Returns Wildfire Evacuees As France Braces For Worsening Weather]]></title>
 <link>https://www.barrons.com/news/spain-returns-wildfire-evacuees-as-france-braces-for-worsening-weather-3dcb7e72?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 11:21:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[UN Chief To Convene New Talks On Divided Cyprus]]></title>
+<link>https://www.barrons.com/news/un-chief-to-convene-new-talks-on-divided-cyprus-5b881d27?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Jul 2026 12:57:54 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UBS Says Second-quarter Net Profit Up 17% To $2.8 Billion]]></title>
-<link>https://www.barrons.com/news/ubs-says-second-quarter-net-profit-up-17-to-2-8-billion-5a7f67f5?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Jul 2026 08:17:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US, Saudi Forces Strike Iran-backed Groups In Iraq]]></title>
-<link>https://www.barrons.com/news/us-saudi-forces-strike-iran-backed-groups-in-iraq-e5d8cb39?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Jul 2026 08:02:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[How An AFP Beach Snap Became Emblem Of Europe's Wildfire Summer]]></title>
+<link>https://www.barrons.com/news/how-an-afp-beach-snap-became-emblem-of-europe-s-wildfire-summer-617e540f?refsec=topics_afp-news</link>
+<pubDate>Wed, 29 Jul 2026 13:12:55 -0000</pubDate>
+<description><![CDATA[AFP photo editor Maximilien Lamy was on holiday with his partner and daughter last week when he took a series of snapshots of vacationers in fire-struck southwest France with his smartphone.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Russia Seeks Arrest Of Telegram Chief Durov]]></title>
 <link>https://www.barrons.com/news/russia-seeks-arrest-of-telegram-chief-durov-98e55e56?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 11:21:43 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/germany-s-merz-under-fire-over-chaotic-reshuffle-480f529b?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 11:06:43 -0000</pubDate>
 <description><![CDATA[German Chancellor Friedrich Merz faced a rising chorus of criticism from within his own centre-right CDU party Wednesday as he completed a chaotic cabinet reshuffle.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US, Saudi Strike Iraq Alliance In Expanding War]]></title>
-<link>https://www.barrons.com/news/us-saudi-strike-iraq-alliance-in-expanding-war-7e9f07ae?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Jul 2026 10:51:43 -0000</pubDate>
-<description><![CDATA[US and Saudi forces said they struck an Iraqi militant alliance on Wednesday, as the Middle East war expands beyond its main focus in Iran to involve the Islamic republic's proxies.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
