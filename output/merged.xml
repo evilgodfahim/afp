@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Jul 2026 20:11:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 21:40:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Milei Demands Expulsion Of Foreigners Expressing 'Hate' Against Argentina]]></title>
+<link>https://www.barrons.com/news/milei-demands-expulsion-of-foreigners-expressing-hate-against-argentina-fc2d27ad?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 21:40:16 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[French Minister Defends Expulsion Order Against Russian Commentator]]></title>
 <link>https://www.barrons.com/news/french-minister-defends-expulsion-order-against-russian-commentator-0bfa6e36?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 18:53:44 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Selection Process For Next UN Chief Under Way]]></title>
+<title><![CDATA[Grynspan Ahead In Process To Pick Next UN Chief: Diplomats]]></title>
 <link>https://www.barrons.com/news/selection-process-for-next-un-chief-under-way-97afa2a1?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 17:53:44 -0000</pubDate>
+<pubDate>Thu, 30 Jul 2026 21:25:16 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Hundreds Of Migrants Flood Into Spain's Ceuta Exclave From Morocco]]></title>
-<link>https://www.barrons.com/news/hundreds-of-migrants-swim-to-spain-s-ceuta-territory-from-morocco-0910e084?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 17:08:44 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Venezuela Begins Demolishing Buildings In Quake Zone]]></title>
+<link>https://www.barrons.com/news/venezuela-begins-demolishing-buildings-in-quake-zone-41c7ba29?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 21:40:17 -0000</pubDate>
+<description><![CDATA[Venezuelan authorities on Thursday began demolishing buildings in the state of La Guaira, the region worst hit by last month's twin earthquakes, AFP observed.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Renewed Iran War Raises US Missile Supply Concerns]]></title>
 <link>https://www.barrons.com/news/renewed-iran-war-raises-us-missile-supply-concerns-1a11608c?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 18:53:45 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/15-years-in-prison-for-father-of-us-teenage-school-shooter-507505b7?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 18:38:45 -0000</pubDate>
 <description><![CDATA[A man whose teenage son shot dead four people at a US high school was sentenced to 15 years in prison on Thursday in a rare case of a parent convicted over a shooting carried out by their child.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Milei Demands Expulsion Of Foreigners Expressing 'Hate' Against Argentina]]></title>
-<link>https://www.barrons.com/news/milei-demands-expulsion-of-foreigners-expressing-hate-against-argentina-fc2d27ad?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 18:23:45 -0000</pubDate>
-<description><![CDATA[Argentine President Javier Milei on Thursday imposed a bar on foreigners who express "hate" toward the Latin American country, which he claims is the target of a sinister campaign.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
