@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Jul 2026 11:27:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 13:06:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Singapore Group Will Develop 'Most Promising' Ebola Vaccine]]></title>
+<link>https://www.barrons.com/news/singapore-group-will-develop-most-promising-ebola-vaccine-5c70ea4b?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 13:06:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Ugandan Opposition Leader In Intensive Care: Wife]]></title>
+<link>https://www.barrons.com/news/ugandan-opposition-leader-in-intensive-care-wife-da703d0c?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 12:51:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Shell Profit Surges As Mideast War Fuels Oil Prices]]></title>
 <link>https://www.barrons.com/news/shell-profit-surges-as-mideast-war-fuels-oil-prices-1f3e2a89?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 11:27:07 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nolan's 'Odyssey' Boosts Sales Of Mythology Tales In UK]]></title>
-<link>https://www.barrons.com/news/nolan-s-odyssey-boosts-sales-of-mythology-tales-in-uk-e913b125?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 08:10:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Australian Regulator Says Telegram Breached Online Safety Law]]></title>
-<link>https://www.barrons.com/news/australian-regulator-says-telegram-breached-online-safety-law-bfc40cf7?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 07:55:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Russia Adds Telegram Founder Durov To 'Terrorist' Blacklist]]></title>
+<link>https://www.barrons.com/news/russia-adds-telegram-founder-durov-to-terrorist-blacklist-4880910d?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 13:06:20 -0000</pubDate>
+<description><![CDATA[Russia on Thursday added Telegram founder Pavel Durov to a blacklist of "terrorists and extremists", a day after saying it was seeking his arrest over accusations he let his platform be used by Ukrainian intelligence.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Eurozone Economy Grows Despite Middle East War]]></title>
 <link>https://www.barrons.com/news/eurozone-economy-grows-despite-middle-east-war-efffde42?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 11:27:08 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/mediator-pakistan-says-us-iran-talks-ongoing-as-foes-trade-attacks-ce627e9d?refsec=topics_afp-news</link>
 <pubDate>Thu, 30 Jul 2026 11:12:08 -0000</pubDate>
 <description><![CDATA[Mediator Pakistan insisted on Thursday that negotiations between Iran and the United States were ongoing, even as Washington carried out a "heavy wave of strikes" on its foe in retaliation for fresh attacks targeting Jordan.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Singapore Group Will Develop 'Most Promising' Ebola Vaccine]]></title>
-<link>https://www.barrons.com/news/singapore-group-will-develop-most-promising-ebola-vaccine-5c70ea4b?refsec=topics_afp-news</link>
-<pubDate>Thu, 30 Jul 2026 10:57:08 -0000</pubDate>
-<description><![CDATA[A Singapore-based organisation announced Thursday it will develop an Ebola vaccine dubbed the "most promising" to fight back against a deadly outbreak in the Democratic Republic of Congo.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
