@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Jul 2026 22:58:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 00:03:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Campari - King Of The Spritz - Hopes To Conquer American Heartland]]></title>
+<link>https://www.barrons.com/news/campari-king-of-the-spritz-hopes-to-conquer-american-heartland-1e059686?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 00:03:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nigeria Dismantles Meth Lab, But Fears Of Mexican Cartel Links Linger]]></title>
 <link>https://www.barrons.com/news/nigeria-dismantles-meth-lab-but-fears-of-mexican-cartel-links-linger-e74f7572?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 21:56:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[OpenAI Says Rogue AI Agent Attack Hit Other Companies]]></title>
-<link>https://www.barrons.com/news/openai-says-rogue-ai-agent-attack-hit-other-companies-fab3ba53?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Jul 2026 17:03:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Meta Misses Profit Expectations, Sticks To Massive AI Spending]]></title>
+<link>https://www.barrons.com/news/meta-misses-profit-expectations-sticks-to-massive-ai-spending-154fe304?refsec=topics_afp-news</link>
+<pubDate>Thu, 30 Jul 2026 00:03:35 -0000</pubDate>
+<description><![CDATA[Facebook-parent Meta reported profits on Wednesday that fell short of Wall Street expectations, as the cost of staying in the race to deploy artificial intelligence -- along with hefty legal and severance charges -- hurt its bottom line.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Announces $22 Bn Overhaul Of DC-area Airport]]></title>
 <link>https://www.barrons.com/news/trump-announces-22-bn-overhaul-of-dc-area-airport-fa236709?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 21:56:25 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/us-actor-jared-leto-denies-latest-accusations-of-sexual-assault-ad6a53eb?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 19:50:59 -0000</pubDate>
 <description><![CDATA[US actor and singer Jared Leto on Wednesday denied allegations of sexual assault and harassment leveled against him by ten women in a new documentary aired by the BBC.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Campari - King Of The Spritz - Hopes To Conquer American Heartland]]></title>
-<link>https://www.barrons.com/news/campari-king-of-the-spritz-hopes-to-conquer-american-heartland-1e059686?refsec=topics_afp-news</link>
-<pubDate>Wed, 29 Jul 2026 19:35:59 -0000</pubDate>
-<description><![CDATA[Whether made with Aperol, Campari or Sarti, the spritz has rapidly established itself on terraces across Europe -- with Italy's Campari Group now hoping to conquer the heart of America.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
