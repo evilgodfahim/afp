@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Jul 2026 22:55:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 23:58:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hamas Agrees To Disarm Under Trump Plan]]></title>
+<link>https://www.barrons.com/news/hamas-agrees-to-disarm-under-trump-plan-c8eb5a62?refsec=topics_afp-news</link>
+<pubDate>Fri, 31 Jul 2026 23:58:50 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hungary To Shut Nuclear Plant As Heatwave Hits Central Europe]]></title>
 <link>https://www.barrons.com/news/hungary-to-shut-nuclear-plant-as-heatwave-hits-central-europe-98e583b0?refsec=topics_afp-news</link>
 <pubDate>Fri, 31 Jul 2026 21:35:43 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[UK Court Rejects Challenge Against New Chinese Embassy In London]]></title>
-<link>https://www.barrons.com/news/uk-court-rejects-challenge-against-new-chinese-embassy-in-london-bf929148?refsec=topics_afp-news</link>
-<pubDate>Fri, 31 Jul 2026 16:17:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Drops Reflecting Pool Case, Admits Damage Due To Botched Work]]></title>
+<link>https://www.barrons.com/news/us-drops-reflecting-pool-case-admits-damage-due-to-botched-work-6a690a6d?refsec=topics_afp-news</link>
+<pubDate>Fri, 31 Jul 2026 23:58:51 -0000</pubDate>
+<description><![CDATA[The US Justice Department on Friday dropped its case against a former Olympian accused of damaging the Lincoln Memorial Reflecting Pool, saying the hurried renovations ordered by President Donald Trump had actually just been botched.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump's Iran Conundrum]]></title>
 <link>https://www.barrons.com/news/trump-s-iran-conundrum-fb1b5bfe?refsec=topics_afp-news</link>
 <pubDate>Fri, 31 Jul 2026 21:35:44 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Announces Steep Water Cuts For Three States Amid Colorado River Crisis]]></title>
+<title><![CDATA[US Plans Steep Water Cuts For Southwest Amid Colorado River Crisis]]></title>
 <link>https://www.barrons.com/news/us-announces-steep-water-cuts-for-three-states-amid-colorado-river-crisis-2bd81366?refsec=topics_afp-news</link>
-<pubDate>Fri, 31 Jul 2026 21:20:44 -0000</pubDate>
+<pubDate>Fri, 31 Jul 2026 23:43:51 -0000</pubDate>
 <description><![CDATA[The US federal government on Friday unveiled its plan for future management of the beleaguered Colorado River, with significant water reductions ahead for several western states in response to record-breaking droughts worsened by climate change.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Hamas Agrees To Disarm Under Trump Plan]]></title>
-<link>https://www.barrons.com/news/hamas-agrees-to-disarm-under-trump-plan-c8eb5a62?refsec=topics_afp-news</link>
-<pubDate>Fri, 31 Jul 2026 18:51:15 -0000</pubDate>
-<description><![CDATA[Hamas said Friday it had agreed to a deal that includes handing over its weapons to a Palestinian governing committee and the gradual withdrawal of Israeli forces from the Gaza Strip.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
