@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Aug 2026 06:24:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 08:38:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Russian Attacks On Kyiv Kill 9, Wound More Than Two Dozen]]></title>
+<link>https://www.barrons.com/news/russian-attacks-on-kyiv-kill-9-wound-more-than-two-dozen-c969ffe2?refsec=topics_afp-news</link>
+<pubDate>Sat, 01 Aug 2026 08:38:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[California Lifeguards Wiped Out From Extreme Weather]]></title>
 <link>https://www.barrons.com/news/california-lifeguards-wiped-out-from-extreme-weather-8927d912?refsec=topics_afp-news</link>
 <pubDate>Sat, 01 Aug 2026 06:24:21 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Google Rolls Back New Satellite Image AI Tool After Backlash]]></title>
-<link>https://www.barrons.com/news/google-launches-new-satellite-image-ai-tool-alarming-researchers-28faac05?refsec=topics_afp-news</link>
-<pubDate>Fri, 31 Jul 2026 21:20:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Search Resumes For Missing Climbers From Pakistan Avalanche]]></title>
+<link>https://www.barrons.com/news/search-resumes-for-missing-climbers-from-pakistan-avalanche-b5d4aaf3?refsec=topics_afp-news</link>
+<pubDate>Sat, 01 Aug 2026 08:38:50 -0000</pubDate>
+<description><![CDATA[Pakistan rescue teams resumed a high-altitude search on Saturday for seven climbers missing after a powerful avalanche on one of the world's highest peaks, with the remains of three mountaineers recovered.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Drops Reflecting Pool Case, Admits Damage Due To Botched Renovation]]></title>
 <link>https://www.barrons.com/news/us-drops-reflecting-pool-case-admits-damage-due-to-botched-renovation-d5ea6771?refsec=topics_afp-news</link>
 <pubDate>Sat, 01 Aug 2026 06:24:22 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/india-pm-modi-says-he-forgives-protesters-who-abused-him-a278645e?refsec=topics_afp-news</link>
 <pubDate>Sat, 01 Aug 2026 06:09:22 -0000</pubDate>
 <description><![CDATA[Indian Prime Minister Narendra Modi said he wanted to "forgive" protesters who abused him during recent youth-led demonstrations that dealt a rare political setback to his government.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Russian Attacks On Kyiv Kill 9, Wound More Than Two Dozen]]></title>
-<link>https://www.barrons.com/news/russian-attacks-on-kyiv-kill-9-wound-more-than-two-dozen-c969ffe2?refsec=topics_afp-news</link>
-<pubDate>Sat, 01 Aug 2026 05:54:22 -0000</pubDate>
-<description><![CDATA[Russian attacks on Ukraine's capital killed at least nine people and wounded more than two dozen others, local officials said on Saturday, with strikes damaging homes and causing fires across the city.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
