@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Aug 2026 21:50:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:50:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Gaza Officials Say Israeli Strikes Kill Seven Day After Deal]]></title>
+<link>https://www.barrons.com/news/gaza-officials-say-israeli-strikes-kill-seven-day-after-deal-173884ac?refsec=topics_afp-news</link>
+<pubDate>Sat, 01 Aug 2026 22:50:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Hundreds Of Minors Sleep Rough In Ceuta Migrant Crisis]]></title>
 <link>https://www.barrons.com/news/hundreds-of-minors-sleep-rough-in-ceuta-migrant-crisis-b02e4859?refsec=topics_afp-news</link>
 <pubDate>Sat, 01 Aug 2026 20:45:06 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[11 Injured In Colombia Bombing Days Before Presidential Inauguration]]></title>
+<title><![CDATA[Colombia Truck Bomb Wounds 14 Ahead Of Presidential Inauguration]]></title>
 <link>https://www.barrons.com/news/11-injured-in-colombia-bombing-days-before-presidential-inauguration-a4161141?refsec=topics_afp-news</link>
-<pubDate>Sat, 01 Aug 2026 18:12:44 -0000</pubDate>
+<pubDate>Sat, 01 Aug 2026 22:35:43 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Search Ended At Mall Wrecked By Japan Quake Blast]]></title>
-<link>https://www.barrons.com/news/search-ended-at-mall-wrecked-by-japan-quake-blast-b7162fa3?refsec=topics_afp-news</link>
-<pubDate>Sat, 01 Aug 2026 15:44:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Damn Hot': Last Summer For Japan Cosplay Extravaganza]]></title>
+<link>https://www.barrons.com/news/damn-hot-last-summer-for-japan-cosplay-extravaganza-98178cf2?refsec=topics_afp-news</link>
+<pubDate>Sat, 01 Aug 2026 22:50:44 -0000</pubDate>
+<description><![CDATA[Shawn, like her sister Whitney dressed as a character from "Demon Slayer", has two words to describe the weather as she waits to watch the grand parade at this year's annual cosplay extravaganza in Japan: "Damn hot".
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[13 Dead After Small Tourist Plane Crashes In Peru]]></title>
 <link>https://www.barrons.com/news/13-dead-after-small-tourist-plane-crashes-in-peru-743b6f43?refsec=topics_afp-news</link>
-<pubDate>Sat, 01 Aug 2026 20:45:07 -0000</pubDate>
-<description><![CDATA[At least 13 people died when a small plane carrying tourists to view Peru's famed Nazca Lines archaeological site crashed, police said Saturday.
+<pubDate>Sat, 01 Aug 2026 22:35:44 -0000</pubDate>
+<description><![CDATA[A small plane carrying foreign tourists to view Peru's famed Nazca Lines archaeological site crashed Saturday, killing all 13 people on board, police said.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-slams-prosecutor-over-reflecting-pool-case-withdrawal-afc40100?refsec=topics_afp-news</link>
 <pubDate>Sat, 01 Aug 2026 20:30:07 -0000</pubDate>
 <description><![CDATA[President Donald Trump's extraordinary campaign to blame an apparently botched renovation of Washington's Reflecting Pool on vandals took another twist Saturday when he attacked his hand-picked prosecutor for dropping charges against an ex-Olympian arrested in the controversy.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Gaza Officials Say Israeli Strikes Kill Seven Day After Deal]]></title>
-<link>https://www.barrons.com/news/gaza-officials-say-israeli-strikes-kill-seven-day-after-deal-173884ac?refsec=topics_afp-news</link>
-<pubDate>Sat, 01 Aug 2026 20:15:07 -0000</pubDate>
-<description><![CDATA[Gaza authorities said that seven people were killed in Israeli strikes Saturday that also damaged a hospital's medical supplies, a day after Hamas said it agreed to the latest stage of a deal to end the war.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
