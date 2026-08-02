@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Aug 2026 08:15:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 10:13:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Baltics Transform From Soviet Stagnation To Startup Hubs]]></title>
+<link>https://www.barrons.com/news/baltics-transform-from-soviet-stagnation-to-startup-hubs-aa54641c?refsec=topics_afp-news</link>
+<pubDate>Sun, 02 Aug 2026 10:13:18 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[AI Keeps Consumer Prices High In 'RAMaggedon' Chip Crunch]]></title>
 <link>https://www.barrons.com/news/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch-7b2fb264?refsec=topics_afp-news</link>
 <pubDate>Sun, 02 Aug 2026 08:15:17 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Lula, Brazil's Political Titan, Races Against Time]]></title>
-<link>https://www.barrons.com/news/lula-brazil-s-political-titan-races-against-time-efde5348?refsec=topics_afp-news</link>
-<pubDate>Sun, 02 Aug 2026 04:10:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Fire Toll Mounts In Greece As Blazes Spread]]></title>
+<link>https://www.barrons.com/news/fire-toll-mounts-in-greece-as-blazes-spread-a9fcedc4?refsec=topics_afp-news</link>
+<pubDate>Sun, 02 Aug 2026 10:13:19 -0000</pubDate>
+<description><![CDATA[Greece on Sunday faced multiple fronts and a growing damage toll with wildfires believed to have devastated swathes of forest and agricultural land, and the prime minister warning of "extremely difficult" days ahead.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Sri Lanka Deploys Troops After Prison Riot]]></title>
 <link>https://www.barrons.com/news/sri-lanka-deploys-troops-after-prison-riot-20d1da8b?refsec=topics_afp-news</link>
 <pubDate>Sun, 02 Aug 2026 08:15:18 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/south-korea-records-its-highest-ever-temperature-of-42-5c-5f2cb1ae?refsec=topics_afp-news</link>
 <pubDate>Sun, 02 Aug 2026 08:00:18 -0000</pubDate>
 <description><![CDATA[South Korea registered its highest temperature since records began more than a century ago on Sunday, as authorities warned people to "immediately" stop all outdoor activities in affected areas.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Baltics Transform From Soviet Stagnation To Startup Hubs]]></title>
-<link>https://www.barrons.com/news/baltics-transform-from-soviet-stagnation-to-startup-hubs-aa54641c?refsec=topics_afp-news</link>
-<pubDate>Sun, 02 Aug 2026 05:40:08 -0000</pubDate>
-<description><![CDATA[Stepping into the newly renovated Vilnius airport, visitors are greeted with a slew of billboards advertising products "Made in Lithuania", including  cybersecurity giant NordVPN.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
