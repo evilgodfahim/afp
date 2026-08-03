@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Aug 2026 20:42:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 22:04:23 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Spider-Man' Breaks Record For Domestic Box Office Debut]]></title>
+<link>https://www.barrons.com/news/spider-man-breaks-record-for-domestic-box-office-debut-eb7c107c?refsec=topics_afp-news</link>
+<pubDate>Mon, 03 Aug 2026 22:04:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Key Dates For The Boeing 737 MAX]]></title>
 <link>https://www.barrons.com/news/key-dates-for-the-boeing-737-max-9ebfbf4f?refsec=topics_afp-news</link>
 <pubDate>Mon, 03 Aug 2026 19:24:57 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Board Reassures Israel After Objections On Gaza Pullout]]></title>
-<link>https://www.barrons.com/news/israel-conveys-concerns-to-us-on-gaza-plan-and-keeps-striking-db8852c3?refsec=topics_afp-news</link>
-<pubDate>Mon, 03 Aug 2026 18:54:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Democratic-led US States Sue In Latest Challenge To Trump's Tariffs]]></title>
+<link>https://www.barrons.com/news/democratic-led-us-states-sue-in-latest-challenge-to-trump-s-tariffs-92f7941f?refsec=topics_afp-news</link>
+<pubDate>Mon, 03 Aug 2026 22:04:23 -0000</pubDate>
+<description><![CDATA[Twenty-five US states, nearly all led by Democrats, sued Donald Trump's administration on Monday over wide-ranging tariffs, arguing that the president had exceeded his authority in imposing the new levies on dozens of countries.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Northwest Battles Wildfires After Spokane Neighborhoods Scorched]]></title>
 <link>https://www.barrons.com/news/us-northwest-battles-wildfires-after-spokane-neighborhoods-scorched-e8bd9778?refsec=topics_afp-news</link>
-<pubDate>Mon, 03 Aug 2026 19:24:58 -0000</pubDate>
-<description><![CDATA[Wildfires supercharged by drought and intense heat tore through the northwestern US city of Spokane, forcing the evacuation of 65,000 people and reducing hundreds of buildings to cinders, as firefighters raced Monday to contain the flames.
+<pubDate>Mon, 03 Aug 2026 21:49:23 -0000</pubDate>
+<description><![CDATA[Wildfires supercharged by drought and intense heat tore through the northwestern US city of Spokane, forcing the evacuation of 65,000 people and reducing hundreds of buildings to cinders as firefighters raced Monday to contain the flames.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/zelensky-sacks-his-ambassador-to-the-us-28a47ab9?refsec=topics_afp-news</link>
 <pubDate>Mon, 03 Aug 2026 19:09:58 -0000</pubDate>
 <description><![CDATA[Ukrainian President Volodymyr Zelensky on Monday dismissed his ambassador to the United States, Olga Stefanishyna, in a move that had been expected following a government reshuffle last month.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Spider-Man' Breaks Record For Domestic Box Office Debut]]></title>
-<link>https://www.barrons.com/news/spider-man-breaks-record-for-domestic-box-office-debut-eb7c107c?refsec=topics_afp-news</link>
-<pubDate>Mon, 03 Aug 2026 17:46:51 -0000</pubDate>
-<description><![CDATA["Spider-Man: Brand New Day" had the biggest debut weekend of all time at the domestic box office, updated figures for the United States and Canada showed Monday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
