@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Aug 2026 13:14:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 15:52:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Salvadoran Man Dies In US Immigration Prison, Says ICE]]></title>
+<link>https://www.barrons.com/news/salvadoran-man-dies-in-us-immigration-prison-says-ice-6e065ab2?refsec=topics_afp-news</link>
+<pubDate>Tue, 04 Aug 2026 15:52:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[BP Profit Soars As Mideast War Roils Energy Prices]]></title>
 <link>https://www.barrons.com/news/bp-profit-soars-as-mideast-war-roils-energy-prices-92d4b1f4?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 13:14:07 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Britain's Royal Mint Strikes Gold In Electronic Waste]]></title>
-<link>https://www.barrons.com/news/britain-s-royal-mint-strikes-gold-in-electronic-waste-6eea47c2?refsec=topics_afp-news</link>
-<pubDate>Tue, 04 Aug 2026 07:32:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Greece Gains Ground Against Blaze Near Athens]]></title>
+<link>https://www.barrons.com/news/greece-gains-ground-against-blaze-near-athens-b3aacd6a?refsec=topics_afp-news</link>
+<pubDate>Tue, 04 Aug 2026 15:52:54 -0000</pubDate>
+<description><![CDATA[Firefighters in Greece gained ground Tuesday against a wildfire burning for a fifth day on the outskirts of Athens, as easing winds allowed water-bombing aircraft back into the skies in force.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[World Bank Warns Developing Countries To Embrace AI Or Be Left Behind]]></title>
 <link>https://www.barrons.com/news/world-bank-warns-developing-countries-to-embrace-ai-or-be-left-behind-ec7659e9?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 13:14:08 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/china-draws-up-safety-rules-for-autonomous-vehicles-0fcc4948?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 11:02:09 -0000</pubDate>
 <description><![CDATA[China has drawn up new safety rules for the growing number of autonomous vehicles on its roads, including a mandatory deactivation override, the government said Tuesday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Salvadoran Man Dies In US Immigration Prison, Says ICE]]></title>
-<link>https://www.barrons.com/news/salvadoran-man-dies-in-us-immigration-prison-says-ice-6e065ab2?refsec=topics_afp-news</link>
-<pubDate>Tue, 04 Aug 2026 10:47:09 -0000</pubDate>
-<description><![CDATA[Immigration and Customs Enforcement (ICE) said Monday that a man from El Salvador died in detention at a US immigration prison accused of poor conditions, drawing calls for its closure from Democrats.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
