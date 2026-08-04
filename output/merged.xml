@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Aug 2026 11:02:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 13:14:08 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[BP Profit Soars As Mideast War Roils Energy Prices]]></title>
+<link>https://www.barrons.com/news/bp-profit-soars-as-mideast-war-roils-energy-prices-92d4b1f4?refsec=topics_afp-news</link>
+<pubDate>Tue, 04 Aug 2026 13:14:07 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Heatwave Divides Rich And Poor Of Upmarket Seoul]]></title>
 <link>https://www.barrons.com/news/heatwave-divides-rich-and-poor-of-upmarket-seoul-3f214ef5?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 11:02:07 -0000</pubDate>
@@ -83,9 +89,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Michigan Primary Puts Democratic Divide On The Ballot]]></title>
+<title><![CDATA[Polls Open In Michigan Vote Testing Rival Visions For Democrats]]></title>
 <link>https://www.barrons.com/news/michigan-primary-puts-democratic-divide-on-the-ballot-af25537f?refsec=topics_afp-news</link>
-<pubDate>Tue, 04 Aug 2026 10:02:07 -0000</pubDate>
+<pubDate>Tue, 04 Aug 2026 12:59:07 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Spain Confronts EU Migration Hawks In Tense Ceuta Talks]]></title>
-<link>https://www.barrons.com/news/spain-confronts-eu-migration-hawks-in-tense-ceuta-talks-8155246f?refsec=topics_afp-news</link>
-<pubDate>Tue, 04 Aug 2026 09:47:07 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[World Bank Warns Developing Countries To Embrace AI Or Be Left Behind]]></title>
+<link>https://www.barrons.com/news/world-bank-warns-developing-countries-to-embrace-ai-or-be-left-behind-ec7659e9?refsec=topics_afp-news</link>
+<pubDate>Tue, 04 Aug 2026 13:14:08 -0000</pubDate>
+<description><![CDATA[The World Bank on Tuesday called on developing countries to embrace artificial intelligence technology tools to deliver better governance outcomes, warning that they risked being left behind if they failed to do so.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[China Draws Up Safety Rules For Autonomous Vehicles]]></title>
 <link>https://www.barrons.com/news/china-draws-up-safety-rules-for-autonomous-vehicles-0fcc4948?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 11:02:09 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/salvadoran-man-dies-in-us-immigration-prison-says-ice-6e065ab2?refsec=topics_afp-news</link>
 <pubDate>Tue, 04 Aug 2026 10:47:09 -0000</pubDate>
 <description><![CDATA[Immigration and Customs Enforcement (ICE) said Monday that a man from El Salvador died in detention at a US immigration prison accused of poor conditions, drawing calls for its closure from Democrats.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[BP Profit Soars As Mideast War Roils Energy Prices]]></title>
-<link>https://www.barrons.com/news/bp-profit-soars-as-mideast-war-roils-energy-prices-92d4b1f4?refsec=topics_afp-news</link>
-<pubDate>Tue, 04 Aug 2026 10:32:09 -0000</pubDate>
-<description><![CDATA[British energy giant BP said Tuesday that its net profit more than doubled in the second quarter as the Middle East war roiled oil and gas markets.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
