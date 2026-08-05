@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Aug 2026 12:57:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 15:14:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Ceuta Warns Of 'Unsustainable' Situation For Child Migrants After Influx]]></title>
+<link>https://www.barrons.com/news/ceuta-warns-of-unsustainable-situation-for-child-migrants-after-influx-c0c5383b?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 15:14:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Embattled FIFA Chief Infantino Holds Emergency Talks With Directors]]></title>
 <link>https://www.barrons.com/news/embattled-fifa-chief-infantino-holds-emergency-talks-with-directors-e1f1cc7d?refsec=topics_afp-news</link>
 <pubDate>Wed, 05 Aug 2026 12:57:22 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Factories Shed Workers In Bangladesh Garment Sector]]></title>
-<link>https://www.barrons.com/news/factories-shed-workers-in-bangladesh-garment-sector-554e847c?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 07:02:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,10 +131,17 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Alarm At German Airport After Drone Found Near Ukrainian Plane, Mid-air Incident]]></title>
+<title><![CDATA[Where Mountain Lions Roam, Fewer Deer In The Headlights]]></title>
+<link>https://www.barrons.com/news/where-mountain-lions-roam-fewer-deer-in-the-headlights-0cb27360?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 15:14:01 -0000</pubDate>
+<description><![CDATA[Living among apex predators could make you safer.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Explosive Drone Found Near Ukrainian Plane At German Airport]]></title>
 <link>https://www.barrons.com/news/alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident-2bfa017a?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 12:57:23 -0000</pubDate>
-<description><![CDATA[German police deployed a bomb disposal robot at an airport overnight after a drone was found on the tarmac near a Ukrainian cargo plane, sparking alarm and forcing the diversion of numerous flights.
+<pubDate>Wed, 05 Aug 2026 14:59:01 -0000</pubDate>
+<description><![CDATA[German police raised the alarm at an airport overnight after an explosives-laden drone was found near a Ukrainian cargo plane and another aircraft collided with an unknown flying object nearby before landing safely.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/pakistan-team-reaches-base-camp-with-body-of-renowned-climber-killed-in-avalanche-8a8dbafc?refsec=topics_afp-news</link>
 <pubDate>Wed, 05 Aug 2026 12:42:23 -0000</pubDate>
 <description><![CDATA[A search team has transported the bodies of renowned climber Nirmal Purja and three of his team members to the base camp of the mountain on which they were killed by an avalanche, the Alpine Club of Pakistan said Wednesday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Ceuta Warns Of 'Unsustainable' Situation For Child Migrants After Influx]]></title>
-<link>https://www.barrons.com/news/ceuta-warns-of-unsustainable-situation-for-child-migrants-after-influx-c0c5383b?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 10:58:41 -0000</pubDate>
-<description><![CDATA[The leader of Spain's north African territory of Ceuta on Wednesday said the number of children left there after last week's irregular migrant rush was "unsustainable", pleading for government aid.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
