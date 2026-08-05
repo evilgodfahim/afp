@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Aug 2026 15:14:01 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 16:59:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Explosive Drone Found Near Ukrainian Plane At German Airport]]></title>
+<link>https://www.barrons.com/news/alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident-2bfa017a?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 16:59:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan Team Reaches Base Camp With Body Of Renowned Climber Killed In Avalanche]]></title>
+<link>https://www.barrons.com/news/pakistan-team-reaches-base-camp-with-body-of-renowned-climber-killed-in-avalanche-8a8dbafc?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 16:44:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ceuta Warns Of 'Unsustainable' Situation For Child Migrants After Influx]]></title>
 <link>https://www.barrons.com/news/ceuta-warns-of-unsustainable-situation-for-child-migrants-after-influx-c0c5383b?refsec=topics_afp-news</link>
 <pubDate>Wed, 05 Aug 2026 15:14:00 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[South Korea Police Raid Starbucks HQ Over 'Tank Day' Fiasco]]></title>
-<link>https://www.barrons.com/news/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco-56fed8ae?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 07:32:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Taiwan Begins Military Drills As China Pressure Grows]]></title>
-<link>https://www.barrons.com/news/taiwan-begins-military-drills-as-china-pressure-grows-2c91fb41?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 07:17:19 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -138,17 +138,17 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Explosive Drone Found Near Ukrainian Plane At German Airport]]></title>
-<link>https://www.barrons.com/news/alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident-2bfa017a?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 14:59:01 -0000</pubDate>
-<description><![CDATA[German police raised the alarm at an airport overnight after an explosives-laden drone was found near a Ukrainian cargo plane and another aircraft collided with an unknown flying object nearby before landing safely.
+<title><![CDATA[Woman Arrested After Four Men Stabbed In Central London]]></title>
+<link>https://www.barrons.com/news/woman-arrested-after-four-men-stabbed-in-central-london-18035623?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 16:59:50 -0000</pubDate>
+<description><![CDATA[A woman was arrested after four men were stabbed Wednesday in Covent Garden, a busy central London area popular with tourists, in a suspected "mental health related incident", police said.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan Team Reaches Base Camp With Body Of Renowned Climber Killed In Avalanche]]></title>
-<link>https://www.barrons.com/news/pakistan-team-reaches-base-camp-with-body-of-renowned-climber-killed-in-avalanche-8a8dbafc?refsec=topics_afp-news</link>
-<pubDate>Wed, 05 Aug 2026 12:42:23 -0000</pubDate>
-<description><![CDATA[A search team has transported the bodies of renowned climber Nirmal Purja and three of his team members to the base camp of the mountain on which they were killed by an avalanche, the Alpine Club of Pakistan said Wednesday.
+<title><![CDATA[Israeli Forces Raid Palestinian Refugee Camp Near Jerusalem]]></title>
+<link>https://www.barrons.com/news/israeli-forces-raid-palestinian-refugee-camp-near-jerusalem-1af394d0?refsec=topics_afp-news</link>
+<pubDate>Wed, 05 Aug 2026 16:44:50 -0000</pubDate>
+<description><![CDATA[Israeli forces on Wednesday raided a Palestinian refugee camp next to Jerusalem where tensions have been growing as residents fear eviction, with eight people reported injured.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
