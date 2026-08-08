@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:56:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 23:26:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Tibet Conference In Nepal Pushed Online]]></title>
+<link>https://www.barrons.com/news/tibet-conference-in-nepal-pushed-online-9c653fc1?refsec=topics_afp-news</link>
+<pubDate>Sat, 08 Aug 2026 07:29:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine Warns Of Tough Winter As Russia Strikes Kill 4 In Kyiv Region]]></title>
 <link>https://www.barrons.com/news/ukraine-s-zelensky-visits-russian-ally-serbia-for-talks-d08c2634?refsec=topics_afp-news</link>
 <pubDate>Sat, 08 Aug 2026 17:55:44 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Court Orders Halt To Trump Ballroom Construction]]></title>
-<link>https://www.barrons.com/news/us-appeals-court-orders-halt-to-trump-ballroom-construction-586b51c3?refsec=topics_afp-news</link>
-<pubDate>Fri, 07 Aug 2026 21:34:25 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[FIFA Condemns 'Concerted And Ongoing Effort' To Weaken Infantino]]></title>
+<link>https://www.barrons.com/news/fifa-condemns-concerted-and-ongoing-effort-to-weaken-infantino-3155f929?refsec=topics_afp-news</link>
+<pubDate>Sat, 08 Aug 2026 23:26:14 -0000</pubDate>
+<description><![CDATA[FIFA on Saturday condemned "a concerted and ongoing effort by some to undermine" the world game's governing body and its president Gianni Infantino as the controversy over his now shelved private investment plan rumbles on.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine Denies Targeting Bulgaria As Drone Explodes Near Pipeline]]></title>
 <link>https://www.barrons.com/news/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-3930d166?refsec=topics_afp-news</link>
 <pubDate>Sat, 08 Aug 2026 17:55:45 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border-bulgarian-pm-464ebefd?refsec=topics_afp-news</link>
 <pubDate>Sat, 08 Aug 2026 15:34:15 -0000</pubDate>
 <description><![CDATA[A drone that entered Bulgaria on Saturday exploded near the Romanian border and the Trans-Balkan gas pipeline there, which links Turkey to Ukraine, Bulgarian Prime Minister Rumen Radev announced.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tibet Conference In Nepal Pushed Online]]></title>
-<link>https://www.barrons.com/news/tibet-conference-in-nepal-pushed-online-9c653fc1?refsec=topics_afp-news</link>
-<pubDate>Sat, 08 Aug 2026 09:32:54 -0000</pubDate>
-<description><![CDATA[An international academic conference on Tibet due to take place in Nepal this month has been pushed online, organisers said Saturday, calling it a "worrying development".
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
