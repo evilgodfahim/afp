@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Aug 2026 05:43:02 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 06:49:09 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Italian Authorities Dole Out Fines For Olympic Ambush Marketing]]></title>
 <link>https://www.barrons.com/news/italian-authorities-dole-out-fines-for-olympic-ambush-marketing-9391fd7d?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Japan Nuclear Debate Unnerves Proponents Of Pacifism]]></title>
+<link>https://www.barrons.com/news/japan-nuclear-debate-unnerves-proponents-of-pacifism-a5fec35e?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 06:49:08 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Angers Mounts In US Over Vast Network Of Car License Plate Cams]]></title>
 <link>https://www.barrons.com/news/angers-mounts-in-us-over-vast-network-of-car-license-plate-cams-ad1f849c?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 04:44:23 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[India's 'Cockroach' Protest Movement Keeps Heat On Modi]]></title>
-<link>https://www.barrons.com/news/india-s-cockroach-protest-movement-keeps-heat-on-modi-416ae94f?refsec=topics_afp-news</link>
-<pubDate>Sat, 08 Aug 2026 13:41:15 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Wed, 29 Jul 2026 00:41:25 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Indonesia Closes National Park As Wildfire Spreads]]></title>
+<link>https://www.barrons.com/news/indonesia-closes-national-park-as-wildfire-spreads-c5b9aa11?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 06:49:09 -0000</pubDate>
+<description><![CDATA[Indonesian authorities have closed access to a national park on Java Island as firefighters battle a wildfire raging there for nearly a week.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[ZXMoto Leads China's Charge To Dominate The Global Motorbike Market]]></title>
 <link>https://www.barrons.com/news/zxmoto-leads-china-s-charge-to-dominate-the-global-motorbike-market-ab4b1e5b?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 04:44:24 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/afghanistan-s-gold-rush-upends-lives-and-landscapes-da3e9d7b?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 04:29:24 -0000</pubDate>
 <description><![CDATA[In Afghanistan's northeastern Badakhshan province, dozens of excavators operate day and night to extract gold from the mountains where villagers and their livestock once roamed.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Japan Nuclear Debate Unnerves Proponents Of Pacifism]]></title>
-<link>https://www.barrons.com/news/japan-nuclear-debate-unnerves-proponents-of-pacifism-a5fec35e?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 03:14:10 -0000</pubDate>
-<description><![CDATA[As Japan marks the anniversary of the 1945 atomic bombs, its leaders are pushing for a renewed debate on nuclear weapons in a challenge to the nation's long-time pacifist stance.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
