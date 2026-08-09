@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Aug 2026 15:56:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 16:32:49 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Students, Teachers Mourn Girl Killed In Thailand School Shooting]]></title>
+<link>https://www.barrons.com/news/students-teachers-mourn-girl-killed-in-thailand-school-shooting-df58799b?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 16:32:48 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Indonesia Closes National Park As Wildfire Spreads]]></title>
 <link>https://www.barrons.com/news/indonesia-closes-national-park-as-wildfire-spreads-c5b9aa11?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 12:40:21 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Issues Demands For Reopening Of Hormuz]]></title>
-<link>https://www.barrons.com/news/iran-issues-demands-for-reopening-of-hormuz-415d52bb?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 04:14:23 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Bodies Hanging From Bridge Revive Violence In Once-calm Town In Mexico]]></title>
+<link>https://www.barrons.com/news/bodies-hanging-from-bridge-revive-violence-in-once-calm-town-in-mexico-988c299c?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 16:32:49 -0000</pubDate>
+<description><![CDATA[Horrific drug violence plagued the Mexican state of Zacatecas for years, until relative calm set in. Then one morning in July this small town woke up to find five bodies dangling from a bridge -- a grim calling card that showed the bloodshed never really left.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Typhoon Dolphin Makes Landfall In China After Flight Cancellations, Evacuations]]></title>
 <link>https://www.barrons.com/news/typhoon-dolphin-makes-landfall-in-china-after-flight-cancellations-evacuations-469d9498?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 12:40:23 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Iran Guards Say Won't Reopen Hormuz Without US Meeting All Tehran's Conditions]]></title>
+<title><![CDATA[Iran Guards Say Won't Reopen Hormuz Without US Meeting Tehran's Demands]]></title>
 <link>https://www.barrons.com/news/iran-guards-say-won-t-reopen-hormuz-without-us-meeting-all-tehran-s-conditions-15bb8ca4?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 10:29:28 -0000</pubDate>
-<description><![CDATA[Iran's Revolutionary Guards said on Sunday they would not reopen the Strait of Hormuz, vital to the world economy, until the United States met Tehran's conditions set out the day before, including compensation for war damages.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Students, Teachers Mourn Girl Killed In Thailand School Shooting]]></title>
-<link>https://www.barrons.com/news/students-teachers-mourn-girl-killed-in-thailand-school-shooting-df58799b?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 12:25:23 -0000</pubDate>
-<description><![CDATA[Dozens of bereaved students, parents and teachers queued at a Buddhist temple in Thailand on Sunday to pray over the body of a 12-year-old girl, one of eight victims of a home and school shooting two days earlier.
+<pubDate>Sun, 09 Aug 2026 16:17:49 -0000</pubDate>
+<description><![CDATA[Iran's Revolutionary Guards said on Sunday that they would not reopen the Strait of Hormuz until the United States complied with a list of demands, including paying compensation for war damage.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
