@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Aug 2026 17:58:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 18:49:14 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Iran Guards Say Won't Reopen Hormuz Without US Meeting Tehran's Demands]]></title>
+<link>https://www.barrons.com/news/iran-guards-say-won-t-reopen-hormuz-without-us-meeting-all-tehran-s-conditions-15bb8ca4?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 18:49:13 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Students, Teachers Mourn Girl Killed In Thailand School Shooting]]></title>
 <link>https://www.barrons.com/news/students-teachers-mourn-girl-killed-in-thailand-school-shooting-df58799b?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 16:32:48 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine Denies Targeting Bulgaria As Drone Explodes Near Pipeline]]></title>
-<link>https://www.barrons.com/news/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-3930d166?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 02:59:08 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Five Dead In New Russia, Ukraine Strikes]]></title>
+<link>https://www.barrons.com/news/five-dead-in-new-russia-ukraine-strikes-3584418b?refsec=topics_afp-news</link>
+<pubDate>Sun, 09 Aug 2026 18:49:14 -0000</pubDate>
+<description><![CDATA[Russian strikes killed two people and wounded dozens across Ukraine overnight Saturday and Sunday, while a Ukrainian drone attack killed three people in Russia's Belgorod region.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Bodies Hanging From Bridge Revive Violence In Once-calm Town In Mexico]]></title>
 <link>https://www.barrons.com/news/bodies-hanging-from-bridge-revive-violence-in-once-calm-town-in-mexico-988c299c?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 16:32:49 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/typhoon-dolphin-makes-landfall-in-china-after-flight-cancellations-evacuations-469d9498?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 12:40:23 -0000</pubDate>
 <description><![CDATA[Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, evacuations and a top-level alert.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Iran Guards Say Won't Reopen Hormuz Without US Meeting Tehran's Demands]]></title>
-<link>https://www.barrons.com/news/iran-guards-say-won-t-reopen-hormuz-without-us-meeting-all-tehran-s-conditions-15bb8ca4?refsec=topics_afp-news</link>
-<pubDate>Sun, 09 Aug 2026 16:17:49 -0000</pubDate>
-<description><![CDATA[Iran's Revolutionary Guards said on Sunday that they would not reopen the Strait of Hormuz until the United States complied with a list of demands, including paying compensation for war damage.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
