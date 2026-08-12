@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Aug 2026 22:35:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 23:35:32 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[As Millions Gazed In Awe, A Swathe Of Spain Plunged Into Darkness]]></title>
+<link>https://www.barrons.com/news/as-millions-gazed-in-awe-a-swathe-of-spain-plunged-into-darkness-824b90da?refsec=topics_afp-news</link>
+<pubDate>Wed, 12 Aug 2026 23:35:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rob Reiner Son Denies Grand Jury Murder Charges]]></title>
 <link>https://www.barrons.com/news/rob-reiner-son-denies-grand-jury-murder-charges-b9a6b976?refsec=topics_afp-news</link>
 <pubDate>Wed, 12 Aug 2026 21:40:10 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Sued Over Sale Of Access To Truth Social Posts]]></title>
-<link>https://www.barrons.com/news/trump-sued-over-sale-of-access-to-truth-social-posts-82267ae6?refsec=topics_afp-news</link>
-<pubDate>Wed, 12 Aug 2026 17:27:11 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump 'Low-key' Bets On Economic Pressure Against Iran]]></title>
+<link>https://www.barrons.com/news/trump-low-key-bets-on-economic-pressure-against-iran-599eeb99?refsec=topics_afp-news</link>
+<pubDate>Wed, 12 Aug 2026 23:35:32 -0000</pubDate>
+<description><![CDATA[Keeping a low profile doesn't come naturally to Donald Trump.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Travis Kelce Says Wedding To Taylor Swift Was 'Best Night Of My Life']]></title>
 <link>https://www.barrons.com/news/travis-kelce-says-wedding-to-taylor-swift-was-best-night-of-my-life-df02928b?refsec=topics_afp-news</link>
 <pubDate>Wed, 12 Aug 2026 21:40:12 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-s-spokesperson-karoline-leavitt-to-step-down-9195d33b?refsec=topics_afp-news</link>
 <pubDate>Wed, 12 Aug 2026 21:25:12 -0000</pubDate>
 <description><![CDATA[White House Press Secretary Karoline Leavitt, who earned a reputation for acid putdowns of journalists, is to step down, President Donald Trump announced Wednesday adding she would remain a senior advisor.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[As Millions Gazed In Awe, A Swathe Of Spain Plunged Into Darkness]]></title>
-<link>https://www.barrons.com/news/as-millions-gazed-in-awe-a-swathe-of-spain-plunged-into-darkness-824b90da?refsec=topics_afp-news</link>
-<pubDate>Wed, 12 Aug 2026 21:10:12 -0000</pubDate>
-<description><![CDATA[The total eclipse plunged a vast swathe of Spain from broad daylight into darkness Wednesday, drawing awed gasps and applause from spectators gathered in parks and cities across the country.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
