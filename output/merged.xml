@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Aug 2026 04:02:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 04:55:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Viennese Woman Sues City Over 'Discriminatory' Toilet Fees]]></title>
+<link>https://www.barrons.com/news/viennese-woman-sues-city-over-discriminatory-toilet-fees-83a0ce86?refsec=topics_afp-news</link>
+<pubDate>Sat, 15 Aug 2026 04:55:25 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Venezuelan Amputees Adjust To New Life After Quakes]]></title>
 <link>https://www.barrons.com/news/venezuelan-amputees-adjust-to-new-life-after-quakes-a9658f2d?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 03:10:40 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Homeless, Jobless: Colombia Quake Survivors 'Left With Nothing']]></title>
-<link>https://www.barrons.com/news/homeless-jobless-colombia-quake-survivors-left-with-nothing-d1e49ef1?refsec=topics_afp-news</link>
-<pubDate>Fri, 14 Aug 2026 20:50:21 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[India's Modi Woos Youth With Free Coaching, AI Training]]></title>
+<link>https://www.barrons.com/news/india-s-modi-woos-youth-with-free-coaching-ai-training-65a7f963?refsec=topics_afp-news</link>
+<pubDate>Sat, 15 Aug 2026 04:55:26 -0000</pubDate>
+<description><![CDATA[Indian Prime Minister Narendra Modi said Saturday his government would provide free online coaching lessons for competitive exams, weeks after massive youth-led protests forced the education minister to resign.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Powerful Quake Off Indonesia Kills One, Sparks Mass Evacuations]]></title>
 <link>https://www.barrons.com/news/powerful-quake-off-indonesia-kills-one-sparks-mass-evacuations-7fdba761?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 03:10:41 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/japan-defence-minister-visits-war-shrine-pm-stays-away-e554a200?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 02:55:41 -0000</pubDate>
 <description><![CDATA[Japan's defence minister paid his respects Saturday at a shrine honouring the country's war dead that has long dogged Tokyo's relations with its Asian neighbours, but Prime Minister Sanae Takaichi stayed away.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Viennese Woman Sues City Over 'Discriminatory' Toilet Fees]]></title>
-<link>https://www.barrons.com/news/viennese-woman-sues-city-over-discriminatory-toilet-fees-83a0ce86?refsec=topics_afp-news</link>
-<pubDate>Sat, 15 Aug 2026 02:40:41 -0000</pubDate>
-<description><![CDATA[A Viennese woman is suing the city council for discrimination over access to public toilets, complaining that women must pay to use cubicles while men can use urinals for free.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
