@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Aug 2026 09:48:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:17:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -60,14 +60,20 @@
 </item>
 <item>
 <title><![CDATA[India's Modi Woos Youth With Free Coaching, AI Training]]></title>
+<link>https://www.barrons.com/news/india-s-modi-woos-youth-with-free-coaching-ai-training-504a478c?refsec=topics_afp-news</link>
+<pubDate>Sat, 15 Aug 2026 10:17:32 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[India's Modi Woos Youth With Free Coaching, AI Training]]></title>
 <link>https://www.barrons.com/news/india-s-modi-woos-youth-with-free-coaching-ai-training-65a7f963?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 08:21:15 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['Like We Were On A Trampoline': Indonesia Quake Kills 20, Thousands Flee]]></title>
+<title><![CDATA[Indonesia Rescuers Search For Survivors As Quake Death Toll Rises To 38]]></title>
 <link>https://www.barrons.com/news/powerful-quake-off-indonesia-kills-one-sparks-mass-evacuations-7fdba761?refsec=topics_afp-news</link>
-<pubDate>Sat, 15 Aug 2026 08:06:15 -0000</pubDate>
+<pubDate>Sat, 15 Aug 2026 10:02:32 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Says 19 Million Recalled Eggs Pose Deadly Risk]]></title>
-<link>https://www.barrons.com/news/us-says-19-million-recalled-eggs-pose-deadly-risk-3dc312da?refsec=topics_afp-news</link>
-<pubDate>Sat, 15 Aug 2026 02:10:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Lebanon Says 9 Dead In Strikes As Israel Says Targeted Hezbollah]]></title>
+<link>https://www.barrons.com/news/lebanon-says-9-dead-in-strikes-as-israel-says-targeted-hezbollah-56f4edc9?refsec=topics_afp-news</link>
+<pubDate>Sat, 15 Aug 2026 10:17:33 -0000</pubDate>
+<description><![CDATA[Lebanon said Israeli strikes on the south killed nine people including three children on Saturday, the deadliest raids since deals in June eased hostilities between Israel and Hezbollah.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Iran Fires Back At Trump's Threat To Declare Hormuz A US Territory]]></title>
 <link>https://www.barrons.com/news/iran-fires-back-at-trump-s-threat-to-declare-hormuz-a-us-territory-019bda15?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 08:21:17 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/faced-with-historic-drought-the-dutch-rethink-water-management-c8820604?refsec=topics_afp-news</link>
 <pubDate>Sat, 15 Aug 2026 06:30:19 -0000</pubDate>
 <description><![CDATA[On the banks of the Waal, the Dutch branch of the Rhine, swimmers are sunning themselves on a Nijmegen beach that didn't exist before the river level dropped a few months ago.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[India's Modi Woos Youth With Free Coaching, AI Training]]></title>
-<link>https://www.barrons.com/news/india-s-modi-woos-youth-with-free-coaching-ai-training-504a478c?refsec=topics_afp-news</link>
-<pubDate>Sat, 15 Aug 2026 06:15:19 -0000</pubDate>
-<description><![CDATA[Indian Prime Minister Narendra Modi said Saturday his government would provide free online coaching lessons for competitive exams, weeks after massive youth-led protests forced the education minister to resign.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
