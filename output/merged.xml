@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Aug 2026 11:43:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 12:30:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Chinese Ship Sets Off For Europe Through Arctic, Halving Travel Time]]></title>
+<link>https://www.barrons.com/news/chinese-ship-sets-off-for-europe-through-arctic-halving-travel-time-c0a2c15f?refsec=topics_afp-news</link>
+<pubDate>Sun, 16 Aug 2026 12:30:24 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[As Opel Turns To Chinese Partners, Its Hometown Frets About The Future]]></title>
 <link>https://www.barrons.com/news/as-opel-turns-to-chinese-partners-its-hometown-frets-about-the-future-d6c39e79?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 06:31:47 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Despite Booming Economy, Young Moroccans Still Dream Of Europe]]></title>
-<link>https://www.barrons.com/news/despite-booming-economy-young-moroccans-still-dream-of-europe-ff1b18a2?refsec=topics_afp-news</link>
-<pubDate>Sun, 16 Aug 2026 02:24:22 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Air Support Kicks In As Record Belgian Wildfire Jumps In Size]]></title>
+<link>https://www.barrons.com/news/air-support-kicks-in-as-record-belgian-wildfire-jumps-in-size-bb73f468?refsec=topics_afp-news</link>
+<pubDate>Sun, 16 Aug 2026 12:30:25 -0000</pubDate>
+<description><![CDATA[Crucial air support swung into action Sunday to help firefighters tame Belgium's largest modern-day wildfire, which has mushroomed in size since breaking out two days ago in a hard-to-access nature reserve.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[The Ukrainian Social Media Channels Tracking Russian Missiles]]></title>
 <link>https://www.barrons.com/news/the-ukrainian-social-media-channels-tracking-russian-missiles-4fed80b4?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 06:31:48 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/uk-s-media-savvy-pm-burnham-shifts-messaging-to-tiktok-podcasts-3433919b?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 06:16:48 -0000</pubDate>
 <description><![CDATA[Whether he is pulling a pint, tossing a builder's helmet in the air or running with Olympic medallist Mo Farah, the UK's new prime minister Andy Burnham has embraced social media with a deft touch.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Chinese Ship Sets Off For Europe Through Arctic, Halving Travel Time]]></title>
-<link>https://www.barrons.com/news/chinese-ship-sets-off-for-europe-through-arctic-halving-travel-time-c0a2c15f?refsec=topics_afp-news</link>
-<pubDate>Sun, 16 Aug 2026 06:01:48 -0000</pubDate>
-<description><![CDATA[A Chinese container vessel has set sail for Europe through the Arctic, part of new weekly service on a route that cuts shipment times in half but which environmental groups warn could speed up the melting of polar ice.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
