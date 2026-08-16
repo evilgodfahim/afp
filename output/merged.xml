@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Aug 2026 15:44:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 16:18:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[UK's Media-savvy PM Burnham Shifts Messaging To TikTok, Podcasts]]></title>
+<link>https://www.barrons.com/news/uk-s-media-savvy-pm-burnham-shifts-messaging-to-tiktok-podcasts-3433919b?refsec=topics_afp-news</link>
+<pubDate>Sun, 16 Aug 2026 16:18:39 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Chinese Ship Sets Off For Europe Through Arctic, Halving Travel Time]]></title>
 <link>https://www.barrons.com/news/chinese-ship-sets-off-for-europe-through-arctic-halving-travel-time-c0a2c15f?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 12:30:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Strikes Kill 12 In Russia And Ukraine]]></title>
-<link>https://www.barrons.com/news/mass-drone-attack-on-moscow-as-russian-strikes-kill-three-in-ukraine-7d66c197?refsec=topics_afp-news</link>
-<pubDate>Sun, 16 Aug 2026 10:18:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Hamas Expects Meeting With Kushner As US Pushes Gaza Plan]]></title>
+<link>https://www.barrons.com/news/hamas-expects-meeting-with-kushner-as-us-pushes-gaza-plan-7e2cd24c?refsec=topics_afp-news</link>
+<pubDate>Sun, 16 Aug 2026 16:18:40 -0000</pubDate>
+<description><![CDATA[Hamas sources said on Sunday that they expected to meet in Egypt with US envoy Jared Kushner, as President Donald Trump's administration seeks to push forward a Gaza peace plan rejected by Israel.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Farmers, Helicopters Help Battle Record Belgian Wildfire]]></title>
 <link>https://www.barrons.com/news/air-support-kicks-in-as-record-belgian-wildfire-jumps-in-size-bb73f468?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 14:17:40 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/the-ukrainian-social-media-channels-tracking-russian-missiles-4fed80b4?refsec=topics_afp-news</link>
 <pubDate>Sun, 16 Aug 2026 06:31:48 -0000</pubDate>
 <description><![CDATA[The chances of a missile attack on Kyiv that night were around 50 percent, according to the administrator of a social media channel monitoring Russian air raids.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[UK's Media-savvy PM Burnham Shifts Messaging To TikTok, Podcasts]]></title>
-<link>https://www.barrons.com/news/uk-s-media-savvy-pm-burnham-shifts-messaging-to-tiktok-podcasts-3433919b?refsec=topics_afp-news</link>
-<pubDate>Sun, 16 Aug 2026 06:16:48 -0000</pubDate>
-<description><![CDATA[Whether he is pulling a pint, tossing a builder's helmet in the air or running with Olympic medallist Mo Farah, the UK's new prime minister Andy Burnham has embraced social media with a deft touch.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
