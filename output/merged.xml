@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Aug 2026 05:58:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 07:04:53 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Is This Cave In Turkey Where Homer Wrote 'The Odyssey'?]]></title>
+<link>https://www.barrons.com/news/is-this-cave-in-turkey-where-homer-wrote-the-odyssey-7e80084f?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 07:04:52 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Winning Back Walls From Gangs, Artists Fill El Salvador's Towns With Color]]></title>
 <link>https://www.barrons.com/news/winning-back-walls-from-gangs-artists-fill-el-salvador-s-towns-with-color-8f7485d5?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 05:06:40 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Belgium Races To Tame Huge Wildfire Creeping Towards Germany]]></title>
-<link>https://www.barrons.com/news/air-support-kicks-in-as-record-belgian-wildfire-jumps-in-size-bb73f468?refsec=topics_afp-news</link>
-<pubDate>Sun, 16 Aug 2026 22:15:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Australia's Mushroom Murderer Appeals Conviction]]></title>
+<link>https://www.barrons.com/news/australia-s-mushroom-murderer-appeals-conviction-b45231aa?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 07:04:53 -0000</pubDate>
+<description><![CDATA[Australian toxic mushroom killer Erin Patterson launches an appeal Wednesday against her conviction in a triple-murder case that made headlines worldwide.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nearly 13,000 Displaced After Deadly Indonesian Quake]]></title>
 <link>https://www.barrons.com/news/nearly-13-000-displaced-after-deadly-indonesian-quake-5977208d?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 05:06:41 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/photos-memories-all-that-remain-for-colombia-s-bereaved-after-quake-13a74027?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 03:26:34 -0000</pubDate>
 <description><![CDATA[In Torres del Limonar, a Cali residential complex that collapsed in Monday's earthquake, people pick through rubble to recover victims' belongings and return them to grieving families.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Is This Cave In Turkey Where Homer Wrote 'The Odyssey'?]]></title>
-<link>https://www.barrons.com/news/is-this-cave-in-turkey-where-homer-wrote-the-odyssey-7e80084f?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 04:51:41 -0000</pubDate>
-<description><![CDATA[On a Turkish hillside overlooking the olive-covered slopes outside Izmir is a cave known to generations of locals as the place where Homer penned "The Odyssey".
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
