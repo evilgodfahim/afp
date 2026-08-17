@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Aug 2026 17:21:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 17:53:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Appeal In Sex Assault, Defamation Case Rejected Again]]></title>
+<link>https://www.barrons.com/news/trump-appeal-in-sex-assault-defamation-case-rejected-again-49c27966?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 17:53:43 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Former Child Star Actress Hayden Panettiere Dead At 36]]></title>
-<link>https://www.barrons.com/news/former-child-star-actress-hayden-panettiere-dead-at-36-56e248bd?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 14:51:24 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US-Palestinian Says 'Terrified' As He Returns To Property Besieged By Settlers]]></title>
+<link>https://www.barrons.com/news/us-palestinian-says-terrified-as-he-returns-to-property-besieged-by-settlers-d3acf1bc?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 17:53:44 -0000</pubDate>
+<description><![CDATA[The Palestinian-American owner of a house besieged by Israeli settlers in the occupied West Bank said on Monday he feared for his safety as he headed back to his property and called for US protection.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Never Seen One Like It': German Pensioners Flee Wildfire]]></title>
 <link>https://www.barrons.com/news/never-seen-one-like-it-german-pensioners-flee-wildfire-29fe6158?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:25 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/uk-pm-exchanged-messages-with-trump-aide-imposter-reports-b4a11916?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:06:25 -0000</pubDate>
 <description><![CDATA[New British Prime Minister Andy Burnham exchanged messages with someone posing as Susie Wiles, the White House chief of staff, several media outlets reported on Monday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Appeal In Sex Assault, Defamation Case Rejected Again]]></title>
-<link>https://www.barrons.com/news/trump-appeal-in-sex-assault-defamation-case-rejected-again-49c27966?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 15:51:25 -0000</pubDate>
-<description><![CDATA[The US Supreme Court on Monday rejected for a second time President Donald Trump's attempt to overturn a jury judgment that he sexually assaulted and defamed writer E Jean Carroll.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
