@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 17 Aug 2026 11:49:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 12:34:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iran's Gulf Islands: Targets In Latest Fight Over Hormuz]]></title>
 <link>https://www.barrons.com/news/iran-s-gulf-islands-targets-in-latest-fight-over-hormuz-37491747?refsec=topics_afp-news</link>
@@ -59,15 +59,21 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Australia's Mushroom Murderer Appeals Conviction]]></title>
+<link>https://www.barrons.com/news/australia-s-mushroom-murderer-appeals-conviction-b45231aa?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 12:34:33 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nearly 13,000 Displaced By Deadly Indonesian Quake Await Aid]]></title>
 <link>https://www.barrons.com/news/nearly-13-000-displaced-after-deadly-indonesian-quake-5977208d?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 10:55:50 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Most Stocks Rise As US Data Ease Rate Fears But Fuel Economic Worries]]></title>
+<title><![CDATA[Stocks Steady As Investors Weigh US Rate Path]]></title>
 <link>https://www.barrons.com/news/most-stocks-rise-as-us-data-ease-rate-fears-but-fuel-economic-worries-6bb99b7d?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 08:52:26 -0000</pubDate>
+<pubDate>Mon, 17 Aug 2026 12:19:33 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Says US Scaling Back Military Drills With Seoul Hours Before Start]]></title>
-<link>https://www.barrons.com/news/trump-says-us-scaling-back-military-drills-with-south-korea-8bd07550?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 04:36:40 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[Hong Kong Weather Observatory Posts Record High Temperature]]></title>
 <link>https://www.barrons.com/news/hong-kong-weather-observatory-posts-record-high-temperature-29dd830f?refsec=topics_afp-news</link>
 <pubDate>Sun, 09 Aug 2026 10:14:27 -0000</pubDate>
@@ -145,10 +145,10 @@ Delivered by PolitePaul service]]></description>
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Australia's Mushroom Murderer Appeals Conviction]]></title>
-<link>https://www.barrons.com/news/australia-s-mushroom-murderer-appeals-conviction-b45231aa?refsec=topics_afp-news</link>
-<pubDate>Mon, 17 Aug 2026 07:04:53 -0000</pubDate>
-<description><![CDATA[Australian toxic mushroom killer Erin Patterson launches an appeal Wednesday against her conviction in a triple-murder case that made headlines worldwide.
+<title><![CDATA[Taiwan's Leader Says Government To Propose Record Defence Spending For 2027]]></title>
+<link>https://www.barrons.com/news/taiwan-s-leader-says-government-to-propose-record-defence-spending-for-2027-9b0dec7c?refsec=topics_afp-news</link>
+<pubDate>Mon, 17 Aug 2026 12:34:34 -0000</pubDate>
+<description><![CDATA[Taiwan's government will propose record defence spending for 2027, President Lai Ching-te said on Monday, as the island democracy faces growing military pressure from China.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
