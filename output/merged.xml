@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 19 Aug 2026 04:06:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 05:01:33 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Tech Leads Losses As Asian Stocks Track Wall St Selloff]]></title>
+<link>https://www.barrons.com/news/tech-leads-losses-as-asian-stocks-track-wall-st-selloff-c34418e8?refsec=topics_afp-news</link>
+<pubDate>Wed, 19 Aug 2026 05:01:31 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['American Doctor' Shows Brutality Of Conflict In Gaza]]></title>
 <link>https://www.barrons.com/news/american-doctor-shows-brutality-of-conflict-in-gaza-b7bb65c1?refsec=topics_afp-news</link>
 <pubDate>Wed, 19 Aug 2026 03:23:59 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Moves To Open Vast Tracts Of Pristine Forests To Logging]]></title>
-<link>https://www.barrons.com/news/us-moves-to-open-vast-tracts-of-pristine-forests-to-logging-f297ae43?refsec=topics_afp-news</link>
-<pubDate>Tue, 18 Aug 2026 22:17:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Palestinian-American Hoists US Flag On Home Besieged By Settlers]]></title>
+<link>https://www.barrons.com/news/palestinian-american-hoists-us-flag-on-home-besieged-by-settlers-f65a82df?refsec=topics_afp-news</link>
+<pubDate>Wed, 19 Aug 2026 05:01:32 -0000</pubDate>
+<description><![CDATA[A Palestinian-American has raised the US flag on his home besieged by Israeli settlers, as the United States renewed criticism of the siege that has generated condemnation around the world.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[China Goes Rural With Data Centres In Quest To Power AI]]></title>
 <link>https://www.barrons.com/news/china-goes-rural-with-data-centres-in-quest-to-power-ai-59953398?refsec=topics_afp-news</link>
 <pubDate>Wed, 19 Aug 2026 03:24:00 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[China's Robots Open To Opportunities In Search Of Commercial Breakthrough]]></title>
+<title><![CDATA[Humanoid Resources: China's Robots Search For Workforce Breakthrough]]></title>
 <link>https://www.barrons.com/news/china-s-robots-open-to-opportunities-in-search-of-commercial-breakthrough-8f780e48?refsec=topics_afp-news</link>
-<pubDate>Wed, 19 Aug 2026 03:09:00 -0000</pubDate>
+<pubDate>Wed, 19 Aug 2026 04:46:32 -0000</pubDate>
 <description><![CDATA[A horde of schoolchildren watched excitedly as a diminutive humanoid tour guide named Wuji welcomed them to a robot school in eastern China, gesticulating theatrically as it described the institute's aspiration to train the mechanical workforce of the future.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tech Leads Losses As Asian Stocks Track Wall St Selloff]]></title>
-<link>https://www.barrons.com/news/tech-leads-losses-as-asian-stocks-track-wall-st-selloff-c34418e8?refsec=topics_afp-news</link>
-<pubDate>Wed, 19 Aug 2026 02:54:00 -0000</pubDate>
-<description><![CDATA[Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hopes for a deal to reopen the Strait of Hormuz.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
