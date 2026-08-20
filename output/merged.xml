@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 20 Aug 2026 11:51:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 12:38:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA['Girl With A Pearl Earring' In Japan, Perhaps For The Last Time]]></title>
+<link>https://www.barrons.com/news/girl-with-a-pearl-earring-in-japan-perhaps-for-the-last-time-af5c4312?refsec=topics_afp-news</link>
+<pubDate>Thu, 20 Aug 2026 12:38:22 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Thai, Myanmar Military Chiefs Meet As Post-coup Thaw Progresses]]></title>
 <link>https://www.barrons.com/news/thai-myanmar-military-chiefs-meet-as-post-coup-thaw-progresses-809f86e0?refsec=topics_afp-news</link>
 <pubDate>Thu, 20 Aug 2026 10:55:49 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA['People, Not Robots': Ukraine's Soldiers Justify Human Role Amid Drone Revolution]]></title>
-<link>https://www.barrons.com/news/people-not-robots-ukraine-s-soldiers-justify-human-role-amid-drone-revolution-f338bb9d?refsec=topics_afp-news</link>
-<pubDate>Thu, 20 Aug 2026 06:08:04 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Prince Harry: Key Dates In Life Of Returning UK Royal]]></title>
+<link>https://www.barrons.com/news/prince-harry-key-dates-in-life-of-returning-uk-royal-e88be75a?refsec=topics_afp-news</link>
+<pubDate>Thu, 20 Aug 2026 12:38:24 -0000</pubDate>
+<description><![CDATA[With Prince Harry and his wife Meghan set for an imminent return to Britain, here are some of the key dates in his life:
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Pledges 'Economic Warfare' On Iran, Prompting Tehran Derision]]></title>
 <link>https://www.barrons.com/news/trump-pledges-economic-warfare-on-iran-prompting-tehran-derision-4d0fe354?refsec=topics_afp-news</link>
 <pubDate>Thu, 20 Aug 2026 10:55:50 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Seoul Detects North Korean Missile Launches After Trump Says To Meet Kim]]></title>
+<title><![CDATA[North Korea Launches Missiles, Seoul Says, After Trump Floats Kim Meet]]></title>
 <link>https://www.barrons.com/news/seoul-detects-north-korean-missile-launches-after-trump-says-to-meet-kim-f14d2773?refsec=topics_afp-news</link>
-<pubDate>Thu, 20 Aug 2026 10:40:50 -0000</pubDate>
-<description><![CDATA[North Korea has fired several short-range ballistic missiles, Seoul's military said on Thursday, hours after US President Donald Trump said he would meet Pyongyang's Kim Jong Un this year.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Girl With A Pearl Earring' In Japan, Perhaps For The Last Time]]></title>
-<link>https://www.barrons.com/news/girl-with-a-pearl-earring-in-japan-perhaps-for-the-last-time-af5c4312?refsec=topics_afp-news</link>
-<pubDate>Thu, 20 Aug 2026 10:25:50 -0000</pubDate>
-<description><![CDATA["Girl with a Pearl Earring" will go on show in Osaka this week, on a rare trip abroad for the 17th-century Johannes Vermeer masterpiece and potentially its last to Japan.
+<pubDate>Thu, 20 Aug 2026 12:23:24 -0000</pubDate>
+<description><![CDATA[North Korea fired several short-range ballistic missiles Thursday, Seoul's military said, hours after US President Donald Trump said he would meet Pyongyang's Kim Jong Un this year.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
