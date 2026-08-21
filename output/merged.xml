@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 21 Aug 2026 21:47:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 22:18:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Brazil's Lula Urges Tariffs Resolution In Call With Trump]]></title>
+<link>https://www.barrons.com/news/brazil-s-lula-urges-tariffs-resolution-in-call-with-trump-ff3dd82c?refsec=topics_afp-news</link>
+<pubDate>Fri, 21 Aug 2026 22:18:42 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US Supreme Court Allows White House Ballroom Construction For Now]]></title>
 <link>https://www.barrons.com/news/us-supreme-court-allows-white-house-ballroom-construction-for-now-5e619ec6?refsec=topics_afp-news</link>
 <pubDate>Fri, 21 Aug 2026 20:20:03 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US, Canada Push To Seal Trade Deal As Deadline Nears]]></title>
-<link>https://www.barrons.com/news/us-canada-try-to-wrap-up-trade-deal-before-latest-trump-deadline-2dde9dbe?refsec=topics_afp-news</link>
-<pubDate>Fri, 21 Aug 2026 18:50:03 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[TikTok To Pay $400 Mn Settlement In US Children's Privacy Case]]></title>
+<link>https://www.barrons.com/news/tiktok-to-pay-400-mn-settlement-in-us-children-s-privacy-case-91e2e3a2?refsec=topics_afp-news</link>
+<pubDate>Fri, 21 Aug 2026 22:18:44 -0000</pubDate>
+<description><![CDATA[TikTok and parent company ByteDance have agreed to pay $400 million to settle a lawsuit with the US Department of Justice over claims that the video-sharing platform violated federal children's privacy laws, the department announced on Friday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[US VP Vance Campaigns In Hometown With Eye On 2028]]></title>
 <link>https://www.barrons.com/news/us-vp-vance-campaigns-in-hometown-with-eye-on-2028-67315b69?refsec=topics_afp-news</link>
 <pubDate>Fri, 21 Aug 2026 20:20:04 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Mexican Governor Wanted On US Drug Charges Returns To Job]]></title>
+<title><![CDATA[Mexican Governor Resumes Job Despite US Drug Charges]]></title>
 <link>https://www.barrons.com/news/mexican-governor-wanted-on-us-drug-charges-returns-to-job-3f92a56b?refsec=topics_afp-news</link>
-<pubDate>Fri, 21 Aug 2026 20:05:04 -0000</pubDate>
+<pubDate>Fri, 21 Aug 2026 22:03:44 -0000</pubDate>
 <description><![CDATA[The governor of Mexico's violence-plagued Sinaloa state, who is wanted by the United States on drug trafficking charges announced Friday he had resumed office after a nearly four-month absence to fight the allegations.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Brazil's Lula Urges Tariffs Resolution In Call With Trump]]></title>
-<link>https://www.barrons.com/news/brazil-s-lula-urges-tariffs-resolution-in-call-with-trump-ff3dd82c?refsec=topics_afp-news</link>
-<pubDate>Fri, 21 Aug 2026 18:30:05 -0000</pubDate>
-<description><![CDATA[Brazilian President Luiz Inacio da Silva urged US counterpart Donald Trump in a phone call on Friday to resolve their countries' trade dispute, saying US tariffs were imposed on "baseless" grounds.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
