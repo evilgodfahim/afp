@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Aug 2026 19:44:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 20:17:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Anthropic Market Debut Could Break SpaceX IPO Record: Media]]></title>
+<link>https://www.barrons.com/news/anthropic-market-debut-could-break-spacex-ipo-record-media-7a4aafce?refsec=topics_afp-news</link>
+<pubDate>Sat, 22 Aug 2026 20:17:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Pope's 'Couturier Of The Sacred' Fueled By Faith]]></title>
 <link>https://www.barrons.com/news/pope-s-couturier-of-the-sacred-fueled-by-faith-f70f0f5a?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 16:17:59 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Arctic Shipping A Daunting Prospect In Hotly Contested Region]]></title>
-<link>https://www.barrons.com/news/arctic-shipping-a-daunting-prospect-in-hotly-contested-region-15e2288e?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 06:32:01 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Canada's Carney Stands Up To Trump, Despite Risks]]></title>
+<link>https://www.barrons.com/news/canada-s-carney-stands-up-to-trump-despite-risks-c0981ca8?refsec=topics_afp-news</link>
+<pubDate>Sat, 22 Aug 2026 20:17:02 -0000</pubDate>
+<description><![CDATA[Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an "unfair" trade deal -- a gamble that could prove economically risky.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Macron Pledges Air Defence As 13 Killed In Russia, Ukraine Strikes]]></title>
 <link>https://www.barrons.com/news/macron-pledges-air-defence-as-13-killed-in-russia-ukraine-strikes-6c56c210?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 16:18:00 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/dr-congo-capital-wary-of-ebola-nightmare-75a60a6d?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 16:03:00 -0000</pubDate>
 <description><![CDATA[The Ebola virus has spread across Democratic Republic of Congo at a frightening speed and one of the authorities' biggest fears is that it reaches the teeming capital of Kinshasa.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Anthropic Market Debut Could Break SpaceX IPO Record: Media]]></title>
-<link>https://www.barrons.com/news/anthropic-market-debut-could-break-spacex-ipo-record-media-7a4aafce?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 14:16:13 -0000</pubDate>
-<description><![CDATA[The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
