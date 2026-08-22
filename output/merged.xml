@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Aug 2026 04:03:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 04:58:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[South Korea To Send First Container Ship Through Arctic Route]]></title>
+<link>https://www.barrons.com/news/south-korea-to-send-first-container-ship-through-arctic-route-462d2726?refsec=topics_afp-news</link>
+<pubDate>Sat, 22 Aug 2026 04:58:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump To Star As Motor Race Takes To Streets Of US Capital]]></title>
 <link>https://www.barrons.com/news/trump-to-star-as-motor-race-takes-to-streets-of-us-capital-8f3aae36?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 03:13:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Ukraine Says 'Cynical' Russian Strike On Shopping Centre Killed 16]]></title>
-<link>https://www.barrons.com/news/ukraine-says-cynical-russian-strike-on-shopping-centre-killed-14-55736276?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 00:43:59 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US, Canada Fail To Reach Trade Pact To Avert Trump Tariffs]]></title>
+<link>https://www.barrons.com/news/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs-fb681e7b?refsec=topics_afp-news</link>
+<pubDate>Sat, 22 Aug 2026 04:58:39 -0000</pubDate>
+<description><![CDATA[Hefty US tariffs on some Canadian products took effect on Saturday after days of negotiations that went down to the wire failed to produce an agreement.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Odyssey Effect: Stars Sell Greece To A New Wave Of US Tourists]]></title>
 <link>https://www.barrons.com/news/odyssey-effect-stars-sell-greece-to-a-new-wave-of-us-tourists-e7732755?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 03:13:59 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/arctic-shipping-a-daunting-prospect-in-hotly-contested-region-15e2288e?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 02:58:59 -0000</pubDate>
 <description><![CDATA[With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for quicker trips between Europe and Asia -- but commercial prospects are unlikely to match countries' strategic ambitions for the North Pole.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[South Korea To Send First Container Ship Through Arctic Route]]></title>
-<link>https://www.barrons.com/news/south-korea-to-send-first-container-ship-through-arctic-route-462d2726?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 02:43:59 -0000</pubDate>
-<description><![CDATA[South Korea was set Saturday to send its first trial container through the Arctic, as the Middle East war rattles global shipping, while environmental groups warned the route could accelerate polar ice melt.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
