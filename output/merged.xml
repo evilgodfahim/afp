@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Aug 2026 03:45:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 04:31:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Blowing In The Wind, Humble Balloon Gets Green Makeover]]></title>
+<link>https://www.barrons.com/news/blowing-in-the-wind-humble-balloon-gets-green-makeover-76271158?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 04:31:58 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[IndyCars Zip Among Iconic Washington Landmarks Ahead Of Freedom 250]]></title>
 <link>https://www.barrons.com/news/indycars-zip-among-iconic-washington-landmarks-ahead-of-freedom-250-367f7379?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 02:42:17 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Former Envoys Urge Joint French, UK Action On Palestinian Territories]]></title>
-<link>https://www.barrons.com/news/former-envoys-urge-joint-french-uk-action-on-palestinian-territories-eb61ad80?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 14:16:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Austrian Mountain Town Finds Niche In AI Boom]]></title>
+<link>https://www.barrons.com/news/austrian-mountain-town-finds-niche-in-ai-boom-b0ce2634?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 04:31:59 -0000</pubDate>
+<description><![CDATA[Nestled in the wooded hills of Austria's Styria region, the town of Leoben oozes tradition with its pastel-coloured buildings and quaint central square boasting a 13th-century church.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Prince Harry: Royal Misfit Making Unlikely UK Return]]></title>
 <link>https://www.barrons.com/news/prince-harry-royal-misfit-making-unlikely-uk-return-459b7d84?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 02:42:18 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/macron-hosts-saudi-s-mbs-for-visit-ranging-from-esports-to-mideast-c5a18640?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 02:27:18 -0000</pubDate>
 <description><![CDATA[French President Emmanuel Macron welcomes Saudi crown prince and de facto ruler Mohammed bin Salman on Sunday for a two-day visit set to range from esports to the war in the Middle East.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Blowing In The Wind, Humble Balloon Gets Green Makeover]]></title>
-<link>https://www.barrons.com/news/blowing-in-the-wind-humble-balloon-gets-green-makeover-76271158?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 02:12:18 -0000</pubDate>
-<description><![CDATA[A global symbol of parties and celebrations but an environmental headache, the humble balloon is undergoing a green revolution thanks to UK researchers.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
