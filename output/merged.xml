@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Aug 2026 17:43:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 18:21:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[VW Chief Warns Carmaker's Situation 'More Than Critical']]></title>
+<link>https://www.barrons.com/news/vw-chief-warns-carmaker-s-situation-more-than-critical-9685df7b?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 18:21:49 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[After Wildberries, Ukraine Launches Drone Campaign On Russia's Ozon]]></title>
 <link>https://www.barrons.com/news/after-wildberries-ukraine-launches-drone-campaign-on-russia-s-ozon-15c5aecb?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 16:18:53 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[DR Congo Capital Wary Of Ebola Nightmare]]></title>
-<link>https://www.barrons.com/news/dr-congo-capital-wary-of-ebola-nightmare-75a60a6d?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 01:04:05 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Landfill Collapse Kills 30 In Guinea]]></title>
+<link>https://www.barrons.com/news/landfill-collapse-kills-30-in-guinea-33d78983?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 18:21:50 -0000</pubDate>
+<description><![CDATA[Thirty people died in Guinea's capital Conakry on Sunday when a mound of rubbish in a landfill collapsed before dawn onto neighbouring homes following heavy rains, the government said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Admin Predicts US Trade War 'Devastating' For Canada]]></title>
 <link>https://www.barrons.com/news/trump-admin-predicts-us-trade-war-devastating-for-canada-39a7964f?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 16:18:54 -0000</pubDate>
@@ -138,17 +145,10 @@
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Trump Set For Starring Role At Washington's Debut IndyCar Race]]></title>
+<title><![CDATA[Trump Takes Starring Role At Washington's IndyCar Debut]]></title>
 <link>https://www.barrons.com/news/trump-set-for-starring-role-at-washington-s-debut-indycar-race-c160b32e?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 16:03:54 -0000</pubDate>
-<description><![CDATA[US President Donald Trump is set to take a ceremonial lap in his armored limousine and wave the green flag to launch Sunday's IndyCar race through the streets of Washington, capping celebrations of America's 250th birthday.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[VW Chief Warns Carmaker's Situation 'More Than Critical']]></title>
-<link>https://www.barrons.com/news/vw-chief-warns-carmaker-s-situation-more-than-critical-9685df7b?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 15:48:54 -0000</pubDate>
-<description><![CDATA[Volkswagen's CEO warned Sunday the company was in a "more than critical" state ahead of meetings with the car giant's staff where he will defend the company's savings plans.
+<pubDate>Sun, 23 Aug 2026 18:06:50 -0000</pubDate>
+<description><![CDATA[US President Donald Trump rode a ceremonial lap in his armored limousine and waved the green flag to start Sunday's IndyCar race through the streets of Washington, capping celebrations of America's 250th birthday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
