@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 22 Aug 2026 23:43:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 01:04:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[DR Congo Capital Wary Of Ebola Nightmare]]></title>
+<link>https://www.barrons.com/news/dr-congo-capital-wary-of-ebola-nightmare-75a60a6d?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 01:04:05 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Anthropic Market Debut Could Break SpaceX IPO Record: Media]]></title>
 <link>https://www.barrons.com/news/anthropic-market-debut-could-break-spacex-ipo-record-media-7a4aafce?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 20:17:00 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Odyssey Effect: Stars Sell Greece To A New Wave Of US Tourists]]></title>
-<link>https://www.barrons.com/news/odyssey-effect-stars-sell-greece-to-a-new-wave-of-us-tourists-e7732755?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 08:22:57 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[IndyCars Zip Among Iconic Washington Landmarks Ahead Of Freedom 250]]></title>
+<link>https://www.barrons.com/news/indycars-zip-among-iconic-washington-landmarks-ahead-of-freedom-250-367f7379?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 01:04:06 -0000</pubDate>
+<description><![CDATA[Race cars roared across Washington city streets in the shadow of iconic landmarks on Saturday as the Freedom 250 Grand Prix, created by President Donald Trump, began with practice and qualifying for Sunday's first-of-its-kind event.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Canada's Carney Stands Up To Trump, Despite Risks]]></title>
 <link>https://www.barrons.com/news/canada-s-carney-stands-up-to-trump-despite-risks-c0981ca8?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 20:17:02 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/macron-pledges-air-defence-as-13-killed-in-russia-ukraine-strikes-6c56c210?refsec=topics_afp-news</link>
 <pubDate>Sat, 22 Aug 2026 16:18:00 -0000</pubDate>
 <description><![CDATA[France on Saturday promised to deliver new interceptor missiles to Ukraine amid a surge in Russian strikes that have pushed civilian deaths in the four-and-a-half-year war to their highest since the first months of Moscow's invasion.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[DR Congo Capital Wary Of Ebola Nightmare]]></title>
-<link>https://www.barrons.com/news/dr-congo-capital-wary-of-ebola-nightmare-75a60a6d?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 16:03:00 -0000</pubDate>
-<description><![CDATA[The Ebola virus has spread across Democratic Republic of Congo at a frightening speed and one of the authorities' biggest fears is that it reaches the teeming capital of Kinshasa.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
