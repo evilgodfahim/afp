@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Aug 2026 19:44:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 20:17:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Trump Takes Starring Role At Washington's IndyCar Debut]]></title>
+<link>https://www.barrons.com/news/trump-set-for-starring-role-at-washington-s-debut-indycar-race-c160b32e?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 20:16:59 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[VW Chief Warns Carmaker's Situation 'More Than Critical']]></title>
 <link>https://www.barrons.com/news/vw-chief-warns-carmaker-s-situation-more-than-critical-9685df7b?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 18:21:49 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Macron Pledges Air Defence As 13 Killed In Russia, Ukraine Strikes]]></title>
-<link>https://www.barrons.com/news/macron-pledges-air-defence-as-13-killed-in-russia-ukraine-strikes-6c56c210?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 02:12:17 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Latest 'Spider-Man' Tops American Box Office For 4th Weekend]]></title>
+<link>https://www.barrons.com/news/latest-spider-man-tops-american-box-office-for-4th-weekend-b00cf4a5?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 20:17:00 -0000</pubDate>
+<description><![CDATA["Spider-Man: Brand New Day" is still riding high in the North American box office, topping ticket sales for the fourth consecutive weekend in cinemas, but sharply down from last week's performance.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Landfill Collapse Kills 30 In Guinea]]></title>
 <link>https://www.barrons.com/news/landfill-collapse-kills-30-in-guinea-33d78983?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 18:21:50 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/trump-admin-predicts-us-trade-war-devastating-for-canada-39a7964f?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 16:18:54 -0000</pubDate>
 <description><![CDATA[The Trump administration on Sunday warned that Canada would be "foolish" to think it could win a trade war with the United States, predicting a "devastating" impact on its northern neighbor.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Takes Starring Role At Washington's IndyCar Debut]]></title>
-<link>https://www.barrons.com/news/trump-set-for-starring-role-at-washington-s-debut-indycar-race-c160b32e?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 18:06:50 -0000</pubDate>
-<description><![CDATA[US President Donald Trump rode a ceremonial lap in his armored limousine and waved the green flag to start Sunday's IndyCar race through the streets of Washington, capping celebrations of America's 250th birthday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
