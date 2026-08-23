@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Aug 2026 11:43:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 12:30:47 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Macron Hosts Saudi's MBS For Visit Ranging From Esports To Mideast]]></title>
+<link>https://www.barrons.com/news/macron-hosts-saudi-s-mbs-for-visit-ranging-from-esports-to-mideast-c5a18640?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 12:30:46 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Blowing In The Wind, Humble Balloon Gets Green Makeover]]></title>
 <link>https://www.barrons.com/news/blowing-in-the-wind-humble-balloon-gets-green-makeover-76271158?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 04:31:58 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Swedish Police Identify 17-year-old Girl As Victim In School Sword Attack]]></title>
-<link>https://www.barrons.com/news/swedish-police-name-17-year-old-girl-as-victim-in-school-sword-attack-ea4a1366?refsec=topics_afp-news</link>
-<pubDate>Sat, 22 Aug 2026 18:22:12 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[After Wildberries, Ukraine Launches Drone Campaign On Russia's Ozon]]></title>
+<link>https://www.barrons.com/news/after-wildberries-ukraine-launches-drone-campaign-on-russia-s-ozon-15c5aecb?refsec=topics_afp-news</link>
+<pubDate>Sun, 23 Aug 2026 12:30:47 -0000</pubDate>
+<description><![CDATA[Ukraine on Sunday hit a warehouse belonging to Russian e-commerce giant Ozon for the second day running, as Kyiv vowed to expand its attacks on logistics sites.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Austrian Mountain Town Finds Niche In AI Boom]]></title>
 <link>https://www.barrons.com/news/austrian-mountain-town-finds-niche-in-ai-boom-b0ce2634?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 04:31:59 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/prince-harry-royal-misfit-making-unlikely-uk-return-459b7d84?refsec=topics_afp-news</link>
 <pubDate>Sun, 23 Aug 2026 02:42:18 -0000</pubDate>
 <description><![CDATA[Prince Harry, who relocates back to Britain shortly with his family, will open a new chapter in his ever-eventful life which once seemed improbable amid royal feuds, battles over security and lawsuits against UK tabloids.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Macron Hosts Saudi's MBS For Visit Ranging From Esports To Mideast]]></title>
-<link>https://www.barrons.com/news/macron-hosts-saudi-s-mbs-for-visit-ranging-from-esports-to-mideast-c5a18640?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 02:27:18 -0000</pubDate>
-<description><![CDATA[French President Emmanuel Macron welcomes Saudi crown prince and de facto ruler Mohammed bin Salman on Sunday for a two-day visit set to range from esports to the war in the Middle East.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
