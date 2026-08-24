@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:32:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 11:22:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Migrants, Rescue Ships Face Threats, Harassment At Sea: Aid Group]]></title>
+<link>https://www.barrons.com/news/migrants-rescue-ships-face-threats-harassment-at-sea-aid-group-530dd17f?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 11:22:29 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New Zealand Moves To Ban Social Media For Under-16s]]></title>
 <link>https://www.barrons.com/news/new-zealand-moves-to-ban-social-media-for-under-16s-ff9d82b3?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 09:41:26 -0000</pubDate>
@@ -77,9 +83,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Oil Falls As Trump Pledges Economic War On Iran]]></title>
+<title><![CDATA[Oil Falls Ahead Of US Plan For Economic War On Iran]]></title>
 <link>https://www.barrons.com/news/oil-falls-as-trump-pledges-economic-war-on-iran-a9da355c?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 07:24:06 -0000</pubDate>
+<pubDate>Mon, 24 Aug 2026 11:07:29 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Former Cricket Captains Appeal To Pakistan Over Khan Health Care]]></title>
-<link>https://www.barrons.com/news/former-cricket-captains-appeal-to-pakistan-over-khan-health-care-a85c731e?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 01:01:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Millions Of Teslas Recalled In China Over Door Handle Safety]]></title>
+<link>https://www.barrons.com/news/millions-of-teslas-recalled-in-china-over-door-handle-safety-a0fbfbab?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 11:22:30 -0000</pubDate>
+<description><![CDATA[Tesla is recalling nearly three million cars in China with interior door handles that could hamper a person's ability to exit their vehicle in an emergency, Beijing's national market watchdog said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Dutch Say Won't Participate In 'No Longer' Neutral Eurovision]]></title>
 <link>https://www.barrons.com/news/dutch-say-won-t-participate-in-no-longer-neutral-eurovision-3fa7aab2?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 09:41:27 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/new-zealand-moves-to-ban-social-media-for-under-16s-efa6b64a?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 07:54:07 -0000</pubDate>
 <description><![CDATA[New Zealand's government introduced legislation on Monday to ban under 16s from using social media, joining a number of countries seeking to keep youngsters off sites such as Instagram and TikTok.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Migrants, Rescue Ships Face Threats, Harassment At Sea: Aid Group]]></title>
-<link>https://www.barrons.com/news/migrants-rescue-ships-face-threats-harassment-at-sea-aid-group-530dd17f?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 07:39:07 -0000</pubDate>
-<description><![CDATA[A leading aid group said Monday that migrants crossing the Mediterranean and rescue ships that help them face increasing levels of threat and harassment from Libyan groups.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
