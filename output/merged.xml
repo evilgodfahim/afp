@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Aug 2026 08:42:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 09:41:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[New Zealand Moves To Ban Social Media For Under-16s]]></title>
+<link>https://www.barrons.com/news/new-zealand-moves-to-ban-social-media-for-under-16s-ff9d82b3?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 09:41:26 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[UEFA's Ceferin Tells Infantino To Go, But 'Not Interested' In Replacing Him]]></title>
 <link>https://www.barrons.com/news/uefa-s-ceferin-tells-infantino-to-go-but-not-interested-in-replacing-him-12c88ea8?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 07:54:06 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Latest 'Spider-Man' Tops American Box Office For 4th Weekend]]></title>
-<link>https://www.barrons.com/news/latest-spider-man-tops-american-box-office-for-4th-weekend-b00cf4a5?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 00:46:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Dutch Say Won't Participate In 'No Longer' Neutral Eurovision]]></title>
+<link>https://www.barrons.com/news/dutch-say-won-t-participate-in-no-longer-neutral-eurovision-3fa7aab2?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 09:41:27 -0000</pubDate>
+<description><![CDATA[The Netherlands will not participate in next year's Eurovision Song Contest, its broadcaster said Monday, saying the event can "no longer be considered neutral" given divisions over the Gaza war.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[New Zealand Moves To Ban Social Media For Under-16s]]></title>
 <link>https://www.barrons.com/news/new-zealand-moves-to-ban-social-media-for-under-16s-efa6b64a?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 07:54:07 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/migrants-rescue-ships-face-threats-harassment-at-sea-aid-group-530dd17f?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 07:39:07 -0000</pubDate>
 <description><![CDATA[A leading aid group said Monday that migrants crossing the Mediterranean and rescue ships that help them face increasing levels of threat and harassment from Libyan groups.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[New Zealand Moves To Ban Social Media For Under-16s]]></title>
-<link>https://www.barrons.com/news/new-zealand-moves-to-ban-social-media-for-under-16s-ff9d82b3?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 07:24:07 -0000</pubDate>
-<description><![CDATA[New Zealand's government will introduce legislation on Monday banning under 16s from using social media, joining a number of countries seeking to keep youngsters off sites such as Instagram and TikTok.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
