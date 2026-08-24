@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Aug 2026 01:01:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 02:42:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Syria Says Israel Talks Addressed De-escalation, Staying Out Of Israel-Turkey Tensions]]></title>
+<link>https://www.barrons.com/news/syria-says-israel-talks-addressed-de-escalation-staying-out-of-israel-turkey-tensions-627fabd0?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 02:42:28 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Former Cricket Captains Appeal To Pakistan Over Khan Health Care]]></title>
 <link>https://www.barrons.com/news/former-cricket-captains-appeal-to-pakistan-over-khan-health-care-a85c731e?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 01:01:43 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Austrian Mountain Town Finds Niche In AI Boom]]></title>
-<link>https://www.barrons.com/news/austrian-mountain-town-finds-niche-in-ai-boom-b0ce2634?refsec=topics_afp-news</link>
-<pubDate>Sun, 23 Aug 2026 16:03:53 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -127,8 +127,15 @@
 <item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
-<pubDate>Tue, 11 Aug 2026 12:51:43 -0000</pubDate>
+<pubDate>Mon, 24 Aug 2026 02:27:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Key Facts About Chinese-founded Fast-fashion Giant Shein]]></title>
+<link>https://www.barrons.com/news/key-facts-about-chinese-founded-fast-fashion-giant-shein-6be3d79f?refsec=topics_afp-news</link>
+<pubDate>Mon, 24 Aug 2026 02:42:29 -0000</pubDate>
+<description><![CDATA[Shein, the Chinese-founded retailer that harnessed social media to chart a meteoric rise in the global fast-fashion industry, will debut on the Hong Kong stock exchange next month in a long-awaited listing that values the group at close to US$27 billion.
+Delivered by PolitePaul service]]></description>
 </item>
 <item>
 <title><![CDATA[Ukraine Backers Gather As War Escalates, Air Defence Runs Low]]></title>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/tourism-boom-pushes-limits-of-athens-air-traffic-control-35d755b8?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 00:46:45 -0000</pubDate>
 <description><![CDATA[Green arrows representing tourist-laden jets pile up on the screens of the Athens air traffic controllers, a puzzle to solve at the height of tourist season.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Syria Says Israel Talks Addressed De-escalation, Staying Out Of Israel-Turkey Tensions]]></title>
-<link>https://www.barrons.com/news/syria-says-israel-talks-addressed-de-escalation-staying-out-of-israel-turkey-tensions-627fabd0?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 00:31:45 -0000</pubDate>
-<description><![CDATA[Syria said it held talks with Israel in Jordan on Sunday on de-escalation after recent Israeli strikes, and on keeping the country out of tensions between Israel and Turkey, an ally of Damascus.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
