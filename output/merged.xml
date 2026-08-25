@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Aug 2026 23:45:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 01:01:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US To Loosen Environmental Safeguards On Space Industry]]></title>
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[US Removes Syria From State Sponsor Of Terrorism List]]></title>
+<link>https://www.barrons.com/news/us-removes-syria-from-state-sponsor-of-terrorism-list-4f7da747?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 01:01:14 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[British PM Burnham Hits A Chord On Kyiv Visit]]></title>
 <link>https://www.barrons.com/news/british-pm-burnham-hits-a-chord-on-kyiv-visit-b6c38755?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 22:51:57 -0000</pubDate>
@@ -107,15 +113,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[French Poll Shows Le Pen's Biggest Challenger May Be Hard Left's Melenchon]]></title>
-<link>https://www.barrons.com/news/french-poll-shows-le-pen-s-biggest-challenger-may-be-hard-left-s-melenchon-bcc1a8e6?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 15:34:13 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Tens Of Thousands Evacuated As Fire Bears Down On US City]]></title>
+<title><![CDATA[Tens Of Thousands Flee Fire Near US City Of Reno]]></title>
 <link>https://www.barrons.com/news/tens-of-thousands-evacuated-as-fire-bears-down-on-us-city-f14af001?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 18:39:40 -0000</pubDate>
+<pubDate>Tue, 25 Aug 2026 00:46:14 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -145,10 +145,10 @@ Delivered by PolitePaul service]]></description>
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[US Removes Syria From State Sponsor Of Terrorism List]]></title>
-<link>https://www.barrons.com/news/us-removes-syria-from-state-sponsor-of-terrorism-list-4f7da747?refsec=topics_afp-news</link>
-<pubDate>Mon, 24 Aug 2026 20:57:28 -0000</pubDate>
-<description><![CDATA[The United States on Monday removed Syria from its list of state sponsors of terrorism, rescinding a decades-old designation that came with severe economic restrictions and marking another step in warming ties between the countries.
+<title><![CDATA[How The French Language Contributed To The US-Canada Trade War]]></title>
+<link>https://www.barrons.com/news/how-the-french-language-contributed-to-the-us-canada-trade-war-cd817ec5?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 01:01:15 -0000</pubDate>
+<description><![CDATA[The trade war between the United States and Canada has taken on the flavor of a culture war after the collapse of negotiations last week.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
