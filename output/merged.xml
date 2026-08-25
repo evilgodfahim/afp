@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Aug 2026 18:35:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 19:27:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Volkswagen Workers Boo Boss During Speech On Job Cuts]]></title>
+<link>https://www.barrons.com/news/volkswagen-workers-boo-boss-during-speech-on-job-cuts-193bb09b?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 19:27:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA['Shocking' Book About Putin's Private Life Wins French Literary Prize]]></title>
+<link>https://www.barrons.com/news/shocking-book-about-putin-s-private-life-wins-french-literary-prize-296882c4?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 19:12:06 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Trump Threatens To Rename Lake Ontario As 'Lake America']]></title>
 <link>https://www.barrons.com/news/trump-threatens-to-rename-lake-ontario-as-lake-america-a9e07f3e?refsec=topics_afp-news</link>
 <pubDate>Tue, 25 Aug 2026 17:27:20 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Canada Unveils Counter-tariffs Of 15-50% On US Goods]]></title>
-<link>https://www.barrons.com/news/canada-to-unveil-response-to-trump-s-steep-tariffs-cd1d67c5?refsec=topics_afp-news</link>
-<pubDate>Tue, 25 Aug 2026 16:27:20 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[West Bank Settlers Attack AFP Journalists]]></title>
-<link>https://www.barrons.com/news/west-bank-settlers-attack-afp-journalists-9f091a64?refsec=topics_afp-news</link>
-<pubDate>Tue, 25 Aug 2026 14:37:34 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -135,20 +135,6 @@
 <link>https://www.barrons.com/news/us-robotaxi-firm-waymo-plans-to-launch-in-germany-3bff4b11?refsec=topics_afp-news</link>
 <pubDate>Tue, 25 Aug 2026 18:35:41 -0000</pubDate>
 <description><![CDATA[Self-driving car company Waymo said Tuesday it will launch its robotaxis in the German city of Munich next year, marking the US group's first foray into the European Union.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Volkswagen Workers Boo Boss During Speech On Job Cuts]]></title>
-<link>https://www.barrons.com/news/volkswagen-workers-boo-boss-during-speech-on-job-cuts-193bb09b?refsec=topics_afp-news</link>
-<pubDate>Tue, 25 Aug 2026 18:20:41 -0000</pubDate>
-<description><![CDATA[The boss of German carmaker Volkswagen warned workers on Tuesday to brace for more job losses, earning boos and jeers from the crowd, as the crisis-hit company faces a drastic round of cost-cutting.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA['Shocking' Book About Putin's Private Life Wins French Literary Prize]]></title>
-<link>https://www.barrons.com/news/shocking-book-about-putin-s-private-life-wins-french-literary-prize-296882c4?refsec=topics_afp-news</link>
-<pubDate>Tue, 25 Aug 2026 16:31:09 -0000</pubDate>
-<description><![CDATA[A taboo-breaking book about Vladimir Putin's rise to power and private life, written by two exiled Russian journalists, won a newly established French literary prize on Tuesday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
