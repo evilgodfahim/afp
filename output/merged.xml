@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 25 Aug 2026 11:33:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 12:38:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -129,5 +129,26 @@
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 02:27:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[West Bank Settlers Attack AFP Journalists]]></title>
+<link>https://www.barrons.com/news/west-bank-settlers-attack-afp-journalists-9f091a64?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 12:38:45 -0000</pubDate>
+<description><![CDATA[Israeli settlers in the West Bank on Tuesday attacked AFP journalists reporting on tension with Palestinians, in violence that left at least five people injured, the reporters and medics said.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA['Wartime Situation': Tornado Ravages French Village]]></title>
+<link>https://www.barrons.com/news/wartime-situation-tornado-ravages-french-village-9a5f7a79?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 12:23:45 -0000</pubDate>
+<description><![CDATA[A tornado of rare intensity devastated a village in southern France, causing widespread destruction and leaving residents in shock on Tuesday, with the mayor describing the aftermath as resembling "wartime".
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Germany's Merz Addresses Critics With Climate Action Pledge]]></title>
+<link>https://www.barrons.com/news/germany-s-merz-addresses-critics-with-climate-action-pledge-4dc67d84?refsec=topics_afp-news</link>
+<pubDate>Tue, 25 Aug 2026 12:08:45 -0000</pubDate>
+<description><![CDATA[German Chancellor Friedrich Merz on Tuesday sought to assuage critics who accuse his government of doing too little against climate change after a brutal summer of heatwaves and drought.
+Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
