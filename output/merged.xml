@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Aug 2026 11:36:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 12:42:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[French Flight Attendant Wins Landmark Breast Cancer Ruling]]></title>
+<link>https://www.barrons.com/news/french-flight-attendant-wins-landmark-breast-cancer-ruling-7f1a47a3?refsec=topics_afp-news</link>
+<pubDate>Wed, 26 Aug 2026 12:42:00 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Meta And US States Discuss Settlement In Landmark Social Media Trial: Report]]></title>
 <link>https://www.barrons.com/news/meta-and-us-states-discuss-settlement-in-landmark-social-media-trial-report-d808815d?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 10:59:38 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Coordinated Attacks: Thailand's Southern Insurgency Flares]]></title>
-<link>https://www.barrons.com/news/coordinated-attacks-thailand-s-southern-insurgency-flares-7d86b922?refsec=topics_afp-news</link>
-<pubDate>Wed, 26 Aug 2026 06:24:16 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Too Hot To Incubate: Nile Crocodiles Hatch On Their Own In French Reserve]]></title>
+<link>https://www.barrons.com/news/too-hot-to-incubate-nile-crocodiles-hatch-on-their-own-in-french-reserve-29d50069?refsec=topics_afp-news</link>
+<pubDate>Wed, 26 Aug 2026 12:42:01 -0000</pubDate>
+<description><![CDATA[France's heatwaves have produced an unusual outcome at a wildlife park, where 10 Nile crocodiles hatched without human assistance for the first time, the director of the  reserve said on Wednesday.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal Floods At China Border Kill 8, Cause 'Major Casualties' In Tibet]]></title>
 <link>https://www.barrons.com/news/nepal-floods-at-china-border-kill-8-cause-major-casualties-in-tibet-80b4802d?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 10:59:39 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/france-eases-cow-diets-as-cheesemakers-sweat-3376613c?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 09:10:00 -0000</pubDate>
 <description><![CDATA[Widespread drought and record-breaking heatwaves have forced France to relax some of its famously strict rules on cheese production, with authorities announcing Wednesday special measures for abondance, beaufort and comte.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[French Flight Attendant Wins Landmark Breast Cancer Ruling]]></title>
-<link>https://www.barrons.com/news/french-flight-attendant-wins-landmark-breast-cancer-ruling-7f1a47a3?refsec=topics_afp-news</link>
-<pubDate>Wed, 26 Aug 2026 08:55:00 -0000</pubDate>
-<description><![CDATA[A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country's aviation industry, her lawyer and a trade union said.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
