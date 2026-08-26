@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 26 Aug 2026 10:04:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 10:59:39 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Meta And US States Discuss Settlement In Landmark Social Media Trial: Report]]></title>
+<link>https://www.barrons.com/news/meta-and-us-states-discuss-settlement-in-landmark-social-media-trial-report-d808815d?refsec=topics_afp-news</link>
+<pubDate>Wed, 26 Aug 2026 10:59:38 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA['Black Smoke' Chokes Pakistan Maternity Ward As Hospital Fire Kills 14 Infants]]></title>
 <link>https://www.barrons.com/news/pakistan-hospital-fire-kills-14-infants-9e9a1567?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 09:09:59 -0000</pubDate>
@@ -107,12 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Stocks Edge Higher As Oil Drops On Fresh Mideast Hopes]]></title>
-<link>https://www.barrons.com/news/stocks-edge-higher-as-oil-drops-on-fresh-mideast-hopes-1be4dde7?refsec=topics_afp-news</link>
-<pubDate>Wed, 26 Aug 2026 04:34:45 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -131,6 +131,13 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Nepal Floods At China Border Kill 8, Cause 'Major Casualties' In Tibet]]></title>
+<link>https://www.barrons.com/news/nepal-floods-at-china-border-kill-8-cause-major-casualties-in-tibet-80b4802d?refsec=topics_afp-news</link>
+<pubDate>Wed, 26 Aug 2026 10:59:39 -0000</pubDate>
+<description><![CDATA[Massive flooding killed eight people in Nepal on Wednesday as Chinese state media reported "major casualties" from a mudslide at a Tibet trade hub on China's side of the nations' shared border.
+Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[France Eases Cow Diets As Cheesemakers Sweat]]></title>
 <link>https://www.barrons.com/news/france-eases-cow-diets-as-cheesemakers-sweat-3376613c?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 09:10:00 -0000</pubDate>
@@ -142,13 +149,6 @@ Delivered by PolitePaul service]]></description>
 <link>https://www.barrons.com/news/french-flight-attendant-wins-landmark-breast-cancer-ruling-7f1a47a3?refsec=topics_afp-news</link>
 <pubDate>Wed, 26 Aug 2026 08:55:00 -0000</pubDate>
 <description><![CDATA[A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country's aviation industry, her lawyer and a trade union said.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Meta And US States Discuss Settlement In Landmark Social Media Trial: Report]]></title>
-<link>https://www.barrons.com/news/meta-and-us-states-discuss-settlement-in-landmark-social-media-trial-report-d808815d?refsec=topics_afp-news</link>
-<pubDate>Wed, 26 Aug 2026 08:40:00 -0000</pubDate>
-<description><![CDATA[Social media giant Meta has been in discussions with multiple US states to settle a major child privacy and consumer protection case out of court, Bloomberg News reported on Tuesday.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
