@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Aug 2026 13:54:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 17:29:02 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,18 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Soldiers' Mutiny Rocks Niger Capital, As Junta Claims To Be Back In Control]]></title>
+<link>https://www.barrons.com/news/heavy-gunfire-rocks-niger-capital-state-tv-signal-cut-721a4b25?refsec=topics_afp-news</link>
+<pubDate>Sat, 29 Aug 2026 17:29:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[The Missing In Nepal-Tibet Flash Floods]]></title>
+<link>https://www.barrons.com/news/the-missing-in-nepal-tibet-flash-floods-61b78504?refsec=topics_afp-news</link>
+<pubDate>Sat, 29 Aug 2026 17:14:01 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Rescuers Claw Through Mud As Missing Toll From Nepal, China Flood Nears 3,000]]></title>
 <link>https://www.barrons.com/news/number-of-missing-in-nepal-china-floods-soars-past-2-400-57c32983?refsec=topics_afp-news</link>
 <pubDate>Sat, 29 Aug 2026 13:54:37 -0000</pubDate>
@@ -101,18 +113,6 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Driven By Distraction? Trump Steps Up Stunts As US Midterms Loom]]></title>
-<link>https://www.barrons.com/news/driven-by-distraction-trump-steps-up-stunts-as-us-midterms-loom-a74f9f0a?refsec=topics_afp-news</link>
-<pubDate>Sat, 29 Aug 2026 00:39:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Trump Announces New US 'Space Academy']]></title>
-<link>https://www.barrons.com/news/trump-announces-new-us-space-academy-f171ff95?refsec=topics_afp-news</link>
-<pubDate>Sat, 29 Aug 2026 00:24:43 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
 <title><![CDATA[UN Laments 'Unacceptable' Toll Of 350 Aid Workers Killed In 2025]]></title>
 <link>https://www.barrons.com/news/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025-2205d043?refsec=topics_afp-news</link>
 <pubDate>Mon, 17 Aug 2026 16:21:24 -0000</pubDate>
@@ -129,26 +129,5 @@
 <link>https://www.barrons.com/news/us-to-loosen-environmental-safeguards-on-space-industry-8e40e976?refsec=topics_afp-news</link>
 <pubDate>Mon, 24 Aug 2026 02:27:28 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal-China Floods Disaster: Latest Developments]]></title>
-<link>https://www.barrons.com/news/nepal-china-floods-disaster-latest-developments-dcfff9bb?refsec=topics_afp-news</link>
-<pubDate>Sat, 29 Aug 2026 13:54:38 -0000</pubDate>
-<description><![CDATA[The number of people missing in the catastrophic flood that sliced through the border area between Nepal and Tibet neared 3,000 on Saturday, as rescuers scoured deep, leg-sucking mud for survivors.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Clashes Rock Niger Capital, Junta Says Back In Control]]></title>
-<link>https://www.barrons.com/news/heavy-gunfire-rocks-niger-capital-state-tv-signal-cut-721a4b25?refsec=topics_afp-news</link>
-<pubDate>Sat, 29 Aug 2026 13:39:38 -0000</pubDate>
-<description><![CDATA[Niger's ruling junta said Saturday it "gradually took back control" after mutinying soldiers attacked key sites around the capital including the presidential palace, after the city was rocked by hours of heavy gunfire.
-Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The Missing In Nepal-Tibet Flash Floods]]></title>
-<link>https://www.barrons.com/news/the-missing-in-nepal-tibet-flash-floods-61b78504?refsec=topics_afp-news</link>
-<pubDate>Sat, 29 Aug 2026 08:03:32 -0000</pubDate>
-<description><![CDATA[Nearly 3,000 people were still missing Saturday and 633 confirmed dead after flash floods and landslides hit the Nepal-Tibet border.
-Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
