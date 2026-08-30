@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 30 Aug 2026 12:05:48 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 16:53:36 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia-linked Refinery Exposes Ireland's Ukraine Dilemma]]></title>
 <link>https://www.barrons.com/news/russia-linked-refinery-exposes-ireland-s-ukraine-dilemma-e6d6b63f?refsec=topics_afp-news</link>
@@ -59,6 +59,36 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
+<title><![CDATA[Manhunt In Switzerland After Fatal Rave Shooting]]></title>
+<link>https://www.barrons.com/news/manhunt-in-switzerland-after-fatal-rave-shooting-4896a0c7?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:53:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Vietnamese Coffee Farmers Ride China's Durian Wave]]></title>
+<link>https://www.barrons.com/news/vietnamese-coffee-farmers-ride-china-s-durian-wave-f04cfb4f?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:38:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Nepal Rescuers Advance Towards Trapped Tunnel Workers]]></title>
+<link>https://www.barrons.com/news/nepal-rescuers-drill-through-debris-towards-trapped-tunnel-workers-37e7df2a?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:23:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Rescuers Dig Into Tunnel As Missing Toll From Nepal, China Flood Tops 3,000]]></title>
+<link>https://www.barrons.com/news/rescuers-dig-into-tunnel-as-missing-toll-from-nepal-china-flood-nears-3-000-d522e35d?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:08:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
+<title><![CDATA[Nepal Flood Survivors Return To Ruins To Salvage Memories]]></title>
+<link>https://www.barrons.com/news/nepal-flood-survivors-return-to-ruins-to-salvage-memories-03c8a98e?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 15:53:35 -0000</pubDate>
+<description><![CDATA[Delivered by PolitePaul service]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal-China Floods Disaster: Latest Developments]]></title>
 <link>https://www.barrons.com/news/nepal-china-floods-disaster-latest-developments-745e8d90?refsec=topics_afp-news</link>
 <pubDate>Sun, 30 Aug 2026 06:10:49 -0000</pubDate>
@@ -77,39 +107,9 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[NASA's Roman Telescope Set To Launch On Cosmic Mapping Mission]]></title>
+<title><![CDATA[NASA Launches Roman Telescope On Cosmic Mapping Mission]]></title>
 <link>https://www.barrons.com/news/nasa-s-roman-telescope-set-to-launch-on-cosmic-mapping-mission-01af20eb?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 05:25:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Data Center Backlash Scrambles US Midterm Politics]]></title>
-<link>https://www.barrons.com/news/data-center-backlash-scrambles-us-midterm-politics-c353c651?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 05:10:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[Venezuela Says Retains 'Sovereignty' In US Oil Deal]]></title>
-<link>https://www.barrons.com/news/venezuelans-view-us-oil-deal-with-doubt-hope-8b860b0f?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 04:55:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[The Missing In Nepal-Tibet Flash Floods]]></title>
-<link>https://www.barrons.com/news/the-missing-in-nepal-tibet-flash-floods-0a6290aa?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 04:40:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[US Deports Right-wing Provocateur Milo Yiannopoulos]]></title>
-<link>https://www.barrons.com/news/us-deports-right-wing-provocateur-milo-yiannopoulos-788c07c9?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 04:25:49 -0000</pubDate>
-<description><![CDATA[Delivered by PolitePaul service]]></description>
-</item>
-<item>
-<title><![CDATA[In London, Son's Agonising Wait For News Of Parents Missing In Nepal-Tibet Floods]]></title>
-<link>https://www.barrons.com/news/in-london-son-s-agonising-wait-for-news-of-parents-missing-in-nepal-tibet-floods-5dd090f3?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 04:10:49 -0000</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:38:35 -0000</pubDate>
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
@@ -131,24 +131,24 @@
 <description><![CDATA[Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Vietnamese Coffee Farmers Ride China's Durian Wave]]></title>
-<link>https://www.barrons.com/news/vietnamese-coffee-farmers-ride-china-s-durian-wave-f04cfb4f?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 06:10:52 -0000</pubDate>
-<description><![CDATA[Vietnam's Central Highlands produces around one sixth of the world's coffee, but farmers are switching their traditional crop for durian to cash in on surging Chinese demand for the pungent "king of fruits".
+<title><![CDATA[Zambia's Opposition Leader Charged With Treason]]></title>
+<link>https://www.barrons.com/news/zambia-s-opposition-leader-charged-with-treason-87b9a222?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:53:36 -0000</pubDate>
+<description><![CDATA[Zambia's detained opposition leader Brian Mundubile has been charged with treason, his lawyer said on Sunday, deepening concerns over the government's treatment of political dissent.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Rescuers Dig Into Tunnel As Missing Toll From Nepal, China Flood Tops 3,000]]></title>
-<link>https://www.barrons.com/news/rescuers-dig-into-tunnel-as-missing-toll-from-nepal-china-flood-nears-3-000-d522e35d?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 05:55:52 -0000</pubDate>
-<description><![CDATA[Rescuers in Nepal and China battled Sunday through leg-sucking mud and the threat of rising rivers and a newly formed lake to search for thousands missing after a deadly wall of water and debris swept through the Himalayas, engulfing entire villages.
+<title><![CDATA[Niamey Back To Normal After Soldier Mutiny]]></title>
+<link>https://www.barrons.com/news/niamey-back-to-normal-after-soldier-mutiny-044c5beb?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:38:36 -0000</pubDate>
+<description><![CDATA[Life returned to normal in Niger's capital, Niamey, on Sunday, after the military regime and its Russian paramilitary partners put down a mutiny by soldiers.
 Delivered by PolitePaul service]]></description>
 </item>
 <item>
-<title><![CDATA[Nepal Flood Survivors Return To Ruins To Salvage Memories]]></title>
-<link>https://www.barrons.com/news/nepal-flood-survivors-return-to-ruins-to-salvage-memories-03c8a98e?refsec=topics_afp-news</link>
-<pubDate>Sun, 30 Aug 2026 05:40:52 -0000</pubDate>
-<description><![CDATA[Days after a wall of water and debris ripped through Nepal, Shanti Lamichhane sat on a fruit crate in the dirt where her village once stood, staring at what remained of her home.
+<title><![CDATA[Grisly Search For Missing As Nepal Morgues Overflow, Burials Begin]]></title>
+<link>https://www.barrons.com/news/grisly-search-for-missing-as-nepal-morgues-overflow-burials-begin-47ea7ce6?refsec=topics_afp-news</link>
+<pubDate>Sun, 30 Aug 2026 16:23:36 -0000</pubDate>
+<description><![CDATA[Distraught families in Nepal watched grisly images of mangled corpses on a screen on Sunday, seeking to identify relatives as overflowing morgues forced authorities to begin burying flood victims.
 Delivered by PolitePaul service]]></description>
 </item>
 </channel></rss>
